@@ -75,6 +75,10 @@ body img.cake-image,.floral-hero #hero-image.cake-image{object-fit:contain!impor
 #product-form .cake-guests input{box-sizing:border-box;display:block;width:100%;height:46px;margin-top:6px;padding:10px 12px;border:1px solid var(--line);background:#fffaf4;color:var(--ink);font:400 16px/1.5 var(--body)}
 .cake-size-note{margin:8px 0 20px;font:400 11px/1.6 var(--body);color:var(--muted)}
 .tier-toggle{font-size:20px}
+.choice-toggle,.tier-toggle{transition:transform 320ms cubic-bezier(.22,1,.36,1)}
+.cake-choice[data-motion-open=false]>summary .choice-toggle,.tier-row[data-motion-open=false]>summary .tier-toggle{transform:rotate(0)}
+.product-information{overflow-anchor:none}
+@media(prefers-reduced-motion:reduce){.choice-toggle,.tier-toggle{transition:none}}
 .tier-row[open] .tier-toggle{transform:rotate(45deg)}
 .tier-next{display:block;width:100%;min-height:44px;border:1px solid var(--wine);border-radius:4px;padding:10px;font:500 13px/1.5 var(--body);font-style:normal;color:var(--wine)}
 .collection-showcase-heading{display:grid;grid-template-columns:1fr 1fr;align-items:end;gap:60px;margin-bottom:38px}

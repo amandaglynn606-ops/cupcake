@@ -9,7 +9,6 @@ if(stored)for(const [key,value]of Object.entries(stored)){const field=form.eleme
 let quote,request=0;
 function value(){return {...Object.fromEntries(new FormData(form)),leadTimeAccepted:form.elements.leadTimeAccepted.checked};}
 function sync(){
- $('#gift-message-count').textContent=form.elements.giftMessage.value.length;
  const pickup=form.elements.fulfilment.value==='pickup';
  form.elements.emirate.closest('label').hidden=pickup;
  $('[data-pickup-time]').hidden=!pickup;$('[data-pickup-time]').disabled=!pickup;

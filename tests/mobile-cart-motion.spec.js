@@ -14,8 +14,8 @@ test('Add to quote opens the touch cart from the right and all dismissals slide 
   const add=page.locator('.product-card').first().getByRole('link',{name:'Add to quote'});
   await add.click();const cart=page.locator('#bag-drawer');await expect(cart).toBeVisible();
   const opening=await page.evaluate(()=>window.cartMotion);
-  expect(opening.frames).toEqual([{transform:'translateX(100%)'},{transform:'none'}]);
-  expect(opening.options.duration).toBe(320);
+  expect(opening.frames.map(frame=>frame.transform)).toEqual(['translateX(100%)','none']);
+  expect(opening.options.duration).toBe(340);
   await expect(cart.locator('.cart-item')).toHaveCount(1);
   for(const close of ['button','escape','backdrop']){
    if(close!=='button'){await add.click();await expect(cart).toBeVisible();}

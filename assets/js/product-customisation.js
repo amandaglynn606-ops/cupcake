@@ -1,4 +1,5 @@
 import {showTier} from './tier-configurator.js';
+import {setDisclosure,disclosureOpen} from './disclosure-motion.js';
 const form=document.getElementById('product-form');
 const sections=[...form.querySelectorAll('[data-choice]')];
 export function refreshChoices(){
@@ -15,15 +16,15 @@ export function refreshChoices(){
  const missing=rows.length-complete.length;
  document.getElementById('choice-progress').textContent=allergens?.value==='decline'?'Please contact us to discuss your requirements.':missing?'Choose flavours for '+missing+' remaining '+(missing===1?'tier.':'tiers.'):colouring&&(!colouring.value||allergens.value!=='accept')?'Confirm colour and allergens to continue.':'Your choices are ready. Final details are confirmed in your quotation.';
 }
-function openSection(section,focus=false){
- sections.forEach(s=>s.open=s===section);
- if(focus)section.querySelector('summary').focus();
+function openSection(section,focus=false,immediate=false){
+ sections.forEach(s=>setDisclosure(s,s===section,{immediate}));
+ if(focus)section.querySelector('summary').focus({preventScroll:true});
 }
 export function validateChoices(container=form){
  const invalid=[...container.querySelectorAll('input,select,textarea')].find(el=>!el.disabled&&!el.validity.valid);
  if(!invalid)return true;
- const section=invalid.closest('[data-choice]');if(section)openSection(section);
- const tier=invalid.closest('[data-tier-row]');if(tier)showTier(Number(tier.dataset.tierRow));
+ const section=invalid.closest('[data-choice]');if(section)openSection(section,false,true);
+ const tier=invalid.closest('[data-tier-row]');if(tier)showTier(Number(tier.dataset.tierRow),false,true);
  invalid.reportValidity();return false;
 }
 export function initChoices(){
@@ -35,8 +36,9 @@ export function initChoices(){
   refreshChoices();
   openSection(form.querySelector('[data-choice="details"]'),true);
  });
- sections.forEach(section=>section.querySelector('summary').addEventListener('click',()=>{
-  if(!section.open)sections.filter(s=>s!==section).forEach(s=>s.open=false);
+ sections.forEach(section=>section.querySelector('summary').addEventListener('click',event=>{
+  event.preventDefault();const expanded=!disclosureOpen(section);
+  sections.forEach(other=>setDisclosure(other,other===section&&expanded));
  }));
  form.addEventListener('click',event=>{
   const next=event.target.closest('[data-choice-next],[data-choice-done]');if(!next)return;
@@ -44,7 +46,7 @@ export function initChoices(){
   if(section.querySelector('[name="allergens"]')?.value==='decline')return;
   refreshChoices();
   const target=sections.slice(sections.indexOf(section)+1).find(s=>!s.hidden);
-  if(target)openSection(target,true);else{section.open=false;document.getElementById('add-to-cart').focus();}
+  if(target)openSection(target,true);else{setDisclosure(section,false);document.getElementById('add-to-cart').focus({preventScroll:true});}
  });
  form.addEventListener('input',refreshChoices);form.addEventListener('change',refreshChoices);
  refreshChoices();

@@ -57,6 +57,10 @@ Multi-tier product pages allow edible cake or display (dummy) tiers, plus a spon
 
 Each tier is a collapsible panel with a saved flavour summary and a next-tier button. Optional personal touches and required colour/allergen choices have separate collapsible sections. Invalid submissions reveal the missing field. The three sponge and fourteen cream options come directly from the original imported wedding menu (product 8028660433121); the browser and server share these options. Reviewed public title and description corrections are in `data/product-copy.json`, preserving the imported archive and product URLs.
 
+Tier panels, product sections, FAQs, filters, navigation and mobile footer panels use measured, reversible transitions. Dialogs animate on both desktop and touch devices. Reduced-motion preferences switch these interactions to immediate changes; validation reveals missing fields immediately. Desktop product dropdown and weight values use 12px text below 13px labels.
+
+Cart actions are Submit (continue to checkout) and Review your cart. Gift-message and sender-display choices have been removed, including from stored cart details and WhatsApp messages. Checkout collects name, required email and phone, plus delivery or pickup details. Preferred time retains validation without a visible asterisk.
+
 The homepage collections section uses six cards with category descriptions. Collection and product images enlarge gently on pointer hover, with reduced-motion support. Tier labels and selection controls use upright Manrope.
 
 Homepage, contact and bespoke pages share `assets/css/maison-pages.css` for coordinated styling; homepage sections alternate beige ivory and cream, with burgundy accents. The homepage has coordinated hero, wedding, collections, luxury, bespoke and process sections. Both cake galleries advance every 5.6 seconds while visible; hover, focus, manual navigation, Escape, hidden tabs and reduced-motion preferences stop automatic movement. Contact and bespoke forms use numbered fieldsets, help links and responsive layouts, retaining server validation, reference uploads and downloadable enquiry records.

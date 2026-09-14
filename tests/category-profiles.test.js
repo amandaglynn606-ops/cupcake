@@ -20,11 +20,13 @@ test('every collection has relevant facets and each feature filters its own prod
  assert.deepEqual(ctx.query('ribbon-cakes',new URLSearchParams('category=wedding-cakes')).selectedCategories,[]);
  assert.equal(ctx.byId.get('8028660203745').image,require('../lib/cake-images').replaceCakeImage(catalog.products.find(p=>p.id==='8028660203745')).image);assert.equal(ctx.byId.get('8028660203745').imageReference,undefined);
 });
-test('cart gift and scheduling fields persist and invalid preparation choices are rejected',()=>{
+test('cart scheduling persists, legacy gift fields are dropped and invalid dates are rejected',()=>{
  const p=catalog.products.find(p=>p.kind==='cake'&&p.available),v=p.variants.find(v=>v.available);
  const input={items:[{productId:p.id,variantId:v.id,quantity:1,personalisation:{colouring:'natural',allergens:'accept'}}],customer:{name:'Test',phone:'+971500000000',date:'2099-01-01',address:'Dubai'},consent:true,cartDetails:{giftMessage:'Congratulations!',senderDisplay:'anonymous',instructions:'Call on arrival',fulfilment:'delivery',date:'2099-01-01',time:'10am-7pm',sameDay:'no',leadTimeAccepted:true}};
- assert.equal(createOrder(input,catalog).cartDetails.giftMessage,'Congratulations!');
- for(const override of [{giftMessage:''},{senderDisplay:'invalid'},{leadTimeAccepted:false},{sameDay:'request'},{time:'10am-10pm'}])assert.throws(()=>createOrder({...input,cartDetails:{...input.cartDetails,...override}},catalog),OrderError);
+ assert.equal(createOrder(input,catalog).cartDetails.giftMessage,undefined);
+ assert.equal(createOrder(input,catalog).cartDetails.senderDisplay,undefined);
+ assert.equal(createOrder(input,catalog).cartDetails.instructions,'Call on arrival');
+ for(const override of [{leadTimeAccepted:false},{sameDay:'request'},{time:'10am-10pm'}])assert.throws(()=>createOrder({...input,cartDetails:{...input.cartDetails,...override}},catalog),OrderError);
  const pickup=createOrder({...input,customer:{...input.customer,address:''},cartDetails:{...input.cartDetails,fulfilment:'pickup',time:'10am-10pm'}},catalog);
  assert.equal(pickup.customer.address,'');assert.equal(pickup.cartDetails.fulfilment,'pickup');
 });

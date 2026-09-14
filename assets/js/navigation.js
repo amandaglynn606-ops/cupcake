@@ -1,3 +1,4 @@
+import {setDisclosure,setPanelVisible} from './disclosure-motion.js';
 const menu=document.querySelector('.zavi-header .nav-dropdown');
 const trigger=document.querySelector('[data-open="mobile-navigation"]');
 const drawer=document.querySelector('#mobile-navigation');
@@ -8,30 +9,16 @@ function resetFooter(){
   const panel=document.getElementById(button.getAttribute('aria-controls'));
   button.disabled=!phone.matches;
   button.setAttribute('aria-expanded',String(!phone.matches));
-  panel.hidden=phone.matches;
+  setPanelVisible(panel,!phone.matches,{immediate:true});
  }
 }
 for(const button of footerToggles)button.addEventListener('click',()=>{
  const panel=document.getElementById(button.getAttribute('aria-controls'));
- panel.hidden=!panel.hidden;button.setAttribute('aria-expanded',String(!panel.hidden));
+ const expanded=button.getAttribute('aria-expanded')!=='true';
+ setPanelVisible(panel,expanded);button.setAttribute('aria-expanded',String(expanded));
 });
 phone.addEventListener('change',resetFooter);resetFooter();
 if(trigger&&drawer){
- const group=drawer.querySelector('.mobile-cake-menu'),summary=group?.querySelector('summary');
- let expansion=null;
- summary?.addEventListener('click',event=>{
-  if(matchMedia('(prefers-reduced-motion: reduce)').matches||!group.animate)return;
-  event.preventDefault();
-  const expanded=!(expansion?expansion.expanded:group.open),from=group.getBoundingClientRect().height;
-  expansion?.animation.cancel();group.open=true;
-  const to=expanded?group.scrollHeight:summary.getBoundingClientRect().height;
-  group.style.overflow='hidden';
-  const animation=group.animate([{height:from+'px'},{height:to+'px'}],{duration:180,easing:'cubic-bezier(.2,.7,.2,1)'});
-  const current={animation,expanded};expansion=current;
-  animation.finished.then(()=>{if(expansion===current)group.open=expanded;}).catch(()=>{}).finally(()=>{
-   if(expansion===current){expansion=null;group.style.overflow='';}
-  });
- });
  trigger.setAttribute('aria-controls',drawer.id);
  trigger.setAttribute('aria-expanded','false');
  let scrollPosition=null;
@@ -52,7 +39,7 @@ if(trigger&&drawer){
  matchMedia('(min-width:1101px)').addEventListener('change',event=>{if(event.matches&&drawer.open)drawer.close();});
 }
 if(menu){
- menu.addEventListener('focusout',()=>setTimeout(()=>{if(!menu.contains(document.activeElement))menu.open=false;},0));
- document.addEventListener('keydown',event=>{if(event.key==='Escape'&&menu.open){menu.open=false;menu.querySelector('summary').focus();}},true);
- matchMedia('(max-width:1100px)').addEventListener('change',event=>{if(event.matches)menu.open=false;});
+ menu.addEventListener('focusout',()=>setTimeout(()=>{if(!menu.contains(document.activeElement))setDisclosure(menu,false);},0));
+ document.addEventListener('keydown',event=>{if(event.key==='Escape'&&menu.open){setDisclosure(menu,false);menu.querySelector('summary').focus({preventScroll:true});}},true);
+ matchMedia('(max-width:1100px)').addEventListener('change',event=>{if(event.matches)setDisclosure(menu,false,{immediate:true});});
 }
