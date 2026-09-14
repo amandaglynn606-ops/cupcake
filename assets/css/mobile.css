@@ -51,18 +51,21 @@
  .maison-home .wedding-photo{border:0;border-radius:0}
  .maison-home .bespoke-photo{display:flex;flex-direction:column}
  .maison-home .bespoke-image-note{position:static;padding:14px 16px;text-align:center}
- .collection-grid,.product-grid:not(.carousel-track){gap:24px 12px;align-items:start}
+ .collection-grid,.product-grid:not(.carousel-track){gap:24px 12px;align-items:stretch}
+ /* Matching catalogue frames and caption slots keep every row aligned. */
+ body .product-card .product-image-link{aspect-ratio:4/5!important;overflow:hidden}
+ body .product-card .product-image-link>img.cake-image{width:100%;height:100%!important;aspect-ratio:auto!important;object-fit:cover;object-position:center;padding:0}
  .product-card{min-width:0}
- body .product-card .product-caption h3{font-size:18px;line-height:1.35;display:block;overflow:visible;min-height:0;-webkit-line-clamp:unset;overflow-wrap:break-word}
- .product-caption{padding:14px 0 0}
- .product-caption .card-collection{font-size:9px;line-height:1.5;overflow-wrap:break-word}
- .product-caption .card-price{font-size:14px;margin-bottom:14px}
+ body .product-card .product-caption h3{font-size:15px;line-height:1.4;display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:3;overflow:hidden;height:4.2em;min-height:4.2em;margin:0 0 10px;overflow-wrap:break-word}
+ .product-caption{padding:12px 0 0}
+ .product-caption .card-collection{font-size:9px;line-height:1.5;height:3em;margin:0 0 6px;overflow-wrap:break-word}
+ .product-caption .card-price{font-size:13px;line-height:1.5;margin:0 0 12px;padding:0}
  .product-card .card-actions{display:flex;flex-direction:column;align-items:stretch;gap:6px;padding-top:10px;margin-top:auto}
  .product-card .card-actions>a{display:flex;align-items:center;justify-content:center;min-height:44px;width:100%;margin:0;font:500 12px/1.4 var(--body);white-space:normal;text-align:center}
  .product-card .card-quote{background:var(--wine);border:1px solid var(--wine);color:var(--paper);padding:10px 8px;border-radius:3px}
  .product-card .card-details{padding:8px;text-decoration:underline;text-underline-offset:4px}
  .product-card .save-button{width:40px;height:40px;top:8px;right:8px}
- .maison-home .carousel-track.product-grid{grid-auto-columns:82%;gap:16px;align-items:start}
+ .maison-home .carousel-track.product-grid{grid-auto-columns:82%;gap:16px;align-items:stretch}
  .maison-home .carousel-track .product-caption{padding:16px}
  .maison-home .carousel-track .card-actions{flex-direction:row}
  .maison-home .carousel-controls button{width:44px;height:44px}
@@ -87,9 +90,30 @@
  #product-form .product-buy-row{padding-bottom:max(12px,env(safe-area-inset-bottom))}
  .enquiry-page .form-grid,.checkout-page .form-grid{grid-template-columns:minmax(0,1fr)}
  main :is(input:not([type=checkbox]):not([type=radio]),select,textarea){font-size:16px}
- .shop-toolbar .sort-label{font-size:0;gap:0}
- .shop-toolbar .sort-label select{font-size:14px;height:44px}
- .shop-toolbar{gap:12px}
+ .shop-toolbar{grid-template-columns:auto auto;justify-content:space-between;gap:4px 12px;padding-bottom:12px;margin-bottom:18px}
+ .shop-toolbar .mobile-filter-button{height:44px;padding:8px 0;border:0;font-size:13px;gap:7px}
+ .shop-toolbar .mobile-filter-button svg{width:16px;height:16px}
+ .shop-toolbar .sort-label{font-size:0;gap:0;width:154px}
+ .shop-toolbar .sort-label select{font-size:16px;height:44px;padding:8px 0 8px 6px;border:0;width:100%;text-align:right}
+ .shop-toolbar .results-count{font-size:11px;color:var(--muted)}
+ html.mobile-filters-open{overflow:hidden}
+ html.mobile-filters-open body{position:fixed;width:100%;overflow:hidden}
+ #mobile-filters{position:fixed;inset:0 auto 0 0;margin:0;width:min(360px,calc(100vw - 32px));max-width:none;height:100dvh;max-height:none;padding:0;border:0;background:var(--ivory);color:var(--ink);overflow:hidden}
+ #mobile-filters[open]{display:flex;flex-direction:column;pointer-events:auto}
+ #mobile-filters::backdrop{background:#27151b80;backdrop-filter:none;pointer-events:auto}
+ #mobile-filters .filter-panel-head{display:flex;align-items:center;justify-content:space-between;flex:none;padding:12px 16px;border-bottom:1px solid var(--line)}
+ #mobile-filters .filter-panel-head h2{margin:0;font:500 18px/1.5 var(--body);letter-spacing:0}
+ #mobile-filters .filter-panel-head button{display:grid;place-items:center;width:44px;height:44px;padding:10px}
+ #mobile-filters .filter-sidebar{display:block;flex:1;min-height:0;width:100%;padding:16px;margin:0;background:transparent;overflow-y:auto;overscroll-behavior:contain;-webkit-overflow-scrolling:touch}
+ #mobile-filters .filter-heading{justify-content:flex-end;margin-bottom:16px}
+ #mobile-filters .filter-heading h2{display:none}
+ #mobile-filters .filter-heading a{display:flex;align-items:center;min-height:44px;font-size:13px}
+ #mobile-filters .filter-options{display:block;max-height:none}
+ #mobile-filters .filter-option{min-height:44px;font-size:13px;padding-block:8px}
+ #mobile-filters .filter-group>summary{min-height:44px;font-size:14px}
+ #mobile-filters input:not([type=checkbox]){font-size:16px;min-width:0}
+ #mobile-filters .filter-panel-foot{flex:none;padding:12px 16px max(16px,env(safe-area-inset-bottom));border-top:1px solid var(--line);background:var(--ivory)}
+ #mobile-filters .filter-panel-foot .button{width:100%;min-height:44px;padding:12px;font-size:12px;letter-spacing:.04em;text-transform:none}
  .enquiry-page .enquiry-help-links a{overflow-wrap:anywhere}
  .site-footer .footer-main{display:block;padding-block:36px 0}
  .site-footer .footer-brand{display:block;text-align:center;padding-bottom:28px}

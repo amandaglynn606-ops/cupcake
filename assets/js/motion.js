@@ -26,7 +26,7 @@ document.addEventListener('click',event=>{
  if(field?.showPicker){try{field.showPicker();}catch{/* Native calendar remains available. */}}
 });
 export function animateDialog(dialog){
- if(dialog.id==='mobile-navigation'){
+ if(['mobile-navigation','mobile-filters'].includes(dialog.id)){
   menuTransition(dialog,false);return;
  }
  const drawer=dialog.classList.contains('drawer');
@@ -51,6 +51,6 @@ function menuTransition(dialog,closing){
  });
 }
 export function closeDialog(dialog){
- if(dialog.id==='mobile-navigation'&&dialog.open)menuTransition(dialog,true);
+ if(['mobile-navigation','mobile-filters'].includes(dialog.id)&&dialog.open)menuTransition(dialog,true);
  else dialog.close();
 }

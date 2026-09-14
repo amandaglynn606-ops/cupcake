@@ -8,7 +8,12 @@ test('embedded search accepts typing, Enter and button submission on desktop and
   await page.setViewportSize({width,height:900});await page.goto('/');
   const search=page.locator('.header-actions #site-search');await expect(search).toBeVisible();
   await expect(page.locator('.site-header > .header-search')).toHaveCount(0);
-  const positions=await page.locator('.header-actions').evaluate(el=>{const s=el.querySelector('form').getBoundingClientRect(),w=el.querySelector('.wishlist-link').getBoundingClientRect();return{searchRight:s.right,wishlistLeft:w.left,delta:Math.abs(s.y-w.y)};});expect(positions.searchRight).toBeLessThanOrEqual(positions.wishlistLeft);expect(positions.delta).toBeLessThan(10);
+  if(width>1100){
+   const positions=await page.locator('.header-actions').evaluate(el=>{const s=el.querySelector('form').getBoundingClientRect(),w=el.querySelector('.wishlist-link').getBoundingClientRect();return{searchRight:s.right,wishlistLeft:w.left,delta:Math.abs(s.y-w.y)};});expect(positions.searchRight).toBeLessThanOrEqual(positions.wishlistLeft);expect(positions.delta).toBeLessThan(10);
+  }else{
+   await expect(page.locator('.header-actions .wishlist-link')).toBeHidden();
+   const box=await search.boundingBox();expect(box.x).toBeGreaterThanOrEqual(0);expect(box.x+box.width).toBeLessThanOrEqual(width);
+  }
   await search.fill('wedding roses');await search.press('Enter');
   await expect(page).toHaveURL(/\/search\?q=wedding\+roses/);
   await expect(page.locator('.shop-results .product-card').first()).toBeVisible();
@@ -21,7 +26,7 @@ test('embedded search accepts typing, Enter and button submission on desktop and
 test('wedding filters live only in the sidebar and persist through reload and history',async({page})=>{
  await page.goto('/');await expect(page.locator('#wedding-heading')).toContainText('Wedding cakes');
  await expect(page.locator('.wedding-browse, .wedding-subcategories')).toHaveCount(0);
- await page.locator('.wedding-copy').getByRole('link',{name:'Explore wedding cakes'}).click();
+ await page.locator('.wedding-copy a[href="/collections/wedding-cakes"]').click();
  await page.locator('#filters [name=style][value=floral]').check();
  await expect(page).toHaveURL(/style=floral/);
  await page.locator('#filters [name=tier][value="3"]').check();

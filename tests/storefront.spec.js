@@ -151,7 +151,7 @@ test('mobile navigation, filters, product, and bag fit without horizontal overfl
  await page.locator('[name=flavour][value=vanilla]').check();
  await expect(page).toHaveURL(/flavour=vanilla/);
  await expect(page.locator('#filters')).toBeVisible();
- await page.locator('#toggle-filters').click();
+ await page.getByRole('button',{name:'View cakes',exact:true}).click();
  await screenshot(page,'boutique-collection-mobile.png');
  expect(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth)).toBeTruthy();
  await page.goto(productURL);

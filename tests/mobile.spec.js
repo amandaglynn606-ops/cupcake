@@ -82,7 +82,7 @@ test('phone menu expands All cakes, fits small screens and restores focus and sc
  }
 });
 
-test('every catalogue photo uses its natural proportions on phones without side bars',async({page})=>{
+test('every catalogue card has matching mobile frames and aligned titles, prices and actions',async({page})=>{
  test.setTimeout(90000);await page.emulateMedia({reducedMotion:'reduce'});
  for(const width of [320,390,430]){
   await page.setViewportSize({width,height:844});const ids=new Set();
@@ -91,10 +91,18 @@ test('every catalogue photo uses its natural proportions on phones without side 
    const photos=page.locator('.product-image-link>img');
    await photos.evaluateAll(imgs=>Promise.all(imgs.map(i=>{i.loading='eager';return i.decode();})));
    for(const frame of await photos.evaluateAll(imgs=>imgs.map(i=>({src:i.src,ratio:i.naturalWidth/i.naturalHeight,width:i.getBoundingClientRect().width,height:i.getBoundingClientRect().height,parent:i.parentElement.getBoundingClientRect().width})))){
-    expect(Math.abs(frame.width/frame.height-frame.ratio),frame.src).toBeLessThan(.015);
+    expect(Math.abs(frame.width/frame.height-.8),frame.src).toBeLessThan(.015);
     expect(Math.abs(frame.width-frame.parent),frame.src).toBeLessThan(1);
    }
    for(const id of await page.locator('.product-card').evaluateAll(cards=>cards.map(c=>c.dataset.productId)))ids.add(id);
+   const cards=await page.locator('.product-card').evaluateAll(cards=>cards.map(c=>{
+    const box=c.getBoundingClientRect(),title=c.querySelector('h3');
+    return{x:box.x,y:box.y,height:box.height,font:getComputedStyle(title).fontSize,rows:['.product-photo','.card-collection','h3','.card-price','.card-actions'].map(s=>c.querySelector(s).getBoundingClientRect().y)};
+   }));
+   for(let i=0;i<cards.length;i++){
+    expect(cards[i].font).toBe('15px');
+    if(i%2){expect(cards[i].height).toBeCloseTo(cards[i-1].height,0);cards[i].rows.forEach((y,j)=>expect(y).toBeCloseTo(cards[i-1].rows[j],0));}
+   }
    expect(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1)).toBe(true);
   }
   expect(ids.size).toBe(active.catalog.products.length);

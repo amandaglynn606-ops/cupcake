@@ -13,6 +13,17 @@ test('all active collections expose only scoped filters and fit mobile and deskt
    await expect(page.locator('.collection-intro img, .wedding-subcategories, #filters [name=category]')).toHaveCount(0);
    await expect(page.locator('#filters .sidebar-service')).toHaveCount(0);
    expect(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),c.slug+' at '+width).toBeTruthy();
+   if(width<=760){
+    const cards=page.locator('.product-card');
+    await cards.locator('img').evaluateAll(imgs=>Promise.all(imgs.map(i=>{i.loading='eager';return i.decode();})));
+    const rows=await cards.evaluateAll(cards=>cards.map(c=>['.product-image-link','h3','.card-price','.card-actions'].map(s=>{
+     const el=c.querySelector(s),r=el.getBoundingClientRect();return{y:r.y,width:r.width,height:r.height};
+    })));
+    for(let i=0;i<rows.length;i++){
+     expect(rows[i][0].width/rows[i][0].height).toBeCloseTo(.8,2);
+     if(i%2)rows[i].forEach((box,j)=>expect(box.y,c.slug).toBeCloseTo(rows[i-1][j].y,0));
+    }
+   }
    const facets=ctx.query(c.slug,new URLSearchParams()).facets;
    for(const group of facets.features)await expect(page.locator('#filters [name="'+group.key+'"]')).toHaveCount(group.items.length);
    if(c.slug!=='wedding-cakes')await expect(page.locator('#filters [name=style]')).toHaveCount(0);

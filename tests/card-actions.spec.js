@@ -51,7 +51,7 @@ test('mobile cards and inline search fit and add directly to the cart',async({pa
  await page.getByRole('button',{name:'Close menu',exact:true}).click();
  await expect(page.locator('.wedding-subcategories')).toHaveCount(0);
  await page.locator('#toggle-filters').click();await page.locator('#filters [name=tier][value="3"]').check();
- await expect(page).toHaveURL(/tier=3/);await page.locator('#toggle-filters').click();
+ await expect(page).toHaveURL(/tier=3/);await page.getByRole('button',{name:'View cakes',exact:true}).click();
  await page.locator('.product-card').first().getByRole('link',{name:'Add to quote'}).click();
  await expect(page.locator('#bag-drawer .cart-item')).toHaveCount(1);
  expect(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth)).toBeTruthy();
