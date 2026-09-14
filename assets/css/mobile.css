@@ -67,26 +67,25 @@
  .product-card .card-quote{background:var(--wine);border:1px solid var(--wine);color:var(--paper);padding:10px 8px;border-radius:3px}
  .product-card .card-details{padding:8px;text-decoration:underline;text-underline-offset:4px}
  .product-card .save-button{width:40px;height:40px;top:8px;right:8px}
- .maison-home .carousel-track.product-grid{grid-auto-columns:82%;gap:16px;align-items:stretch}
- body .carousel-track .product-card .product-image-link{background:#b8b7b4}
+ .maison-home .carousel-track.product-grid{grid-auto-columns:100%;gap:16px;align-items:stretch}
+ body .carousel-track .product-card .product-image-link{aspect-ratio:1!important;background:#b8b7b4}
  body .carousel-track .product-card .product-image-link>img.cake-image{object-fit:contain}
  .maison-home .carousel-track .product-caption{padding:16px}
  body .carousel-track .product-card .product-caption h3{font-size:18.9px}
  .maison-home .carousel-track .card-actions{flex-direction:row}
  .maison-home .carousel-controls button{width:44px;height:44px}
- .maison-home .video-hero{display:block;min-height:100svh}
- .maison-home .video-hero .hero-media{position:absolute;inset:0;height:100%;aspect-ratio:auto}
- .maison-home .video-hero::after{display:block;background:linear-gradient(180deg,#21171008 20%,#21171055 48%,#211710e6 100%)}
- .maison-home .video-hero .hero-inner{position:relative;top:auto;left:auto;transform:none;display:flex;align-items:flex-end;min-height:100svh;padding:40px 20px max(36px,env(safe-area-inset-bottom))}
- .maison-home .video-hero .hero-copy{display:block;width:100%;max-width:none;text-align:center;color:#fffdf9;padding:0}
- .maison-home .video-hero .hero-title{text-align:center}
- .maison-home .video-hero .hero-title .eyebrow{font-size:9px;line-height:1.6;letter-spacing:.08em;margin:0 0 12px;color:inherit}
+ .maison-home .video-hero{display:grid;grid-template-columns:minmax(0,1fr);gap:0;min-height:0}
+ .maison-home .video-hero::after{display:none;background:none}
+ .maison-home .video-hero .hero-inner,.maison-home .video-hero .hero-copy{display:contents}
+ .maison-home .video-hero .hero-title{grid-row:1;padding:24px 20px 20px;text-align:center}
+ .maison-home .video-hero .hero-title .eyebrow{font-size:9px;line-height:1.6;letter-spacing:.08em;margin:0 0 12px}
  .maison-home .video-hero .hero-copy h1{font-size:36px;line-height:1.15;margin:0}
- .maison-home .video-hero .hero-copy h1 em{color:inherit}
- .maison-home .video-hero .hero-copy>p.hero-description{font-size:14px;line-height:1.7;text-align:center;width:100%;max-width:340px;margin:20px auto;color:inherit}
- .maison-home .video-hero .hero-actions{gap:10px;max-width:none;margin:0}
+ .maison-home .video-hero .hero-media{grid-row:2;position:relative;inset:auto;width:100%;height:auto;aspect-ratio:16/9}
+ .maison-home .video-hero .hero-media :is(img,video){object-fit:contain}
+ .maison-home .video-hero .hero-copy>p.hero-description{grid-row:3;font-size:14px;line-height:1.7;text-align:center;width:calc(100% - 32px);max-width:340px;margin:20px auto}
+ .maison-home .video-hero .hero-actions{grid-row:4;gap:10px;max-width:none;margin:0 16px 28px}
  .maison-home .video-hero .hero-actions>a{min-height:52px;font-size:10px;padding:10px 6px}
- .maison-home .video-hero .hero-actions .text-link{border-bottom:0;color:inherit}
+ .maison-home .video-hero .hero-actions .text-link{border-bottom:0}
  .maison-home .video-hero .hero-copy>p.hero-footnote{display:none}
  .maison-home .maison-promises{border-top:0}
  .maison-home .collection-showcase-grid{align-items:stretch;grid-auto-rows:1fr}

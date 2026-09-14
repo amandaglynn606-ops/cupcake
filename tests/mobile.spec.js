@@ -23,6 +23,14 @@ test('homepage collection cards have equal dimensions and complete square photog
   for(const title of await page.locator('.carousel-track .product-caption h3').all()){
    await expect(title).toHaveCSS('font-size','18.9px');await expect(title).toHaveCSS('-webkit-line-clamp','2');
   }
+  for(const track of await page.locator('.carousel-track').all()){
+   const frames=await track.evaluate(track=>[...track.children].map(card=>{
+    track.scrollTo({left:card.offsetLeft-track.firstElementChild.offsetLeft,behavior:'instant'});
+    const viewport=track.getBoundingClientRect(),box=card.getBoundingClientRect(),photo=card.querySelector('.product-image-link').getBoundingClientRect();
+    return{left:box.left-viewport.left,right:box.right-viewport.right,width:box.width,viewport:viewport.width,photoRatio:photo.width/photo.height};
+   }));
+   for(const frame of frames){expect(Math.abs(frame.left)).toBeLessThan(1);expect(Math.abs(frame.right)).toBeLessThan(1);expect(frame.width).toBeCloseTo(frame.viewport,0);expect(frame.photoRatio).toBeCloseTo(1,2);}
+  }
   expect(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth)).toBe(true);
  }
 });

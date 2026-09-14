@@ -10,9 +10,9 @@ test('stock banner plays silently without controls and uses mobile footage',asyn
   const headingBox=await page.locator('h1').boundingBox();expect(headingBox.x).toBeGreaterThanOrEqual(20);
   if(width<=760){
    const media=await page.locator('.hero-media').boundingBox();
-   expect(headingBox.y).toBeGreaterThan(media.y);
-   expect(headingBox.y+headingBox.height).toBeLessThan(media.y+media.height);
-   expect(media.height).toBeGreaterThanOrEqual(1000);
+   expect(headingBox.y+headingBox.height).toBeLessThan(media.y);
+   expect(media.width/media.height).toBeCloseTo(16/9,2);
+   expect(await page.locator('.video-hero').evaluate(el=>getComputedStyle(el,'::after').display)).toBe('none');
    await expect(page.locator('#hero-heading')).toHaveCSS('font-size','36px');
    await expect(page.locator('.hero-description')).toHaveCSS('text-align','center');
    await expect(page.locator('.hero-description')).toHaveCSS('font-size','14px');
@@ -51,8 +51,8 @@ test('banner retains its original desktop height, full width and uninterrupted p
   await page.setViewportSize({width,height:1000});await page.goto('/');
   const video=page.locator('#hero-video');await expect.poll(()=>video.evaluate(v=>v.currentTime)).toBeGreaterThan(.2);
   const dimensions=await video.evaluate(v=>{const r=v.getBoundingClientRect();return {width:r.width,height:r.height,ratio:r.width/r.height,native:v.videoWidth/v.videoHeight};});
-  expect(dimensions.width).toBe(width);if(width>900)expect(dimensions.height).toBe(650);else expect(dimensions.height).toBeGreaterThanOrEqual(1000);
-  await expect(video).toHaveCSS('object-fit','cover');
+  expect(dimensions.width).toBe(width);if(width>900)expect(dimensions.height).toBe(650);else expect(Math.abs(dimensions.ratio-dimensions.native)).toBeLessThan(.003);
+  await expect(video).toHaveCSS('object-fit',width<=760?'contain':'cover');
   expect((await video.boundingBox()).x).toBe(0);
   await expect(video).toHaveCSS('transform','none');
   await page.locator('.hero-media').hover({position:{x:width-30,y:30}});
