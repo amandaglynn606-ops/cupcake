@@ -23,7 +23,7 @@ document.addEventListener('click',async event=>{
   const result=await response.json();if(!response.ok)throw new Error(result.error||'This cake could not be added.');
   const p=result.product;
   const available=p.variants.filter(v=>v.available);
-  const selected=available.find(v=>v.id===anchor.dataset.quoteVariant)||available.find(v=>v.priceFils===Number(anchor.dataset.quotePrice))||available.sort((a,b)=>a.priceFils-b.priceFils)[0];
+  const selected=available.find(v=>v.id===anchor.dataset.quoteVariant)||available.find(v=>v.priceFils===Number(anchor.dataset.quotePrice))||available.sort((a,b)=>a.priceFils-b.priceFils)[0]||p.variants[0];
   if(!selected)throw new Error('This cake is currently unavailable.');
   const cart=getCart().map(item=>({...item}));
   const existing=cart.find(item=>item.productId===p.id&&item.variantId===selected.id&&!item.message&&!Object.keys(item.personalisation||{}).length);

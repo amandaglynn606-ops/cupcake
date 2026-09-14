@@ -48,7 +48,7 @@ document.addEventListener('click',event=>{
  const summary=event.target.closest('summary');
  if(!summary||event.target.closest('a,button,input,select'))return;
  const details=summary.parentElement;
- if(!details.matches('.cake-choice,.tier-row,.mobile-cake-menu,.nav-dropdown,.filter-group,.order-message,.product-accordions details,.faq-layout details'))return;
+ if(!details.matches('.checkout-section,.cake-choice,.tier-row,.mobile-cake-menu,.nav-dropdown,.filter-group,.order-message,.product-accordions details,.faq-layout details'))return;
  event.preventDefault();setDisclosure(details,!disclosureOpen(details));
 });
 

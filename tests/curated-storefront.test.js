@@ -27,7 +27,7 @@ test('unreplaced imported photos are excluded while replaced designs remain avai
  const retired=raw.find(p=>p.id===removed[0].id);
  const search=await(await fetch(base+'/search?q='+encodeURIComponent(retired.title))).text();assert.ok(!search.includes('data-product-id="'+retired.id+'"'));
  const wishlist=await(await fetch(base+'/api/wishlist?ids='+retired.id)).json();assert.equal(wishlist.count,0);
- const quote=await fetch(base+'/api/quote',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({items:[{productId:retired.id,variantId:retired.variants[0].id,quantity:1}]})});assert.equal(quote.status,400);
+ const quote=await fetch(base+'/api/quote',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({items:[{productId:retired.id,variantId:retired.variants[0].id,quantity:1}]})});assert.equal(quote.status,200);const saved=await quote.json();assert.equal(saved.items[0].title,'Saved design — confirmation needed');assert.equal(saved.items[0].unitPriceFils,null);assert.equal(saved.items[0].available,false);
  assert.ok(ctx.byId.has(ctx.catalog.featuredId));
  for(const p of retained)assert.equal((await fetch(base+'/cakes/'+ctx.byId.get(p.id).handle)).status,200);
 });
@@ -50,7 +50,7 @@ test('public catalog contains only the six requested cake collections without al
  assert.ok(combinations.total>0);
  for(const p of combinations.products){const flowers=require('../data/flower-details.json').products[p.id].flowerTypes;assert.ok(flowers.includes('roses')&&flowers.includes('peonies'));}
 });
-test('retired products cannot appear through public routes, search, API, sitemap or cart',async t=>{
+test('retired products cannot appear through public routes, search, API, sitemap; stale cart references reveal no retired details',async t=>{
  const catalog=loadCatalog(),ctx=buildCatalog(catalog,{curated:true}),server=makeServer({catalog,config:{...config,siteUrl:'https://example.com'}});
  await new Promise(r=>server.listen(0,'127.0.0.1',r));t.after(()=>{server.closeAllConnections();server.close();});
  const base='http://127.0.0.1:'+server.address().port;
@@ -62,7 +62,7 @@ test('retired products cannot appear through public routes, search, API, sitemap
  assert.equal((await fetch(base+'/api/products/'+retired.id)).status,404);
  assert.equal((await(await fetch(base+'/api/wishlist?ids='+retired.id)).json()).count,0);
  const sitemap=await(await fetch(base+'/sitemap.xml')).text();assert.ok(!sitemap.includes(retired.handle));
- const quote=await fetch(base+'/api/quote',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({items:[{productId:retired.id,variantId:retired.variants[0].id,quantity:1}]})});assert.equal(quote.status,400);
+ const quote=await fetch(base+'/api/quote',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({items:[{productId:retired.id,variantId:retired.variants[0].id,quantity:1}]})});assert.equal(quote.status,200);const saved=await quote.json();assert.equal(saved.items[0].title,'Saved design — confirmation needed');assert.equal(saved.items[0].unitPriceFils,null);assert.equal(saved.items[0].available,false);
  const search=await(await fetch(base+'/search?q=Minecraft')).text();assert.ok(!search.includes('data-product-id="'+retired.id+'"'));
  const home=await(await fetch(base+'/')).text();
  for(const c of ctx.collections)assert.ok(home.includes('/collections/'+c.slug));

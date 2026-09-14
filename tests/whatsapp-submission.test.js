@@ -13,7 +13,7 @@ test('WhatsApp preparation validates enquiries and includes reference metadata w
  assert.equal(result.deliveryStatus,'awaiting-customer-send');
  assert.equal(result.enquiry.brief,enquiry().brief);
  assert.deepEqual(result.enquiry.referenceImages,enquiry().referenceImages);
- for(const input of [{...enquiry(),consent:false},{...enquiry(),referenceImages:[{name:'attack.svg',type:'image/svg+xml',size:20}]},{...enquiry(),referenceImages:[{name:'large.png',type:'image/png',size:6000000}]},{...enquiry(),referenceImages:[{...enquiry().referenceImages[0],data:'private bytes'}]}])assert.throws(()=>prepareWhatsApp(input,{isOrder:false,number:'971545974005'}));
+ for(const input of [{...enquiry(),referenceImages:[{name:'attack.svg',type:'image/svg+xml',size:20}]},{...enquiry(),referenceImages:[{name:'large.png',type:'image/png',size:6000000}]},{...enquiry(),referenceImages:[{...enquiry().referenceImages[0],data:'private bytes'}]}])assert.throws(()=>prepareWhatsApp(input,{isOrder:false,number:'971545974005'}));
  assert.throws(()=>prepareWhatsApp(enquiry(),{isOrder:false,number:''}));
 });
 

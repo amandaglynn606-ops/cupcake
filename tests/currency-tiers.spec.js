@@ -9,7 +9,7 @@ async function configure(page){
  await page.locator('[data-choice]').evaluateAll(elements=>Promise.all(elements.flatMap(e=>e.getAnimations()).map(a=>a.finished.catch(()=>{}))));
  if(await page.locator('[data-tier-row]').count()&&!await page.locator('[data-choice="tiers"]').evaluate(e=>e.open))await page.locator('[data-choice="tiers"] > summary').click();
  for(const row of await page.locator('[data-tier-row]').all()){if(!await row.evaluate(e=>e.open))await row.locator('summary').click();
-  await row.locator('[data-tier-sponge]').selectOption('Chocolate');await row.locator('[data-tier-filling]').selectOption('Berries cream');
+  await row.locator('[data-tier-type]').selectOption('edible');await row.locator('[data-tier-sponge]').selectOption('Chocolate');await row.locator('[data-tier-filling]').selectOption('Berries cream');
  }
  await page.locator('[data-tier-row="2"] > summary').click();
  await page.locator('[data-tier-row="2"] [data-tier-type]').selectOption('dummy');
@@ -35,7 +35,7 @@ test('edible and dummy tiers survive cart edits and the final AED WhatsApp reque
  await page.locator('[data-tier-row="3"] [data-tier-sponge]').selectOption('Red velvet');
  await page.locator('#add-to-cart').click();await expect(page.locator('#bag-drawer .cart-item')).toHaveCount(1);
  await expect(page.locator('#bag-drawer')).toContainText('Red velvet sponge');
- await page.goto('/checkout');await page.getByLabel('Display currency').selectOption('CAD');
+ await page.goto('/checkout');await page.locator('[data-checkout-delivery] summary').click();await page.getByLabel('Display currency').selectOption('CAD');
  for(const [name,value] of Object.entries({name:'Tier',lastName:'Test',email:'tier@example.com',phone:'+971500000000',city:'Dubai',area:'Jumeirah',address:'Building 1',date:'2099-12-01'}))await page.locator('[name='+name+']').fill(value);
  await page.locator('[name=consent]').check();
  const pending=page.waitForResponse(r=>r.url().endsWith('/api/orders'));await page.locator('#submit-order').click();const response=await pending;expect(response.status()).toBe(201);

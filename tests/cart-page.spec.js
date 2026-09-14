@@ -1,38 +1,41 @@
 const {test,expect}=require('./whatsapp-fixture');
-
-test('delivery instructions and pickup reach WhatsApp without gift or sender fields',async({page})=>{
- await page.goto('/collections/all?q=Pink+Piped+Cake+with+White+Ribbon+Bows');await page.locator('.card-quote').first().click();
- await page.locator('#bag-drawer a[href="/cart"]').click();
+const catalog=require('../lib/catalog').buildCatalog(require('../lib/load-catalog').loadCatalog(),{curated:true}).catalog;
+const cake=catalog.products.find(p=>(p.tiers||p.variants[0].tiers)>1);
+async function seed(page){await page.goto('/');await page.evaluate(p=>localStorage.setItem('cake-cart-v1',JSON.stringify([{productId:p.id,variantId:p.variants[0].id,quantity:1}])),cake);await page.goto('/cart');await expect(page.locator('#submit-order')).toBeEnabled();}
+for(const width of [390,1440])test('optional cart opens WhatsApp directly, with collapsible details at '+width,async({page})=>{
+ await page.setViewportSize({width,height:900});await seed(page);
  await expect(page.locator('h1')).toHaveText('Your cart.');
- await expect(page.locator('#cart-delivery')).toHaveText('AED 100');
- await page.locator('[name=emirate]').selectOption('Ajman');await expect(page.locator('#cart-delivery')).toHaveText('AED 200');
- await page.locator('.cart-products [data-cart-preference=colouring]').selectOption('natural');
- await expect(page.locator('.cart-products [data-cart-preference=colouring]')).toHaveValue('natural');
- await page.locator('.cart-products [data-cart-preference=allergens]').selectOption('accept');
- await expect(page.locator('[name=giftMessage],[name=senderDisplay]')).toHaveCount(0);
- await expect(page.locator('#cart-details-form')).not.toContainText('*');
- await page.locator('#cart-details-form [name=instructions]').fill('Please call on arrival.');
- await page.locator('[name=fulfilment]').selectOption('pickup');await page.locator('[name=date]').fill('2099-12-01');await page.locator('[name=time]').selectOption('10am-10pm');await page.locator('[name=leadTimeAccepted]').check();
- await expect(page.locator('#same-day-option')).toHaveJSProperty('disabled',true);
- await expect(page.locator('#cart-delivery')).toHaveText('AED 0');
- await page.reload();await expect(page.locator('[name=time]')).toHaveValue('10am-10pm');
- await page.evaluate(()=>window.scrollTo({top:0,behavior:'instant'}));await page.screenshot({path:'artifacts/xavi-cart-desktop.png',fullPage:true,animations:'disabled'});
- await page.locator('#cart-details-form button[type=submit]').click();await expect(page).toHaveURL(/checkout$/);
- await expect(page.locator('[name=date]')).toHaveValue('2099-12-01');await expect(page.locator('#checkout-gift-details')).toHaveCount(0);
- await expect(page.locator('[name=email]')).toHaveAttribute('required','');await page.locator('[name=email]').fill('cart@example.com');
- await page.locator('[name=name]').fill('Xavi Cart');await page.locator('[name=lastName]').fill('Test');await page.locator('[name=phone]').fill('+971500000000');await page.locator('[name=consent]').check();
- const pending=page.waitForResponse(r=>r.url().endsWith('/api/orders'));await page.locator('#submit-order').click();const response=await pending;expect(response.status()).toBe(201);
- const {order}=await response.json();expect(order.cartDetails).toMatchObject({fulfilment:'pickup',time:'10am-10pm',instructions:'Please call on arrival.'});
- expect(order.cartDetails.giftMessage).toBeUndefined();expect(order.cartDetails.senderDisplay).toBeUndefined();
- const message=new URL(await page.locator('#send-whatsapp-order').getAttribute('href')).searchParams.get('text');expect(message).not.toContain('Gift message:');expect(message).not.toContain('Sender name:');expect(message).toContain('cart@example.com');
- await expect(page.locator('#success-title')).toBeVisible();expect(await page.evaluate(()=>localStorage.getItem('xavi-cart-details-v1'))).toBeNull();
+ await expect(page.locator('#checkout-form [required],[name^=billing],[name=giftMessage]')).toHaveCount(0);
+ await expect(page.locator('[data-grand-total]>span')).toHaveText('Total');
+ await expect(page.locator('[data-grand-total] strong')).not.toContainText('AED');
+ await page.getByLabel('Display currency').selectOption('CAD');await expect(page.locator('[data-grand-total] strong')).not.toContainText('CAD');
+ await page.locator('[data-checkout-contact] summary').click();await expect(page.locator('[name=name]')).toBeHidden();
+ await page.locator('[data-checkout-delivery] summary').click();await expect(page.locator('[name=date]')).toBeVisible();
+ await page.locator('[data-checkout-delivery] summary').click();await expect(page.locator('[name=date]')).toBeHidden();
+ expect(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth)).toBe(true);
+ await page.screenshot({path:'artifacts/optional-cart-'+width+'.png',fullPage:true,animations:'disabled'});
+ const response=page.waitForResponse(r=>r.url().endsWith('/api/orders')),popup=page.waitForEvent('popup');
+ await page.locator('#submit-order').click();expect((await response).status()).toBe(201);
+ const tab=await popup;await expect(tab).toHaveURL(/^https:\/\/wa.me\/971545974005/);
+ const text=new URL(tab.url()).searchParams.get('text');expect(text).toContain(cake.title);expect(text).toContain('Name: To confirm');expect(text).toContain('Tier types and flavours to confirm');
+ await expect(page).toHaveURL(/\/cart$/);await expect(page.locator('#success-title')).toBeVisible();
 });
-test('mobile cart keeps one cake per request and supports removal',async({page})=>{
- await page.setViewportSize({width:390,height:844});await page.goto('/cart');await expect(page.locator('.cart-products .cart-empty')).toBeVisible();await expect(page.locator('.cart-details-panel')).toBeHidden();
- await page.goto('/collections/engagement-cakes');await page.locator('.card-quote').first().click();await page.locator('#bag-drawer a[href="/cart"]').click();
- await expect(page.locator('.cart-products [data-cart-quantity]')).toHaveCount(0);
- expect(await page.evaluate(()=>JSON.parse(localStorage.getItem('cake-cart-v1'))[0].quantity)).toBe(1);
- await page.evaluate(()=>window.scrollTo({top:0,behavior:'instant'}));await page.screenshot({path:'artifacts/xavi-cart-mobile.png',fullPage:true,animations:'disabled'});
- expect(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth)).toBeTruthy();
- await page.locator('.cart-products .cart-remove').click();await expect(page.locator('.cart-products .cart-empty')).toBeVisible();await expect(page.locator('.cart-details-panel')).toBeHidden();
+test('optional delivery information reaches WhatsApp and no billing address is collected',async({page})=>{
+ await seed(page);await page.locator('[name=name]').fill('Aisha');await page.locator('[name=email]').fill('test@example.com');
+ await page.locator('[data-next-delivery]').click();await page.locator('[name=fulfilment][value=pickup]').check();
+ await page.locator('[name=time]').selectOption('10am-10pm');await page.locator('[name=notes]').fill('Please call on arrival.');
+ await expect(page.locator('[data-delivery-fee]')).toContainText('AED 0');
+ const pending=page.waitForResponse(r=>r.url().endsWith('/api/orders'));await page.locator('#submit-order').click();
+ const response=await pending;expect(response.status()).toBe(201);const {order}=await response.json();expect(order.billingAddress).toBeUndefined();expect(order.customer.email).toBe('test@example.com');expect(order.customer.notes).toBe('Please call on arrival.');expect(order.preferredTime).toBe('10am-10pm');
+});
+test('unconfigured product tiers and direct drawer submission never require choices',async({page})=>{
+ await page.goto('/cakes/'+cake.handle);await expect(page.locator('#product-form [required]')).toHaveCount(0);
+ await page.locator('#add-to-cart').click();await expect(page.locator('#bag-drawer .cart-item')).toHaveCount(1);
+ const response=page.waitForResponse(r=>r.url().endsWith('/api/orders')),popup=page.waitForEvent('popup');
+ await page.locator('[data-quick-whatsapp]').click();expect((await response).status()).toBe(201);
+ const tab=await popup;await expect(tab).toHaveURL(/^https:\/\/wa.me\/971545974005/);expect(new URL(tab.url()).searchParams.get('text')).toContain(cake.title);
+});
+for(const path of ['/contact','/bespoke'])test(path+' allows an enquiry with all fields blank',async({page})=>{
+ await page.goto(path);await expect(page.locator('#enquiry-form [required]')).toHaveCount(0);
+ const response=page.waitForResponse(r=>r.url().endsWith('/api/enquiries'));await page.locator('#enquiry-form button[type=submit]').click();expect((await response).status()).toBe(201);await expect(page.locator('#enquiry-success')).toBeVisible();
 });

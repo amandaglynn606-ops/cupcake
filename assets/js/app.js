@@ -2,6 +2,7 @@ import {getCartDetails} from './cart-details.js';
 import {arrangeMobileCards} from './mobile-card-groups.js';
 import {animateDialog,closeDialog} from './motion.js';
 import {setDisclosure} from './disclosure-motion.js';
+import {prepareWhatsAppTab,addMessageActions} from './whatsapp-handoff.js';
 export const $=(selector,root=document)=>root.querySelector(selector);
 export const data=JSON.parse($('#page-data')?.textContent||'{}');
 export const esc=value=>String(value??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
@@ -9,11 +10,20 @@ export const money=fils=>fils===null?'Price on request':'AED '+new Intl.NumberFo
 export const imageUrl=url=>url?.startsWith('https://')?url+(url.includes('?')?'&':'?')+'width=600':'/'+(url||'assets/placeholder.svg').replace(/^\/+/,'');
 const read=(key,fallback)=>{try{return JSON.parse(localStorage.getItem(key))??fallback;}catch{return fallback;}};
 const write=(key,value)=>{try{localStorage.setItem(key,JSON.stringify(value));}catch{toast('Your browser could not save this selection for a future visit.');}};
-function normaliseCart(value){return(Array.isArray(value)?value:[]).filter(i=>i&&typeof i.productId==='string'&&typeof i.variantId==='string'&&Number.isInteger(i.quantity)&&i.quantity>0&&i.quantity<=20).slice(0,50).map(i=>({...i,message:typeof i.message==='string'?i.message.slice(0,100):'',personalisation:i.personalisation&&typeof i.personalisation==='object'?i.personalisation:{}}));}
-let cart=normaliseCart(read('cake-cart-v1',[]));
+function normaliseCart(value){
+ const ids=new Set();
+ return(Array.isArray(value)?value:[]).filter(i=>i&&typeof i.productId==='string'&&typeof i.variantId==='string'&&Number.isInteger(i.quantity)&&i.quantity>0&&i.quantity<=20).slice(0,50).map(i=>{
+  const lineId=typeof i.lineId==='string'&&/^[a-f0-9-]{36}$/i.test(i.lineId)&&!ids.has(i.lineId)?i.lineId:crypto.randomUUID();
+  ids.add(lineId);
+  return {...i,lineId,message:typeof i.message==='string'?i.message.slice(0,100):'',personalisation:i.personalisation&&typeof i.personalisation==='object'?i.personalisation:{}};
+ });
+}
+const storedCart=read('cake-cart-v1',[]);
+let cart=normaliseCart(storedCart);
 let savedValue=read('cake-saved-v1',[]);
 let saved=new Set((Array.isArray(savedValue)?savedValue:[]).filter(id=>typeof id==='string').slice(0,100));
 let toastTimer,cartRequest=0;
+if(cart.some((item,index)=>item.lineId!==storedCart?.[index]?.lineId))write('cake-cart-v1',cart);
 export function toast(message){clearTimeout(toastTimer);$('#toast').textContent=message;$('#toast').classList.add('visible');toastTimer=setTimeout(()=>$('#toast').classList.remove('visible'),3300);}
 export function getCart(){return cart;}
 export function setCart(next){cart=normaliseCart(next);write('cake-cart-v1',cart);updateCount();window.dispatchEvent(new Event('cart-change'));}
@@ -27,14 +37,15 @@ export async function quoteCart(fulfilment=getCartDetails()?.fulfilment||'delive
 }
 export function personalisationText(item){
  const p=item.personalisation||{};
- return [p.guests?'Number of guests: '+p.guests:'',item.message?'Cake message: '+item.message:'',p.instructions?'Special instructions: '+p.instructions:'',p.colouring?'Food colouring: '+(p.colouring==='natural'?'Keep the natural cream colour':'Accepted'):'',p.allergens==='accept'?'Allergen information acknowledged':'',...(p.tiers||[]).map(t=>'Tier '+t.tier+': '+(t.type==='dummy'?'Display (dummy) tier — not edible':'Edible cake'+(t.weightLb?' · '+t.weightLb+' lb':'')+' · '+t.sponge+' sponge · '+t.filling))].filter(Boolean);
+ return [p.guests?'Number of guests: '+p.guests:'',item.message?'Cake message: '+item.message:'',p.instructions?'Special instructions: '+p.instructions:'',p.colouring?'Food colouring: '+(p.colouring==='natural'?'Keep the natural cream colour':'Accepted'):'',p.allergens==='accept'?'Allergen information acknowledged':p.allergens==='decline'?'Allergen concern: please discuss suitability':'',...(p.tiers||[]).map(t=>'Tier '+t.tier+': '+(t.type==='dummy'?'Display (dummy) tier — not edible':(t.type==='edible'?'Edible cake':'Type to confirm')+(t.weightLb?' · '+t.weightLb+' lb':'')+' · '+(t.sponge?t.sponge+' sponge':'Sponge to confirm')+' · '+(t.filling||'Filling to confirm')))].filter(Boolean);
 }
 export async function renderCart(){
  const request=++cartRequest;const containers=[...document.querySelectorAll('[data-cart-content]')];if(!containers.length)return;
  if(!cart.length){containers.forEach(el=>el.innerHTML='<div class="cart-empty"><p class="eyebrow">YOUR CART</p><h3>Your cart is empty.</h3><p>Choose a cake and add it to your cart to request a quote.</p><a class="button" href="/collections/all">Browse cakes →</a></div>');return;}
  try{
+  const snapshot=cart.slice();
   const quote=await quoteCart();if(request!==cartRequest)return;
-  const html=quote.items.map(item=>'<article class="cart-item"><a href="/cakes/'+esc(item.handle)+'"><img class="'+(item.cakeImage?'cake-image':'')+'" src="'+esc(imageUrl(item.image))+'" alt="'+esc(item.imageAlt||item.title)+'" width="100" height="120"></a><div><h3><a href="/cakes/'+esc(item.handle)+'">'+esc(item.title)+'</a></h3><p>'+esc(item.variation)+'</p><p class="cart-unit-price">'+(item.priceOnConsultation?'Starting price: ':'Unit price: ')+''+money(item.unitPriceFils)+'</p>'+personalisationText(item).map(text=>'<p>'+esc(text)+'</p>').join('')+'<a class="cart-edit" href="/cakes/'+esc(item.handle)+'?variant='+esc(item.variantId)+'&amp;edit='+item.index+'">'+(item.needsTiers?'Choose tier types & flavours':'Edit cake & tier details')+'</a>'+(!item.available?'<p class="form-error">Currently unavailable</p>':'')+(item.needsPersonalisation?'<div class="cart-preferences"><p>Confirm these details before sending your request.</p><label>Food colouring<select data-cart-preference="colouring" data-index="'+item.index+'"><option value="">Please select</option><option value="natural"'+(item.personalisation.colouring==='natural'?' selected':'')+'>Keep the natural cream colour</option><option value="accept"'+(item.personalisation.colouring==='accept'?' selected':'')+'>I accept food colouring</option></select></label><label>Allergen information<select data-cart-preference="allergens" data-index="'+item.index+'"><option value="">Please select</option><option value="accept"'+(item.personalisation.allergens==='accept'?' selected':'')+'>I acknowledge the information</option><option value="decline"'+(item.personalisation.allergens==='decline'?' selected':'')+'>I cannot accept</option></select></label><p>Cakes may contain milk, eggs, wheat and nuts. Contact us about any allergies before ordering.</p></div>':'')+'<button class="cart-remove" data-remove="'+item.index+'">Remove</button><div class="cart-item-bottom"><span>'+money(item.lineTotalFils)+'</span></div></div></article>').join('')+'<div class="cart-actions"><div class="summary-total"><span>Subtotal</span><span>'+money(quote.subtotalFils)+'</span></div>'+(quote.hasStartingPrices?'<p class="starting-price-note">Starting estimate. Final design and quotation are agreed on WhatsApp.</p>':'')+'<p class="summary-note">Delivery across the UAE: AED 100 in Dubai; AED 200 in all other emirates. Pickup has no delivery fee. Final availability is confirmed with your request. No payment is collected here.</p>'+(document.getElementById('cart-details-form')?'<button class="button" type="submit" form="cart-details-form">Submit &rarr;</button>':'<a class="button" href="/checkout">Submit &rarr;</a>')+'<a class="text-link" href="/cart">Review your cart</a></div>';
+  const html=quote.items.map(item=>'<article class="cart-item"><a href="/cakes/'+esc(item.handle)+'"><img class="'+(item.cakeImage?'cake-image':'')+'" src="'+esc(imageUrl(item.image))+'" alt="'+esc(item.imageAlt||item.title)+'" width="100" height="120"></a><div><h3><a href="/cakes/'+esc(item.handle)+'">'+esc(item.title)+'</a></h3><p>'+esc(item.variation)+'</p><p class="cart-unit-price">'+(item.priceOnConsultation?'Starting price: ':'Unit price: ')+''+money(item.unitPriceFils)+'</p>'+personalisationText(item).map(text=>'<p>'+esc(text)+'</p>').join('')+'<a class="cart-edit" href="/cakes/'+esc(item.handle)+'?variant='+esc(item.variantId)+'&amp;edit='+item.index+'">'+(item.needsTiers?'Choose tier types & flavours':'Edit cake & tier details')+'</a>'+(!item.available?'<p class="form-error">Currently unavailable</p>':'')+(item.needsPersonalisation?'<div class="cart-preferences"><p>Confirm these details before sending your request.</p><label>Food colouring<select data-cart-preference="colouring" data-index="'+item.index+'"><option value="">Please select</option><option value="natural"'+(item.personalisation.colouring==='natural'?' selected':'')+'>Keep the natural cream colour</option><option value="accept"'+(item.personalisation.colouring==='accept'?' selected':'')+'>I accept food colouring</option></select></label><label>Allergen information<select data-cart-preference="allergens" data-index="'+item.index+'"><option value="">Please select</option><option value="accept"'+(item.personalisation.allergens==='accept'?' selected':'')+'>I acknowledge the information</option><option value="decline"'+(item.personalisation.allergens==='decline'?' selected':'')+'>I cannot accept</option></select></label><p>Cakes may contain milk, eggs, wheat and nuts. Contact us about any allergies before ordering.</p></div>':'')+'<button type="button" class="cart-remove" data-remove="'+esc(snapshot[item.index]?.lineId||'')+'">Remove</button><div class="cart-item-bottom"><span>'+money(item.lineTotalFils)+'</span></div></div></article>').join('')+'<div class="cart-actions"><div class="summary-total"><span>Subtotal</span><span>'+money(quote.subtotalFils)+'</span></div>'+(quote.hasStartingPrices?'<p class="starting-price-note">Starting estimate. Final design and quotation are agreed on WhatsApp.</p>':'')+'<p class="summary-note">Delivery across the UAE: AED 100 in Dubai; AED 200 in all other emirates. Pickup has no delivery fee. Final availability is confirmed with your request. No payment is collected here.</p>'+(document.getElementById('checkout-form')?'<button class="button" type="submit" form="checkout-form">Proceed to WhatsApp &rarr;</button>':'<button class="button" type="button" data-quick-whatsapp>Proceed to WhatsApp &rarr;</button>')+'<a class="text-link" href="/cart">Review your cart</a></div>';
   containers.forEach(el=>el.innerHTML=html);
  }catch(error){if(request===cartRequest)containers.forEach(el=>el.innerHTML='<div class="cart-empty"><p class="form-error">'+esc(error.message)+'</p><button class="button button-outline" data-retry-cart>Try again</button><button class="text-link" data-clear-cart>Clear your cart</button></div>');}
 }
@@ -46,8 +57,23 @@ export function contactUrl(subject,text){
 }
 export function orderText(order){
  const addressLines=(address)=>[address.firstName+' '+address.lastName,address.street,address.area+', '+address.city,address.emirate+', United Arab Emirates',address.phone||''].filter(Boolean);
- return [data.config.name.toUpperCase()+' - WHATSAPP ORDER',order.id,'',...order.items.flatMap(item=>[item.quantity+' x '+item.title,item.variation,...personalisationText(item),money(item.lineTotalFils),'']),...(order.hasStartingPrices?['STARTING ESTIMATE — final design, scale and price require written confirmation.']:[]),'Subtotal: '+money(order.subtotalFils),'Delivery: '+money(order.deliveryFeeFils),'Total: '+money(order.totalFils),'','Name: '+order.customer.name,'WhatsApp: '+order.customer.phone,...(order.customer.email?['Email: '+order.customer.email]:[]),'Fulfilment: '+order.fulfilment,'Preferred date: '+order.customer.date,'Preferred time: '+order.preferredTime,...(order.fulfilment==='delivery'?['SHIPPING ADDRESS',...(order.customer.shipping?addressLines(order.customer.shipping):[order.customer.address,order.emirate])]:[]),...(order.billingAddress?['','BILLING ADDRESS',...addressLines(order.billingAddress)]:[]),'Notes: '+order.customer.notes,'','Please confirm my cake, availability and delivery arrangements.'].join('\n');
+ return [data.config.name.toUpperCase()+' - WHATSAPP ORDER',order.id,'',...order.items.flatMap(item=>[item.quantity+' x '+item.title,item.variation,...personalisationText(item),...(item.confirmationNotes||[]),money(item.lineTotalFils),'']),...(order.hasStartingPrices?['STARTING ESTIMATE — final design, scale and price require written confirmation.']:[]),'Subtotal: '+money(order.subtotalFils),'Delivery: '+money(order.deliveryFeeFils),'Total: '+money(order.totalFils),'','Name: '+(order.customer.name||'To confirm'),'WhatsApp: '+(order.customer.phone||'To confirm'),...(order.customer.email?['Email: '+order.customer.email]:[]),'Fulfilment: '+(order.fulfilment||'To confirm'),'Preferred date: '+(order.customer.date||'To confirm'),'Preferred time: '+(order.preferredTime||'To confirm'),...(order.fulfilment==='delivery'?['SHIPPING ADDRESS',...(order.customer.shipping?addressLines(order.customer.shipping):[order.customer.address,order.emirate])]:[]),...(order.billingAddress?['','BILLING ADDRESS',...addressLines(order.billingAddress)]:[]),'Notes: '+order.customer.notes,'','Please confirm my cake, availability and delivery arrangements.'].join('\n');
 }
+
+document.addEventListener('click',async event=>{
+ const button=event.target.closest('[data-quick-whatsapp]');if(!button||button.disabled)return;
+ const handoff=prepareWhatsAppTab();button.disabled=true;
+ try{
+  const response=await fetch('/api/orders',{method:'POST',headers:{'Content-Type':'application/json','Idempotency-Key':crypto.randomUUID()},body:JSON.stringify({items:getCart()}),signal:AbortSignal.timeout(20000)});
+  const result=await response.json();if(!response.ok)throw new Error(result.error||'Please try again.');
+  const text=orderText(result.order),url=contactUrl('',text),host=button.closest('.cart-actions');
+  host.querySelector('[data-whatsapp-ready]')?.remove();
+  const ready=document.createElement('div');ready.dataset.whatsappReady='';
+  ready.innerHTML='<p>Press Send in WhatsApp to deliver your request.</p><a class="button" href="'+esc(url)+'" target="_blank" rel="noopener">Open WhatsApp</a><details class="order-message"><summary>Review your message</summary><pre>'+esc(text)+'</pre></details>';
+  host.append(ready);addMessageActions(ready,{text});handoff.open(url);
+ }catch(error){handoff.close();toast(error.message);}
+ finally{button.disabled=false;}
+});
 document.addEventListener('error',event=>{const target=event.target;if(target.tagName==='IMG'&&!target.src.endsWith('/assets/placeholder.svg'))target.src='/assets/placeholder.svg';},true);
 for(const image of document.images){if(image.complete&&image.naturalWidth===0&&!image.src.endsWith('/assets/placeholder.svg'))image.src='/assets/placeholder.svg';}
 document.addEventListener('click',event=>{
@@ -55,7 +81,13 @@ document.addEventListener('click',event=>{
  if(button?.dataset.open){if(button.dataset.open==='bag-drawer')renderCart();openDialog(button.dataset.open);return;}
  if(button?.hasAttribute('data-close')){closeDialog(button.closest('dialog'));return;}
  if(button?.dataset.save){const id=button.dataset.save;if(saved.has(id))saved.delete(id);else{if(saved.size>=100)return toast('Your wishlist can hold up to 100 designs.');saved.add(id);}write('cake-saved-v1',[...saved]);syncSaved();window.dispatchEvent(new Event('wishlist-change'));return;}
- if(button?.dataset.remove!==undefined){const next=cart.slice();next.splice(Number(button.dataset.remove),1);setCart(next);renderCart();return;}
+ if(button?.dataset.remove!==undefined){
+  event.preventDefault();
+  const next=normaliseCart(read('cake-cart-v1',cart)),index=next.findIndex(item=>item.lineId===button.dataset.remove);
+  if(index<0)return;
+  button.disabled=true;
+  next.splice(index,1);setCart(next);renderCart();return;
+ }
  if(button?.hasAttribute('data-retry-cart'))return renderCart();
  if(button?.hasAttribute('data-clear-cart')){setCart([]);renderCart();return;}
  if(!event.target.closest('.nav-dropdown'))document.querySelectorAll('.desktop-nav .nav-dropdown[open]').forEach(el=>setDisclosure(el,false));

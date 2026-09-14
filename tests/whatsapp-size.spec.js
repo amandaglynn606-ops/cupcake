@@ -35,7 +35,7 @@ test('tier weights and guest counts survive cart editing, order saving and Whats
  const rows=page.locator('[data-tier-row]'),first=rows.nth(0);
  const {type,weight}=await first.evaluate(row=>({type:row.querySelector('[data-tier-type]').getBoundingClientRect().toJSON(),weight:row.querySelector('[data-tier-weight]').getBoundingClientRect().toJSON()}));
  expect(type.y).toBeCloseTo(weight.y,0);expect(type.width).toBeCloseTo(weight.width,0);expect(weight.x).toBeGreaterThan(type.x+type.width);
- await first.locator('[data-tier-weight]').fill('5');
+ await first.locator('[data-tier-type]').selectOption('edible');await first.locator('[data-tier-weight]').fill('5');
  await first.locator('[data-tier-sponge]').selectOption('Chocolate');await first.locator('[data-tier-filling]').selectOption('Coffee cream');
  await page.locator('[data-copy-flavours]').click();
  await rows.nth(1).locator('summary').click();await rows.nth(1).locator('[data-tier-type]').selectOption('dummy');
@@ -51,7 +51,7 @@ test('tier weights and guest counts survive cart editing, order saving and Whats
  await expect(rows.nth(0).locator('[data-tier-weight]')).toHaveValue('5');
  await expect(rows.nth(2).locator('[data-tier-weight]')).toHaveValue('3.5');
  await page.locator('#product-form').screenshot({path:'artifacts/product-choices/weights-mobile.png'});
- await page.goto('/checkout');
+ await page.goto('/checkout');await page.locator('[data-checkout-delivery] summary').click();
  for(const [name,value]of Object.entries({name:'Size Test',lastName:'Customer',city:'Dubai',area:'Jumeirah',phone:'+971500000000',email:'test@example.com',date:'2099-12-01',address:'Test address, Dubai'}))await page.locator('[name='+name+']').fill(value);
  await page.locator('[name=consent]').check();
  const response=page.waitForResponse(r=>r.url().endsWith('/api/orders'));

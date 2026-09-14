@@ -20,8 +20,8 @@ function update(){
  });
  $('#product-price').textContent=(product.priceOnConsultation?'From ':'')+money(selected.priceFils);
  const declined=$('[name=allergens]')?.value==='decline';
- $('#add-to-cart').disabled=!selected.available||declined;
- $('#product-availability').textContent=declined?'Please do not proceed with this cake. Contact us to discuss your requirements.':selected.available?'Available to request':'This variation is currently unavailable.';
+ $('#add-to-cart').disabled=false;
+ $('#product-availability').textContent=declined?'Please discuss allergen suitability with us on WhatsApp.':selected.available?'Available to request':'Availability will be confirmed on WhatsApp.';
  if(selected.image)$('#product-image').src=imageUrl(selected.image).replace('width=600','width=1200');
 }
 $('#product-form').addEventListener('change',event=>{
@@ -35,12 +35,12 @@ document.addEventListener('click',event=>{
  if(button.dataset.image!==undefined){$('#product-image').src=imageUrl(product.images[Number(button.dataset.image)]).replace('width=600','width=1200');document.querySelectorAll('[data-image]').forEach(b=>b.setAttribute('aria-pressed',String(b===button)));}
 });
 $('#product-form').addEventListener('submit',event=>{
- event.preventDefault();if(!validateChoices()||!selected.available)return;
+ event.preventDefault();if(!validateChoices())return;
  const fields=new FormData(event.currentTarget);
  const personalisation={instructions:String(fields.get('instructions')||'').trim(),colouring:String(fields.get('colouring')||''),allergens:String(fields.get('allergens')||'')};
  personalisation.tiers=selectedTiers();
  if(fields.get('guests'))personalisation.guests=Number(fields.get('guests'));
- if(product.kind==='cake'&&personalisation.allergens!=='accept')return;
+
  const message=String(fields.get('message')||'').trim();
  const cart=getCart().map(item=>({...item}));
  const existing=cart.find(item=>item.productId===product.id&&item.variantId===selected.id&&item.message===message&&JSON.stringify(item.personalisation)===JSON.stringify(personalisation));

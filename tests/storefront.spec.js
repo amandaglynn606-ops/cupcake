@@ -80,7 +80,8 @@ test('reference product fields, exact variation pricing, saved cart, and order r
  await page.keyboard.press('Escape');
  await expect(page.locator('#product-lightbox')).not.toBeVisible();
  await page.locator('[name=allergens]').selectOption('decline');
- await expect(page.locator('#add-to-cart')).toBeDisabled();
+ await expect(page.locator('#add-to-cart')).toBeEnabled();
+ await expect(page.locator('#product-availability')).toContainText('allergen suitability');
  await acknowledge(page);
  const option=page.locator('[data-option]').first();
  const choices=await option.locator('option').evaluateAll(options=>options.map(o=>o.value));
@@ -103,7 +104,7 @@ test('reference product fields, exact variation pricing, saved cart, and order r
  await expect(page.locator('[data-bag-count]')).toHaveText('1');
  await page.reload();
  await expect(page.locator('[data-bag-count]')).toHaveText('1');
- await page.goto('/checkout');
+ await page.goto('/checkout');await page.locator('[data-checkout-delivery] summary').click();
   await page.locator('[name=name]').fill('Browser Test');
   await page.locator('[name=lastName]').fill('Customer');
   await page.locator('[name=city]').fill('Dubai');

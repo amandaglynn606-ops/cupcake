@@ -12,9 +12,9 @@ export function refreshChoices(){
  form.querySelector('[data-choice-summary="details"]').textContent=message?'“'+message+'”'+(notes?' · Design notes added':''):notes?'Design notes added':'Optional · Message or design notes';
  const colouring=form.elements.colouring,allergens=form.elements.allergens;
  const summary=form.querySelector('[data-choice-summary="preferences"]');
- if(summary)summary.textContent=allergens.value==='decline'?'Please contact us before proceeding':colouring.value&&allergens.value==='accept'?(colouring.value==='natural'?'Natural cream colour':'Edible colouring')+' · Allergens acknowledged':'Two choices to confirm';
+ if(summary)summary.textContent=allergens.value==='decline'?'Please contact us before proceeding':colouring.value&&allergens.value==='accept'?(colouring.value==='natural'?'Natural cream colour':'Edible colouring')+' · Allergens acknowledged':'Optional preferences';
  const missing=rows.length-complete.length;
- document.getElementById('choice-progress').textContent=allergens?.value==='decline'?'Please contact us to discuss your requirements.':missing?'Choose flavours for '+missing+' remaining '+(missing===1?'tier.':'tiers.'):colouring&&(!colouring.value||allergens.value!=='accept')?'Confirm colour and allergens to continue.':'Your choices are ready. Final details are confirmed in your quotation.';
+ document.getElementById('choice-progress').textContent=allergens?.value==='decline'?'Please contact us to discuss your requirements.':missing?'Tier choices are optional. We can confirm them on WhatsApp.':colouring&&(!colouring.value||allergens.value!=='accept')?'Preferences are optional. We can discuss them on WhatsApp.':'Your choices are ready. Final details are confirmed in your quotation.';
 }
 function openSection(section,focus=false,immediate=false){
  sections.forEach(s=>setDisclosure(s,s===section,{immediate}));
@@ -43,7 +43,7 @@ export function initChoices(){
  form.addEventListener('click',event=>{
   const next=event.target.closest('[data-choice-next],[data-choice-done]');if(!next)return;
   const section=next.closest('[data-choice]');if(!validateChoices(section))return;
-  if(section.querySelector('[name="allergens"]')?.value==='decline')return;
+
   refreshChoices();
   const target=sections.slice(sections.indexOf(section)+1).find(s=>!s.hidden);
   if(target)openSection(target,true);else{setDisclosure(section,false);document.getElementById('add-to-cart').focus({preventScroll:true});}

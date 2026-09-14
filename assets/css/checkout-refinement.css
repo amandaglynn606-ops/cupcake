@@ -1,0 +1,47 @@
+.streamlined-checkout{padding-block:28px 64px}
+.streamlined-checkout .checkout-heading{margin-bottom:30px;align-items:end}
+.streamlined-checkout .checkout-heading h1{font-size:clamp(40px,4vw,60px);line-height:1.12}
+.streamlined-checkout .checkout-heading p{font:400 14px/1.7 var(--body)}
+.streamlined-checkout .checkout-layout{grid-template-columns:minmax(0,1.1fr) minmax(0,.9fr);gap:40px;align-items:start}
+.streamlined-checkout #checkout-form{min-width:0;padding:28px;border:1px solid var(--line);border-radius:8px;background:var(--paper)}
+.checkout-section{border-bottom:1px solid var(--line);margin-bottom:16px;overflow-anchor:none}
+.checkout-section>summary{display:flex;align-items:center;justify-content:space-between;gap:16px;min-height:56px;padding:4px 0 18px;font:500 15px/1.5 var(--body)}
+.checkout-section>summary>span:first-child{display:flex;align-items:center;gap:12px}
+.checkout-section .step-number{display:grid;place-items:center;width:27px;height:27px;border-radius:50%;background:var(--wash);color:var(--wine);font-size:11px}
+.checkout-section .section-chevron{font:400 21px/1 var(--body);transition:transform 320ms cubic-bezier(.22,1,.36,1)}
+.checkout-section[open] .section-chevron{transform:rotate(45deg)}
+.checkout-section[data-motion-open=false] .section-chevron{transform:none}
+.checkout-section-body{padding:0 0 22px}
+.streamlined-checkout .checkout-section-body label{display:block;font:500 13px/1.5 var(--body);margin-bottom:16px;min-width:0}
+.streamlined-checkout .checkout-section-body :is(input:not([type=radio]),select,textarea){display:block;width:100%;min-width:0;min-height:46px;padding:12px;margin-top:7px;border:1px solid #cabdaf;border-radius:4px;background:var(--paper);font:400 16px/1.5 var(--body)}
+.streamlined-checkout .checkout-section-body small{font:400 11px/1.5 var(--body);color:var(--muted)}
+.streamlined-checkout .form-grid{gap:0 16px}
+.streamlined-checkout .fulfilment-options{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin:18px 0}
+.streamlined-checkout .fulfilment-options label{display:flex;align-items:center;gap:8px;padding:13px;margin:0;font:500 13px/1.5 var(--body)}
+.streamlined-checkout .field-help,.streamlined-checkout .form-footnote,.streamlined-checkout .consent{font:400 12px/1.7 var(--body)}
+.streamlined-checkout .consent{margin:18px 0;align-items:flex-start}
+.streamlined-checkout #submit-order{font:500 13px/1.5 var(--body);letter-spacing:.02em;text-transform:none;min-height:50px;margin-top:4px}
+.streamlined-checkout .checkout-summary{padding:24px;border-radius:8px;min-width:0}
+.streamlined-checkout .summary-heading h2{font:500 21px/1.4 var(--body);letter-spacing:0}
+.streamlined-checkout .summary-item{grid-template-columns:64px minmax(0,1fr) auto;gap:14px;padding-block:18px}
+.streamlined-checkout .summary-photo img{width:64px;height:80px}
+.streamlined-checkout .summary-item h3{font-size:19px;line-height:1.4;margin-bottom:8px}
+.streamlined-checkout .summary-item p,.streamlined-checkout .summary-item>span{font:400 12px/1.6 var(--body);overflow-wrap:anywhere}
+.streamlined-checkout .summary-personalisation{margin-bottom:4px}
+.streamlined-checkout .cart-remove,.streamlined-checkout .summary-edit{font:500 12px/1.5 var(--body);text-decoration:underline;text-underline-offset:3px;min-height:40px;display:inline-flex;align-items:center;margin-right:16px;padding:0}
+.streamlined-checkout .summary-total{font:500 18px/1.5 var(--body)}
+@media(max-width:760px){
+ .streamlined-checkout{padding-top:20px}
+ .streamlined-checkout .checkout-heading{display:block;margin-bottom:22px}
+ .streamlined-checkout .checkout-heading h1{font-size:44px;margin-bottom:14px}
+ .streamlined-checkout .checkout-layout{display:flex;flex-direction:column;gap:20px}
+ .streamlined-checkout .checkout-summary{order:-1;width:100%;padding:18px}
+ .streamlined-checkout #checkout-form{width:100%;padding:20px 16px}
+ .streamlined-checkout .form-grid{grid-template-columns:1fr}
+ .streamlined-checkout .summary-item{grid-template-columns:56px minmax(0,1fr);gap:12px}
+ .streamlined-checkout .summary-photo img{width:56px;height:72px}
+ .streamlined-checkout .summary-item>span{grid-column:2}
+ .streamlined-checkout .summary-item h3{font-size:18px}
+ .streamlined-checkout .summary-heading h2{font-size:19px}
+}
+@media(prefers-reduced-motion:reduce){.checkout-section .section-chevron{transition:none}}

@@ -1,27 +1,18 @@
 const {test,expect}=require('@playwright/test');
-test('mobile cart preferences use the full width with compact text and working selections',async({page})=>{
+test('mobile cart has compact text, optional preferences and working cake edits',async({page})=>{
  await page.emulateMedia({reducedMotion:'reduce'});
  for(const width of [320,390,430]){
   await page.setViewportSize({width,height:844});await page.goto('/collections/wedding-cakes');
   await page.locator('.product-card').first().getByRole('link',{name:'Add to quote'}).click();
-  for(const surface of ['#bag-drawer','.cart-products']){
-   if(surface==='.cart-products')await page.goto('/cart');
-   const root=page.locator(surface),item=root.locator('.cart-item').first();
-   await expect(item.locator('.cart-preferences')).toBeVisible();
-   await expect(item.locator('h3')).toHaveCSS('font-size','16px');
-   await expect(item.locator('.cart-edit')).toHaveCSS('font-size','12px');
-   const frame=await item.boundingBox(),panel=await item.locator('.cart-preferences').boundingBox();
-   expect(panel.width).toBeCloseTo(frame.width,0);
-   for(const field of await item.locator('.cart-preferences select').all()){
-    await expect(field).toHaveCSS('font-size','14px');const box=await field.boundingBox();
-    expect(box.height).toBeGreaterThanOrEqual(44);expect(box.x+box.width).toBeLessThanOrEqual(width);
-   }
-   await item.locator('[data-cart-preference=colouring]').selectOption('natural');
-   await expect(item.locator('[data-cart-preference=colouring]')).toHaveValue('natural');
-   await item.locator('[data-cart-preference=allergens]').selectOption('accept');
-   await expect(item.locator('[data-cart-preference=allergens]')).toHaveValue('accept');
+  for(const surface of ['#bag-drawer','#checkout-summary']){
+   if(surface==='#checkout-summary')await page.goto('/cart');
+   const root=page.locator(surface),item=root.locator('.cart-item,.summary-item').first();
+   await expect(item.locator('h3')).toBeVisible();
+   const edit=item.locator('.cart-edit,.summary-edit');await expect(edit).toHaveCSS('font-size','12px');
+   const frame=await item.boundingBox();expect(frame.x+frame.width).toBeLessThanOrEqual(width);
+   await expect(item.locator('[required]')).toHaveCount(0);
   }
-  await page.locator('.cart-edit').first().click();
+  await page.locator('#checkout-summary .summary-edit').first().click();
   const choices=page.locator('.cake-choice').filter({has:page.locator('#tier-configurator')});
   if(!await choices.evaluate(el=>el.open))await choices.locator('summary').first().click();
   const tier=page.locator('[data-tier-row="1"]');

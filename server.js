@@ -52,6 +52,7 @@ function makeServer({catalog,orderDir=path.join(ROOT,'private','orders'),enquiry
     raw=Buffer.concat(chunks).toString('utf8');
     let input;try{input=JSON.parse(raw);}catch{return send(400,{error:'Invalid request.'});}
     if(url.pathname==='/api/quote'){
+     if(config.submissionMode==='whatsapp')return send(200,require('./lib/whatsapp-quote').quoteWhatsApp(input,ctx.catalog));
      if(!input||!Array.isArray(input.items)||input.items.length>50)throw new OrderError('Please check your selection.');
      const items=input.items.map((item,index)=>{
       if(!item||typeof item!=='object')throw new OrderError('A selected item could not be found.');

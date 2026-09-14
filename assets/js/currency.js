@@ -17,7 +17,8 @@ function convert(){
    if(!/AED\s+[\d,]+/.test(node.nodeValue))continue;
    record={original:node.nodeValue};
   }
-  const next=currency==='AED'?record.original:record.original.replace(pattern,(_,amount)=>currency+' '+new Intl.NumberFormat('en',{minimumFractionDigits:2,maximumFractionDigits:2}).format(Number(amount.replaceAll(',',''))/rates[currency]));
+  let next=currency==='AED'?record.original:record.original.replace(pattern,(_,amount)=>currency+' '+new Intl.NumberFormat('en',{minimumFractionDigits:2,maximumFractionDigits:2}).format(Number(amount.replaceAll(',',''))/rates[currency]));
+  if(node.parentElement?.closest('[data-amount-only]'))next=next.replace(/\b(?:AED|CAD|USD|EUR)\s+/g,'');
   record.rendered=next;originals.set(node,record);
   if(node.nodeValue!==next)node.nodeValue=next;
  }

@@ -21,14 +21,12 @@ test('cards add directly to the cart, persist, and support sending the quote',as
  await expect(page.locator('#bag-drawer .quantity-control')).toHaveCount(0);
  saved=await page.evaluate(()=>JSON.parse(localStorage.getItem('cake-cart-v1')));
  expect(saved).toHaveLength(1);expect(saved[0].quantity).toBe(1);
- await page.locator('#bag-drawer [data-cart-preference=colouring]').selectOption('natural');
- await expect(page.locator('#bag-drawer [data-cart-preference=colouring]')).toHaveValue('natural');
- await page.locator('#bag-drawer [data-cart-preference=allergens]').selectOption('accept');
- await expect(page.locator('#bag-drawer .button[href="/cart"]')).toBeVisible();
- await page.locator('#bag-drawer .button[href="/cart"]').click();
- await expect(page.locator('.cart-products')).toContainText(product.title);
+ await expect(page.locator('#bag-drawer [data-quick-whatsapp]')).toBeVisible();
+ await page.locator('#bag-drawer a[href="/cart"]').click();
+ await expect(page.locator('#checkout-summary')).toContainText(product.title);
+ await expect(page.locator('#submit-order')).toBeEnabled();
  saved=await page.evaluate(()=>JSON.parse(localStorage.getItem('cake-cart-v1')));
- expect(saved[0].personalisation).toEqual({colouring:'natural',allergens:'accept'});
+ expect(saved[0].personalisation).toEqual({});
 });
 
 test('image, title, card body and View cake navigate to the product; wishlist stays separate',async({page})=>{

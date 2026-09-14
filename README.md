@@ -59,7 +59,7 @@ Each tier is a collapsible panel with a saved flavour summary and a next-tier bu
 
 Tier panels, product sections, FAQs, filters, navigation and mobile footer panels use measured, reversible transitions. Dialogs animate on both desktop and touch devices. Reduced-motion preferences switch these interactions to immediate changes; validation reveals missing fields immediately. Desktop product dropdown and weight values use 12px text below 13px labels.
 
-Cart actions are Submit (continue to checkout) and Review your cart. Gift-message and sender-display choices have been removed, including from stored cart details and WhatsApp messages. Checkout collects name, required email and phone, plus delivery or pickup details. Preferred time retains validation without a visible asterisk.
+Cart actions are Proceed to WhatsApp and Review your cart. The drawer can prepare a request immediately; `/cart` and `/checkout` share an information screen with collapsible contact and delivery sections. All customer fields and cake choices are optional, including tier type, flavours, weight and acknowledgements. Supplied values remain validated. Unavailable or incomplete selections are enquiries to confirm, and prices come from the server catalogue. Billing, gift-message and sender-display fields are removed. The final displayed total has no currency marker; WhatsApp quotations remain in AED. Stable cart line identifiers prevent delayed or repeated Remove clicks from deleting other items.
 
 The homepage collections section uses six cards with category descriptions. Collection and product images enlarge gently on pointer hover, with reduced-motion support. Tier labels and selection controls use upright Manrope.
 
