@@ -71,6 +71,14 @@ The site includes the homepage, active category pages and relevant sidebar filte
 
 Set `PUBLIC_SITE_URL` or `siteUrl` in `store.config.json` to the real public HTTPS origin for absolute canonical URLs and `/sitemap.xml`. Public pages permit indexing. Search, wishlist, cart and checkout pages are excluded from indexing. The sitemap returns 503 until a public origin is configured, avoiding publication of a placeholder domain. Ranking positions cannot be guaranteed.
 
+## Vercel deployment
+
+`vercel.json` selects the custom `npm run build:vercel` command. It produces a Node.js 22 request handler and static assets using Vercel's Build Output API. Import this repository with the **Other** framework preset and leave the Output Directory override disabled. The build output includes the catalogue and rendering modules inside the function, while photos, videos, fonts and browser assets are served separately by the CDN. Private requests, source CSV files and local review artifacts are not deployed. Retired image URLs remain unavailable.
+
+Set `PUBLIC_SITE_URL` in Vercel to the site's public HTTPS address for the sitemap and canonical URLs.
+
+The existing order/enquiry archive uses local filesystem storage. Vercel functions cannot provide a durable local archive: connect persistent storage before relying on saved submissions there. Do not use temporary `/tmp` storage for customer records. Automatic email delivery also still needs an email provider connection.
+
 ## Validation
 
 `npm.cmd test` validates restored inventory, original pricing and image files, regional fees, private storage and HTTP routes. Stable archived fixtures preserve earlier business-rule checks.
