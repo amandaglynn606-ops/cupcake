@@ -5,7 +5,10 @@ test('compact phone controls open filters without shifting the cake grid',async(
  for(const width of [320,390,430]){
   await page.setViewportSize({width,height:740});await page.goto('/collections/all');
   const toggle=page.locator('#toggle-filters'),sort=page.getByLabel('Sort cakes');
+  await expect(page.locator('.sort-label')).toHaveCSS('font-size',await toggle.evaluate(el=>getComputedStyle(el).fontSize));
+  expect(await page.locator('.sort-label').evaluate(el=>el.firstChild.textContent.trim())).toBe('Sort by');
   await toggle.scrollIntoViewIfNeeded();
+  await page.locator('.shop-toolbar').screenshot({path:'artifacts/mobile-sort-'+width+'.png'});
   const filterBox=await toggle.boundingBox(),sortBox=await sort.boundingBox();
   expect(filterBox.width).toBeLessThan(110);expect(sortBox.width).toBeLessThanOrEqual(155);
   expect(filterBox.y).toBe(sortBox.y);expect(sortBox.x+sortBox.width).toBeLessThanOrEqual(width);

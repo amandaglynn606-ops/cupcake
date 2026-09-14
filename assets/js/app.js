@@ -2,7 +2,7 @@ import {getCartDetails} from './cart-details.js';
 import {arrangeMobileCards} from './mobile-card-groups.js';
 import {animateDialog,closeDialog} from './motion.js';
 import {setDisclosure} from './disclosure-motion.js';
-import {prepareWhatsAppTab,addMessageActions} from './whatsapp-handoff.js';
+import {prepareWhatsAppHandoff,addMessageActions} from './whatsapp-handoff.js';
 export const $=(selector,root=document)=>root.querySelector(selector);
 export const data=JSON.parse($('#page-data')?.textContent||'{}');
 export const esc=value=>String(value??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
@@ -62,7 +62,7 @@ export function orderText(order){
 
 document.addEventListener('click',async event=>{
  const button=event.target.closest('[data-quick-whatsapp]');if(!button||button.disabled)return;
- const handoff=prepareWhatsAppTab();button.disabled=true;
+ const handoff=prepareWhatsAppHandoff();button.disabled=true;
  try{
   const response=await fetch('/api/orders',{method:'POST',headers:{'Content-Type':'application/json','Idempotency-Key':crypto.randomUUID()},body:JSON.stringify({items:getCart()}),signal:AbortSignal.timeout(20000)});
   const result=await response.json();if(!response.ok)throw new Error(result.error||'Please try again.');

@@ -1,7 +1,7 @@
 import {$,data,esc,money,imageUrl,getCart,setCart,quoteCart,personalisationText,orderText,downloadText} from './app.js';
 import {getCartDetails,clearCartDetails} from './cart-details.js';
 import {setDisclosure} from './disclosure-motion.js';
-import {prepareWhatsAppTab,addMessageActions} from './whatsapp-handoff.js';
+import {prepareWhatsAppHandoff,addMessageActions} from './whatsapp-handoff.js';
 const form=$('#checkout-form'),cartDetails=getCartDetails(),profileKey='xavi-checkout-profile-v1';
 const profileFields=['name','lastName','email','phone','emirate','city','area','address'];
 let quote,quoteRequest=0,requestKey='',lastPayload='',completed=false,pending=false;
@@ -44,7 +44,7 @@ form.addEventListener('submit',async event=>{
  const customer={name:[fields.name,fields.lastName].join(' '),phone:fields.phone,email:fields.email,date:fields.date,address:fields.address||'',emirate:fields.emirate,notes:fields.notes,...(shipping?{shipping}:{})};
  const payload=JSON.stringify({items:getCart(),customer,fulfilment:fields.fulfilment,preferredTime:fields.time,consent:form.elements.consent.checked});
  if(payload!==lastPayload){requestKey=crypto.randomUUID();lastPayload=payload;}
- const handoff=prepareWhatsAppTab();
+ const handoff=prepareWhatsAppHandoff();
  const button=$('#submit-order'),errorEl=$('.form-error',form);pending=true;button.disabled=true;button.textContent='Preparing your order…';errorEl.textContent='';
  try{
   const response=await fetch('/api/orders',{method:'POST',headers:{'Content-Type':'application/json','Idempotency-Key':requestKey},body:payload,signal:AbortSignal.timeout(20000)});

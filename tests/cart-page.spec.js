@@ -14,10 +14,12 @@ for(const width of [390,1440])test('optional cart opens WhatsApp directly, with 
  await page.locator('[data-checkout-delivery] summary').click();await expect(page.locator('[name=date]')).toBeHidden();
  expect(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth)).toBe(true);
  await page.screenshot({path:'artifacts/optional-cart-'+width+'.png',fullPage:true,animations:'disabled'});
- const response=page.waitForResponse(r=>r.url().endsWith('/api/orders')),popup=page.waitForEvent('popup');
+ const response=page.waitForResponse(r=>r.url().endsWith('/api/orders'));
  await page.locator('#submit-order').click();expect((await response).status()).toBe(201);
- const tab=await popup;await expect(tab).toHaveURL(/^https:\/\/wa.me\/971545974005/);
- const text=new URL(tab.url()).searchParams.get('text');expect(text).toContain(cake.title);expect(text).toContain('Name: To confirm');expect(text).toContain('Tier types and flavours to confirm');
+ await expect.poll(()=>page.evaluate(()=>window.whatsappAttempts.length)).toBe(1);
+ const destination=new URL(await page.evaluate(()=>window.whatsappAttempts[0].url));
+ expect(destination.searchParams.get('phone')).toBe('971545974005');
+ const text=destination.searchParams.get('text');expect(text).toContain(cake.title);expect(text).toContain('Name: To confirm');expect(text).toContain('Tier types and flavours to confirm');
  await expect(page).toHaveURL(/\/cart$/);await expect(page.locator('#success-title')).toBeVisible();
 });
 test('optional delivery information reaches WhatsApp and no billing address is collected',async({page})=>{
@@ -31,9 +33,11 @@ test('optional delivery information reaches WhatsApp and no billing address is c
 test('unconfigured product tiers and direct drawer submission never require choices',async({page})=>{
  await page.goto('/cakes/'+cake.handle);await expect(page.locator('#product-form [required]')).toHaveCount(0);
  await page.locator('#add-to-cart').click();await expect(page.locator('#bag-drawer .cart-item')).toHaveCount(1);
- const response=page.waitForResponse(r=>r.url().endsWith('/api/orders')),popup=page.waitForEvent('popup');
+ const response=page.waitForResponse(r=>r.url().endsWith('/api/orders'));
  await page.locator('[data-quick-whatsapp]').click();expect((await response).status()).toBe(201);
- const tab=await popup;await expect(tab).toHaveURL(/^https:\/\/wa.me\/971545974005/);expect(new URL(tab.url()).searchParams.get('text')).toContain(cake.title);
+ await expect.poll(()=>page.evaluate(()=>window.whatsappAttempts.length)).toBe(1);
+ const destination=new URL(await page.evaluate(()=>window.whatsappAttempts[0].url));
+ expect(destination.searchParams.get('phone')).toBe('971545974005');expect(destination.searchParams.get('text')).toContain(cake.title);
 });
 for(const path of ['/contact','/bespoke'])test(path+' allows an enquiry with all fields blank',async({page})=>{
  await page.goto(path);await expect(page.locator('#enquiry-form [required]')).toHaveCount(0);

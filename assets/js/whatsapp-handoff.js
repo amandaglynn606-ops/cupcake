@@ -1,16 +1,42 @@
-// Reserve a tab during the customer's click, before asynchronous validation.
-// The original page always retains a link and the complete message as fallback.
-export function prepareWhatsAppTab(){
- let tab;
+function whatsappDestination(value){
  try{
-  tab=window.open('about:blank','_blank');
-  if(tab){tab.opener=null;tab.document.title='Preparing your WhatsApp message';tab.document.body.textContent='Preparing your message. Please keep this tab open.';}
- }catch{/* The manual link remains available if popups are blocked. */}
+  const url=new URL(value);
+  if(url.origin!=='https://wa.me'||url.username||url.password||!/^\/\d{7,15}$/.test(url.pathname))return null;
+  const query=new URLSearchParams({phone:url.pathname.slice(1),text:url.searchParams.get('text')||''});
+  return {app:'whatsapp://send?'+query,web:url.href};
+ }catch{return null;}
+}
+
+// Use the current tab so popup blockers cannot interrupt the handoff.
+// If the app opens, cancel the web fallback before the customer returns.
+export function prepareWhatsAppHandoff(){
+ let timer;
+ const close=()=>{
+  clearTimeout(timer);
+  document.removeEventListener('visibilitychange',onVisibility);
+  window.removeEventListener('pagehide',close);
+ };
+ const onVisibility=()=>{if(document.hidden)close();};
  return {
-  open(url){if(!/^https:\/\/wa\.me\/\d{7,15}\?text=/.test(url||'')){this.close();return;}try{if(tab&&!tab.closed)tab.location.replace(url);}catch{this.close();}},
-  close(){try{if(tab&&!tab.closed)tab.close();}catch{/* Browser may have closed the tab. */}}
+  open(value){
+   close();
+   const destination=whatsappDestination(value);if(!destination)return;
+   document.addEventListener('visibilitychange',onVisibility);
+   window.addEventListener('pagehide',close);
+   timer=setTimeout(()=>{close();window.location.assign(destination.web);},2000);
+   try{window.open(destination.app,'_self');}catch{/* The HTTPS fallback also works without the app installed. */}
+  },
+  close
  };
 }
+
+const linkHandoff=prepareWhatsAppHandoff();
+document.addEventListener('click',event=>{
+ if(event.defaultPrevented||event.button!==0||event.metaKey||event.ctrlKey||event.shiftKey||event.altKey)return;
+ const link=event.target.closest('a[href]');
+ if(!link||link.hasAttribute('download')||!whatsappDestination(link.href))return;
+ event.preventDefault();linkHandoff.open(link.href);
+});
 
 export function addMessageActions(container,{text,files=[]}){
  const copy=document.createElement('button');copy.type='button';copy.className='button button-outline';copy.textContent='Copy full message';

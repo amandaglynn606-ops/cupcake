@@ -1,5 +1,5 @@
 import {$,data,esc,downloadText,contactUrl} from './app.js';
-import {prepareWhatsAppTab,addMessageActions} from './whatsapp-handoff.js';
+import {prepareWhatsAppHandoff,addMessageActions} from './whatsapp-handoff.js';
 const form=$('#enquiry-form');
 if(form.elements.date)form.elements.date.min=new Intl.DateTimeFormat('en-CA',{timeZone:'Asia/Dubai',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date());
 let lastPayload='',key='',pending=false;
@@ -28,7 +28,7 @@ form.addEventListener('submit',async event=>{
  input.referenceImages=references.map(file=>({name:file.name,type:file.type,size:file.size}));
  const body=JSON.stringify(input);if(body!==lastPayload){key=crypto.randomUUID();lastPayload=body;}
  const button=$('button[type=submit]',form),original=button.innerHTML,error=$('.form-error',form);
- const handoff=prepareWhatsAppTab();
+ const handoff=prepareWhatsAppHandoff();
  pending=true;button.disabled=true;button.textContent='Preparing WhatsApp…';error.textContent='';
  try{
   const response=await fetch('/api/enquiries',{method:'POST',headers:{'Content-Type':'application/json','Idempotency-Key':key},body,signal:AbortSignal.timeout(20000)});
