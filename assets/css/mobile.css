@@ -45,6 +45,34 @@
  #bag-drawer{overscroll-behavior:contain;-webkit-overflow-scrolling:touch}
  #bag-drawer::backdrop{backdrop-filter:none;background:#27151b80}
  .product-lightbox .lightbox-close{border:0;border-radius:0;background:transparent;box-shadow:none}
+ /* Cart preferences use the full phone width rather than the narrow photo column. */
+ body .cart-item,body .cart-products .cart-item{grid-template-columns:64px minmax(0,1fr);gap:8px 12px;padding-block:18px}
+ body .cart-item>a{grid-column:1;grid-row:1/span 3;align-self:start}
+ body .cart-item>a>img,body .cart-products .cart-item>a>img{width:64px}
+ body .cart-item>div{display:contents}
+ body .cart-item>div>h3,body .cart-item>div>p{grid-column:2;min-width:0;margin:0}
+ body .cart-products .cart-item h3,body .cart-item h3,body .summary-item h3{font-size:16px;line-height:1.35}
+ body .cart-item p,body .cart-item .cart-unit-price{font-size:12px;line-height:1.5;overflow-wrap:anywhere}
+ body .cart-item .cart-edit{grid-column:1/-1;display:flex;align-items:center;min-height:44px;margin:0;font-size:12px;line-height:1.5}
+ body .cart-item .cart-preferences{grid-column:1/-1;min-width:0;margin:0 0 4px;padding:12px}
+ body .cart-preferences label{font-size:12px;line-height:1.5;margin:10px 0}
+ body .cart-preferences p{font-size:11px;line-height:1.5;margin:6px 0}
+ body .cart-item .cart-preferences select[data-cart-preference]{font-size:14px;line-height:1.5;min-height:44px;padding:9px 8px;margin-top:5px;max-width:100%}
+ body .cart-item .cart-remove{grid-column:1;justify-self:start;min-height:44px;font-size:12px;margin:0;padding:8px 0}
+ body .cart-item .cart-item-bottom{grid-column:2;justify-self:end;align-self:center;margin:0;font-size:13px}
+ body .cart-page-heading h1{font-size:34px}
+ #bag-drawer .drawer-head h2{font-size:25px}
+ .cart-details-panel>h2{font-size:24px}
+ .cart-details-panel label{font-size:12px;line-height:1.5}
+ .cart-details-panel .form-footnote,.cart-actions .summary-note,.cart-actions .starting-price-note{font-size:11px;line-height:1.6}
+ #cart-details-form select{font-size:14px;min-height:44px}
+ #product-form .cake-choice>summary{font-size:13px;min-height:56px;padding-block:12px}
+ #product-form .choice-heading small{font-size:11px}
+ #product-form .tier-row>summary{font-size:13px;min-height:56px;padding:10px 12px}
+ #product-form .tier-row>summary small{font-size:11px}
+ #product-form .cake-choice label{font-size:12px}
+ #product-form .cake-choice select,#product-form .tier-size-fields select{font-size:14px;min-height:44px}
+ #product-form .tier-content{padding:12px}
  .wrap{width:calc(100% - 32px);margin-inline:auto}
  /* Intrinsic image height removes letterboxing without cropping cake tiers. */
  body .product-image-link,body .collection-image,body .main-photo,body .bespoke-photo{aspect-ratio:auto!important;height:auto;min-height:0}
