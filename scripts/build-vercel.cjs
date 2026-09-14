@@ -2,6 +2,7 @@
 const fs=require('node:fs/promises');
 const path=require('node:path');
 const ROOT=path.resolve(__dirname,'..');
+const {securityHeaders,isPublicAsset}=require('../lib/public-security');
 
 async function buildVercel(output=path.join(ROOT,'.vercel','output')){
  const responsive=await require('./build-responsive-images.cjs').buildResponsiveImages();
@@ -31,8 +32,10 @@ async function buildVercel(output=path.join(ROOT,'.vercel','output')){
  // Assets are served by the CDN, never included in the function bundle.
  await fs.cp(path.join(ROOT,'assets'),path.join(staticDir,'assets'),{
   recursive:true,
-  filter:source=>{
+  filter:async source=>{
    const relative=path.relative(ROOT,source).split(path.sep).join('/');
+   if(relative.split('/').some(segment=>segment.startsWith('.')))return false;
+   if(!(await fs.stat(source)).isDirectory()&&!isPublicAsset(relative))return false;
    return !retired.has(relative)&&!/^assets\/(?:licensed|studio)(?:\/|$)/.test(relative)&&(!relative.startsWith('assets/responsive/')||responsiveFiles.has(relative));
   }
  });
@@ -42,6 +45,7 @@ async function buildVercel(output=path.join(ROOT,'.vercel','output')){
  },null,2));
  await fs.writeFile(path.join(output,'config.json'),JSON.stringify({version:3,routes:[
   {src:'/assets/responsive/(.*)',headers:{'Cache-Control':'public, max-age=31536000, immutable'},continue:true},
+  {src:'/(.*)',headers:securityHeaders,continue:true},
   {handle:'filesystem'},
   {src:'/(.*)',dest:'/storefront'}
  ]},null,2));

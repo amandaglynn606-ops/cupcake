@@ -81,7 +81,15 @@ Set `PUBLIC_SITE_URL` in Vercel to the site's public HTTPS address for the sitem
 
 The existing order/enquiry archive uses local filesystem storage. Vercel functions cannot provide a durable local archive: connect persistent storage before relying on saved submissions there. Do not use temporary `/tmp` storage for customer records. Automatic email delivery also still needs an email provider connection.
 
-## Validation
+## Public source and verification
+
+The shared page head includes the owner's Google site verification tag. Google must be able to read this public tag; confirm ownership in Search Console after deployment.
+
+The canonical public origin is `https://www.weddingcakes.ae`, with an optional `PUBLIC_SITE_URL` deployment override. `/robots.txt` permits all crawlers to browse public pages while excluding API and private paths. `/sitemap.xml` lists unique public pages. `/llms.txt` is a plain-text, catalogue-generated guide to public collections, cake pages and policies; it is not an executable script or a guarantee of AI inclusion. Search, cart, checkout and wishlist pages retain `noindex`. Search and AI services decide independently whether to crawl, index or cite the site. Hosting-level authentication or bot restrictions must also permit public crawler access.
+
+Browser HTML, CSS, JavaScript and images remain inspectable and downloadable, including through View Source. Disabling keyboard shortcuts does not protect them. Keep secrets and private business logic on the server. The public asset allowlist excludes internal JSON manifests, source maps, dotfiles and backups on both the local server and the Vercel CDN build. Security headers apply to both HTML and deployed static assets. Customer records, environment files and server source are not public routes. These safeguards do not constitute a full security audit or guarantee anonymity. Repository visibility is separate from website access.
+
+## Validation commands
 
 `npm.cmd test` validates restored inventory, original pricing and image files, regional fees, private storage and HTTP routes. Stable archived fixtures preserve earlier business-rule checks.
 

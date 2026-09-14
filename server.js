@@ -3,6 +3,7 @@ const http=require('node:http');
 const fs=require('node:fs/promises');
 const path=require('node:path');
 const {createHash}=require('node:crypto');
+const {securityHeaders,isPublicAsset}=require('./lib/public-security');
 const {totals,EMIRATES}=require('./lib/pricing');
 const {createOrder,OrderError}=require('./lib/orders');
 const {createEnquiry}=require('./lib/enquiries');
@@ -27,9 +28,7 @@ function makeServer({catalog,orderDir=path.join(ROOT,'private','orders'),enquiry
  return http.createServer(async(req,res)=>{
   const send=(status,data)=>{res.writeHead(status,{'Content-Type':'application/json; charset=utf-8','Cache-Control':'no-store'});res.end(JSON.stringify(data));};
   const page=(html,status=200)=>{res.writeHead(status,{'Content-Type':'text/html; charset=utf-8','Cache-Control':'no-cache'});res.end(req.method==='HEAD'?undefined:html);};
-  res.setHeader('X-Content-Type-Options','nosniff');
-  res.setHeader('Referrer-Policy','strict-origin-when-cross-origin');
-  res.setHeader('Content-Security-Policy',"default-src 'self'; img-src 'self' https: data:; font-src 'self'; style-src 'self'; script-src 'self'; connect-src 'self'; object-src 'none'; base-uri 'none'; frame-ancestors 'none'; form-action 'self'");
+  for(const [name,value]of Object.entries(securityHeaders))res.setHeader(name,value);
   try{
    const url=new URL(req.url,'http://localhost');
    if(req.method==='GET'&&url.pathname==='/api/config')return send(200,{name:config.name||'Maison Zavi',whatsapp:config.whatsapp||'',email:config.email||''});
@@ -101,16 +100,20 @@ function makeServer({catalog,orderDir=path.join(ROOT,'private','orders'),enquiry
    if(pathname==='/index.html'||(pathname.endsWith('/')&&pathname!=='/')){res.writeHead(302,{Location:pathname==='/index.html'?'/':pathname.slice(0,-1)+url.search});return res.end();}
    if(pathname==='/')return page(home(ctx));
    if(pathname==='/robots.txt'){
-    const origin=siteOrigin(config);
-    res.writeHead(200,{'Content-Type':'text/plain; charset=utf-8'});
-    return res.end('User-agent: *\nDisallow: /api/\nDisallow: /private/\n'+(origin?'Sitemap: '+origin+'/sitemap.xml\n':''));
+    res.writeHead(200,{'Content-Type':'text/plain; charset=utf-8','Cache-Control':'public, max-age=300'});
+    return res.end(req.method==='HEAD'?undefined:require('./lib/discovery').robots(config));
+   }
+   if(pathname==='/llms.txt'){
+    if(!siteOrigin(config))return send(503,{error:'The public site URL has not been configured.'});
+    res.writeHead(200,{'Content-Type':'text/plain; charset=utf-8','Cache-Control':'public, max-age=300'});
+    return res.end(req.method==='HEAD'?undefined:require('./lib/discovery').llms(ctx));
    }
    if(pathname==='/sitemap.xml'){
     const origin=siteOrigin(config);if(!origin)return send(503,{error:'The public site URL has not been configured.'});
-    const routes=['/','/collections','/collections/all','/atelier','/bespoke','/contact','/delivery','/privacy','/faq',...Object.keys(require('./pages/policies').policies),...ctx.collections.map(c=>'/collections/'+c.slug),...ctx.catalog.products.map(p=>'/cakes/'+p.handle)];
+    const routes=[...new Set(['/','/collections','/collections/all','/atelier','/bespoke','/contact','/delivery','/privacy','/faq',...Object.keys(require('./pages/policies').policies),...ctx.collections.map(c=>'/collections/'+c.slug),...ctx.catalog.products.map(p=>'/cakes/'+p.handle)])];
     const xmlEscape=s=>s.replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&apos;'}[c]));
     res.writeHead(200,{'Content-Type':'application/xml; charset=utf-8'});
-    return res.end('<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'+routes.map(r=>'<url><loc>'+xmlEscape(origin+r)+'</loc></url>').join('')+'</urlset>');
+    return res.end(req.method==='HEAD'?undefined:'<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'+routes.map(r=>'<url><loc>'+xmlEscape(origin+r)+'</loc></url>').join('')+'</urlset>');
    }
    if(pathname==='/collections')return page(directory(ctx));
    if(pathname.startsWith('/collections/')){
@@ -136,7 +139,7 @@ function makeServer({catalog,orderDir=path.join(ROOT,'private','orders'),enquiry
    if(retiredPhotos.has(relative))return send(410,{error:'This image has been replaced.'});
    if(/^assets\/(?:licensed|studio)\//.test(relative))return send(410,{error:'This image has been retired.'});
    if(relative.split('/').includes('..'))return send(404,{error:'Not found.'});
-   if(relative!=='favicon.svg'&&!/^assets\/[a-zA-Z0-9_./-]+$/.test(relative))return page(notFound(ctx),404);
+   if(!isPublicAsset(relative))return page(notFound(ctx),404);
    const file=path.resolve(ROOT,relative);
    if(!file.startsWith(ROOT+path.sep))return send(404,{error:'Not found.'});
    const body=await fs.readFile(file);
