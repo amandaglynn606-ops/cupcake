@@ -1,4 +1,4 @@
-const {test,expect}=require('@playwright/test');
+const {test,expect}=require('./whatsapp-fixture');
 
 test('gift, anonymous sender, instructions and pickup flow persist from cart to saved quote',async({page})=>{
  await page.goto('/collections/all?q=Pink+Piped+Cake+with+White+Ribbon+Bows');await page.locator('.card-quote').first().click();

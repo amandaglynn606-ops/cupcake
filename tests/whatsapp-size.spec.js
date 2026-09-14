@@ -1,4 +1,4 @@
-const {test,expect}=require('@playwright/test');
+const {test,expect}=require('./whatsapp-fixture');
 const catalog=require('../lib/catalog').buildCatalog(require('../lib/load-catalog').loadCatalog(),{curated:true});
 const cake=catalog.catalog.products.find(p=>p.id==='8028660433121');
 const single=catalog.catalog.products.find(p=>require('../lib/tier-options').tierCount(p,p.variants[0])===1);

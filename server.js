@@ -46,7 +46,7 @@ function makeServer({catalog,orderDir=path.join(ROOT,'private','orders'),enquiry
     if(req.headers.origin){let origin;try{origin=new URL(req.headers.origin);}catch{return send(403,{error:'Invalid origin.'});}if(origin.host!==req.headers.host)return send(403,{error:'Please submit your request from this website.'});}
     if(!req.headers['content-type']?.startsWith('application/json'))return send(415,{error:'JSON is required.'});
     let raw='';
-    const limit=url.pathname==='/api/enquiries'?22*1024*1024:65536;
+    const limit=url.pathname==='/api/enquiries'&&config.submissionMode!=='whatsapp'?22*1024*1024:65536;
     let bytesRead=0;const chunks=[];
     for await(const chunk of req){bytesRead+=chunk.length;if(bytesRead>limit)return send(413,{error:'This request is too large.'});chunks.push(chunk);}
     raw=Buffer.concat(chunks).toString('utf8');
@@ -69,6 +69,7 @@ function makeServer({catalog,orderDir=path.join(ROOT,'private','orders'),enquiry
     const key=req.headers['idempotency-key'];
     if(typeof key!=='string'||!/^[a-zA-Z0-9-]{16,80}$/.test(key))return send(400,{error:'A valid request reference is required.'});
     const isOrder=url.pathname==='/api/orders';
+    if(config.submissionMode==='whatsapp')return send(201,require('./lib/whatsapp-submission').prepareWhatsApp(input,{isOrder,catalog:ctx.catalog,number:config.whatsapp}));
     const directory=isOrder?orderDir:enquiryDir;
     const flightKey=(isOrder?'order:':'enquiry:')+key;
     const filename=path.join(directory,key+'.json');

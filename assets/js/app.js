@@ -38,11 +38,9 @@ export async function renderCart(){
  }catch(error){if(request===cartRequest)containers.forEach(el=>el.innerHTML='<div class="cart-empty"><p class="form-error">'+esc(error.message)+'</p><button class="button button-outline" data-retry-cart>Try again</button><button class="text-link" data-clear-cart>Clear your cart</button></div>');}
 }
 export function downloadText(filename,text){const url=URL.createObjectURL(new Blob([text],{type:'text/plain;charset=utf-8'}));const a=document.createElement('a');a.href=url;a.download=filename;a.click();setTimeout(()=>URL.revokeObjectURL(url),1500);}
-export function contactUrl(subject,text,preferred='whatsapp'){
+export function contactUrl(subject,text){
  const config=data.config||{};
- if(preferred==='email'&&/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(config.email||''))return 'mailto:'+config.email+'?subject='+encodeURIComponent(subject)+'&body='+encodeURIComponent(text);
  if(/^\d{7,15}$/.test(config.whatsapp||''))return 'https://wa.me/'+config.whatsapp+'?text='+encodeURIComponent(subject+'\n\n'+text);
- if(/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(config.email||''))return 'mailto:'+config.email+'?subject='+encodeURIComponent(subject)+'&body='+encodeURIComponent(text);
  return '';
 }
 export function orderText(order){

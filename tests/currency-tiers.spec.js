@@ -1,4 +1,4 @@
-const {test,expect}=require('@playwright/test');
+const {test,expect}=require('./whatsapp-fixture');
 const catalog=require('../data/catalog.json');
 const rates=require('../lib/exchange').aedPerUnit;
 const product=catalog.products.find(p=>p.id==='8028660203745');

@@ -49,7 +49,7 @@ test('bespoke enquiries require contact information, future dates, guests, and c
 
 test('all collection routes render independently and enquiries persist idempotently',async t=>{
  const directory=await fs.mkdtemp(path.join(os.tmpdir(),'boutique-test-'));
- const server=makeServer({catalog,orderDir:path.join(directory,'orders'),enquiryDir:path.join(directory,'enquiries'),config:require('../store.config.json')});
+ const server=makeServer({catalog,orderDir:path.join(directory,'orders'),enquiryDir:path.join(directory,'enquiries'),config:{...require('../store.config.json'),submissionMode:'archive'}});
  await new Promise(resolve=>server.listen(0,'127.0.0.1',resolve));
  t.after(async()=>{server.closeAllConnections();await new Promise(resolve=>server.close(resolve));await fs.rm(directory,{recursive:true,force:true});});
  const base='http://127.0.0.1:'+server.address().port;

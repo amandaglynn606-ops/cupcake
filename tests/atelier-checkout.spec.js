@@ -1,4 +1,4 @@
-const {test,expect}=require('@playwright/test');
+const {test,expect}=require('./whatsapp-fixture');
 const catalog=require('../lib/catalog').buildCatalog(require('../lib/load-catalog').loadCatalog(),{curated:true}).catalog;
 const p=catalog.products.find(p=>p.kind==='cake'&&p.available&&!p.quoteOnly&&require('../lib/tier-options').tierCount(p,p.variants[0])===1),v=p.variants.find(v=>v.available);
 async function seed(page){await page.goto('/');await page.evaluate(({p,v})=>localStorage.setItem('cake-cart-v1',JSON.stringify([{productId:p.id,variantId:v.id,quantity:2,personalisation:{colouring:'natural',allergens:'accept'}}])),{p,v});await page.goto('/checkout');}

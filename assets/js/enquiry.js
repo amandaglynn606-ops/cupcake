@@ -1,4 +1,5 @@
 import {$,data,esc,downloadText,contactUrl} from './app.js';
+import {prepareWhatsAppTab,addMessageActions} from './whatsapp-handoff.js';
 const form=$('#enquiry-form');
 if(form.elements.date)form.elements.date.min=new Intl.DateTimeFormat('en-CA',{timeZone:'Asia/Dubai',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date());
 let lastPayload='',key='',pending=false;
@@ -14,7 +15,7 @@ fileInput?.addEventListener('change',async()=>{
  if(files.length+references.length>3){referenceError.textContent='You can add up to 3 images. Remove one to choose another.';fileInput.value='';return;}
  if(files.some(f=>!['image/jpeg','image/png','image/webp'].includes(f.type)||f.size>5*1024*1024)){referenceError.textContent='Please use JPG, PNG or WebP images, up to 5 MB each.';fileInput.value='';return;}
  fileInput.disabled=true;
- try{const loaded=await Promise.all(files.map(async file=>({...file,name:file.name,preview:(await readImage(file)).data})));references.push(...loaded);renderReferences();}
+ try{const loaded=await Promise.all(files.map(async file=>({file,name:file.name,type:file.type,size:file.size,preview:(await readImage(file)).data})));references.push(...loaded);renderReferences();}
  catch(error){referenceError.textContent=error.message;}
  finally{fileInput.value='';fileInput.disabled=false;}
 });
@@ -24,21 +25,22 @@ form.addEventListener('submit',async event=>{
  event.preventDefault();if(pending||fileInput?.disabled||!form.reportValidity())return;
  const input={...Object.fromEntries(new FormData(form)),kind:data.enquiryKind,consent:form.elements.consent.checked};
  delete input.referenceFiles;
- input.referenceImages=references.map(file=>({name:file.name,data:file.preview}));
+ input.referenceImages=references.map(file=>({name:file.name,type:file.type,size:file.size}));
  const body=JSON.stringify(input);if(body!==lastPayload){key=crypto.randomUUID();lastPayload=body;}
  const button=$('button[type=submit]',form),original=button.innerHTML,error=$('.form-error',form);
- pending=true;button.disabled=true;button.textContent='Saving your enquiry…';error.textContent='';
+ const handoff=prepareWhatsAppTab();
+ pending=true;button.disabled=true;button.textContent='Preparing WhatsApp…';error.textContent='';
  try{
   const response=await fetch('/api/enquiries',{method:'POST',headers:{'Content-Type':'application/json','Idempotency-Key':key},body,signal:AbortSignal.timeout(20000)});
-  const result=await response.json();if(!response.ok)throw new Error(result.error||'Your enquiry could not be saved.');
+  const result=await response.json();if(!response.ok)throw new Error(result.error||'Your enquiry could not be prepared.');
   const e=result.enquiry;
-  const text=[data.config.name.toUpperCase()+' — '+(e.kind==='bespoke'?'CUSTOM CAKE ENQUIRY':'ENQUIRY'),e.id,'','Name: '+e.name,'Email: '+e.email,'Phone: '+e.phone,'Occasion / enquiry: '+e.occasion,...(e.kind==='bespoke'?['Preferred date: '+e.date,'Guests: '+e.guests,'Budget: '+e.budget]:[]),'',e.brief,...(e.referenceImages||[]).map(image=>'Reference image saved: '+image.name),'','Status: enquiry saved; subject to confirmation'].join('\n');
+  const text=[data.config.name.toUpperCase()+' — '+(e.kind==='bespoke'?'CUSTOM CAKE ENQUIRY':'ENQUIRY'),e.id,'','Name: '+e.name,'Email: '+e.email,'Phone: '+e.phone,'Occasion / enquiry: '+e.occasion,...(e.kind==='bespoke'?['Preferred date: '+e.date,'Guests: '+e.guests,'Budget: '+e.budget]:[]),'',e.brief,...(e.referenceImages||[]).map(image=>'Reference photo to attach: '+image.name),'','Please confirm my enquiry, design, pricing and timing.'].join('\n');
   const contact=contactUrl('Enquiry '+e.id,text);
-  const email=data.config.email?contactUrl('Enquiry '+e.id,text,'email'):'';
   form.hidden=true;$('#enquiry-success').hidden=false;
-  $('#enquiry-success').innerHTML='<div class="request-success"><img src="/assets/brand/monogram.svg?v=zavi" alt="" width="65" height="80"><p class="eyebrow">YOUR ENQUIRY</p><h2 id="enquiry-success-title" tabindex="-1">Your enquiry is saved.</h2><p>Keep a copy of your enquiry. Design, feasibility, pricing and timing require a separate confirmation.</p><p class="request-reference">'+esc(e.id)+'</p><div class="success-actions"><button class="button" id="download-enquiry">Download your enquiry ↓</button>'+(email?'<a class="button" href="'+esc(email)+'">Email your enquiry</a>':'')+(contact?'<a class="button button-outline" href="'+esc(contact)+'" target="_blank" rel="noopener">Send your enquiry on WhatsApp ↗</a>':'')+'<a class="text-link" href="/collections">View all collections →</a></div></div>';
+  $('#enquiry-success').innerHTML='<div class="request-success"><img src="/assets/brand/monogram.svg?v=zavi" alt="" width="65" height="80"><p class="eyebrow">ONE LAST STEP</p><h2 id="enquiry-success-title" tabindex="-1">Ready for WhatsApp.</h2><p>Press Send in WhatsApp to deliver your enquiry to Maison Zavi. Your message has not been sent yet. Design, price and timing require confirmation.</p><p class="request-reference">'+esc(e.id)+'</p>'+(e.referenceImages.length?'<p>'+e.referenceImages.length+' reference photo'+(e.referenceImages.length===1?'':'s')+' selected. Attach the original photos in WhatsApp, or use the share button where available. Photos are not attached to the text link automatically.</p>':'')+'<div class="success-actions">'+(contact?'<a class="button" id="send-whatsapp-enquiry" href="'+esc(contact)+'" target="_blank" rel="noopener noreferrer">Send your enquiry on WhatsApp ↗</a>':'')+'<button class="text-link" id="download-enquiry">Download your enquiry ↓</button></div><details class="order-message"><summary>Review your WhatsApp message</summary><pre>'+esc(text)+'</pre></details><a class="text-link" href="/collections">View all collections →</a></div>';
   $('#download-enquiry').addEventListener('click',()=>downloadText(e.id+'.txt',text));$('#enquiry-success-title').focus();
-  if(e.referenceImages?.length){const note=document.createElement('p');note.textContent=e.referenceImages.length+' reference image'+(e.referenceImages.length===1?'':'s')+' saved with your enquiry.';$('#enquiry-success .request-reference').before(note);}
- }catch(e){error.textContent=e.name==='TimeoutError'?'Your enquiry took too long to save. Please try again.':e.message;}
+  addMessageActions($('#enquiry-success .success-actions'),{text,files:references.map(reference=>reference.file)});
+  handoff.open(contact);
+ }catch(e){handoff.close();error.textContent=e.name==='TimeoutError'?'Your enquiry took too long to prepare. Please try again.':e.message;}
  finally{pending=false;button.disabled=false;button.innerHTML=original;}
 });

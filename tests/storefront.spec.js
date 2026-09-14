@@ -1,4 +1,4 @@
-﻿const { test, expect } = require('@playwright/test');
+﻿const { test, expect } = require('./whatsapp-fixture');
 const catalog=require('../lib/load-catalog').loadCatalog();
 const publicCatalog=require('../lib/catalog').buildCatalog(catalog,{curated:true});
 const product=publicCatalog.byId.get(publicCatalog.catalog.featuredId);
@@ -165,7 +165,7 @@ test('mobile navigation, filters, product, and bag fit without horizontal overfl
  await page.keyboard.press('Escape');
  await expect(page.locator('#bag-drawer')).not.toBeVisible();
 });
-test('bespoke and contact enquiries save independently with a downloadable brief',async({page})=>{
+test('bespoke and contact enquiries prepare WhatsApp messages with a downloadable brief',async({page})=>{
  await page.goto('/bespoke');
  await page.locator('[name=name]').fill('Bespoke Test');
  await page.locator('[name=email]').fill('bespoke@example.com');
@@ -182,7 +182,7 @@ test('bespoke and contact enquiries save independently with a downloadable brief
  expect(response.status()).toBe(201);
  expect((await response.json()).enquiry.kind).toBe('bespoke');
  await expect(page.locator('#enquiry-success-title')).toBeVisible();
- await expect(page.getByRole('link',{name:'Email your enquiry',exact:true})).toHaveAttribute('href',/^mailto:info@weddingcakes\.ae\?subject=/);
+ await expect(page.locator('#enquiry-success a[href^="mailto:"]')).toHaveCount(0);
  await expect(page.locator('#enquiry-success').getByRole('link',{name:/Send your enquiry on WhatsApp/})).toHaveAttribute('href',/^https:\/\/wa.me\/971545974005\?text=/);
  const download=page.waitForEvent('download');await page.locator('#download-enquiry').click();
  expect((await download).suggestedFilename()).toMatch(/^CUSTOM-/);
@@ -199,7 +199,7 @@ test('bespoke and contact enquiries save independently with a downloadable brief
  response=await responsePromise;
  expect(response.status()).toBe(201);
  expect((await response.json()).enquiry).toMatchObject({kind:'contact',occasion:'General enquiry'});
- await expect(page.getByRole('link',{name:'Email your enquiry',exact:true})).toHaveAttribute('href',/^mailto:info@weddingcakes\.ae\?subject=/);
+ await expect(page.locator('#enquiry-success a[href^="mailto:"]')).toHaveCount(0);
  await expect(page.locator('#enquiry-success-title')).toBeVisible();
 });
 test('internal pages render distinct server content and unknown pages return 404',async({page})=>{

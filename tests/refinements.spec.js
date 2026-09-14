@@ -1,4 +1,4 @@
-const {test,expect}=require('@playwright/test');
+const {test,expect}=require('./whatsapp-fixture');
 const path=require('node:path');
 const catalog=require('../data/catalog.json');
 const product=catalog.products[0];
@@ -68,7 +68,7 @@ test('custom form uploads, previews, removes and saves references; whole date in
  const responsePromise=page.waitForResponse(r=>r.url().endsWith('/api/enquiries'));
  await page.locator('#enquiry-form button[type=submit]').click();const response=await responsePromise;
  expect(response.status()).toBe(201);expect((await response.json()).enquiry.referenceImages).toHaveLength(1);
- await expect(page.locator('#enquiry-success')).toContainText('1 reference image saved');
+ await expect(page.locator('#enquiry-success')).toContainText('1 reference photo selected');
 });
 test('marketing headings stay within two lines and pages fit narrow screens with reduced motion',async({page})=>{
  await page.emulateMedia({reducedMotion:'reduce'});

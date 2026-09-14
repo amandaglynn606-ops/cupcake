@@ -61,11 +61,11 @@ The homepage collections section uses six cards with category descriptions. Coll
 
 Homepage, contact and bespoke pages share `assets/css/maison-pages.css` for coordinated styling; homepage sections alternate beige ivory and cream, with burgundy accents. The homepage has coordinated hero, wedding, collections, luxury, bespoke and process sections. Both cake galleries advance every 5.6 seconds while visible; hover, focus, manual navigation, Escape, hidden tabs and reduced-motion preferences stop automatic movement. Contact and bespoke forms use numbered fieldsets, help links and responsive layouts, retaining server validation, reference uploads and downloadable enquiry records.
 
-Order requests offer a WhatsApp handoff to `971545974005`, configured in `store.config.json`. No online payment is collected. Contact and bespoke enquiries offer an email handoff to `info@weddingcakes.ae`; saving an enquiry does not automatically send email. Automatic delivery requires an email provider connection.
+Order requests offer a WhatsApp handoff to `971545974005`, configured in `store.config.json`. No online payment is collected. Contact and custom enquiries also use WhatsApp. On submission, a tab opens with the validated message; the customer must press Send. Popup-blocked browsers retain a manual link, a full-message copy action and a downloadable summary. No email submission action is offered.
 
 Delivery: **AED 100 in Dubai**, **AED 200 in the other six emirates**, once per order. Pickup is free. Custom forms support up to three private JPG/PNG/WebP reference uploads (5 MB each).
 
-Order requests and enquiry files are stored under `private/` and are not served publicly. Back up this directory for production use. `npm.cmd run orders` and `npm.cmd run enquiries` inspect saved requests.
+`submissionMode: "whatsapp"` prepares validated requests without filesystem writes. Customer data is not logged or archived by this flow. Reference files remain in the browser; only validated metadata is posted, and customers attach the originals in WhatsApp or use native file sharing where supported. Click-to-chat cannot attach photos automatically. Earlier local records remain under `private/` and can be inspected with `npm.cmd run orders` or `npm.cmd run enquiries`.
 
 ## Pages and SEO
 
@@ -79,7 +79,7 @@ Set `PUBLIC_SITE_URL` or `siteUrl` in `store.config.json` to the real public HTT
 
 Set `PUBLIC_SITE_URL` in Vercel to the site's public HTTPS address for the sitemap and canonical URLs.
 
-The existing order/enquiry archive uses local filesystem storage. Vercel functions cannot provide a durable local archive: connect persistent storage before relying on saved submissions there. Do not use temporary `/tmp` storage for customer records. Automatic email delivery also still needs an email provider connection.
+The configured WhatsApp flow works without durable filesystem storage on Vercel. API responses explicitly report `awaiting-customer-send`, not delivery success. Automatic business-side delivery would require a separate WhatsApp Business API integration and credentials. If archive mode is enabled later, connect persistent private storage before relying on it in production.
 
 ## Public source and verification
 
