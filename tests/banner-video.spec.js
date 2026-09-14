@@ -8,6 +8,15 @@ test('stock banner plays silently without controls and uses mobile footage',asyn
   await expect(video).toHaveAttribute('src',width<760?'/assets/videos/wedding-second-full-frame-mobile.mp4':'/assets/videos/wedding-second-full-frame.mp4');
   await expect(page.getByRole('button',{name:/play|pause/i})).toHaveCount(0);
   const headingBox=await page.locator('h1').boundingBox();expect(headingBox.x).toBeGreaterThanOrEqual(20);
+  if(width<=760){
+   const media=await page.locator('.hero-media').boundingBox();
+   expect(headingBox.y+headingBox.height).toBeLessThan(media.y);
+   await expect(page.locator('#hero-heading')).toHaveCSS('font-size','36px');
+   await expect(page.locator('.hero-description')).toHaveCSS('text-align','center');
+   await expect(page.locator('.hero-description')).toHaveCSS('font-size','14px');
+   await expect(page.locator('.hero-footnote')).toBeHidden();
+   await expect(page.locator('.hero-actions .text-link')).toHaveCSS('border-bottom-width','0px');
+  }
   await page.screenshot({path:'artifacts/banner-video/home-'+width+'.png'});
   await page.keyboard.press('Escape');expect(await video.evaluate(v=>v.paused)).toBe(true);
  }

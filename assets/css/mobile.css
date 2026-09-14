@@ -71,11 +71,18 @@
  .maison-home .carousel-track .product-caption{padding:16px}
  .maison-home .carousel-track .card-actions{flex-direction:row}
  .maison-home .carousel-controls button{width:44px;height:44px}
- .maison-home .video-hero .hero-inner{padding:28px 16px 32px}
- .maison-home .video-hero .hero-copy h1{font-size:44px;line-height:1.12}
- .maison-home .video-hero .hero-actions{gap:10px;max-width:none}
+ .maison-home .video-hero{display:grid;grid-template-columns:minmax(0,1fr);gap:0}
+ .maison-home .video-hero .hero-inner,.maison-home .video-hero .hero-copy{display:contents}
+ .maison-home .video-hero .hero-title{grid-row:1;padding:24px 20px 20px;text-align:center}
+ .maison-home .video-hero .hero-title .eyebrow{font-size:9px;line-height:1.6;letter-spacing:.08em;margin:0 0 12px}
+ .maison-home .video-hero .hero-copy h1{font-size:36px;line-height:1.15;margin:0}
+ .maison-home .video-hero .hero-media{grid-row:2}
+ .maison-home .video-hero .hero-copy>p.hero-description{grid-row:3;font-size:14px;line-height:1.7;text-align:center;width:calc(100% - 32px);max-width:340px;margin:20px auto}
+ .maison-home .video-hero .hero-actions{grid-row:4;gap:10px;max-width:none;margin:0 16px 28px}
  .maison-home .video-hero .hero-actions>a{min-height:52px;font-size:10px;padding:10px 6px}
- .maison-home .video-hero .hero-copy>p.hero-footnote{letter-spacing:.08em}
+ .maison-home .video-hero .hero-actions .text-link{border-bottom:0}
+ .maison-home .video-hero .hero-copy>p.hero-footnote{display:none}
+ .maison-home .maison-promises{border-top:0}
  .maison-home .collection-showcase-grid{align-items:stretch;grid-auto-rows:1fr}
  .maison-home .collection-showcase-grid .collection-tile{display:flex;flex-direction:column;height:100%}
  .maison-home .collection-showcase-grid .collection-image{aspect-ratio:1!important;border-radius:0;padding:0;flex:none}
