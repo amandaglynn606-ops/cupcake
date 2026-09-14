@@ -1,0 +1,188 @@
+{
+  "updatedAt": "2026-09-12T14:36:05.640Z",
+  "total": 1054,
+  "applied": 126,
+  "pending": 928,
+  "batches": [
+    {
+      "batch": 1,
+      "total": 50,
+      "applied": 23,
+      "searched": 45,
+      "pending": 27,
+      "file": "data/image-batches/001.json"
+    },
+    {
+      "batch": 2,
+      "total": 50,
+      "applied": 17,
+      "searched": 50,
+      "pending": 33,
+      "file": "data/image-batches/002.json"
+    },
+    {
+      "batch": 3,
+      "total": 50,
+      "applied": 14,
+      "searched": 50,
+      "pending": 36,
+      "file": "data/image-batches/003.json"
+    },
+    {
+      "batch": 4,
+      "total": 50,
+      "applied": 16,
+      "searched": 50,
+      "pending": 34,
+      "file": "data/image-batches/004.json"
+    },
+    {
+      "batch": 5,
+      "total": 50,
+      "applied": 13,
+      "searched": 38,
+      "pending": 37,
+      "file": "data/image-batches/005.json"
+    },
+    {
+      "batch": 6,
+      "total": 50,
+      "applied": 14,
+      "searched": 50,
+      "pending": 36,
+      "file": "data/image-batches/006.json"
+    },
+    {
+      "batch": 7,
+      "total": 50,
+      "applied": 6,
+      "searched": 50,
+      "pending": 44,
+      "file": "data/image-batches/007.json"
+    },
+    {
+      "batch": 8,
+      "total": 50,
+      "applied": 15,
+      "searched": 49,
+      "pending": 35,
+      "file": "data/image-batches/008.json"
+    },
+    {
+      "batch": 9,
+      "total": 50,
+      "applied": 8,
+      "searched": 50,
+      "pending": 42,
+      "file": "data/image-batches/009.json"
+    },
+    {
+      "batch": 10,
+      "total": 50,
+      "applied": 0,
+      "searched": 0,
+      "pending": 50,
+      "file": "data/image-batches/010.json"
+    },
+    {
+      "batch": 11,
+      "total": 50,
+      "applied": 0,
+      "searched": 0,
+      "pending": 50,
+      "file": "data/image-batches/011.json"
+    },
+    {
+      "batch": 12,
+      "total": 50,
+      "applied": 0,
+      "searched": 0,
+      "pending": 50,
+      "file": "data/image-batches/012.json"
+    },
+    {
+      "batch": 13,
+      "total": 50,
+      "applied": 0,
+      "searched": 0,
+      "pending": 50,
+      "file": "data/image-batches/013.json"
+    },
+    {
+      "batch": 14,
+      "total": 50,
+      "applied": 0,
+      "searched": 0,
+      "pending": 50,
+      "file": "data/image-batches/014.json"
+    },
+    {
+      "batch": 15,
+      "total": 50,
+      "applied": 0,
+      "searched": 0,
+      "pending": 50,
+      "file": "data/image-batches/015.json"
+    },
+    {
+      "batch": 16,
+      "total": 50,
+      "applied": 0,
+      "searched": 0,
+      "pending": 50,
+      "file": "data/image-batches/016.json"
+    },
+    {
+      "batch": 17,
+      "total": 50,
+      "applied": 0,
+      "searched": 0,
+      "pending": 50,
+      "file": "data/image-batches/017.json"
+    },
+    {
+      "batch": 18,
+      "total": 50,
+      "applied": 0,
+      "searched": 0,
+      "pending": 50,
+      "file": "data/image-batches/018.json"
+    },
+    {
+      "batch": 19,
+      "total": 50,
+      "applied": 0,
+      "searched": 0,
+      "pending": 50,
+      "file": "data/image-batches/019.json"
+    },
+    {
+      "batch": 20,
+      "total": 50,
+      "applied": 0,
+      "searched": 0,
+      "pending": 50,
+      "file": "data/image-batches/020.json"
+    },
+    {
+      "batch": 21,
+      "total": 50,
+      "applied": 0,
+      "searched": 0,
+      "pending": 50,
+      "file": "data/image-batches/021.json"
+    },
+    {
+      "batch": 22,
+      "total": 4,
+      "applied": 0,
+      "searched": 0,
+      "pending": 4,
+      "file": "data/image-batches/022.json"
+    }
+  ],
+  "originalImageFiles": 1704,
+  "originalImageFilesStillUsed": 0,
+  "originalImageFilesRetired": 1704,
+  "productsWithTemporaryPlaceholder": 928
+}

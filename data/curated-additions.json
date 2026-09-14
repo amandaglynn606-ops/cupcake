@@ -1,0 +1,2786 @@
+{
+  "products": [
+    {
+      "id": "9900000000001",
+      "handle": "ivory-gold-rose-engagement-cake-c01",
+      "title": "Ivory & Gold Rose Engagement Cake",
+      "categories": [
+        "engagement-cakes",
+        "luxury-cakes"
+      ],
+      "kind": "cake",
+      "description": "Single-tier ivory cake with pale roses, gold accents and an Engaged topper. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/cake-ivory-gold-rose-engagement-cake-c01.webp",
+      "images": [
+        "assets/products/cakes/cake-ivory-gold-rose-engagement-cake-c01.webp"
+      ],
+      "imageAlt": "Single-tier ivory cake with pale roses, gold accents and an Engaged topper",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "990000000000101",
+          "title": "1 tier - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/cake-ivory-gold-rose-engagement-cake-c01.webp",
+          "tiers": 1
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 1,
+      "catalogueAddition": "curated-2026-09",
+      "searchText": "Ivory & Gold Rose Engagement Cake 1 tier  flowers bespoke"
+    },
+    {
+      "id": "9900000000002",
+      "handle": "pink-geode-blossom-engagement-cake-c02",
+      "title": "Pink Geode Blossom Engagement Cake",
+      "categories": [
+        "engagement-cakes",
+        "luxury-cakes"
+      ],
+      "kind": "cake",
+      "description": "Single-tier pink geode cake with pale blossoms and gold edging. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/cake-pink-geode-blossom-engagement-cake-c02.webp",
+      "images": [
+        "assets/products/cakes/cake-pink-geode-blossom-engagement-cake-c02.webp"
+      ],
+      "imageAlt": "Single-tier pink geode cake with pale blossoms and gold edging",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "990000000000201",
+          "title": "1 tier - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/cake-pink-geode-blossom-engagement-cake-c02.webp",
+          "tiers": 1
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 1,
+      "catalogueAddition": "curated-2026-09",
+      "searchText": "Pink Geode Blossom Engagement Cake 1 tier  flowers bespoke"
+    },
+    {
+      "id": "9900000000003",
+      "handle": "navy-ivory-rose-cascade-engagement-cake-c03",
+      "title": "Navy & Ivory Rose Cascade Engagement Cake",
+      "categories": [
+        "engagement-cakes",
+        "luxury-cakes",
+        "tiered-cake"
+      ],
+      "kind": "cake",
+      "description": "Two-tier white cake with navy ribbon, a blue and white rose cascade and an engagement topper. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/cake-navy-ivory-rose-cascade-engagement-cake-c03.webp",
+      "images": [
+        "assets/products/cakes/cake-navy-ivory-rose-cascade-engagement-cake-c03.webp"
+      ],
+      "imageAlt": "Two-tier white cake with navy ribbon, a blue and white rose cascade and an engagement topper",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "990000000000301",
+          "title": "2 tiers - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/cake-navy-ivory-rose-cascade-engagement-cake-c03.webp",
+          "tiers": 2
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 2,
+      "catalogueAddition": "curated-2026-09",
+      "searchText": "Navy & Ivory Rose Cascade Engagement Cake 2 tier  flowers bespoke"
+    },
+    {
+      "id": "9900000000004",
+      "handle": "silver-blush-pearl-engagement-cake-c04",
+      "title": "Silver & Blush Pearl Engagement Cake",
+      "categories": [
+        "engagement-cakes",
+        "luxury-cakes",
+        "tiered-cake"
+      ],
+      "kind": "cake",
+      "description": "Two-tier white cake with silver leaf and large blush, silver and pearl-like spheres. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/cake-silver-blush-pearl-engagement-cake-c04.webp",
+      "images": [
+        "assets/products/cakes/cake-silver-blush-pearl-engagement-cake-c04.webp"
+      ],
+      "imageAlt": "Two-tier white cake with silver leaf and large blush, silver and pearl-like spheres",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "990000000000401",
+          "title": "2 tiers - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/cake-silver-blush-pearl-engagement-cake-c04.webp",
+          "tiers": 2
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 2,
+      "catalogueAddition": "curated-2026-09",
+      "searchText": "Silver & Blush Pearl Engagement Cake 2 tier  flowers bespoke"
+    },
+    {
+      "id": "9900000000005",
+      "handle": "gold-rose-proposal-cake-c05",
+      "title": "Gold Rose Proposal Cake",
+      "categories": [
+        "engagement-cakes",
+        "luxury-cakes",
+        "tiered-cake"
+      ],
+      "kind": "cake",
+      "description": "Two-tier ivory cake with gold-edged roses and a proposal silhouette topper. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/cake-gold-rose-proposal-cake-c05.webp",
+      "images": [
+        "assets/products/cakes/cake-gold-rose-proposal-cake-c05.webp"
+      ],
+      "imageAlt": "Two-tier ivory cake with gold-edged roses and a proposal silhouette topper",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "990000000000501",
+          "title": "2 tiers - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/cake-gold-rose-proposal-cake-c05.webp",
+          "tiers": 2
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 2,
+      "catalogueAddition": "curated-2026-09",
+      "searchText": "Gold Rose Proposal Cake 2 tier  flowers bespoke"
+    },
+    {
+      "id": "9900000000006",
+      "handle": "quilted-ivory-engagement-cake-c06",
+      "title": "Quilted Ivory Engagement Cake",
+      "categories": [
+        "engagement-cakes",
+        "luxury-cakes",
+        "tiered-cake"
+      ],
+      "kind": "cake",
+      "description": "Two-tier white cake with quilted icing, gold drips, roses and a ring-shaped engagement topper. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/cake-quilted-ivory-engagement-cake-c06.webp",
+      "images": [
+        "assets/products/cakes/cake-quilted-ivory-engagement-cake-c06.webp"
+      ],
+      "imageAlt": "Two-tier white cake with quilted icing, gold drips, roses and a ring-shaped engagement topper",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "990000000000601",
+          "title": "2 tiers - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/cake-quilted-ivory-engagement-cake-c06.webp",
+          "tiers": 2
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 2,
+      "catalogueAddition": "curated-2026-09",
+      "searchText": "Quilted Ivory Engagement Cake 2 tier  flowers bespoke"
+    },
+    {
+      "id": "9900000000007",
+      "handle": "ivory-rosette-engagement-cake-c07",
+      "title": "Ivory Rosette Engagement Cake",
+      "categories": [
+        "engagement-cakes",
+        "luxury-cakes",
+        "tiered-cake"
+      ],
+      "kind": "cake",
+      "description": "Two-tier ivory buttercream cake with piped rosettes, white flowers and a gold fan topper. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/cake-ivory-rosette-engagement-cake-c07.webp",
+      "images": [
+        "assets/products/cakes/cake-ivory-rosette-engagement-cake-c07.webp"
+      ],
+      "imageAlt": "Two-tier ivory buttercream cake with piped rosettes, white flowers and a gold fan topper",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "990000000000701",
+          "title": "2 tiers - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/cake-ivory-rosette-engagement-cake-c07.webp",
+          "tiers": 2
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 2,
+      "catalogueAddition": "curated-2026-09",
+      "searchText": "Ivory Rosette Engagement Cake 2 tier  flowers bespoke"
+    },
+    {
+      "id": "9900000000008",
+      "handle": "blush-roses-silver-lace-engagement-cake-c08",
+      "title": "Blush Roses & Silver Lace Engagement Cake",
+      "categories": [
+        "engagement-cakes",
+        "luxury-cakes",
+        "tiered-cake"
+      ],
+      "kind": "cake",
+      "description": "Three-tier pink and silver cake with lace bands, pink roses and a Love decoration. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/cake-blush-roses-silver-lace-engagement-cake-c08.webp",
+      "images": [
+        "assets/products/cakes/cake-blush-roses-silver-lace-engagement-cake-c08.webp"
+      ],
+      "imageAlt": "Three-tier pink and silver cake with lace bands, pink roses and a Love decoration",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "990000000000801",
+          "title": "3 tiers - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/cake-blush-roses-silver-lace-engagement-cake-c08.webp",
+          "tiers": 3
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 3,
+      "catalogueAddition": "curated-2026-09",
+      "searchText": "Blush Roses & Silver Lace Engagement Cake 3 tier  flowers bespoke"
+    },
+    {
+      "id": "9900000000009",
+      "handle": "white-gold-confetti-engagement-cake-c09",
+      "title": "White & Gold Confetti Engagement Cake",
+      "categories": [
+        "engagement-cakes",
+        "luxury-cakes",
+        "tiered-cake"
+      ],
+      "kind": "cake",
+      "description": "Three-tier white cake with gold leaf, gold spheres and an Engaged topper. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/cake-white-gold-confetti-engagement-cake-c09.webp",
+      "images": [
+        "assets/products/cakes/cake-white-gold-confetti-engagement-cake-c09.webp"
+      ],
+      "imageAlt": "Three-tier white cake with gold leaf, gold spheres and an Engaged topper",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "990000000000901",
+          "title": "3 tiers - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/cake-white-gold-confetti-engagement-cake-c09.webp",
+          "tiers": 3
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 3,
+      "catalogueAddition": "curated-2026-09",
+      "searchText": "White & Gold Confetti Engagement Cake 3 tier  flowers bespoke"
+    },
+    {
+      "id": "9900000000010",
+      "handle": "painted-blush-rose-wedding-cake-c10",
+      "title": "Painted Blush Rose Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "tiered-cake",
+        "sugar-flower-cakes"
+      ],
+      "kind": "cake",
+      "description": "Two-tier ivory cake with painted pink flowers, modeled roses and green leaves. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/cake-painted-blush-rose-wedding-cake-c10.webp",
+      "images": [
+        "assets/products/cakes/cake-painted-blush-rose-wedding-cake-c10.webp"
+      ],
+      "imageAlt": "Two-tier ivory cake with painted pink flowers, modeled roses and green leaves",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "990000000001001",
+          "title": "2 tiers - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/cake-painted-blush-rose-wedding-cake-c10.webp",
+          "tiers": 2
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 2,
+      "catalogueAddition": "curated-2026-09",
+      "searchText": "Painted Blush Rose Wedding Cake 2 tier sugar flowers bespoke"
+    },
+    {
+      "id": "9900000000011",
+      "handle": "ivory-rose-gypsophila-wedding-cake-c11",
+      "title": "Ivory Rose & Gypsophila Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "tiered-cake"
+      ],
+      "kind": "cake",
+      "description": "Two-tier ridged white cake with cream roses, blush flowers, gypsophila and a gold topper. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/cake-ivory-rose-gypsophila-wedding-cake-c11.webp",
+      "images": [
+        "assets/products/cakes/cake-ivory-rose-gypsophila-wedding-cake-c11.webp"
+      ],
+      "imageAlt": "Two-tier ridged white cake with cream roses, blush flowers, gypsophila and a gold topper",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "990000000001101",
+          "title": "2 tiers - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/cake-ivory-rose-gypsophila-wedding-cake-c11.webp",
+          "tiers": 2
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 2,
+      "catalogueAddition": "curated-2026-09",
+      "searchText": "Ivory Rose & Gypsophila Wedding Cake 2 tier  flowers bespoke"
+    },
+    {
+      "id": "9900000000012",
+      "handle": "soft-blue-blossom-wedding-cake-c12",
+      "title": "Soft Blue Blossom Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "tiered-cake",
+        "sugar-flower-cakes"
+      ],
+      "kind": "cake",
+      "description": "Two-tier pale pink cake with cascading blue and white fondant flowers and a couple topper. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/cake-soft-blue-blossom-wedding-cake-c12.webp",
+      "images": [
+        "assets/products/cakes/cake-soft-blue-blossom-wedding-cake-c12.webp"
+      ],
+      "imageAlt": "Two-tier pale pink cake with cascading blue and white fondant flowers and a couple topper",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "990000000001201",
+          "title": "2 tiers - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/cake-soft-blue-blossom-wedding-cake-c12.webp",
+          "tiers": 2
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 2,
+      "catalogueAddition": "curated-2026-09",
+      "searchText": "Soft Blue Blossom Wedding Cake 2 tier sugar flowers bespoke"
+    },
+    {
+      "id": "9900000000013",
+      "handle": "blush-fondant-blossom-wedding-cake-c13",
+      "title": "Blush Fondant Blossom Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "tiered-cake",
+        "sugar-flower-cakes"
+      ],
+      "kind": "cake",
+      "description": "Two-tier white cake with pink fondant flowers and green leaves. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/cake-blush-fondant-blossom-wedding-cake-c13.webp",
+      "images": [
+        "assets/products/cakes/cake-blush-fondant-blossom-wedding-cake-c13.webp"
+      ],
+      "imageAlt": "Two-tier white cake with pink fondant flowers and green leaves",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "990000000001301",
+          "title": "2 tiers - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/cake-blush-fondant-blossom-wedding-cake-c13.webp",
+          "tiers": 2
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 2,
+      "catalogueAddition": "curated-2026-09",
+      "searchText": "Blush Fondant Blossom Wedding Cake 2 tier sugar flowers bespoke"
+    },
+    {
+      "id": "9900000000014",
+      "handle": "gold-edged-rose-cascade-wedding-cake-c14",
+      "title": "Gold-Edged Rose Cascade Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "tiered-cake"
+      ],
+      "kind": "cake",
+      "description": "Two-tier white cake covered with cascading gold-edged ivory roses and a couple topper. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/cake-gold-edged-rose-cascade-wedding-cake-c14.webp",
+      "images": [
+        "assets/products/cakes/cake-gold-edged-rose-cascade-wedding-cake-c14.webp"
+      ],
+      "imageAlt": "Two-tier white cake covered with cascading gold-edged ivory roses and a couple topper",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "990000000001401",
+          "title": "2 tiers - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/cake-gold-edged-rose-cascade-wedding-cake-c14.webp",
+          "tiers": 2
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 2,
+      "catalogueAddition": "curated-2026-09",
+      "searchText": "Gold-Edged Rose Cascade Wedding Cake 2 tier  flowers bespoke"
+    },
+    {
+      "id": "9900000000015",
+      "handle": "fresh-rose-semi-naked-wedding-cake-c15",
+      "title": "Fresh Rose Semi-Naked Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "tiered-cake",
+        "fresh-floral-cakes"
+      ],
+      "kind": "cake",
+      "description": "Three-tier semi-naked cake decorated with fresh cream and blush roses. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/cake-fresh-rose-semi-naked-wedding-cake-c15.webp",
+      "images": [
+        "assets/products/cakes/cake-fresh-rose-semi-naked-wedding-cake-c15.webp"
+      ],
+      "imageAlt": "Three-tier semi-naked cake decorated with fresh cream and blush roses",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "990000000001501",
+          "title": "3 tiers - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/cake-fresh-rose-semi-naked-wedding-cake-c15.webp",
+          "tiers": 3
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 3,
+      "catalogueAddition": "curated-2026-09",
+      "searchText": "Fresh Rose Semi-Naked Wedding Cake 3 tier fresh flowers bespoke"
+    },
+    {
+      "id": "9900000000016",
+      "handle": "ivory-roses-gold-leaf-wedding-cake-c16",
+      "title": "Ivory Roses & Gold Leaf Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "tiered-cake",
+        "fresh-floral-cakes"
+      ],
+      "kind": "cake",
+      "description": "Three-tier white ridged cake with cream roses, gypsophila and gold leaf. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/cake-ivory-roses-gold-leaf-wedding-cake-c16.webp",
+      "images": [
+        "assets/products/cakes/cake-ivory-roses-gold-leaf-wedding-cake-c16.webp"
+      ],
+      "imageAlt": "Three-tier white ridged cake with cream roses, gypsophila and gold leaf",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "990000000001601",
+          "title": "3 tiers - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/cake-ivory-roses-gold-leaf-wedding-cake-c16.webp",
+          "tiers": 3
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 3,
+      "catalogueAddition": "curated-2026-09",
+      "searchText": "Ivory Roses & Gold Leaf Wedding Cake 3 tier fresh flowers bespoke"
+    },
+    {
+      "id": "9900000000017",
+      "handle": "woodland-wildflower-wedding-cake-c17",
+      "title": "Woodland Wildflower Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "tiered-cake",
+        "fresh-floral-cakes"
+      ],
+      "kind": "cake",
+      "description": "Three-tier textured ivory cake with fresh wildflowers, ferns and greenery on a wooden board. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/cake-woodland-wildflower-wedding-cake-c17.webp",
+      "images": [
+        "assets/products/cakes/cake-woodland-wildflower-wedding-cake-c17.webp"
+      ],
+      "imageAlt": "Three-tier textured ivory cake with fresh wildflowers, ferns and greenery on a wooden board",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "990000000001701",
+          "title": "3 tiers - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/cake-woodland-wildflower-wedding-cake-c17.webp",
+          "tiers": 3
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 3,
+      "catalogueAddition": "curated-2026-09",
+      "searchText": "Woodland Wildflower Wedding Cake 3 tier fresh flowers bespoke"
+    },
+    {
+      "id": "9900000000018",
+      "handle": "blush-monogram-semi-naked-wedding-cake-c18",
+      "title": "Blush Monogram Semi-Naked Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "tiered-cake",
+        "fresh-floral-cakes"
+      ],
+      "kind": "cake",
+      "description": "Four-tier semi-naked wedding cake with blush roses, greenery and a heart monogram. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/cake-blush-monogram-semi-naked-wedding-cake-c18.webp",
+      "images": [
+        "assets/products/cakes/cake-blush-monogram-semi-naked-wedding-cake-c18.webp"
+      ],
+      "imageAlt": "Four-tier semi-naked wedding cake with blush roses, greenery and a heart monogram",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "990000000001801",
+          "title": "4 tiers - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/cake-blush-monogram-semi-naked-wedding-cake-c18.webp",
+          "tiers": 4
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 4,
+      "catalogueAddition": "curated-2026-09",
+      "searchText": "Blush Monogram Semi-Naked Wedding Cake 4 tier fresh flowers bespoke"
+    },
+    {
+      "id": "9900000000019",
+      "handle": "white-rose-blue-meadow-wedding-cake-c19",
+      "title": "White Rose & Blue Meadow Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "tiered-cake",
+        "fresh-floral-cakes"
+      ],
+      "kind": "cake",
+      "description": "Three-tier ridged white cake with cream roses, pale blue flowers and green foliage. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/cake-white-rose-blue-meadow-wedding-cake-c19.webp",
+      "images": [
+        "assets/products/cakes/cake-white-rose-blue-meadow-wedding-cake-c19.webp"
+      ],
+      "imageAlt": "Three-tier ridged white cake with cream roses, pale blue flowers and green foliage",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "990000000001901",
+          "title": "3 tiers - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/cake-white-rose-blue-meadow-wedding-cake-c19.webp",
+          "tiers": 3
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 3,
+      "catalogueAddition": "curated-2026-09",
+      "searchText": "White Rose & Blue Meadow Wedding Cake 3 tier fresh flowers bespoke"
+    },
+    {
+      "id": "9900000000020",
+      "handle": "autumn-fig-semi-naked-wedding-cake-c20",
+      "title": "Autumn Fig Semi-Naked Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "tiered-cake"
+      ],
+      "kind": "cake",
+      "description": "Four-tier semi-naked cake with autumn-coloured decorations and sliced figs on a wooden stand. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/cake-autumn-fig-semi-naked-wedding-cake-c20.webp",
+      "images": [
+        "assets/products/cakes/cake-autumn-fig-semi-naked-wedding-cake-c20.webp"
+      ],
+      "imageAlt": "Four-tier semi-naked cake with autumn-coloured decorations and sliced figs on a wooden stand",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "990000000002001",
+          "title": "4 tiers - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/cake-autumn-fig-semi-naked-wedding-cake-c20.webp",
+          "tiers": 4
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 4,
+      "catalogueAddition": "curated-2026-09",
+      "searchText": "Autumn Fig Semi-Naked Wedding Cake 4 tier  flowers bespoke"
+    },
+    {
+      "id": "9900000000021",
+      "handle": "tropical-orchid-garden-wedding-cake-c21",
+      "title": "Tropical Orchid Garden Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "tiered-cake",
+        "fresh-floral-cakes"
+      ],
+      "kind": "cake",
+      "description": "Four-tier semi-naked cake with pink orchids, white lilies, colourful flowers and fruit. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/cake-tropical-orchid-garden-wedding-cake-c21.webp",
+      "images": [
+        "assets/products/cakes/cake-tropical-orchid-garden-wedding-cake-c21.webp"
+      ],
+      "imageAlt": "Four-tier semi-naked cake with pink orchids, white lilies, colourful flowers and fruit",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "990000000002101",
+          "title": "4 tiers - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/cake-tropical-orchid-garden-wedding-cake-c21.webp",
+          "tiers": 4
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 4,
+      "catalogueAddition": "curated-2026-09",
+      "searchText": "Tropical Orchid Garden Wedding Cake 4 tier fresh flowers bespoke"
+    },
+    {
+      "id": "9900000000022",
+      "handle": "autumn-rose-semi-naked-wedding-cake-c22",
+      "title": "Autumn Rose Semi-Naked Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "tiered-cake",
+        "fresh-floral-cakes"
+      ],
+      "kind": "cake",
+      "description": "Three-tier semi-naked cake with burgundy, peach and mauve flowers and gypsophila. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/cake-autumn-rose-semi-naked-wedding-cake-c22.webp",
+      "images": [
+        "assets/products/cakes/cake-autumn-rose-semi-naked-wedding-cake-c22.webp"
+      ],
+      "imageAlt": "Three-tier semi-naked cake with burgundy, peach and mauve flowers and gypsophila",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "990000000002201",
+          "title": "3 tiers - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/cake-autumn-rose-semi-naked-wedding-cake-c22.webp",
+          "tiers": 3
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 3,
+      "catalogueAddition": "curated-2026-09",
+      "searchText": "Autumn Rose Semi-Naked Wedding Cake 3 tier fresh flowers bespoke"
+    },
+    {
+      "id": "9900000000023",
+      "handle": "woodland-thistle-wedding-cake-c23",
+      "title": "Woodland Thistle Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "tiered-cake",
+        "fresh-floral-cakes"
+      ],
+      "kind": "cake",
+      "description": "Three-tier semi-naked cake with blue thistles, foliage and dark fruit. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/cake-woodland-thistle-wedding-cake-c23.webp",
+      "images": [
+        "assets/products/cakes/cake-woodland-thistle-wedding-cake-c23.webp"
+      ],
+      "imageAlt": "Three-tier semi-naked cake with blue thistles, foliage and dark fruit",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "990000000002301",
+          "title": "3 tiers - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/cake-woodland-thistle-wedding-cake-c23.webp",
+          "tiers": 3
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 3,
+      "catalogueAddition": "curated-2026-09",
+      "searchText": "Woodland Thistle Wedding Cake 3 tier fresh flowers bespoke"
+    },
+    {
+      "id": "9900000000024",
+      "handle": "gypsophila-garland-wedding-cake-c24",
+      "title": "Gypsophila Garland Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "tiered-cake",
+        "fresh-floral-cakes"
+      ],
+      "kind": "cake",
+      "description": "Three-tier semi-naked cake with white gypsophila garlands. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/cake-gypsophila-garland-wedding-cake-c24.webp",
+      "images": [
+        "assets/products/cakes/cake-gypsophila-garland-wedding-cake-c24.webp"
+      ],
+      "imageAlt": "Three-tier semi-naked cake with white gypsophila garlands",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "990000000002401",
+          "title": "3 tiers - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/cake-gypsophila-garland-wedding-cake-c24.webp",
+          "tiers": 3
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 3,
+      "catalogueAddition": "curated-2026-09",
+      "searchText": "Gypsophila Garland Wedding Cake 3 tier fresh flowers bespoke"
+    },
+    {
+      "id": "9900000000025",
+      "handle": "ivory-gold-rose-tower-wedding-cake-c25",
+      "title": "Ivory & Gold Rose Tower Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "tiered-cake"
+      ],
+      "kind": "cake",
+      "description": "Three-tier white cake with a cascade of gold-edged ivory roses and a Happily Ever After topper. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/cake-ivory-gold-rose-tower-wedding-cake-c25.webp",
+      "images": [
+        "assets/products/cakes/cake-ivory-gold-rose-tower-wedding-cake-c25.webp"
+      ],
+      "imageAlt": "Three-tier white cake with a cascade of gold-edged ivory roses and a Happily Ever After topper",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "990000000002501",
+          "title": "3 tiers - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/cake-ivory-gold-rose-tower-wedding-cake-c25.webp",
+          "tiers": 3
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 3,
+      "catalogueAddition": "curated-2026-09",
+      "searchText": "Ivory & Gold Rose Tower Wedding Cake 3 tier  flowers bespoke"
+    },
+    {
+      "id": "9900000000026",
+      "handle": "midnight-fern-rose-wedding-cake-c26",
+      "title": "Midnight Fern & Rose Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "tiered-cake"
+      ],
+      "kind": "cake",
+      "description": "Four-tier black wedding cake with metallic fern patterns and peach roses. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/cake-midnight-fern-rose-wedding-cake-c26.webp",
+      "images": [
+        "assets/products/cakes/cake-midnight-fern-rose-wedding-cake-c26.webp"
+      ],
+      "imageAlt": "Four-tier black wedding cake with metallic fern patterns and peach roses",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "990000000002601",
+          "title": "4 tiers - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/cake-midnight-fern-rose-wedding-cake-c26.webp",
+          "tiers": 4
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 4,
+      "catalogueAddition": "curated-2026-09",
+      "searchText": "Midnight Fern & Rose Wedding Cake 4 tier  flowers bespoke"
+    },
+    {
+      "id": "9900000000027",
+      "handle": "painted-garden-rose-wedding-cake-c27",
+      "title": "Painted Garden Rose Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "tiered-cake",
+        "sugar-flower-cakes"
+      ],
+      "kind": "cake",
+      "description": "Three-tier white cake with a hand-painted floral base and cascading blush sugar roses. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/cake-painted-garden-rose-wedding-cake-c27.webp",
+      "images": [
+        "assets/products/cakes/cake-painted-garden-rose-wedding-cake-c27.webp"
+      ],
+      "imageAlt": "Three-tier white cake with a hand-painted floral base and cascading blush sugar roses",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "990000000002701",
+          "title": "3 tiers - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/cake-painted-garden-rose-wedding-cake-c27.webp",
+          "tiers": 3
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 3,
+      "catalogueAddition": "curated-2026-09",
+      "searchText": "Painted Garden Rose Wedding Cake 3 tier sugar flowers bespoke"
+    },
+    {
+      "id": "9900000000028",
+      "handle": "lilac-watercolour-anemone-wedding-cake-c28",
+      "title": "Lilac Watercolour Anemone Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "tiered-cake",
+        "sugar-flower-cakes"
+      ],
+      "kind": "cake",
+      "description": "Two-tier ivory and purple watercolour cake with gold flecks and white anemone flowers. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/cake-lilac-watercolour-anemone-wedding-cake-c28.webp",
+      "images": [
+        "assets/products/cakes/cake-lilac-watercolour-anemone-wedding-cake-c28.webp"
+      ],
+      "imageAlt": "Two-tier ivory and purple watercolour cake with gold flecks and white anemone flowers",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "990000000002801",
+          "title": "2 tiers - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/cake-lilac-watercolour-anemone-wedding-cake-c28.webp",
+          "tiers": 2
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 2,
+      "catalogueAddition": "curated-2026-09",
+      "searchText": "Lilac Watercolour Anemone Wedding Cake 2 tier sugar flowers bespoke"
+    },
+    {
+      "id": "9900000000029",
+      "handle": "sky-blue-watercolour-wedding-cake-c29",
+      "title": "Sky Blue Watercolour Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "tiered-cake",
+        "sugar-flower-cakes"
+      ],
+      "kind": "cake",
+      "description": "Three-tier ivory cake with a sky blue watercolour base and pale sugar flowers. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/cake-sky-blue-watercolour-wedding-cake-c29.webp",
+      "images": [
+        "assets/products/cakes/cake-sky-blue-watercolour-wedding-cake-c29.webp"
+      ],
+      "imageAlt": "Three-tier ivory cake with a sky blue watercolour base and pale sugar flowers",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "990000000002901",
+          "title": "3 tiers - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/cake-sky-blue-watercolour-wedding-cake-c29.webp",
+          "tiers": 3
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 3,
+      "catalogueAddition": "curated-2026-09",
+      "searchText": "Sky Blue Watercolour Wedding Cake 3 tier sugar flowers bespoke"
+    },
+    {
+      "id": "9900000000030",
+      "handle": "burgundy-ombr-sugar-flower-cake-c30",
+      "title": "Burgundy Ombré Sugar Flower Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "sugar-flower-cakes"
+      ],
+      "kind": "cake",
+      "description": "Tall single-tier cake with burgundy watercolour shading and a red and ivory sugar flower crown. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/cake-burgundy-ombr-sugar-flower-cake-c30.webp",
+      "images": [
+        "assets/products/cakes/cake-burgundy-ombr-sugar-flower-cake-c30.webp"
+      ],
+      "imageAlt": "Tall single-tier cake with burgundy watercolour shading and a red and ivory sugar flower crown",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "990000000003001",
+          "title": "1 tier - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/cake-burgundy-ombr-sugar-flower-cake-c30.webp",
+          "tiers": 1
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 1,
+      "catalogueAddition": "curated-2026-09",
+      "searchText": "Burgundy Ombré Sugar Flower Cake 1 tier sugar flowers bespoke"
+    },
+    {
+      "id": "9900000000031",
+      "handle": "painted-birdcage-wedding-cake-c31",
+      "title": "Painted Birdcage Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "sugar-flower-cakes"
+      ],
+      "kind": "cake",
+      "description": "Tall single-tier birdcage-shaped cake with painted birds, delicate branches and pale sugar roses. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/cake-painted-birdcage-wedding-cake-c31.webp",
+      "images": [
+        "assets/products/cakes/cake-painted-birdcage-wedding-cake-c31.webp"
+      ],
+      "imageAlt": "Tall single-tier birdcage-shaped cake with painted birds, delicate branches and pale sugar roses",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "990000000003101",
+          "title": "1 tier - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/cake-painted-birdcage-wedding-cake-c31.webp",
+          "tiers": 1
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 1,
+      "catalogueAddition": "curated-2026-09",
+      "searchText": "Painted Birdcage Wedding Cake 1 tier sugar flowers bespoke"
+    },
+    {
+      "id": "9900000000032",
+      "handle": "hand-painted-spring-floral-wedding-cake-c32",
+      "title": "Hand-Painted Spring Floral Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "tiered-cake",
+        "sugar-flower-cakes"
+      ],
+      "kind": "cake",
+      "description": "Four-tier ivory cake with painted pastel flowers and clusters of white and blush sugar flowers. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/cake-hand-painted-spring-floral-wedding-cake-c32.webp",
+      "images": [
+        "assets/products/cakes/cake-hand-painted-spring-floral-wedding-cake-c32.webp"
+      ],
+      "imageAlt": "Four-tier ivory cake with painted pastel flowers and clusters of white and blush sugar flowers",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "990000000003201",
+          "title": "4 tiers - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/cake-hand-painted-spring-floral-wedding-cake-c32.webp",
+          "tiers": 4
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 4,
+      "catalogueAddition": "curated-2026-09",
+      "searchText": "Hand-Painted Spring Floral Wedding Cake 4 tier sugar flowers bespoke"
+    },
+    {
+      "id": "9900000000033",
+      "handle": "blue-ruffle-ivory-rose-wedding-cake-c33",
+      "title": "Blue Ruffle & Ivory Rose Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "tiered-cake",
+        "sugar-flower-cakes"
+      ],
+      "kind": "cake",
+      "description": "Three-tier cake with layered blue ruffles on the bottom tier and ivory sugar flower clusters. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/cake-blue-ruffle-ivory-rose-wedding-cake-c33.webp",
+      "images": [
+        "assets/products/cakes/cake-blue-ruffle-ivory-rose-wedding-cake-c33.webp"
+      ],
+      "imageAlt": "Three-tier cake with layered blue ruffles on the bottom tier and ivory sugar flower clusters",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "990000000003301",
+          "title": "3 tiers - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/cake-blue-ruffle-ivory-rose-wedding-cake-c33.webp",
+          "tiers": 3
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 3,
+      "catalogueAddition": "curated-2026-09",
+      "searchText": "Blue Ruffle & Ivory Rose Wedding Cake 3 tier sugar flowers bespoke"
+    },
+    {
+      "id": "9900000000034",
+      "handle": "silver-rings-engagement-cake-c34",
+      "title": "Silver Rings Engagement Cake",
+      "categories": [
+        "engagement-cakes",
+        "luxury-cakes"
+      ],
+      "kind": "cake",
+      "description": "Single-tier white cake with silver trim, a heart plaque and decorative rings on a small cushion. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/cake-silver-rings-engagement-cake-c34.webp",
+      "images": [
+        "assets/products/cakes/cake-silver-rings-engagement-cake-c34.webp"
+      ],
+      "imageAlt": "Single-tier white cake with silver trim, a heart plaque and decorative rings on a small cushion",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "990000000003401",
+          "title": "1 tier - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/cake-silver-rings-engagement-cake-c34.webp",
+          "tiers": 1
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 1,
+      "catalogueAddition": "curated-2026-09",
+      "searchText": "Silver Rings Engagement Cake 1 tier  flowers bespoke"
+    },
+    {
+      "id": "9900000000035",
+      "handle": "blush-rosette-gold-wedding-cake-c35",
+      "title": "Blush Rosette & Gold Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "tiered-cake"
+      ],
+      "kind": "cake",
+      "description": "Three-tier pink and white cake with a piped rosette band, gold leaf and a gold script topper. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/cake-blush-rosette-gold-wedding-cake-c35.webp",
+      "images": [
+        "assets/products/cakes/cake-blush-rosette-gold-wedding-cake-c35.webp"
+      ],
+      "imageAlt": "Three-tier pink and white cake with a piped rosette band, gold leaf and a gold script topper",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "990000000003501",
+          "title": "3 tiers - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/cake-blush-rosette-gold-wedding-cake-c35.webp",
+          "tiers": 3
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 3,
+      "catalogueAddition": "curated-2026-09",
+      "searchText": "Blush Rosette & Gold Wedding Cake 3 tier  flowers bespoke"
+    },
+    {
+      "id": "9900000000036",
+      "handle": "ivory-silhouette-wedding-cake-c36",
+      "title": "Ivory Silhouette Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "tiered-cake"
+      ],
+      "kind": "cake",
+      "description": "Three-tier ivory cake with black romantic silhouettes and a couple topper. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/cake-ivory-silhouette-wedding-cake-c36.webp",
+      "images": [
+        "assets/products/cakes/cake-ivory-silhouette-wedding-cake-c36.webp"
+      ],
+      "imageAlt": "Three-tier ivory cake with black romantic silhouettes and a couple topper",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "990000000003601",
+          "title": "3 tiers - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/cake-ivory-silhouette-wedding-cake-c36.webp",
+          "tiers": 3
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 3,
+      "catalogueAddition": "curated-2026-09",
+      "searchText": "Ivory Silhouette Wedding Cake 3 tier  flowers bespoke"
+    },
+    {
+      "id": "9900000000037",
+      "handle": "purple-marble-silver-vine-wedding-cake-c37",
+      "title": "Purple Marble & Silver Vine Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "tiered-cake"
+      ],
+      "kind": "cake",
+      "description": "Three-tier purple and white cake with a marbled base, silver leaves and interlocking heart topper. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/cake-purple-marble-silver-vine-wedding-cake-c37.webp",
+      "images": [
+        "assets/products/cakes/cake-purple-marble-silver-vine-wedding-cake-c37.webp"
+      ],
+      "imageAlt": "Three-tier purple and white cake with a marbled base, silver leaves and interlocking heart topper",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "990000000003701",
+          "title": "3 tiers - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/cake-purple-marble-silver-vine-wedding-cake-c37.webp",
+          "tiers": 3
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 3,
+      "catalogueAddition": "curated-2026-09",
+      "searchText": "Purple Marble & Silver Vine Wedding Cake 3 tier  flowers bespoke"
+    },
+    {
+      "id": "9900000000038",
+      "handle": "champagne-ruffle-monogram-wedding-cake-c38",
+      "title": "Champagne Ruffle & Monogram Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "tiered-cake"
+      ],
+      "kind": "cake",
+      "description": "Four-tier champagne and ivory cake with a ruffled base, white roses and a silver monogram. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/cake-champagne-ruffle-monogram-wedding-cake-c38.webp",
+      "images": [
+        "assets/products/cakes/cake-champagne-ruffle-monogram-wedding-cake-c38.webp"
+      ],
+      "imageAlt": "Four-tier champagne and ivory cake with a ruffled base, white roses and a silver monogram",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "990000000003801",
+          "title": "4 tiers - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/cake-champagne-ruffle-monogram-wedding-cake-c38.webp",
+          "tiers": 4
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 4,
+      "catalogueAddition": "curated-2026-09",
+      "searchText": "Champagne Ruffle & Monogram Wedding Cake 4 tier  flowers bespoke"
+    },
+    {
+      "id": "9900000000039",
+      "handle": "blush-watercolour-sugar-blossom-cake-c39",
+      "title": "Blush Watercolour Sugar Blossom Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "tiered-cake",
+        "sugar-flower-cakes"
+      ],
+      "kind": "cake",
+      "description": "Two-tier white cake with a blush watercolour base and pastel pink and blue sugar flowers. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/cake-blush-watercolour-sugar-blossom-cake-c39.webp",
+      "images": [
+        "assets/products/cakes/cake-blush-watercolour-sugar-blossom-cake-c39.webp"
+      ],
+      "imageAlt": "Two-tier white cake with a blush watercolour base and pastel pink and blue sugar flowers",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "990000000003901",
+          "title": "2 tiers - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/cake-blush-watercolour-sugar-blossom-cake-c39.webp",
+          "tiers": 2
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 2,
+      "catalogueAddition": "curated-2026-09",
+      "searchText": "Blush Watercolour Sugar Blossom Cake 2 tier sugar flowers bespoke"
+    },
+    {
+      "id": "9900000000040",
+      "handle": "peach-watercolour-lace-wedding-cake-c40",
+      "title": "Peach Watercolour & Lace Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "tiered-cake",
+        "sugar-flower-cakes"
+      ],
+      "kind": "cake",
+      "description": "Four-tier peach and ivory cake with delicate lace piping and blush sugar flowers. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/cake-peach-watercolour-lace-wedding-cake-c40.webp",
+      "images": [
+        "assets/products/cakes/cake-peach-watercolour-lace-wedding-cake-c40.webp"
+      ],
+      "imageAlt": "Four-tier peach and ivory cake with delicate lace piping and blush sugar flowers",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "990000000004001",
+          "title": "4 tiers - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/cake-peach-watercolour-lace-wedding-cake-c40.webp",
+          "tiers": 4
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 4,
+      "catalogueAddition": "curated-2026-09",
+      "searchText": "Peach Watercolour & Lace Wedding Cake 4 tier sugar flowers bespoke"
+    },
+    {
+      "id": "9900000000041",
+      "handle": "ivory-peony-blush-rose-fresh-floral-cake-c41",
+      "title": "Ivory Peony & Blush Rose Fresh Floral Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "tiered-cake",
+        "fresh-floral-cakes"
+      ],
+      "kind": "cake",
+      "description": "Three-tier semi-naked cake with ivory peonies, blush roses and green foliage. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/cake-ivory-peony-blush-rose-fresh-floral-cake-c41.webp",
+      "images": [
+        "assets/products/cakes/cake-ivory-peony-blush-rose-fresh-floral-cake-c41.webp"
+      ],
+      "imageAlt": "Three-tier semi-naked cake with ivory peonies, blush roses and green foliage",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "990000000004101",
+          "title": "3 tiers - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/cake-ivory-peony-blush-rose-fresh-floral-cake-c41.webp",
+          "tiers": 3
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 3,
+      "catalogueAddition": "curated-2026-09",
+      "searchText": "Ivory Peony & Blush Rose Fresh Floral Cake 3 tier fresh flowers bespoke"
+    },
+    {
+      "id": "9900000000042",
+      "handle": "pastel-fresh-flower-garland-wedding-cake-c42",
+      "title": "Pastel Fresh Flower Garland Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "tiered-cake",
+        "fresh-floral-cakes"
+      ],
+      "kind": "cake",
+      "description": "Four-tier ivory cake with piped pearl swags and pastel fresh flower garlands. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/cake-pastel-fresh-flower-garland-wedding-cake-c42.webp",
+      "images": [
+        "assets/products/cakes/cake-pastel-fresh-flower-garland-wedding-cake-c42.webp"
+      ],
+      "imageAlt": "Four-tier ivory cake with piped pearl swags and pastel fresh flower garlands",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "990000000004201",
+          "title": "4 tiers - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/cake-pastel-fresh-flower-garland-wedding-cake-c42.webp",
+          "tiers": 4
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 4,
+      "catalogueAddition": "curated-2026-09",
+      "searchText": "Pastel Fresh Flower Garland Wedding Cake 4 tier fresh flowers bespoke"
+    },
+    {
+      "id": "9900000000043",
+      "handle": "peach-rose-lisianthus-semi-naked-cake-c43",
+      "title": "Peach Rose & Lisianthus Semi-Naked Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "tiered-cake",
+        "fresh-floral-cakes"
+      ],
+      "kind": "cake",
+      "description": "Three-tier semi-naked cake with peach and blush roses, white lisianthus and foliage. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/cake-peach-rose-lisianthus-semi-naked-cake-c43.webp",
+      "images": [
+        "assets/products/cakes/cake-peach-rose-lisianthus-semi-naked-cake-c43.webp"
+      ],
+      "imageAlt": "Three-tier semi-naked cake with peach and blush roses, white lisianthus and foliage",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "990000000004301",
+          "title": "3 tiers - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/cake-peach-rose-lisianthus-semi-naked-cake-c43.webp",
+          "tiers": 3
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 3,
+      "catalogueAddition": "curated-2026-09",
+      "searchText": "Peach Rose & Lisianthus Semi-Naked Cake 3 tier fresh flowers bespoke"
+    },
+    {
+      "id": "9900000000044",
+      "handle": "white-rose-gypsophila-wedding-cake-c44",
+      "title": "White Rose & Gypsophila Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "tiered-cake",
+        "fresh-floral-cakes"
+      ],
+      "kind": "cake",
+      "description": "Three-tier white cake with ivory roses, gypsophila, trailing foliage and a wedding topper. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/cake-white-rose-gypsophila-wedding-cake-c44.webp",
+      "images": [
+        "assets/products/cakes/cake-white-rose-gypsophila-wedding-cake-c44.webp"
+      ],
+      "imageAlt": "Three-tier white cake with ivory roses, gypsophila, trailing foliage and a wedding topper",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "990000000004401",
+          "title": "3 tiers - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/cake-white-rose-gypsophila-wedding-cake-c44.webp",
+          "tiers": 3
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 3,
+      "catalogueAddition": "curated-2026-09",
+      "searchText": "White Rose & Gypsophila Wedding Cake 3 tier fresh flowers bespoke"
+    },
+    {
+      "id": "9900000000045",
+      "handle": "pink-rose-peony-ribbon-wedding-cake-c45",
+      "title": "Pink Rose & Peony Ribbon Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "tiered-cake",
+        "fresh-floral-cakes"
+      ],
+      "kind": "cake",
+      "description": "Three-tier white cake with a pink rose and peony cascade and long pink ribbon. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/cake-pink-rose-peony-ribbon-wedding-cake-c45.webp",
+      "images": [
+        "assets/products/cakes/cake-pink-rose-peony-ribbon-wedding-cake-c45.webp"
+      ],
+      "imageAlt": "Three-tier white cake with a pink rose and peony cascade and long pink ribbon",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "990000000004501",
+          "title": "3 tiers - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/cake-pink-rose-peony-ribbon-wedding-cake-c45.webp",
+          "tiers": 3
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 3,
+      "catalogueAddition": "curated-2026-09",
+      "searchText": "Pink Rose & Peony Ribbon Wedding Cake 3 tier fresh flowers bespoke"
+    },
+    {
+      "id": "9900000000046",
+      "handle": "lavender-rose-fresh-floral-cascade-cake-c46",
+      "title": "Lavender & Rose Fresh Floral Cascade Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "tiered-cake",
+        "fresh-floral-cakes"
+      ],
+      "kind": "cake",
+      "description": "Three-tier semi-naked cake with cream and blush roses, lavender and a green floral cascade. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/cake-lavender-rose-fresh-floral-cascade-cake-c46.webp",
+      "images": [
+        "assets/products/cakes/cake-lavender-rose-fresh-floral-cascade-cake-c46.webp"
+      ],
+      "imageAlt": "Three-tier semi-naked cake with cream and blush roses, lavender and a green floral cascade",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "990000000004601",
+          "title": "3 tiers - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/cake-lavender-rose-fresh-floral-cascade-cake-c46.webp",
+          "tiers": 3
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 3,
+      "catalogueAddition": "curated-2026-09",
+      "searchText": "Lavender & Rose Fresh Floral Cascade Cake 3 tier fresh flowers bespoke"
+    },
+    {
+      "id": "9900000000047",
+      "handle": "floating-rose-garden-wedding-cake-c47",
+      "title": "Floating Rose Garden Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "tiered-cake",
+        "fresh-floral-cakes"
+      ],
+      "kind": "cake",
+      "description": "Four-tier white cake with a floating upper tier and blush roses around the open floral centre. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/cake-floating-rose-garden-wedding-cake-c47.webp",
+      "images": [
+        "assets/products/cakes/cake-floating-rose-garden-wedding-cake-c47.webp"
+      ],
+      "imageAlt": "Four-tier white cake with a floating upper tier and blush roses around the open floral centre",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "990000000004701",
+          "title": "4 tiers - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/cake-floating-rose-garden-wedding-cake-c47.webp",
+          "tiers": 4
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 4,
+      "catalogueAddition": "curated-2026-09",
+      "searchText": "Floating Rose Garden Wedding Cake 4 tier fresh flowers bespoke"
+    },
+    {
+      "id": "9900000000048",
+      "handle": "cream-rose-peony-gold-leaf-cake-c48",
+      "title": "Cream Rose & Peony Gold Leaf Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "tiered-cake",
+        "fresh-floral-cakes"
+      ],
+      "kind": "cake",
+      "description": "Three-tier semi-naked cake with cream roses, peonies, foliage and gold leaf. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/cake-cream-rose-peony-gold-leaf-cake-c48.webp",
+      "images": [
+        "assets/products/cakes/cake-cream-rose-peony-gold-leaf-cake-c48.webp"
+      ],
+      "imageAlt": "Three-tier semi-naked cake with cream roses, peonies, foliage and gold leaf",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "990000000004801",
+          "title": "3 tiers - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/cake-cream-rose-peony-gold-leaf-cake-c48.webp",
+          "tiers": 3
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 3,
+      "catalogueAddition": "curated-2026-09",
+      "searchText": "Cream Rose & Peony Gold Leaf Cake 3 tier fresh flowers bespoke"
+    },
+    {
+      "id": "9900000000049",
+      "handle": "sunset-rose-dahlia-cascade-cake-c49",
+      "title": "Sunset Rose & Dahlia Cascade Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "tiered-cake",
+        "fresh-floral-cakes"
+      ],
+      "kind": "cake",
+      "description": "Three-tier white cake with a cascade of orange roses, red dahlias and small purple flowers. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/cake-sunset-rose-dahlia-cascade-cake-c49.webp",
+      "images": [
+        "assets/products/cakes/cake-sunset-rose-dahlia-cascade-cake-c49.webp"
+      ],
+      "imageAlt": "Three-tier white cake with a cascade of orange roses, red dahlias and small purple flowers",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "990000000004901",
+          "title": "3 tiers - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/cake-sunset-rose-dahlia-cascade-cake-c49.webp",
+          "tiers": 3
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 3,
+      "catalogueAddition": "curated-2026-09",
+      "searchText": "Sunset Rose & Dahlia Cascade Cake 3 tier fresh flowers bespoke"
+    },
+    {
+      "id": "9900000000050",
+      "handle": "mocha-blush-rose-wedding-cake-c50",
+      "title": "Mocha & Blush Rose Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "tiered-cake",
+        "fresh-floral-cakes"
+      ],
+      "kind": "cake",
+      "description": "Three-tier ivory cake with mocha and blush fresh roses and loose green foliage. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/cake-mocha-blush-rose-wedding-cake-c50.webp",
+      "images": [
+        "assets/products/cakes/cake-mocha-blush-rose-wedding-cake-c50.webp"
+      ],
+      "imageAlt": "Three-tier ivory cake with mocha and blush fresh roses and loose green foliage",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "990000000005001",
+          "title": "3 tiers - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/cake-mocha-blush-rose-wedding-cake-c50.webp",
+          "tiers": 3
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 3,
+      "catalogueAddition": "curated-2026-09",
+      "searchText": "Mocha & Blush Rose Wedding Cake 3 tier fresh flowers bespoke"
+    },
+    {
+      "id": "9900000000051",
+      "handle": "pink-dahlia-rose-ripple-wedding-cake-c51",
+      "title": "Pink Dahlia & Rose Ripple Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "tiered-cake",
+        "fresh-floral-cakes"
+      ],
+      "kind": "cake",
+      "description": "Three-tier rippled ivory cake with large pale pink dahlias, pink roses, foliage and macarons. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/cake-pink-dahlia-rose-ripple-wedding-cake-c51.webp",
+      "images": [
+        "assets/products/cakes/cake-pink-dahlia-rose-ripple-wedding-cake-c51.webp"
+      ],
+      "imageAlt": "Three-tier rippled ivory cake with large pale pink dahlias, pink roses, foliage and macarons",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "990000000005101",
+          "title": "3 tiers - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/cake-pink-dahlia-rose-ripple-wedding-cake-c51.webp",
+          "tiers": 3
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 3,
+      "catalogueAddition": "curated-2026-09",
+      "searchText": "Pink Dahlia & Rose Ripple Wedding Cake 3 tier fresh flowers bespoke"
+    },
+    {
+      "id": "9900000000052",
+      "handle": "crimson-sugar-peony-wrap-cake-c52",
+      "title": "Crimson Sugar Peony Wrap Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "sugar-flower-cakes"
+      ],
+      "kind": "cake",
+      "description": "Single-tier ivory cake with a crimson sugar peony, pink wrap and twine detail. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/cake-crimson-sugar-peony-wrap-cake-c52.webp",
+      "images": [
+        "assets/products/cakes/cake-crimson-sugar-peony-wrap-cake-c52.webp"
+      ],
+      "imageAlt": "Single-tier ivory cake with a crimson sugar peony, pink wrap and twine detail",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "990000000005201",
+          "title": "1 tier - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/cake-crimson-sugar-peony-wrap-cake-c52.webp",
+          "tiers": 1
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 1,
+      "catalogueAddition": "curated-2026-09",
+      "searchText": "Crimson Sugar Peony Wrap Cake 1 tier sugar flowers bespoke"
+    },
+    {
+      "id": "9900000000053",
+      "handle": "white-sugar-blossom-relief-cake-c53",
+      "title": "White Sugar Blossom Relief Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "tiered-cake",
+        "sugar-flower-cakes"
+      ],
+      "kind": "cake",
+      "description": "Two-tier white cake with raised white sugar flowers across the lower tier. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/cake-white-sugar-blossom-relief-cake-c53.webp",
+      "images": [
+        "assets/products/cakes/cake-white-sugar-blossom-relief-cake-c53.webp"
+      ],
+      "imageAlt": "Two-tier white cake with raised white sugar flowers across the lower tier",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "990000000005301",
+          "title": "2 tiers - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/cake-white-sugar-blossom-relief-cake-c53.webp",
+          "tiers": 2
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 2,
+      "catalogueAddition": "curated-2026-09",
+      "searchText": "White Sugar Blossom Relief Cake 2 tier sugar flowers bespoke"
+    },
+    {
+      "id": "9900000000054",
+      "handle": "black-pink-sugar-rose-wedding-cake-c54",
+      "title": "Black & Pink Sugar Rose Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "tiered-cake",
+        "sugar-flower-cakes"
+      ],
+      "kind": "cake",
+      "description": "Two-tier black cake with an upright pink sugar rose and purple and pink blossoms. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/cake-black-pink-sugar-rose-wedding-cake-c54.webp",
+      "images": [
+        "assets/products/cakes/cake-black-pink-sugar-rose-wedding-cake-c54.webp"
+      ],
+      "imageAlt": "Two-tier black cake with an upright pink sugar rose and purple and pink blossoms",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "990000000005401",
+          "title": "2 tiers - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/cake-black-pink-sugar-rose-wedding-cake-c54.webp",
+          "tiers": 2
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 2,
+      "catalogueAddition": "curated-2026-09",
+      "searchText": "Black & Pink Sugar Rose Wedding Cake 2 tier sugar flowers bespoke"
+    },
+    {
+      "id": "9900000000055",
+      "handle": "navy-ivory-sugar-peony-wedding-cake-c55",
+      "title": "Navy & Ivory Sugar Peony Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "tiered-cake",
+        "sugar-flower-cakes"
+      ],
+      "kind": "cake",
+      "description": "Four-tier navy and ivory cake with large peach sugar peonies, small pastel flowers and gold leaf. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/cake-navy-ivory-sugar-peony-wedding-cake-c55.webp",
+      "images": [
+        "assets/products/cakes/cake-navy-ivory-sugar-peony-wedding-cake-c55.webp"
+      ],
+      "imageAlt": "Four-tier navy and ivory cake with large peach sugar peonies, small pastel flowers and gold leaf",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "990000000005501",
+          "title": "4 tiers - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/cake-navy-ivory-sugar-peony-wedding-cake-c55.webp",
+          "tiers": 4
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 4,
+      "catalogueAddition": "curated-2026-09",
+      "searchText": "Navy & Ivory Sugar Peony Wedding Cake 4 tier sugar flowers bespoke"
+    },
+    {
+      "id": "9900000000056",
+      "handle": "mint-mauve-sugar-rose-wedding-cake-c56",
+      "title": "Mint & Mauve Sugar Rose Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "tiered-cake",
+        "sugar-flower-cakes"
+      ],
+      "kind": "cake",
+      "description": "Two-tier pale mint cake with mauve sugar roses, burgundy flowers and gold leaf. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/cake-mint-mauve-sugar-rose-wedding-cake-c56.webp",
+      "images": [
+        "assets/products/cakes/cake-mint-mauve-sugar-rose-wedding-cake-c56.webp"
+      ],
+      "imageAlt": "Two-tier pale mint cake with mauve sugar roses, burgundy flowers and gold leaf",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "990000000005601",
+          "title": "2 tiers - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/cake-mint-mauve-sugar-rose-wedding-cake-c56.webp",
+          "tiers": 2
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 2,
+      "catalogueAddition": "curated-2026-09",
+      "searchText": "Mint & Mauve Sugar Rose Wedding Cake 2 tier sugar flowers bespoke"
+    },
+    {
+      "id": "9900000000057",
+      "handle": "burgundy-sugar-rose-lace-cake-c57",
+      "title": "Burgundy Sugar Rose & Lace Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "tiered-cake",
+        "sugar-flower-cakes"
+      ],
+      "kind": "cake",
+      "description": "Four-tier ivory and burgundy cake with red sugar roses, white flowers, lace and a red ruffle base. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/cake-burgundy-sugar-rose-lace-cake-c57.webp",
+      "images": [
+        "assets/products/cakes/cake-burgundy-sugar-rose-lace-cake-c57.webp"
+      ],
+      "imageAlt": "Four-tier ivory and burgundy cake with red sugar roses, white flowers, lace and a red ruffle base",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "990000000005701",
+          "title": "4 tiers - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/cake-burgundy-sugar-rose-lace-cake-c57.webp",
+          "tiers": 4
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 4,
+      "catalogueAddition": "curated-2026-09",
+      "searchText": "Burgundy Sugar Rose & Lace Cake 4 tier sugar flowers bespoke"
+    },
+    {
+      "id": "9900000000058",
+      "handle": "blush-lace-white-sugar-flower-cake-c58",
+      "title": "Blush Lace & White Sugar Flower Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "tiered-cake",
+        "sugar-flower-cakes"
+      ],
+      "kind": "cake",
+      "description": "Three-tier pale blush cake with white sugar flowers, delicate lace texture and white foliage. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/cake-blush-lace-white-sugar-flower-cake-c58.webp",
+      "images": [
+        "assets/products/cakes/cake-blush-lace-white-sugar-flower-cake-c58.webp"
+      ],
+      "imageAlt": "Three-tier pale blush cake with white sugar flowers, delicate lace texture and white foliage",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "990000000005801",
+          "title": "3 tiers - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/cake-blush-lace-white-sugar-flower-cake-c58.webp",
+          "tiers": 3
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 3,
+      "catalogueAddition": "curated-2026-09",
+      "searchText": "Blush Lace & White Sugar Flower Cake 3 tier sugar flowers bespoke"
+    },
+    {
+      "id": "9900000000059",
+      "handle": "navy-sugar-peony-bouquet-cake-c59",
+      "title": "Navy Sugar Peony Bouquet Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "sugar-flower-cakes"
+      ],
+      "kind": "cake",
+      "description": "Tall single-tier navy cake with white and peach sugar peonies, small pink flowers and blush ribbon. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/cake-navy-sugar-peony-bouquet-cake-c59.webp",
+      "images": [
+        "assets/products/cakes/cake-navy-sugar-peony-bouquet-cake-c59.webp"
+      ],
+      "imageAlt": "Tall single-tier navy cake with white and peach sugar peonies, small pink flowers and blush ribbon",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "990000000005901",
+          "title": "1 tier - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/cake-navy-sugar-peony-bouquet-cake-c59.webp",
+          "tiers": 1
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 1,
+      "catalogueAddition": "curated-2026-09",
+      "searchText": "Navy Sugar Peony Bouquet Cake 1 tier sugar flowers bespoke"
+    },
+    {
+      "id": "9900000000060",
+      "handle": "ivory-lace-pink-sugar-rose-cake-c60",
+      "title": "Ivory Lace & Pink Sugar Rose Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "tiered-cake",
+        "sugar-flower-cakes"
+      ],
+      "kind": "cake",
+      "description": "Four-tier ivory cake with lace, blush sugar roses and small white blossoms. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/cake-ivory-lace-pink-sugar-rose-cake-c60.webp",
+      "images": [
+        "assets/products/cakes/cake-ivory-lace-pink-sugar-rose-cake-c60.webp"
+      ],
+      "imageAlt": "Four-tier ivory cake with lace, blush sugar roses and small white blossoms",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "990000000006001",
+          "title": "4 tiers - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/cake-ivory-lace-pink-sugar-rose-cake-c60.webp",
+          "tiers": 4
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 4,
+      "catalogueAddition": "curated-2026-09",
+      "searchText": "Ivory Lace & Pink Sugar Rose Cake 4 tier sugar flowers bespoke"
+    },
+    {
+      "id": "9900000000061",
+      "handle": "pink-sugar-peony-hydrangea-cake-c61",
+      "title": "Pink Sugar Peony & Hydrangea Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "tiered-cake",
+        "sugar-flower-cakes"
+      ],
+      "kind": "cake",
+      "description": "Three-tier white cake with a hydrangea-covered base, pink sugar peony and initial topper. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/cake-pink-sugar-peony-hydrangea-cake-c61.webp",
+      "images": [
+        "assets/products/cakes/cake-pink-sugar-peony-hydrangea-cake-c61.webp"
+      ],
+      "imageAlt": "Three-tier white cake with a hydrangea-covered base, pink sugar peony and initial topper",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "990000000006101",
+          "title": "3 tiers - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/cake-pink-sugar-peony-hydrangea-cake-c61.webp",
+          "tiers": 3
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 3,
+      "catalogueAddition": "curated-2026-09",
+      "searchText": "Pink Sugar Peony & Hydrangea Cake 3 tier sugar flowers bespoke"
+    },
+    {
+      "id": "9900000000062",
+      "handle": "polka-dot-sugar-peony-wedding-cake-c62",
+      "title": "Polka Dot Sugar Peony Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "tiered-cake",
+        "sugar-flower-cakes"
+      ],
+      "kind": "cake",
+      "description": "Three-tier ivory cake with rounded edges, piped polka dots, a pink sugar peony and satin bow. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/cake-polka-dot-sugar-peony-wedding-cake-c62.webp",
+      "images": [
+        "assets/products/cakes/cake-polka-dot-sugar-peony-wedding-cake-c62.webp"
+      ],
+      "imageAlt": "Three-tier ivory cake with rounded edges, piped polka dots, a pink sugar peony and satin bow",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "990000000006201",
+          "title": "3 tiers - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/cake-polka-dot-sugar-peony-wedding-cake-c62.webp",
+          "tiers": 3
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 3,
+      "catalogueAddition": "curated-2026-09",
+      "searchText": "Polka Dot Sugar Peony Wedding Cake 3 tier sugar flowers bespoke"
+    },
+    {
+      "id": "9900000000063",
+      "handle": "orange-sugar-rose-stencil-wedding-cake-c63",
+      "title": "Orange Sugar Rose & Stencil Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "tiered-cake",
+        "sugar-flower-cakes"
+      ],
+      "kind": "cake",
+      "description": "Three-tier ivory and orange cake with orange sugar roses, white blossoms and a stencilled base. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/cake-orange-sugar-rose-stencil-wedding-cake-c63.webp",
+      "images": [
+        "assets/products/cakes/cake-orange-sugar-rose-stencil-wedding-cake-c63.webp"
+      ],
+      "imageAlt": "Three-tier ivory and orange cake with orange sugar roses, white blossoms and a stencilled base",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "990000000006301",
+          "title": "3 tiers - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/cake-orange-sugar-rose-stencil-wedding-cake-c63.webp",
+          "tiers": 3
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 3,
+      "catalogueAddition": "curated-2026-09",
+      "searchText": "Orange Sugar Rose & Stencil Wedding Cake 3 tier sugar flowers bespoke"
+    },
+    {
+      "id": "9900000000064",
+      "handle": "magnolia-branch-blush-marble-cake-c64",
+      "title": "Magnolia Branch & Blush Marble Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "tiered-cake",
+        "sugar-flower-cakes"
+      ],
+      "kind": "cake",
+      "description": "Four-tier ivory cake with torn blush marble edges and a white sugar magnolia branch. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/cake-magnolia-branch-blush-marble-cake-c64.webp",
+      "images": [
+        "assets/products/cakes/cake-magnolia-branch-blush-marble-cake-c64.webp"
+      ],
+      "imageAlt": "Four-tier ivory cake with torn blush marble edges and a white sugar magnolia branch",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "990000000006401",
+          "title": "4 tiers - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/cake-magnolia-branch-blush-marble-cake-c64.webp",
+          "tiers": 4
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 4,
+      "catalogueAddition": "curated-2026-09",
+      "searchText": "Magnolia Branch & Blush Marble Cake 4 tier sugar flowers bespoke"
+    },
+    {
+      "id": "9900000000065",
+      "handle": "blue-gold-sugar-peony-wedding-cake-c65",
+      "title": "Blue & Gold Sugar Peony Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "tiered-cake",
+        "sugar-flower-cakes"
+      ],
+      "kind": "cake",
+      "description": "Three-tier pale blue cake with a gold spacer, white sugar peonies, green foliage and gold leaf. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/cake-blue-gold-sugar-peony-wedding-cake-c65.webp",
+      "images": [
+        "assets/products/cakes/cake-blue-gold-sugar-peony-wedding-cake-c65.webp"
+      ],
+      "imageAlt": "Three-tier pale blue cake with a gold spacer, white sugar peonies, green foliage and gold leaf",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "990000000006501",
+          "title": "3 tiers - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/cake-blue-gold-sugar-peony-wedding-cake-c65.webp",
+          "tiers": 3
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 3,
+      "catalogueAddition": "curated-2026-09",
+      "searchText": "Blue & Gold Sugar Peony Wedding Cake 3 tier sugar flowers bespoke"
+    },
+    {
+      "id": "9900000000066",
+      "handle": "white-sugar-peony-lattice-cake-c66",
+      "title": "White Sugar Peony & Lattice Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "tiered-cake",
+        "sugar-flower-cakes"
+      ],
+      "kind": "cake",
+      "description": "Two-tier ivory and pale grey cake with geometric lattice and a large white sugar peony. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/cake-white-sugar-peony-lattice-cake-c66.webp",
+      "images": [
+        "assets/products/cakes/cake-white-sugar-peony-lattice-cake-c66.webp"
+      ],
+      "imageAlt": "Two-tier ivory and pale grey cake with geometric lattice and a large white sugar peony",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "990000000006601",
+          "title": "2 tiers - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/cake-white-sugar-peony-lattice-cake-c66.webp",
+          "tiers": 2
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 2,
+      "catalogueAddition": "curated-2026-09",
+      "searchText": "White Sugar Peony & Lattice Cake 2 tier sugar flowers bespoke"
+    },
+    {
+      "id": "9900000000067",
+      "handle": "blush-sugar-rose-ruffle-cake-c67",
+      "title": "Blush Sugar Rose & Ruffle Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "tiered-cake",
+        "sugar-flower-cakes"
+      ],
+      "kind": "cake",
+      "description": "Two-tier blush cake with pink sugar roses, white ruffles and piped pearl trim. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/cake-blush-sugar-rose-ruffle-cake-c67.webp",
+      "images": [
+        "assets/products/cakes/cake-blush-sugar-rose-ruffle-cake-c67.webp"
+      ],
+      "imageAlt": "Two-tier blush cake with pink sugar roses, white ruffles and piped pearl trim",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "990000000006701",
+          "title": "2 tiers - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/cake-blush-sugar-rose-ruffle-cake-c67.webp",
+          "tiers": 2
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 2,
+      "catalogueAddition": "curated-2026-09",
+      "searchText": "Blush Sugar Rose & Ruffle Cake 2 tier sugar flowers bespoke"
+    },
+    {
+      "id": "9900000000068",
+      "handle": "pink-marble-sugar-blossom-cake-c68",
+      "title": "Pink Marble Sugar Blossom Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "tiered-cake",
+        "sugar-flower-cakes"
+      ],
+      "kind": "cake",
+      "description": "Two-tier pink and white marble cake with torn gold-edged panels and pink sugar blossom branches. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/cake-pink-marble-sugar-blossom-cake-c68.webp",
+      "images": [
+        "assets/products/cakes/cake-pink-marble-sugar-blossom-cake-c68.webp"
+      ],
+      "imageAlt": "Two-tier pink and white marble cake with torn gold-edged panels and pink sugar blossom branches",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "990000000006801",
+          "title": "2 tiers - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/cake-pink-marble-sugar-blossom-cake-c68.webp",
+          "tiers": 2
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 2,
+      "catalogueAddition": "curated-2026-09",
+      "searchText": "Pink Marble Sugar Blossom Cake 2 tier sugar flowers bespoke"
+    },
+    {
+      "id": "9900000000069",
+      "handle": "apricot-sugar-peony-gold-leaf-cake-c69",
+      "title": "Apricot Sugar Peony & Gold Leaf Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "tiered-cake",
+        "sugar-flower-cakes"
+      ],
+      "kind": "cake",
+      "description": "Three-tier white cake with apricot sugar peonies, gold leaves, small pearls and a ruffled detail. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/cake-apricot-sugar-peony-gold-leaf-cake-c69.webp",
+      "images": [
+        "assets/products/cakes/cake-apricot-sugar-peony-gold-leaf-cake-c69.webp"
+      ],
+      "imageAlt": "Three-tier white cake with apricot sugar peonies, gold leaves, small pearls and a ruffled detail",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "990000000006901",
+          "title": "3 tiers - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/cake-apricot-sugar-peony-gold-leaf-cake-c69.webp",
+          "tiers": 3
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 3,
+      "catalogueAddition": "curated-2026-09",
+      "searchText": "Apricot Sugar Peony & Gold Leaf Cake 3 tier sugar flowers bespoke"
+    },
+    {
+      "id": "9900000000070",
+      "handle": "peach-sugar-rose-cascade-cake-c70",
+      "title": "Peach Sugar Rose Cascade Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "tiered-cake",
+        "sugar-flower-cakes"
+      ],
+      "kind": "cake",
+      "description": "Three-tier textured ivory cake with peach sugar roses, white blossoms and green leaves. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/cake-peach-sugar-rose-cascade-cake-c70.webp",
+      "images": [
+        "assets/products/cakes/cake-peach-sugar-rose-cascade-cake-c70.webp"
+      ],
+      "imageAlt": "Three-tier textured ivory cake with peach sugar roses, white blossoms and green leaves",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "990000000007001",
+          "title": "3 tiers - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/cake-peach-sugar-rose-cascade-cake-c70.webp",
+          "tiers": 3
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 3,
+      "catalogueAddition": "curated-2026-09",
+      "searchText": "Peach Sugar Rose Cascade Cake 3 tier sugar flowers bespoke"
+    },
+    {
+      "id": "9900000000071",
+      "handle": "fresh-dahlia-gerbera-semi-naked-cake-c71",
+      "title": "Fresh Dahlia & Gerbera Semi-Naked Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "tiered-cake",
+        "fresh-floral-cakes"
+      ],
+      "kind": "cake",
+      "description": "Three-tier semi-naked cake with pale pink dahlias, bright red gerberas, small white flowers and foliage. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/cake-fresh-dahlia-gerbera-semi-naked-cake-c71.webp",
+      "images": [
+        "assets/products/cakes/cake-fresh-dahlia-gerbera-semi-naked-cake-c71.webp"
+      ],
+      "imageAlt": "Three-tier semi-naked cake with pale pink dahlias, bright red gerberas, small white flowers and foliage",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "990000000007101",
+          "title": "3 tiers - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/cake-fresh-dahlia-gerbera-semi-naked-cake-c71.webp",
+          "tiers": 3
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 3,
+      "catalogueAddition": "curated-2026-09",
+      "searchText": "Fresh Dahlia & Gerbera Semi-Naked Cake 3 tier fresh flowers bespoke"
+    },
+    {
+      "id": "9900000000072",
+      "handle": "pink-rose-berry-fresh-floral-cake-c72",
+      "title": "Pink Rose & Berry Fresh Floral Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "tiered-cake",
+        "fresh-floral-cakes"
+      ],
+      "kind": "cake",
+      "description": "Two-tier semi-naked cake with pink fresh roses, mixed berries and a gold wedding topper. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/cake-pink-rose-berry-fresh-floral-cake-c72.webp",
+      "images": [
+        "assets/products/cakes/cake-pink-rose-berry-fresh-floral-cake-c72.webp"
+      ],
+      "imageAlt": "Two-tier semi-naked cake with pink fresh roses, mixed berries and a gold wedding topper",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "990000000007201",
+          "title": "2 tiers - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/cake-pink-rose-berry-fresh-floral-cake-c72.webp",
+          "tiers": 2
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 2,
+      "catalogueAddition": "curated-2026-09",
+      "searchText": "Pink Rose & Berry Fresh Floral Cake 2 tier fresh flowers bespoke"
+    }
+  ]
+}

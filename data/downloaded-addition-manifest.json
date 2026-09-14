@@ -1,0 +1,246 @@
+{
+  "products": [
+    {
+      "productId": "9930000000001",
+      "sourceFile": "images.jpg",
+      "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQixmIt-7NHA0rSXH-enTrMZwVW3QEa6ZMpL-OuZ7aNZAOB3YrQ6oZ6zgS&s=10",
+      "source_country": null,
+      "originStatus": "User-provided download; original photographer and country not verified",
+      "sourceSha256": "bc2f7e4684596b75cb53a4bca10469cb8ca156378aef575c9d637fc2d4a32d00",
+      "image": "assets/products/cakes/downloaded/cake-3-tier-black-baroque-piped-cake.webp",
+      "sha256": "c97ce383d90215f118ff6dbb31cfbeec89aa6f102e7be65d97fb67396a11dc71",
+      "width": 418,
+      "height": 734,
+      "sourceWidth": 418,
+      "sourceHeight": 734,
+      "tiers": 3,
+      "categories": [
+        "luxury-cakes",
+        "tiered-cake"
+      ],
+      "flowerTypes": [],
+      "flowerMaterial": null,
+      "visualReview": {
+        "reviewed": true,
+        "fullCakeVisible": true,
+        "watermarkVisible": false
+      },
+      "treatment": "WebP conversion, no crop or upscale; centred contain presentation; original photo background retained"
+    },
+    {
+      "productId": "9930000000002",
+      "sourceFile": "black-wedding-cake-5-723x1024.jpg",
+      "source": "https://acaketorememberblog.com/wp-content/uploads/2025/01/black-wedding-cake-5-723x1024.jpg",
+      "source_country": null,
+      "originStatus": "User-provided download; original photographer and country not verified",
+      "sourceSha256": "bed6f335614dff48fa8c9809a8382bc16bd319c1d4383ffaf6287257d964beac",
+      "image": "assets/products/cakes/downloaded/cake-4-tier-black-wedding-cake-with-ivory-roses.webp",
+      "sha256": "95f9875f784d96fef65a69d6e6ede1c049936b3649a814fdc631cc349e234edf",
+      "width": 723,
+      "height": 1024,
+      "sourceWidth": 723,
+      "sourceHeight": 1024,
+      "tiers": 4,
+      "categories": [
+        "wedding-cake-dubai",
+        "tiered-cake",
+        "fresh-floral-cakes"
+      ],
+      "flowerTypes": [
+        "roses"
+      ],
+      "flowerMaterial": "fresh",
+      "visualReview": {
+        "reviewed": true,
+        "fullCakeVisible": true,
+        "watermarkVisible": false
+      },
+      "treatment": "WebP conversion, no crop or upscale; centred contain presentation; original photo background retained"
+    },
+    {
+      "productId": "9930000000004",
+      "sourceFile": "il_fullxfull.6104694299_49ul.webp",
+      "source": "https://i.etsystatic.com/33013364/r/il/bee9a1/6104694299/il_fullxfull.6104694299_49ul.jpg",
+      "source_country": null,
+      "originStatus": "User-provided download; original photographer and country not verified",
+      "sourceSha256": "2f3dd9802fc9c40bac3e3bc9835c17b7cd7e7d7ba26b473723565214a238c2c3",
+      "image": "assets/products/cakes/downloaded/cake-4-tier-black-blush-rose-cake-with-gold-leaves.webp",
+      "sha256": "8d50bb1a9e16611b892acadc5a54c2bd82e2320c8d3291a050b97997e20a6fe9",
+      "width": 1000,
+      "height": 1500,
+      "sourceWidth": 2000,
+      "sourceHeight": 3000,
+      "tiers": 4,
+      "categories": [
+        "luxury-cakes",
+        "tiered-cake"
+      ],
+      "flowerTypes": [
+        "roses"
+      ],
+      "flowerMaterial": null,
+      "visualReview": {
+        "reviewed": true,
+        "fullCakeVisible": true,
+        "watermarkVisible": false
+      },
+      "treatment": "WebP conversion, no crop or upscale; centred contain presentation; original photo background retained"
+    },
+    {
+      "productId": "9930000000005",
+      "sourceFile": "images (1).jpg",
+      "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgbz_LTAWPR0lKBFdrGEl1YLVygduCdtMOUGH4dJ7cXV6vE2uQ-VgVOcbk&s=10",
+      "source_country": null,
+      "originStatus": "User-provided download; original photographer and country not verified",
+      "sourceSha256": "fcf1e739e4c0978187a36c7b985dae857bfc5d90466459ec4d7f69f08752bc3f",
+      "image": "assets/products/cakes/downloaded/cake-5-tier-black-cake-with-red-ivory-roses.webp",
+      "sha256": "63602fba18313705a3b389db02795830a1e308d527bffcc2a94c4216393e6416",
+      "width": 425,
+      "height": 721,
+      "sourceWidth": 425,
+      "sourceHeight": 721,
+      "tiers": 5,
+      "categories": [
+        "luxury-cakes",
+        "tiered-cake"
+      ],
+      "flowerTypes": [
+        "roses"
+      ],
+      "flowerMaterial": null,
+      "visualReview": {
+        "reviewed": true,
+        "fullCakeVisible": true,
+        "watermarkVisible": false
+      },
+      "treatment": "WebP conversion, no crop or upscale; centred contain presentation; original photo background retained"
+    },
+    {
+      "productId": "9930000000006",
+      "sourceFile": "images (2).jpg",
+      "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVXsg5e9zBdENuAcMXB6E6amdm5ZzCJoDK3GD3RuaCRUF30sZVccwun4bW&s=10",
+      "source_country": null,
+      "originStatus": "User-provided download; original photographer and country not verified",
+      "sourceSha256": "6f0ce0911a04bb2aee27d515b3be0df36f859187ae4591eef8c310ae636b8f6a",
+      "image": "assets/products/cakes/downloaded/cake-4-tier-navy-ivory-floral-wedding-cake.webp",
+      "sha256": "8809e33ab4e3907215febd48898213f516b9db07d1af66e822d8ca65efdc9fcf",
+      "width": 438,
+      "height": 701,
+      "sourceWidth": 438,
+      "sourceHeight": 701,
+      "tiers": 4,
+      "categories": [
+        "wedding-cake-dubai",
+        "tiered-cake",
+        "fresh-floral-cakes"
+      ],
+      "flowerTypes": [
+        "roses",
+        "hydrangeas"
+      ],
+      "flowerMaterial": "fresh",
+      "visualReview": {
+        "reviewed": true,
+        "fullCakeVisible": true,
+        "watermarkVisible": false
+      },
+      "treatment": "WebP conversion, no crop or upscale; centred contain presentation; original photo background retained"
+    },
+    {
+      "productId": "9930000000007",
+      "sourceFile": "images (3).jpg",
+      "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG5dztv2wuKsDm8MEKxuPfK4oQaDeID9IUPYVAbJtzS5WhT6MhvMW12pCx&s=10",
+      "source_country": null,
+      "originStatus": "User-provided download; original photographer and country not verified",
+      "sourceSha256": "04fc04014128b8d0be34e52487392563b188be37b5d26028293ee44874abdf56",
+      "image": "assets/products/cakes/downloaded/cake-2-tier-ivory-rose-gold-sugar-rose-cake.webp",
+      "sha256": "1fba32969101f01af3dfb07649e892d63285a8e395ccd446188c4aea9b3f8209",
+      "width": 495,
+      "height": 619,
+      "sourceWidth": 495,
+      "sourceHeight": 619,
+      "tiers": 2,
+      "categories": [
+        "wedding-cake-dubai",
+        "tiered-cake",
+        "sugar-flower-cakes"
+      ],
+      "flowerTypes": [
+        "roses"
+      ],
+      "flowerMaterial": "sugar",
+      "visualReview": {
+        "reviewed": true,
+        "fullCakeVisible": true,
+        "watermarkVisible": false
+      },
+      "treatment": "WebP conversion, no crop or upscale; centred contain presentation; original photo background retained"
+    },
+    {
+      "productId": "9930000000008",
+      "sourceFile": "images (4).jpg",
+      "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSER1Z1STXvOPMjnmXbF8G1PM6AFU87c-xwaAI-oCn-Oc7eCtSJd7Qm9R7l&s=10",
+      "source_country": null,
+      "originStatus": "User-provided download; original photographer and country not verified",
+      "sourceSha256": "e72391f904f9585164e81cbdff2f423e2c152e4970efe42fda9bc5d612c9bad3",
+      "image": "assets/products/cakes/downloaded/cake-4-tier-semi-naked-wedding-cake-with-blush-roses.webp",
+      "sha256": "6a622842adaa3ee7214a8e928a04ca7ba43726c28da8c7e6d0697ffc923dc963",
+      "width": 367,
+      "height": 544,
+      "sourceWidth": 367,
+      "sourceHeight": 544,
+      "tiers": 4,
+      "categories": [
+        "wedding-cake-dubai",
+        "tiered-cake",
+        "fresh-floral-cakes"
+      ],
+      "flowerTypes": [
+        "roses"
+      ],
+      "flowerMaterial": "fresh",
+      "visualReview": {
+        "reviewed": true,
+        "fullCakeVisible": true,
+        "watermarkVisible": false
+      },
+      "treatment": "WebP conversion, no crop or upscale; centred contain presentation; original photo background retained"
+    },
+    {
+      "productId": "9930000000009",
+      "sourceFile": "images (5).jpg",
+      "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCT76ZX2Br3dWJQuHXsG15XuFxDBJ_gB7kr3WMxDgZYWhvyJrr5Pt7VZKO&s=10",
+      "source_country": null,
+      "originStatus": "User-provided download; original photographer and country not verified",
+      "sourceSha256": "01445ac64d068dab7e2e172e1564bb2eb31afdd5b246361c7777f27fd6bfb5d8",
+      "image": "assets/products/cakes/downloaded/cake-3-tier-semi-naked-rose-gold-drip-wedding-cake.webp",
+      "sha256": "a2daee371aafaecb6389f310115c72820f2247aea61fc913111bc722589eada7",
+      "width": 365,
+      "height": 547,
+      "sourceWidth": 365,
+      "sourceHeight": 547,
+      "tiers": 3,
+      "categories": [
+        "wedding-cake-dubai",
+        "tiered-cake",
+        "fresh-floral-cakes"
+      ],
+      "flowerTypes": [
+        "roses"
+      ],
+      "flowerMaterial": "fresh",
+      "visualReview": {
+        "reviewed": true,
+        "fullCakeVisible": true,
+        "watermarkVisible": false
+      },
+      "treatment": "WebP conversion, no crop or upscale; centred contain presentation; original photo background retained"
+    }
+  ],
+  "held": [
+    {
+      "n": 3,
+      "reason": "Appears AI-generated; awaiting user preference"
+    }
+  ]
+}

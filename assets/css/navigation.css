@@ -1,0 +1,94 @@
+/* Shared navigation: burgundy framing, ivory menus and generous hit areas. */
+.zavi-header{position:relative;z-index:20}
+.zavi-header .masthead{width:min(1320px,calc(100% - 80px));height:116px;min-height:0;margin:0 auto;padding:0;display:grid;grid-template-columns:minmax(0,1fr) auto minmax(0,1fr);grid-template-rows:auto;gap:28px;align-items:center}
+.zavi-header .masthead .brand{grid-column:2;grid-row:1;justify-self:center}
+.zavi-header .masthead-left{grid-column:1;grid-row:1;display:flex;flex-direction:column;align-items:flex-start;gap:8px}
+.zavi-header .concierge-link{font:400 13px/1.5 var(--body);letter-spacing:0;text-transform:none}
+.zavi-header .location-label{font:400 9px/1.5 var(--body);letter-spacing:1.5px;opacity:.7}
+.zavi-header .masthead .wordmark-name{font-size:50px;letter-spacing:5px;padding-left:5px;line-height:1.25}
+.zavi-header .wordmark-name::after{display:none}
+.zavi-header .masthead .wordmark-house{font-size:9px;letter-spacing:5px;margin-bottom:14px}
+.zavi-header .masthead .wordmark-subtitle{font-size:6px;letter-spacing:1.3px;margin-top:9px}
+.zavi-header .header-actions{grid-column:3;grid-row:1;justify-self:end;width:auto;gap:10px;display:flex;align-items:center}
+.zavi-header .header-search{width:150px;border-color:#fbf7ef50}
+.zavi-header .header-search input{font:400 14px/1.4 var(--body)}
+.zavi-header .header-search button{width:32px;min-width:32px}
+.zavi-header .currency-selector select{width:68px;font:400 12px/1.4 var(--body)}
+.zavi-header .desktop-nav{display:flex;align-items:center;justify-content:center;min-height:58px;gap:36px;padding:0 28px;border:0;font:500 11px/1.4 var(--body);letter-spacing:1.25px;text-transform:uppercase}
+.zavi-header .desktop-nav>a,.zavi-header .nav-dropdown>summary{display:flex;align-items:center;gap:9px;min-height:54px;padding:16px 0;white-space:nowrap}
+.zavi-header .desktop-nav>a::after{bottom:9px}
+.zavi-header .nav-dropdown{position:static}
+.zavi-header .nav-dropdown>summary .icon{width:14px;height:14px;transition:transform .2s}
+.zavi-header .nav-dropdown[open]>summary .icon{transform:rotate(180deg)}
+.zavi-header .mega-menu{position:absolute;inset:100% auto auto 50%;transform:translateX(-50%);width:min(900px,calc(100% - 64px));max-height:calc(100dvh - 215px);overflow:auto;padding:0;margin:0;background:#fbf7ef;color:#502633;border:1px solid #e2d5c4;border-radius:0 0 4px 4px;box-shadow:0 20px 36px #2c152529;z-index:30;text-transform:none;letter-spacing:0}
+.zavi-header .nav-dropdown:not([open])>.mega-menu{display:none}
+.zavi-header .nav-dropdown[open]>.mega-menu{display:grid;grid-template-columns:minmax(0,1fr) 280px}
+.zavi-header .mega-heading{display:flex;justify-content:space-between;align-items:center;gap:20px;padding-bottom:20px;border-bottom:1px solid #e2d5c4}
+.zavi-header .mega-heading .eyebrow{font:500 10px/1.5 var(--body);letter-spacing:1.5px;color:#746258;margin:0}
+.zavi-header .mega-menu a{background:transparent;color:#502633}
+.zavi-header .mega-heading>a,.zavi-header .mega-bespoke>a{display:flex;align-items:center;gap:16px;margin:0;font:500 12px/1.5 var(--body)}
+.zavi-header .mega-menu .icon{width:17px;height:17px}
+.zavi-header .mega-collections{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:4px 8px;padding:12px 0}
+.zavi-header .mega-collections>a{display:block;padding:12px;margin:0;border-radius:3px;text-decoration:none}
+.zavi-header .mega-collections>a:hover,.zavi-header .mega-collections>a[aria-current]{background:#f0e7d9}
+.zavi-header .mega-collections strong{display:block;font:500 21px/1.3 'Bodoni Moda',Georgia,serif}
+.zavi-header .mega-collections span{display:block;margin-top:5px;font:400 12px/1.6 var(--body);color:#746258}
+.zavi-header .mega-bespoke{display:flex;justify-content:space-between;align-items:center;gap:12px;border-top:1px solid #e2d5c4;padding:14px 0 0;font:400 12px/1.5 var(--body);color:#746258}
+.zavi-header :is(a,button,summary,select):focus-visible{outline:2px solid #e6c5a5;outline-offset:4px}
+.zavi-header .mobile-menu-button{display:none}
+#mobile-navigation{width:min(420px,100vw);max-width:100vw;height:100dvh;max-height:100dvh;inset:0 auto 0 0;margin:0;padding:24px;background:#fbf7ef;color:#502633;border:0;border-radius:0;overflow-y:auto}
+#mobile-navigation::backdrop{background:#27151bc9;backdrop-filter:blur(3px)}
+#mobile-navigation .drawer-head{margin:0 0 24px;padding-bottom:20px;border-bottom:1px solid #dfd0be;align-items:center}
+#mobile-navigation .drawer-head h2{font-size:36px;line-height:1.2}
+#mobile-navigation .drawer-head .icon-button{width:44px;height:44px;color:#502633;flex-shrink:0}
+#mobile-navigation .mobile-collections{display:flex;flex-direction:column;gap:0}
+#mobile-navigation .eyebrow{font:500 10px/1.5 var(--body);letter-spacing:1.5px;color:#8b7060;margin:0 0 12px}
+#mobile-navigation .mobile-collections>a{display:block;padding:12px 0;margin:0;border:0;font:400 17px/1.4 var(--body);color:#502633}
+#mobile-navigation a[aria-current]{font-weight:600;text-decoration:underline;text-underline-offset:5px}
+#mobile-navigation .mobile-services{display:grid;gap:0;margin-top:22px;padding-top:18px;border-top:1px solid #dfd0be}
+#mobile-navigation .mobile-services>a{padding:11px 0;font:500 14px/1.5 var(--body);color:#502633}
+#mobile-navigation .mobile-care{display:flex;gap:18px;flex-wrap:wrap;margin-top:20px;padding-top:18px;border-top:1px solid #dfd0be}
+#mobile-navigation .mobile-care>a{font:400 12px/1.5 var(--body);color:#746258}
+@media(max-width:1100px){
+ .zavi-header .desktop-nav{display:none}
+ .zavi-header .masthead{width:calc(100% - 40px);height:auto;min-height:144px;grid-template-columns:44px minmax(0,1fr) 44px;grid-template-rows:80px 44px;gap:6px 0;padding-bottom:14px}
+ .zavi-header .masthead-left .concierge-link,.zavi-header .masthead-left .location-label{display:none}
+ .zavi-header .masthead-left{align-items:center}
+ .zavi-header .mobile-menu-button{display:flex;width:44px;height:44px;padding:10px}
+ .zavi-header .masthead .wordmark-name{font-size:38px;letter-spacing:3px;padding-left:3px}
+ .zavi-header .masthead .wordmark-house{font-size:8px;letter-spacing:4px}
+ .zavi-header .masthead .wordmark-subtitle{font-size:5px;letter-spacing:1px;margin-top:5px}
+ .zavi-header .header-actions{grid-column:1/-1;grid-row:2;justify-self:stretch;width:100%;gap:12px}
+ .zavi-header .header-search{flex:1;width:auto}
+ .zavi-header .header-search input{font-size:16px}
+ .zavi-header .currency-selector select{width:68px}
+}
+@media(max-width:360px){.zavi-header .masthead{width:calc(100% - 24px)}.zavi-header .header-actions{gap:6px}#mobile-navigation{padding:20px}}
+@media(prefers-reduced-motion:reduce){.zavi-header .nav-dropdown>summary .icon{transition:none}}
+
+/* Explicit foregrounds prevent legacy hover rules from hiding menu labels. */
+.zavi-header .desktop-nav>a:is(:hover,:focus-visible,[aria-current]),
+.zavi-header .nav-dropdown>summary:is(:hover,:focus-visible){color:#fbf7ef}
+.zavi-header .mega-menu a:is(:hover,:focus-visible,[aria-current]){color:#502633;text-decoration:none}
+.zavi-header .mega-collections>a:is(:hover,:focus-visible,[aria-current]){background:#f0e7d9}
+.zavi-header .mega-collections>a:is(:hover,:focus-visible,[aria-current]) strong{color:#502633}
+.zavi-header .mega-collections>a:is(:hover,:focus-visible,[aria-current]) span{color:#66554a}
+
+.zavi-header .menu-directory{padding:30px}
+.zavi-header .mega-heading{padding-bottom:18px}
+.zavi-header .mega-heading>a{font-size:11px;text-decoration:underline;text-underline-offset:5px}
+.zavi-header .mega-collections{gap:10px 16px;padding:20px 0}
+.zavi-header .mega-collections>a{padding:12px 8px}
+.zavi-header .mega-collections span{font-size:11px;margin-top:7px;line-height:1.6}
+.zavi-header .menu-consultation{display:block;border-top:1px solid #dfd0be;padding:20px 8px 0;font:500 12px/1.5 var(--body)}
+.zavi-header .menu-feature{position:relative;display:flex;flex-direction:column;margin:0;padding:0;background:#f3ecdf;border-left:1px solid #e2d5c4;text-align:center;overflow:hidden}
+.zavi-header .menu-feature img{display:block;width:100%;height:240px;object-fit:contain}
+.zavi-header .menu-feature>div{padding:20px 16px 24px;background:#f3ecdf}
+.zavi-header .menu-feature span{display:block;font:500 9px/1.5 var(--body);letter-spacing:1.2px}
+.zavi-header .menu-feature strong{display:block;font:500 25px/1.25 'Bodoni Moda',Georgia,serif;margin:10px 0 14px}
+.zavi-header .menu-feature small{font:500 11px/1.5 var(--body);text-decoration:underline;text-underline-offset:5px}
+.zavi-header .menu-feature:is(:hover,:focus-visible){color:#502633;background:#f3ecdf}
+#mobile-navigation .mobile-collections>.mobile-collection-link{display:flex;align-items:center;gap:16px;padding:8px 0}
+#mobile-navigation .mobile-collection-link img{display:block;width:58px;height:58px;object-fit:contain;border-radius:3px;flex-shrink:0}
+#mobile-navigation .mobile-collection-link span{font:500 21px/1.35 'Bodoni Moda',Georgia,serif}
+#mobile-navigation .mobile-collection-link:hover{color:#502633}

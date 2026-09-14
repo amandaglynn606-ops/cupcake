@@ -1,0 +1,329 @@
+{
+  "products": [
+    {
+      "id": "9930000000001",
+      "handle": "3-tier-black-baroque-piped-cake",
+      "title": "3-Tier Black Baroque Piped Cake",
+      "categories": [
+        "luxury-cakes",
+        "tiered-cake"
+      ],
+      "kind": "cake",
+      "description": "Three-tier black cake with ornate piped swags, bead garlands and raised scrollwork. Request your preferred size, tier flavours and decorations. Final details and price are confirmed in your quote.",
+      "image": "assets/products/cakes/downloaded/cake-3-tier-black-baroque-piped-cake.webp",
+      "images": [
+        "assets/products/cakes/downloaded/cake-3-tier-black-baroque-piped-cake.webp"
+      ],
+      "imageAlt": "Three-tier black cake with ornate piped swags, bead garlands and raised scrollwork",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, flavours and decorations are confirmed with your quote.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "993000000000101",
+          "title": "3 tiers — custom quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/downloaded/cake-3-tier-black-baroque-piped-cake.webp",
+          "tiers": 3
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 3,
+      "catalogueAddition": "downloaded-2026-09",
+      "collectionBatch": "downloads-2026-09-14",
+      "metaTitle": "3-Tier Black Baroque Piped Cake",
+      "metaDescription": "Three-tier black cake with ornate piped swags, bead garlands and raised scrollwork. Request a quote from Maison Zavi.",
+      "searchText": "3-Tier Black Baroque Piped Cake Three-tier black cake with ornate piped swags, bead garlands and raised scrollwork. Request your preferred size, tier flavours and decorations. Final details and price are confirmed in your quote."
+    },
+    {
+      "id": "9930000000002",
+      "handle": "4-tier-black-wedding-cake-with-ivory-roses",
+      "title": "4-Tier Black Wedding Cake with Ivory Roses",
+      "categories": [
+        "wedding-cake-dubai",
+        "tiered-cake",
+        "fresh-floral-cakes"
+      ],
+      "kind": "cake",
+      "description": "Four-tier black wedding cake with textured icing and a cluster of ivory roses and green leaves. Request your preferred size, tier flavours and decorations. Final details and price are confirmed in your quote.",
+      "image": "assets/products/cakes/downloaded/cake-4-tier-black-wedding-cake-with-ivory-roses.webp",
+      "images": [
+        "assets/products/cakes/downloaded/cake-4-tier-black-wedding-cake-with-ivory-roses.webp"
+      ],
+      "imageAlt": "Four-tier black wedding cake with textured icing and a cluster of ivory roses and green leaves",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, flavours and decorations are confirmed with your quote.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "993000000000201",
+          "title": "4 tiers — custom quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/downloaded/cake-4-tier-black-wedding-cake-with-ivory-roses.webp",
+          "tiers": 4
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 4,
+      "catalogueAddition": "downloaded-2026-09",
+      "collectionBatch": "downloads-2026-09-14",
+      "metaTitle": "4-Tier Black Wedding Cake & Ivory Roses",
+      "metaDescription": "Four-tier black wedding cake with textured icing and a cluster of ivory roses and green leaves. Request a quote from Maison Zavi.",
+      "searchText": "4-Tier Black Wedding Cake with Ivory Roses Four-tier black wedding cake with textured icing and a cluster of ivory roses and green leaves. Request your preferred size, tier flavours and decorations. Final details and price are confirmed in your quote. fresh flowers"
+    },
+    {
+      "id": "9930000000004",
+      "handle": "4-tier-black-blush-rose-cake-with-gold-leaves",
+      "title": "4-Tier Black & Blush Rose Cake with Gold Leaves",
+      "categories": [
+        "luxury-cakes",
+        "tiered-cake"
+      ],
+      "kind": "cake",
+      "description": "Four-tier black cake with black and blush rose decorations, pink flowers, gold leaves and piped bead borders. Request your preferred size, tier flavours and decorations. Final details and price are confirmed in your quote.",
+      "image": "assets/products/cakes/downloaded/cake-4-tier-black-blush-rose-cake-with-gold-leaves.webp",
+      "images": [
+        "assets/products/cakes/downloaded/cake-4-tier-black-blush-rose-cake-with-gold-leaves.webp"
+      ],
+      "imageAlt": "Four-tier black cake with black and blush rose decorations, pink flowers, gold leaves and piped bead borders",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, flavours and decorations are confirmed with your quote.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "993000000000401",
+          "title": "4 tiers — custom quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/downloaded/cake-4-tier-black-blush-rose-cake-with-gold-leaves.webp",
+          "tiers": 4
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 4,
+      "catalogueAddition": "downloaded-2026-09",
+      "collectionBatch": "downloads-2026-09-14",
+      "metaTitle": "4-Tier Black & Blush Rose Cake & Gold Leaves",
+      "metaDescription": "Four-tier black cake with black and blush rose decorations, pink flowers, gold leaves and piped bead borders. Request a quote from Maison Zavi.",
+      "searchText": "4-Tier Black & Blush Rose Cake with Gold Leaves Four-tier black cake with black and blush rose decorations, pink flowers, gold leaves and piped bead borders. Request your preferred size, tier flavours and decorations. Final details and price are confirmed in your quote."
+    },
+    {
+      "id": "9930000000005",
+      "handle": "5-tier-black-cake-with-red-ivory-roses",
+      "title": "5-Tier Black Cake with Red & Ivory Roses",
+      "categories": [
+        "luxury-cakes",
+        "tiered-cake"
+      ],
+      "kind": "cake",
+      "description": "Five-tier black cake with clusters of red, black and ivory roses, green foliage and a black script topper. Request your preferred size, tier flavours and decorations. Final details and price are confirmed in your quote.",
+      "image": "assets/products/cakes/downloaded/cake-5-tier-black-cake-with-red-ivory-roses.webp",
+      "images": [
+        "assets/products/cakes/downloaded/cake-5-tier-black-cake-with-red-ivory-roses.webp"
+      ],
+      "imageAlt": "Five-tier black cake with clusters of red, black and ivory roses, green foliage and a black script topper",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, flavours and decorations are confirmed with your quote.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "993000000000501",
+          "title": "5 tiers — custom quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/downloaded/cake-5-tier-black-cake-with-red-ivory-roses.webp",
+          "tiers": 5
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 5,
+      "catalogueAddition": "downloaded-2026-09",
+      "collectionBatch": "downloads-2026-09-14",
+      "metaTitle": "5-Tier Black Cake & Red & Ivory Roses",
+      "metaDescription": "Five-tier black cake with clusters of red, black and ivory roses, green foliage and a black script topper. Request a quote from Maison Zavi.",
+      "searchText": "5-Tier Black Cake with Red & Ivory Roses Five-tier black cake with clusters of red, black and ivory roses, green foliage and a black script topper. Request your preferred size, tier flavours and decorations. Final details and price are confirmed in your quote."
+    },
+    {
+      "id": "9930000000006",
+      "handle": "4-tier-navy-ivory-floral-wedding-cake",
+      "title": "4-Tier Navy & Ivory Floral Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "tiered-cake",
+        "fresh-floral-cakes"
+      ],
+      "kind": "cake",
+      "description": "Four-tier ivory wedding cake with one navy tier, textured icing, piped pearl borders and white rose and hydrangea arrangements. Request your preferred size, tier flavours and decorations. Final details and price are confirmed in your quote.",
+      "image": "assets/products/cakes/downloaded/cake-4-tier-navy-ivory-floral-wedding-cake.webp",
+      "images": [
+        "assets/products/cakes/downloaded/cake-4-tier-navy-ivory-floral-wedding-cake.webp"
+      ],
+      "imageAlt": "Four-tier ivory wedding cake with one navy tier, textured icing, piped pearl borders and white rose and hydrangea arrangements",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, flavours and decorations are confirmed with your quote.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "993000000000601",
+          "title": "4 tiers — custom quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/downloaded/cake-4-tier-navy-ivory-floral-wedding-cake.webp",
+          "tiers": 4
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 4,
+      "catalogueAddition": "downloaded-2026-09",
+      "collectionBatch": "downloads-2026-09-14",
+      "metaTitle": "4-Tier Navy & Ivory Floral Wedding Cake",
+      "metaDescription": "Four-tier ivory wedding cake with one navy tier, textured icing, piped pearl borders and white rose and hydrangea arrangements. Request a quote from Maison Zavi.",
+      "searchText": "4-Tier Navy & Ivory Floral Wedding Cake Four-tier ivory wedding cake with one navy tier, textured icing, piped pearl borders and white rose and hydrangea arrangements. Request your preferred size, tier flavours and decorations. Final details and price are confirmed in your quote. fresh flowers"
+    },
+    {
+      "id": "9930000000007",
+      "handle": "2-tier-ivory-rose-gold-sugar-rose-cake",
+      "title": "2-Tier Ivory & Rose Gold Sugar Rose Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "tiered-cake",
+        "sugar-flower-cakes"
+      ],
+      "kind": "cake",
+      "description": "Two-tier ivory cake with rose gold bands, white and taupe sugar roses and gold foliage. Request your preferred size, tier flavours and decorations. Final details and price are confirmed in your quote.",
+      "image": "assets/products/cakes/downloaded/cake-2-tier-ivory-rose-gold-sugar-rose-cake.webp",
+      "images": [
+        "assets/products/cakes/downloaded/cake-2-tier-ivory-rose-gold-sugar-rose-cake.webp"
+      ],
+      "imageAlt": "Two-tier ivory cake with rose gold bands, white and taupe sugar roses and gold foliage",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, flavours and decorations are confirmed with your quote.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "993000000000701",
+          "title": "2 tiers — custom quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/downloaded/cake-2-tier-ivory-rose-gold-sugar-rose-cake.webp",
+          "tiers": 2
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 2,
+      "catalogueAddition": "downloaded-2026-09",
+      "collectionBatch": "downloads-2026-09-14",
+      "metaTitle": "2-Tier Ivory & Rose Gold Sugar Rose Cake",
+      "metaDescription": "Two-tier ivory cake with rose gold bands, white and taupe sugar roses and gold foliage. Request a quote from Maison Zavi.",
+      "searchText": "2-Tier Ivory & Rose Gold Sugar Rose Cake Two-tier ivory cake with rose gold bands, white and taupe sugar roses and gold foliage. Request your preferred size, tier flavours and decorations. Final details and price are confirmed in your quote."
+    },
+    {
+      "id": "9930000000008",
+      "handle": "4-tier-semi-naked-wedding-cake-with-blush-roses",
+      "title": "4-Tier Semi-Naked Wedding Cake with Blush Roses",
+      "categories": [
+        "wedding-cake-dubai",
+        "tiered-cake",
+        "fresh-floral-cakes"
+      ],
+      "kind": "cake",
+      "description": "Four-tier semi-naked wedding cake with blush and ivory roses, small white flowers and trailing green foliage. Request your preferred size, tier flavours and decorations. Final details and price are confirmed in your quote.",
+      "image": "assets/products/cakes/downloaded/cake-4-tier-semi-naked-wedding-cake-with-blush-roses.webp",
+      "images": [
+        "assets/products/cakes/downloaded/cake-4-tier-semi-naked-wedding-cake-with-blush-roses.webp"
+      ],
+      "imageAlt": "Four-tier semi-naked wedding cake with blush and ivory roses, small white flowers and trailing green foliage",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, flavours and decorations are confirmed with your quote.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "993000000000801",
+          "title": "4 tiers — custom quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/downloaded/cake-4-tier-semi-naked-wedding-cake-with-blush-roses.webp",
+          "tiers": 4
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 4,
+      "catalogueAddition": "downloaded-2026-09",
+      "collectionBatch": "downloads-2026-09-14",
+      "metaTitle": "4-Tier Semi-Naked Wedding Cake & Blush Roses",
+      "metaDescription": "Four-tier semi-naked wedding cake with blush and ivory roses, small white flowers and trailing green foliage. Request a quote from Maison Zavi.",
+      "searchText": "4-Tier Semi-Naked Wedding Cake with Blush Roses Four-tier semi-naked wedding cake with blush and ivory roses, small white flowers and trailing green foliage. Request your preferred size, tier flavours and decorations. Final details and price are confirmed in your quote. fresh flowers"
+    },
+    {
+      "id": "9930000000009",
+      "handle": "3-tier-semi-naked-rose-gold-drip-wedding-cake",
+      "title": "3-Tier Semi-Naked Rose & Gold Drip Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "tiered-cake",
+        "fresh-floral-cakes"
+      ],
+      "kind": "cake",
+      "description": "Three-tier semi-naked wedding cake with gold drips, peach and blush roses and green fern leaves. Request your preferred size, tier flavours and decorations. Final details and price are confirmed in your quote.",
+      "image": "assets/products/cakes/downloaded/cake-3-tier-semi-naked-rose-gold-drip-wedding-cake.webp",
+      "images": [
+        "assets/products/cakes/downloaded/cake-3-tier-semi-naked-rose-gold-drip-wedding-cake.webp"
+      ],
+      "imageAlt": "Three-tier semi-naked wedding cake with gold drips, peach and blush roses and green fern leaves",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, flavours and decorations are confirmed with your quote.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "993000000000901",
+          "title": "3 tiers — custom quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/downloaded/cake-3-tier-semi-naked-rose-gold-drip-wedding-cake.webp",
+          "tiers": 3
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 3,
+      "catalogueAddition": "downloaded-2026-09",
+      "collectionBatch": "downloads-2026-09-14",
+      "metaTitle": "3-Tier Semi-Naked Rose & Gold Drip Wedding Cake",
+      "metaDescription": "Three-tier semi-naked wedding cake with gold drips, peach and blush roses and green fern leaves. Request a quote from Maison Zavi.",
+      "searchText": "3-Tier Semi-Naked Rose & Gold Drip Wedding Cake Three-tier semi-naked wedding cake with gold drips, peach and blush roses and green fern leaves. Request your preferred size, tier flavours and decorations. Final details and price are confirmed in your quote. fresh flowers"
+    }
+  ]
+}

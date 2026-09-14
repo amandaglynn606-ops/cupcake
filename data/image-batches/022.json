@@ -1,0 +1,39 @@
+{
+  "batch": 22,
+  "size": 4,
+  "sourcePreference": "Pinterest",
+  "records": [
+    {
+      "n": 1051,
+      "productId": "8054899671265",
+      "title": "Silver Birthday Candles",
+      "originalImage": "assets/products/d8d0d53ae71f03dab9da.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 1052,
+      "productId": "8027000766689",
+      "title": "No 4 Gold Birthday Candle",
+      "originalImage": "assets/products/d3f0776f884b12a60b79.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 1053,
+      "productId": "8026999914721",
+      "title": "Blue Crown Birthday Candle",
+      "originalImage": "assets/products/898066078fd3d8c19a62.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 1054,
+      "productId": "6573719617725",
+      "title": "Birthday Acrylic Topper",
+      "originalImage": "assets/products/e1f764fff74ef2d34160.jpg",
+      "status": "needs-search",
+      "candidates": []
+    }
+  ]
+}

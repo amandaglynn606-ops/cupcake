@@ -1,0 +1,35 @@
+'use strict';
+const {esc,img,link,card,shell,icon}=require('../lib/ui');
+function carousel(products,ctx,id,label){
+ return `<div class="cake-carousel" role="region" aria-roledescription="carousel" aria-label="${label}" data-carousel data-autoplay>
+  <div class="carousel-toolbar"><p class="eyebrow">${label}</p><div class="carousel-controls"><span data-carousel-status aria-live="off"></span><button type="button" data-carousel-prev aria-label="Previous cakes" aria-controls="${id}">${icon('arrow')}</button><button type="button" data-carousel-next aria-label="Next cakes" aria-controls="${id}">${icon('arrow')}</button></div></div>
+  <div id="${id}" class="product-grid carousel-track" data-carousel-track tabindex="0" aria-label="${label}; use arrow keys to browse">${products.map(p=>card(p,ctx)).join('')}</div>
+  <div class="carousel-progress" aria-hidden="true"><span data-carousel-progress></span></div>
+ </div>`;
+}
+function home(ctx,collectionCard){
+ const showOnHomepage=p=>! /\bblack\b/i.test([p.title,p.imageAlt,p.finish].filter(Boolean).join(' '));
+ const wedding=ctx.bySlug.get('wedding-cakes').products.filter(showOnHomepage);
+ const luxury=(ctx.bySlug.get('luxury-cakes')?.products||ctx.catalog.products.filter(p=>p.kind==='cake'&&p.available)).filter(showOnHomepage);
+ const weddingFeature=wedding.find(p=>p.id==='9900000000032')||wedding[2];
+ const bespoke=luxury.find(p=>p.id==='9920000000005')||luxury[0];
+ const photo=(p,width=1200)=>`<img class="cake-image" src="${img(p.image,width)}" alt="${esc(p.imageAlt||p.title)}" width="1200" height="1200" loading="lazy">`;
+ const body=`<main id="main" class="maison-home">
+ <section class="maison-hero video-hero" aria-labelledby="hero-heading">
+  <div class="hero-media"><img id="hero-image" src="/assets/videos/wedding-second-full-frame-poster.webp" alt="White wedding cake decorated with blush flowers and green foliage" width="1280" height="720" fetchpriority="high"><video id="hero-video" muted loop playsinline preload="none" aria-hidden="true" tabindex="-1" data-desktop-src="/assets/videos/wedding-second-full-frame.mp4" data-mobile-src="/assets/videos/wedding-second-full-frame-mobile.mp4"></video></div>
+  <div class="wrap hero-inner"><div class="hero-copy"><p class="eyebrow">MAISON ZAVI · THE WEDDING COLLECTION</p><h1 id="hero-heading">Wedding cakes.<br><em>Made to order.</em></h1><p>Wedding, engagement and celebration cakes. Choose a design, select your flavours and request a quote.</p><div class="hero-actions">${link('/collections/wedding-cakes','Discover wedding cakes','button')}${link('/bespoke','Design your own cake')}</div><p class="hero-footnote">CHOOSE A DESIGN · SELECT FLAVOURS · REQUEST A QUOTE</p></div></div>
+ </section>
+ <div class="maison-promises"><div class="wrap"><span>Custom colours, flowers and flavours</span><span>Wedding · Luxury · Engagement</span><a href="/delivery">Delivery across the UAE ${icon('arrow')}</a></div></div>
+ <section class="wedding-showcase wrap section-space" aria-labelledby="wedding-heading">
+  <div class="wedding-editorial"><a class="wedding-photo" href="/cakes/${weddingFeature.handle}">${photo(weddingFeature)}<span class="wedding-photo-caption">FLOWERS, FORM & FINISH ${icon('arrow')}</span></a><div class="wedding-copy"><span class="section-number">THE WEDDING COLLECTION</span><h2 id="wedding-heading">Wedding cakes<br><em>with floral designs.</em></h2><p>Browse wedding cakes with fresh flowers, sugar flowers, piped details and tiered arrangements.</p>${link('/collections/wedding-cakes','Explore wedding cakes','button')}<div class="editorial-detail"><span>THE FINISHING TOUCH</span><p>Select flowers and flavours, then confirm the cake size and decorations with us.</p>${link('/bespoke?occasion=Wedding','Tell us about your wedding')}</div></div></div>
+  ${carousel(wedding.slice(0,9),ctx,'wedding-carousel','The wedding selection')}
+ </section>
+ <section class="collections-band"><div class="home-collections collection-showcase wrap section-space" aria-labelledby="collections-heading"><div class="collection-showcase-heading"><div><p class="eyebrow">THE COLLECTIONS</p><h2 id="collections-heading">Browse our<br><em>cake collections.</em></h2></div><div class="collection-showcase-intro"><p>Browse by occasion, tier count or flower type. Each cake page includes design details and flavour options.</p>${link('/collections','Explore all collections')}</div></div><div class="collection-grid collection-showcase-grid">${ctx.collections.map(c=>collectionCard(c,ctx,true,showOnHomepage)).join('')}</div></div></section>
+ <section class="signature-section section-space" aria-labelledby="luxury-heading"><div class="wrap"><div class="section-heading"><div><p class="eyebrow">THE LUXURY EDIT</p><h2 id="luxury-heading">Tall tiers.<br><em>Sculpted designs.</em></h2></div><div><p>Explore tall cakes, sculpted decorations,<br>metallic finishes and detailed floral designs.</p>${link('/collections/luxury-cakes','Explore luxury cakes')}</div></div>${carousel(luxury.slice(0,9),ctx,'atelier-carousel','Luxury cake designs')}</div></section>
+ <section class="bespoke-band"><div class="bespoke-feature wrap section-space" aria-labelledby="bespoke-heading"><div class="bespoke-copy"><p class="eyebrow">DESIGN YOUR OWN CAKE</p><h2 id="bespoke-heading">Custom cake<br><em>designs.</em></h2><p>Share your preferred colours, flowers, guest count and event date. We’ll discuss the design and prepare a quote.</p>${link('/bespoke','Design your own cake','button')}<span class="bespoke-caption">DESIGN · FLOWERS · FLAVOURS · FINISH</span></div><div class="bespoke-photo">${photo(bespoke)}<span class="bespoke-image-note">COLOURS AND DECORATIONS CONFIRMED WITH YOU</span></div></div></section>
+ <section class="process-band"><div class="celebration-process wrap section-space" aria-labelledby="process-heading"><div class="section-heading"><div><p class="eyebrow">HOW IT WORKS</p><h2 id="process-heading">How to<br><em>request a cake.</em></h2></div><p>Choose a cake and send your event details.<br>We’ll confirm availability and price.</p></div><div class="process-grid"><article><h3>Find your design</h3><p>Browse the collections and save the cakes that catch your eye.</p>${link('/collections','Explore the collections')}</article><article><h3>Choose your options</h3><p>Choose your tier flavours, flowers and finishing touches.</p>${link('/bespoke','Share your ideas')}</article><article><h3>Plan your occasion</h3><p>Send your selection, date and delivery details for a personal quote.</p>${link('/contact','Contact us')}</article></div></div></section>
+ <section class="maison-note"><p class="eyebrow">THE MAISON APPROACH</p><h2>About<br><em>Maison Zavi.</em></h2><p>Born in the heart of Dubai, Maison Zavi is here for the people and occasions that matter to you. Tell us who you’re celebrating, the flowers they love and the flavours you want to share.</p>${link('/atelier','Our story')}</section>
+ </main>`;
+ return shell(ctx,{title:'Wedding, luxury & engagement cakes',body,path:'/',styles:['maison-pages'],scripts:['carousels','hero-video','collection-zoom']});
+}
+module.exports={home};

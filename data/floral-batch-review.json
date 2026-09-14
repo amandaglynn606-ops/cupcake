@@ -1,0 +1,505 @@
+{
+  "reviewedAt": "2026-09-13",
+  "columns": [
+    "candidate",
+    "tiers",
+    "title",
+    "material",
+    "alt",
+    "flowerTypes"
+  ],
+  "additions": [
+    [
+      73,
+      3,
+      "Ivory Peony & Blush Rose Fresh Floral Cake",
+      "fresh",
+      "Three-tier semi-naked cake with ivory peonies, blush roses and green foliage",
+      [
+        "peonies",
+        "roses"
+      ]
+    ],
+    [
+      74,
+      4,
+      "Pastel Fresh Flower Garland Wedding Cake",
+      "fresh",
+      "Four-tier ivory cake with piped pearl swags and pastel fresh flower garlands",
+      [
+        "roses"
+      ]
+    ],
+    [
+      77,
+      3,
+      "Peach Rose & Lisianthus Semi-Naked Cake",
+      "fresh",
+      "Three-tier semi-naked cake with peach and blush roses, white lisianthus and foliage",
+      [
+        "roses",
+        "lisianthus"
+      ]
+    ],
+    [
+      80,
+      3,
+      "White Rose & Gypsophila Wedding Cake",
+      "fresh",
+      "Three-tier white cake with ivory roses, gypsophila, trailing foliage and a wedding topper",
+      [
+        "roses",
+        "gypsophila"
+      ]
+    ],
+    [
+      82,
+      3,
+      "Pink Rose & Peony Ribbon Wedding Cake",
+      "fresh",
+      "Three-tier white cake with a pink rose and peony cascade and long pink ribbon",
+      [
+        "roses",
+        "peonies"
+      ]
+    ],
+    [
+      84,
+      3,
+      "Lavender & Rose Fresh Floral Cascade Cake",
+      "fresh",
+      "Three-tier semi-naked cake with cream and blush roses, lavender and a green floral cascade",
+      [
+        "roses",
+        "lavender"
+      ]
+    ],
+    [
+      88,
+      4,
+      "Floating Rose Garden Wedding Cake",
+      "fresh",
+      "Four-tier white cake with a floating upper tier and blush roses around the open floral centre",
+      [
+        "roses"
+      ]
+    ],
+    [
+      89,
+      3,
+      "Cream Rose & Peony Gold Leaf Cake",
+      "fresh",
+      "Three-tier semi-naked cake with cream roses, peonies, foliage and gold leaf",
+      [
+        "roses",
+        "peonies"
+      ]
+    ],
+    [
+      92,
+      3,
+      "Sunset Rose & Dahlia Cascade Cake",
+      "fresh",
+      "Three-tier white cake with a cascade of orange roses, red dahlias and small purple flowers",
+      [
+        "roses",
+        "dahlias"
+      ]
+    ],
+    [
+      93,
+      3,
+      "Mocha & Blush Rose Wedding Cake",
+      "fresh",
+      "Three-tier ivory cake with mocha and blush fresh roses and loose green foliage",
+      [
+        "roses"
+      ]
+    ],
+    [
+      96,
+      3,
+      "Pink Dahlia & Rose Ripple Wedding Cake",
+      "fresh",
+      "Three-tier rippled ivory cake with large pale pink dahlias, pink roses, foliage and macarons",
+      [
+        "roses",
+        "dahlias"
+      ]
+    ],
+    [
+      98,
+      1,
+      "Crimson Sugar Peony Wrap Cake",
+      "sugar",
+      "Single-tier ivory cake with a crimson sugar peony, pink wrap and twine detail",
+      [
+        "peonies"
+      ]
+    ],
+    [
+      99,
+      2,
+      "White Sugar Blossom Relief Cake",
+      "sugar",
+      "Two-tier white cake with raised white sugar flowers across the lower tier",
+      [
+        "mixed-blossoms"
+      ]
+    ],
+    [
+      100,
+      2,
+      "Black & Pink Sugar Rose Wedding Cake",
+      "sugar",
+      "Two-tier black cake with an upright pink sugar rose and purple and pink blossoms",
+      [
+        "roses"
+      ]
+    ],
+    [
+      101,
+      4,
+      "Navy & Ivory Sugar Peony Wedding Cake",
+      "sugar",
+      "Four-tier navy and ivory cake with large peach sugar peonies, small pastel flowers and gold leaf",
+      [
+        "peonies",
+        "hydrangeas",
+        "sweet-peas"
+      ]
+    ],
+    [
+      102,
+      2,
+      "Mint & Mauve Sugar Rose Wedding Cake",
+      "sugar",
+      "Two-tier pale mint cake with mauve sugar roses, burgundy flowers and gold leaf",
+      [
+        "roses"
+      ]
+    ],
+    [
+      103,
+      4,
+      "Burgundy Sugar Rose & Lace Cake",
+      "sugar",
+      "Four-tier ivory and burgundy cake with red sugar roses, white flowers, lace and a red ruffle base",
+      [
+        "roses"
+      ]
+    ],
+    [
+      104,
+      3,
+      "Blush Lace & White Sugar Flower Cake",
+      "sugar",
+      "Three-tier pale blush cake with white sugar flowers, delicate lace texture and white foliage",
+      [
+        "mixed-blossoms"
+      ]
+    ],
+    [
+      106,
+      1,
+      "Navy Sugar Peony Bouquet Cake",
+      "sugar",
+      "Tall single-tier navy cake with white and peach sugar peonies, small pink flowers and blush ribbon",
+      [
+        "peonies"
+      ]
+    ],
+    [
+      108,
+      4,
+      "Ivory Lace & Pink Sugar Rose Cake",
+      "sugar",
+      "Four-tier ivory cake with lace, blush sugar roses and small white blossoms",
+      [
+        "roses",
+        "mixed-blossoms"
+      ]
+    ],
+    [
+      113,
+      3,
+      "Pink Sugar Peony & Hydrangea Cake",
+      "sugar",
+      "Three-tier white cake with a hydrangea-covered base, pink sugar peony and initial topper",
+      [
+        "peonies",
+        "hydrangeas"
+      ]
+    ],
+    [
+      122,
+      3,
+      "Polka Dot Sugar Peony Wedding Cake",
+      "sugar",
+      "Three-tier ivory cake with rounded edges, piped polka dots, a pink sugar peony and satin bow",
+      [
+        "peonies"
+      ]
+    ],
+    [
+      144,
+      3,
+      "Orange Sugar Rose & Stencil Wedding Cake",
+      "sugar",
+      "Three-tier ivory and orange cake with orange sugar roses, white blossoms and a stencilled base",
+      [
+        "roses",
+        "mixed-blossoms"
+      ]
+    ],
+    [
+      145,
+      4,
+      "Magnolia Branch & Blush Marble Cake",
+      "sugar",
+      "Four-tier ivory cake with torn blush marble edges and a white sugar magnolia branch",
+      [
+        "magnolias"
+      ]
+    ],
+    [
+      175,
+      3,
+      "Blue & Gold Sugar Peony Wedding Cake",
+      "sugar",
+      "Three-tier pale blue cake with a gold spacer, white sugar peonies, green foliage and gold leaf",
+      [
+        "peonies"
+      ]
+    ],
+    [
+      193,
+      2,
+      "White Sugar Peony & Lattice Cake",
+      "sugar",
+      "Two-tier ivory and pale grey cake with geometric lattice and a large white sugar peony",
+      [
+        "peonies"
+      ]
+    ],
+    [
+      194,
+      2,
+      "Blush Sugar Rose & Ruffle Cake",
+      "sugar",
+      "Two-tier blush cake with pink sugar roses, white ruffles and piped pearl trim",
+      [
+        "roses"
+      ]
+    ],
+    [
+      205,
+      2,
+      "Pink Marble Sugar Blossom Cake",
+      "sugar",
+      "Two-tier pink and white marble cake with torn gold-edged panels and pink sugar blossom branches",
+      [
+        "mixed-blossoms"
+      ]
+    ],
+    [
+      206,
+      3,
+      "Apricot Sugar Peony & Gold Leaf Cake",
+      "sugar",
+      "Three-tier white cake with apricot sugar peonies, gold leaves, small pearls and a ruffled detail",
+      [
+        "peonies"
+      ]
+    ],
+    [
+      208,
+      3,
+      "Peach Sugar Rose Cascade Cake",
+      "sugar",
+      "Three-tier textured ivory cake with peach sugar roses, white blossoms and green leaves",
+      [
+        "roses",
+        "mixed-blossoms"
+      ]
+    ],
+    [
+      199,
+      3,
+      "Fresh Dahlia & Gerbera Semi-Naked Cake",
+      "fresh",
+      "Three-tier semi-naked cake with pale pink dahlias, bright red gerberas, small white flowers and foliage",
+      [
+        "dahlias",
+        "gerberas"
+      ]
+    ],
+    [
+      217,
+      2,
+      "Pink Rose & Berry Fresh Floral Cake",
+      "fresh",
+      "Two-tier semi-naked cake with pink fresh roses, mixed berries and a gold wedding topper",
+      [
+        "roses"
+      ]
+    ]
+  ],
+  "replacements": [
+    {
+      "originalNumber": 47,
+      "candidate": 78,
+      "tiers": 3,
+      "material": "fresh",
+      "flowerTypes": [
+        "roses",
+        "lisianthus"
+      ],
+      "alt": "Three-tier white wedding cake with a cascade of white roses, lisianthus and green leaves",
+      "match": "White round three-tier cake with a white floral cascade and foliage."
+    },
+    {
+      "originalNumber": 50,
+      "candidate": 115,
+      "tiers": 4,
+      "material": "sugar",
+      "flowerTypes": [
+        "roses"
+      ],
+      "alt": "Four-tier white wedding cake with a winding cascade of ivory and blush sugar roses",
+      "match": "Four round white tiers with blush and ivory rose cascade."
+    },
+    {
+      "originalNumber": 3,
+      "candidate": 166,
+      "tiers": 1,
+      "material": null,
+      "flowerTypes": [],
+      "alt": "Single-tier pink cake with white ribbon bows and pink piped borders",
+      "match": "Round pink cake with white ribbon bows; matches the white and pink ribbon title."
+    },
+    {
+      "originalNumber": 27,
+      "candidate": 176,
+      "tiers": 3,
+      "material": "sugar",
+      "flowerTypes": [
+        "roses"
+      ],
+      "alt": "Three-tier ivory and pink marble cake with pale pink sugar roses and pearl details",
+      "match": "Three round tiers, pink and ivory palette, abstract marble detail and pale pink flowers."
+    },
+    {
+      "originalNumber": 46,
+      "candidate": 174,
+      "tiers": 3,
+      "material": "sugar",
+      "flowerTypes": [
+        "roses",
+        "peonies"
+      ],
+      "alt": "Three-tier white cake with pink sugar roses, open peonies, gold leaf and trailing leaves",
+      "match": "Three white round tiers with pink roses and additional sugar blooms."
+    },
+    {
+      "originalNumber": 53,
+      "candidate": 131,
+      "tiers": 2,
+      "material": "fresh",
+      "flowerTypes": [
+        "roses"
+      ],
+      "alt": "Two-tier semi-naked white wedding cake with ivory roses and green leaves",
+      "match": "Two round white semi-naked tiers with white roses and foliage."
+    },
+    {
+      "originalNumber": 54,
+      "candidate": 186,
+      "tiers": 2,
+      "material": null,
+      "flowerTypes": [
+        "roses"
+      ],
+      "alt": "Two-tier ivory wedding cake with blush and ivory roses",
+      "match": "Two round white tiers with soft blush and ivory rose clusters."
+    },
+    {
+      "originalNumber": 62,
+      "candidate": 184,
+      "tiers": 2,
+      "material": null,
+      "flowerTypes": [],
+      "alt": "Two-tier semi-naked cake with strawberries, raspberries, blueberries and blackberries",
+      "match": "Two round naked-style tiers decorated with mixed berries."
+    }
+  ],
+  "rejectedCandidates": [
+    {
+      "candidates": [
+        76,
+        79,
+        85,
+        90,
+        97,
+        105
+      ],
+      "reason": "Important flowers, foliage or cake details meet or cross the frame edge."
+    },
+    {
+      "candidates": [
+        81,
+        87,
+        91
+      ],
+      "reason": "Cake scale or busy background is inconsistent with the selected collection."
+    },
+    {
+      "candidates": [
+        75,
+        83,
+        94,
+        95,
+        107,
+        117,
+        119
+      ],
+      "reason": "Not selected: foliage-only design, tight framing, mixed dried material, or overlaps with a better selected design."
+    },
+    {
+      "candidates": [
+        86,
+        109,
+        110,
+        111,
+        112,
+        114,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121
+      ],
+      "reason": "Original source resolution below 450px short edge / 800px long edge; not upscaled."
+    },
+    {
+      "candidates": [
+        152,
+        153,
+        154,
+        155,
+        156,
+        157,
+        158,
+        159,
+        160,
+        161,
+        162,
+        163,
+        164
+      ],
+      "reason": "Visible source-business watermarks; excluded without removing watermarks."
+    }
+  ],
+  "reverseSearch": "Pinterest text and image searches returned no usable results in this review. Dedicated reverse-image upload tools were unavailable. Candidates were traced to UK maker galleries and visually compared with original images; no claim of exhaustive reverse-image clearance is made."
+}

@@ -1,0 +1,11 @@
+'use strict';
+const fs=require('node:fs');
+const file='pages/home-content.js';
+let source=fs.readFileSync(file,'utf8');
+const enquiry="${link('/bespoke?occasion=Wedding','Tell us about your wedding')}";
+if(!source.includes(enquiry))throw Error('Wedding enquiry link missing');
+source=source.replace(enquiry,'').replace('Select flowers and flavours, then confirm the cake size and decorations with us.</p></div>','Select flowers and flavours, then confirm the cake size and decorations with us.</p>'+enquiry+'</div>');
+source=source.replace(/0[1-5] \/ /g,'').replace(/<article><span>0[1-3]<\/span>/g,'<article>');
+fs.writeFileSync(file,source);
+const css='assets/css/maison-pages.css';
+fs.writeFileSync(css,fs.readFileSync(css,'utf8').replace('padding:25px 0 25px 42px','padding:25px 0'));

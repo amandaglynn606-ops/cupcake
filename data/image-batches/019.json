@@ -1,0 +1,407 @@
+{
+  "batch": 19,
+  "size": 50,
+  "sourcePreference": "Pinterest",
+  "records": [
+    {
+      "n": 901,
+      "productId": "6541395394749",
+      "title": "Justice League Superhero Cookies",
+      "originalImage": "assets/products/4c31719b9a0f2766ff78.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 902,
+      "productId": "6541306233021",
+      "title": "Heart Petal Cookies with Initials",
+      "originalImage": "assets/products/138cda5d8bc4bb5c4770.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 903,
+      "productId": "6541304725693",
+      "title": "Little Princess Cookies",
+      "originalImage": "assets/products/85f35ddd1feb5f478c33.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 904,
+      "productId": "6541301874877",
+      "title": "Heart Shaped Cookies with flowers",
+      "originalImage": "assets/products/64c21a6604febe6ab072.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 905,
+      "productId": "6541630668989",
+      "title": "He or She Gender Reveal Cake",
+      "originalImage": "assets/products/8ba6e9b090e5fce4d7c8.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 906,
+      "productId": "6541307084989",
+      "title": "Heart Cookies",
+      "originalImage": "assets/products/6a4ad8dfa7bb5ec6af7c.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 907,
+      "productId": "6541485867197",
+      "title": "Graduation Hat Design Cookies",
+      "originalImage": "assets/products/cc4cd7f7a8fe61ba8e01.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 908,
+      "productId": "6541485277373",
+      "title": "Graduation Diploma & Hat Design Cupcakes",
+      "originalImage": "assets/products/82b292d3f47d2e17e74c.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 909,
+      "productId": "6541359022269",
+      "title": "Happy Birthday! Cupcakes",
+      "originalImage": "assets/products/12989a3f971d677e8b2b.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 910,
+      "productId": "6541538754749",
+      "title": "Gold Unicorn Cupcakes",
+      "originalImage": "assets/products/bbcfd449f5f733aa8851.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 911,
+      "productId": "6541485146301",
+      "title": "Gold & Black Graduation Cupcakes",
+      "originalImage": "assets/products/a1ff8dc42e7b5f44a0a3.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 912,
+      "productId": "6541407027389",
+      "title": "Gold & White Cupcakes",
+      "originalImage": "assets/products/c19aea69fb17eceb5dd6.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 913,
+      "productId": "6541545799869",
+      "title": "Gender Reveal Cupcake Arrangement",
+      "originalImage": "assets/products/d26bd977be4bc9990acb.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 914,
+      "productId": "6541402210493",
+      "title": "Garfield & Friends Cupcakes",
+      "originalImage": "assets/products/523853e6ca1a5fb3ce47.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 915,
+      "productId": "6541326123197",
+      "title": "Flower Cupcakes Gift",
+      "originalImage": "assets/products/b637a66b6ff76c909ec8.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 916,
+      "productId": "6541303709885",
+      "title": "Flowers Cupcakes",
+      "originalImage": "assets/products/d138a6692ea30ae23ae0.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 917,
+      "productId": "6541634633917",
+      "title": "Flamingo Cupcakes",
+      "originalImage": "assets/products/a2112141d049a144cca7.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 918,
+      "productId": "6541630374077",
+      "title": "Doctor Cake with Uniform",
+      "originalImage": "assets/products/24cc4f2883ffc3ac3678.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 919,
+      "productId": "6541629259965",
+      "title": "Elegant Art Cupcakes",
+      "originalImage": "assets/products/6b9cd499919517fdc232.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 920,
+      "productId": "6541493436605",
+      "title": "Eid Al Fitr Mubarak Cake",
+      "originalImage": "assets/products/bf2ca57b153d358fa9bc.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 921,
+      "productId": "6541492977853",
+      "title": "Eid Mubarak Cupcakes",
+      "originalImage": "assets/products/1788ddc08bac5db4a3f9.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 922,
+      "productId": "6541413023933",
+      "title": "Elegant Art Inspired Cupcakes",
+      "originalImage": "assets/products/a315869d4fef551a1b54.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 923,
+      "productId": "6541404537021",
+      "title": "Emoji Cupcakes",
+      "originalImage": "assets/products/47913fb58d7da2226f93.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 924,
+      "productId": "6541401751741",
+      "title": "Elmo Sesame Street Cupcakes",
+      "originalImage": "assets/products/177c10bdbbc9e2966bd9.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 925,
+      "productId": "6541393461437",
+      "title": "Eid Adha Cake",
+      "originalImage": "assets/products/74ae79e6e7e479adffc0.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 926,
+      "productId": "6541325828285",
+      "title": "Elegant Pearl Roses Cupcakes",
+      "originalImage": "assets/products/429c9b29c1a795b0a332.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 927,
+      "productId": "6541325664445",
+      "title": "Elegant Wedding Cupcakes",
+      "originalImage": "assets/products/07de40b9c93376771bc9.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 928,
+      "productId": "6541542588605",
+      "title": "Cute Sprinkle Ice Cream-Shaped Cake Pops",
+      "originalImage": "assets/products/ff5fdaadf545ff8e5da2.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 929,
+      "productId": "6541541540029",
+      "title": "Delicate Flower 3D Cupcakes",
+      "originalImage": "assets/products/46c82c28e28482773c0e.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 930,
+      "productId": "6541493141693",
+      "title": "Colorful Eid Cake",
+      "originalImage": "assets/products/8b00c3e071223daf9d7f.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 931,
+      "productId": "6541485932733",
+      "title": "Colorful Graduation Year Cupcakes",
+      "originalImage": "assets/products/4d09fdc63a074527d2c7.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 932,
+      "productId": "6541414891709",
+      "title": "Cute Donut Cupcakes",
+      "originalImage": "assets/products/8ddbd7fa0cfdabcdf096.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 933,
+      "productId": "6541412303037",
+      "title": "Cute Pink Rose Cupcakes",
+      "originalImage": "assets/products/cb1a63af5f7a449541d4.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 934,
+      "productId": "6541401424061",
+      "title": "Cookie Monster Cupcakes",
+      "originalImage": "assets/products/2c18f0142223e3c26336.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 935,
+      "productId": "6541394870461",
+      "title": "Comic Batman Cookies",
+      "originalImage": "assets/products/dc65c44cff114df49d5f.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 936,
+      "productId": "6541356236989",
+      "title": "Colorful Fun Cupcakes",
+      "originalImage": "assets/products/ec6437ef07d60faae44d.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 937,
+      "productId": "6541305741501",
+      "title": "Cute Bear Cupcakes",
+      "originalImage": "assets/products/edb9e4e28aa8ca3dfbed.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 938,
+      "productId": "6541300924605",
+      "title": "Cupcake Cookies",
+      "originalImage": "assets/products/d5addd0e4631d5c5e61e.png",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 939,
+      "productId": "6541632798909",
+      "title": "Chocolate Ganache Heart Cake For Him",
+      "originalImage": "assets/products/778cd78d98b16f5024bd.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 940,
+      "productId": "6541541245117",
+      "title": "Chic Unicorn Cupcakes",
+      "originalImage": "assets/products/9296c13122270986e2ad.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 941,
+      "productId": "6541485506749",
+      "title": "Chic White, Black & Yellow Graduation Cookies",
+      "originalImage": "assets/products/a476b769a8efaed2708b.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 942,
+      "productId": "6541404733629",
+      "title": "Chic Pink & Gold Birthday Cupcakes",
+      "originalImage": "assets/products/d68ff408c6a1f655abbe.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 943,
+      "productId": "6541355188413",
+      "title": "Chocolate Cupcakes with Berries",
+      "originalImage": "assets/products/e910906545fd74589055.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 944,
+      "productId": "6541349748925",
+      "title": "Chocolate Smarties Cupcakes",
+      "originalImage": "assets/products/cafb9f34edd68d68b572.png",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 945,
+      "productId": "6541635387581",
+      "title": "Bunny Ears Cupcakes",
+      "originalImage": "assets/products/00515364c56b8181a8ce.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 946,
+      "productId": "6541547274429",
+      "title": "Birthday Chocolate & Roses Heart Cake",
+      "originalImage": "assets/products/346fa0a6d9bf88f43934.png",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 947,
+      "productId": "6541546651837",
+      "title": "Blue Macarons & Ferrero Rocher Heart Cake For Him",
+      "originalImage": "assets/products/1305a9ac356e44d60fa1.png",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 948,
+      "productId": "6541539868861",
+      "title": "Black Golden Unicorn Design Cake",
+      "originalImage": "assets/products/c1b9dadf34dd107d753e.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 949,
+      "productId": "6541539475645",
+      "title": "Berry Forklift Truck 3D Cake",
+      "originalImage": "assets/products/a6ffb4af8495535fa3b2.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 950,
+      "productId": "6541538394301",
+      "title": "Blushing Roses Decorated Pink Sponge Cake",
+      "originalImage": "assets/products/485677f825d1ea31358c.jpg",
+      "status": "needs-search",
+      "candidates": []
+    }
+  ]
+}

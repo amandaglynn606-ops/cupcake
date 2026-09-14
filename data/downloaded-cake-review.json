@@ -1,0 +1,10 @@
+[
+ {"n":1,"title":"3-Tier Black Baroque Piped Cake","tiers":3,"collection":"luxury-cakes","alt":"Three-tier black cake with ornate piped swags, bead garlands and raised scrollwork","flowers":[],"material":null},
+ {"n":2,"title":"4-Tier Black Wedding Cake with Ivory Roses","tiers":4,"collection":"wedding-cake-dubai","alt":"Four-tier black wedding cake with textured icing and a cluster of ivory roses and green leaves","flowers":["roses"],"material":"fresh"},
+ {"n":4,"title":"4-Tier Black & Blush Rose Cake with Gold Leaves","tiers":4,"collection":"luxury-cakes","alt":"Four-tier black cake with black and blush rose decorations, pink flowers, gold leaves and piped bead borders","flowers":["roses"],"material":null},
+ {"n":5,"title":"5-Tier Black Cake with Red & Ivory Roses","tiers":5,"collection":"luxury-cakes","alt":"Five-tier black cake with clusters of red, black and ivory roses, green foliage and a black script topper","flowers":["roses"],"material":null},
+ {"n":6,"title":"4-Tier Navy & Ivory Floral Wedding Cake","tiers":4,"collection":"wedding-cake-dubai","alt":"Four-tier ivory wedding cake with one navy tier, textured icing, piped pearl borders and white rose and hydrangea arrangements","flowers":["roses","hydrangeas"],"material":"fresh"},
+ {"n":7,"title":"2-Tier Ivory & Rose Gold Sugar Rose Cake","tiers":2,"collection":"wedding-cake-dubai","alt":"Two-tier ivory cake with rose gold bands, white and taupe sugar roses and gold foliage","flowers":["roses"],"material":"sugar"},
+ {"n":8,"title":"4-Tier Semi-Naked Wedding Cake with Blush Roses","tiers":4,"collection":"wedding-cake-dubai","alt":"Four-tier semi-naked wedding cake with blush and ivory roses, small white flowers and trailing green foliage","flowers":["roses"],"material":"fresh"},
+ {"n":9,"title":"3-Tier Semi-Naked Rose & Gold Drip Wedding Cake","tiers":3,"collection":"wedding-cake-dubai","alt":"Three-tier semi-naked wedding cake with gold drips, peach and blush roses and green fern leaves","flowers":["roses"],"material":"fresh"}
+]

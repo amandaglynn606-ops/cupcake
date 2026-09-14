@@ -1,0 +1,407 @@
+{
+  "batch": 10,
+  "size": 50,
+  "sourcePreference": "Pinterest",
+  "records": [
+    {
+      "n": 451,
+      "productId": "8093490381025",
+      "title": "Breast Cancer Pink Ribbon Cakepops",
+      "originalImage": "assets/products/3af7977be9dc4b36cad2.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 452,
+      "productId": "8093490348257",
+      "title": "Breast Cancer Pink Ribbon Cupcakes",
+      "originalImage": "assets/products/98f3782787eddd04a889.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 453,
+      "productId": "8093490282721",
+      "title": "Pink Ribbon Cupcakes",
+      "originalImage": "assets/products/bd3f1a6ee9c7c4979a05.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 454,
+      "productId": "8086156607713",
+      "title": "Acrylic Mirror Cake & Roses Arrangement",
+      "originalImage": "assets/products/d2461eafb5308611c178.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 455,
+      "productId": "6541548650685",
+      "title": "‘Congrats’ Chocolate Dipped Cookies with Sprinkles",
+      "originalImage": "assets/products/cb0d4b6a9419d2c98fdc.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 456,
+      "productId": "6541575553213",
+      "title": "Pink Ribbon Breast Cancer Support Cupcakes",
+      "originalImage": "assets/products/a198573b9f87e9920b20.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 457,
+      "productId": "6541426098365",
+      "title": "Happy Diwali Cake",
+      "originalImage": "assets/products/ce2c9f311843f9ecac7f.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 458,
+      "productId": "6541403947197",
+      "title": "Eid Al Adha Cake",
+      "originalImage": "assets/products/a02ae580166bb0997c7a.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 459,
+      "productId": "6541393658045",
+      "title": "Eid Al Adha Sheep Cake",
+      "originalImage": "assets/products/6ea3a43f9cb52b2f1341.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 460,
+      "productId": "6541551894717",
+      "title": "Candy Waffle with Meringue Filling",
+      "originalImage": "assets/products/40f0ad4244f1d1b3ff16.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 461,
+      "productId": "8076414189793",
+      "title": "Beautiful Roses with Dipped Strawberries",
+      "originalImage": "assets/products/ba9a8df70ae5578c82fe.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 462,
+      "productId": "8061928407265",
+      "title": "Swiss Choco-Smash Mini Heart",
+      "originalImage": "assets/products/ed2bddfbbb76fc1c7b8a.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 463,
+      "productId": "8061928276193",
+      "title": "Swiss Choco-Smash Mini Hearts & Dried Raspberries Bar",
+      "originalImage": "assets/products/8f0afb91c157728b1d11.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 464,
+      "productId": "8061928210657",
+      "title": "Choco-Smash Mini Heart & Dried Fruit Buttons",
+      "originalImage": "assets/products/3c42957b65f1262986c2.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 465,
+      "productId": "8061928014049",
+      "title": "Choco-Smash Heart Cake with Strawberries",
+      "originalImage": "assets/products/ee7ed6fae078fd5bc408.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 466,
+      "productId": "8061927915745",
+      "title": "Swiss White Choco-Smash 2 Bears",
+      "originalImage": "assets/products/2314d2f5f291e63fb760.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 467,
+      "productId": "8061927850209",
+      "title": "Swiss Choco-Smash 2 Bears with Gold Heart",
+      "originalImage": "assets/products/0685d613ed34bb2886ad.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 468,
+      "productId": "8061927719137",
+      "title": "Pink Swiss Choco-Smash Bear with Cookie & Heart",
+      "originalImage": "assets/products/1c3cc9e9019ada58b616.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 469,
+      "productId": "8061927620833",
+      "title": "Swiss Choco-Smash Gold Teddy Bear with Cakesicle",
+      "originalImage": "assets/products/f9533fd9a886cf6b5e62.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 470,
+      "productId": "8061927522529",
+      "title": "White Swiss Choco-Smash Teddy Bear with Marshmallows",
+      "originalImage": "assets/products/d5b8dd6fd1c54ad17fa1.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 471,
+      "productId": "8061927456993",
+      "title": "Choco-Smash Teddy Bear with Swiss Chocolate",
+      "originalImage": "assets/products/4c090bc9ab970e4eaecc.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 472,
+      "productId": "8061927391457",
+      "title": "Birthday Swiss-Chocolate Dipped Cookies",
+      "originalImage": "assets/products/199a6f31d1f2a87a9a68.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 473,
+      "productId": "8061927325921",
+      "title": "Cupcakes with Flowers",
+      "originalImage": "assets/products/265d6787b9bed9630dcc.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 474,
+      "productId": "8061927227617",
+      "title": "Choco-Smash mini Hearts with Flowers",
+      "originalImage": "assets/products/72e165d3b5a56ad8fabf.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 475,
+      "productId": "8061927129313",
+      "title": "Choco-Smash Large Cupcake with Pretzels & Smarties",
+      "originalImage": "assets/products/138b876d0ce7ae210293.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 476,
+      "productId": "8061927063777",
+      "title": "Black Choco-Smash Heart Cake",
+      "originalImage": "assets/products/0182d3ee50d6817dee4a.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 477,
+      "productId": "8061926965473",
+      "title": "Purple Orchid Cake",
+      "originalImage": "assets/products/f93861b5506f60c1276f.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 478,
+      "productId": "8061926834401",
+      "title": "Luxury Pastel Velvet Cake",
+      "originalImage": "assets/products/146cf93aaba07d967088.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 479,
+      "productId": "8061926768865",
+      "title": "Luxury Floral Vase Cake",
+      "originalImage": "assets/products/3f8097e5489abc491341.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 480,
+      "productId": "8061926473953",
+      "title": "Pastel Rainbow Shape Cake",
+      "originalImage": "assets/products/c4a44f1cb39ef83365dc.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 481,
+      "productId": "8061926375649",
+      "title": "Renaissance Flower Box Cake",
+      "originalImage": "assets/products/de5364dd6db7824c48cc.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 482,
+      "productId": "8061926277345",
+      "title": "Spring Flower Cupcakes",
+      "originalImage": "assets/products/1bce0f9ab14630d3e3b5.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 483,
+      "productId": "8061926080737",
+      "title": "Black & Gold Bomb Cake",
+      "originalImage": "assets/products/53d5b2fdf6ce53eea5a8.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 484,
+      "productId": "8061925884129",
+      "title": "Luxury Butterfly Cake",
+      "originalImage": "assets/products/af25aeef793218f76208.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 485,
+      "productId": "8061925785825",
+      "title": "Black Bomb Cake with Blue Crystals",
+      "originalImage": "assets/products/0d75bbd13b927a0a1e17.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 486,
+      "productId": "8061925687521",
+      "title": "Purple Birthday Cake & Cupcakes Set",
+      "originalImage": "assets/products/1704f5041e6f9e6f6d41.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 487,
+      "productId": "8061925621985",
+      "title": "Pink Birthday Cake & Cupcakes Set",
+      "originalImage": "assets/products/95892305cf3114f91f5e.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 488,
+      "productId": "8060066922721",
+      "title": "Roses & Dipped Strawberries Heart Box",
+      "originalImage": "assets/products/daf06d251c2acce2aefb.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 489,
+      "productId": "8060066824417",
+      "title": "Dipped Strawberries Gift Box",
+      "originalImage": "assets/products/e95c17f76fd0092cb8f9.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 490,
+      "productId": "8060066758881",
+      "title": "Pink Roses & Dipped Strawberries Heart Box",
+      "originalImage": "assets/products/cc9317986244cc460861.png",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 491,
+      "productId": "8060066660577",
+      "title": "Roses & Dipped Strawberries Heart Box",
+      "originalImage": "assets/products/64ad7d648322345fa1e8.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 492,
+      "productId": "8060066627809",
+      "title": "Pink Tulips Cake Box",
+      "originalImage": "assets/products/a997cda95f76c28ddd1e.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 493,
+      "productId": "8060066562273",
+      "title": "Tulips Cake Box",
+      "originalImage": "assets/products/a1f7860aad749873454b.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 494,
+      "productId": "8060066529505",
+      "title": "Purple & Pink Flower Cake Box",
+      "originalImage": "assets/products/1c2299f50ca9a53f26e8.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 495,
+      "productId": "8060066496737",
+      "title": "White & Pink Flower Cake Box",
+      "originalImage": "assets/products/8475039b13ba91afa664.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 496,
+      "productId": "8060066431201",
+      "title": "Two Tier Calendar Cake",
+      "originalImage": "assets/products/ccc86dafd813ece8f04b.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 497,
+      "productId": "8060066398433",
+      "title": "Flower Butter Cream Cake Box",
+      "originalImage": "assets/products/168e39dec3b1c8ed5d1a.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 498,
+      "productId": "8060066332897",
+      "title": "Peonies Butter Cream Cake Box",
+      "originalImage": "assets/products/f7e3f12056c7fa7ca76f.png",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 499,
+      "productId": "8060066300129",
+      "title": "Elegant Chocolate Cake",
+      "originalImage": "assets/products/e03bac92241c8e907e5d.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 500,
+      "productId": "8060066267361",
+      "title": "Butter-Scotch Cake",
+      "originalImage": "assets/products/c47129dd1948408034ae.jpg",
+      "status": "needs-search",
+      "candidates": []
+    }
+  ]
+}

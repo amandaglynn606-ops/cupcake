@@ -1,0 +1,550 @@
+{
+  "reviewedAt": "2026-09-13T10:10:33.445Z",
+  "columns": [
+    "candidate",
+    "tiers",
+    "title",
+    "flowerMaterial",
+    "alt"
+  ],
+  "designs": [
+    [
+      1,
+      1,
+      "Ivory & Gold Rose Engagement Cake",
+      null,
+      "Single-tier ivory cake with pale roses, gold accents and an Engaged topper"
+    ],
+    [
+      2,
+      1,
+      "Pink Geode Blossom Engagement Cake",
+      null,
+      "Single-tier pink geode cake with pale blossoms and gold edging"
+    ],
+    [
+      5,
+      2,
+      "Navy & Ivory Rose Cascade Engagement Cake",
+      null,
+      "Two-tier white cake with navy ribbon, a blue and white rose cascade and an engagement topper"
+    ],
+    [
+      6,
+      2,
+      "Silver & Blush Pearl Engagement Cake",
+      null,
+      "Two-tier white cake with silver leaf and large blush, silver and pearl-like spheres"
+    ],
+    [
+      7,
+      2,
+      "Gold Rose Proposal Cake",
+      null,
+      "Two-tier ivory cake with gold-edged roses and a proposal silhouette topper"
+    ],
+    [
+      8,
+      2,
+      "Quilted Ivory Engagement Cake",
+      null,
+      "Two-tier white cake with quilted icing, gold drips, roses and a ring-shaped engagement topper"
+    ],
+    [
+      9,
+      2,
+      "Ivory Rosette Engagement Cake",
+      null,
+      "Two-tier ivory buttercream cake with piped rosettes, white flowers and a gold fan topper"
+    ],
+    [
+      11,
+      3,
+      "Blush Roses & Silver Lace Engagement Cake",
+      null,
+      "Three-tier pink and silver cake with lace bands, pink roses and a Love decoration"
+    ],
+    [
+      12,
+      3,
+      "White & Gold Confetti Engagement Cake",
+      null,
+      "Three-tier white cake with gold leaf, gold spheres and an Engaged topper"
+    ],
+    [
+      13,
+      2,
+      "Painted Blush Rose Wedding Cake",
+      "sugar",
+      "Two-tier ivory cake with painted pink flowers, modeled roses and green leaves"
+    ],
+    [
+      14,
+      2,
+      "Ivory Rose & Gypsophila Wedding Cake",
+      null,
+      "Two-tier ridged white cake with cream roses, blush flowers, gypsophila and a gold topper"
+    ],
+    [
+      15,
+      2,
+      "Soft Blue Blossom Wedding Cake",
+      "sugar",
+      "Two-tier pale pink cake with cascading blue and white fondant flowers and a couple topper"
+    ],
+    [
+      16,
+      2,
+      "Blush Fondant Blossom Wedding Cake",
+      "sugar",
+      "Two-tier white cake with pink fondant flowers and green leaves"
+    ],
+    [
+      17,
+      2,
+      "Gold-Edged Rose Cascade Wedding Cake",
+      null,
+      "Two-tier white cake covered with cascading gold-edged ivory roses and a couple topper"
+    ],
+    [
+      18,
+      3,
+      "Fresh Rose Semi-Naked Wedding Cake",
+      "fresh",
+      "Three-tier semi-naked cake decorated with fresh cream and blush roses"
+    ],
+    [
+      19,
+      3,
+      "Ivory Roses & Gold Leaf Wedding Cake",
+      "fresh",
+      "Three-tier white ridged cake with cream roses, gypsophila and gold leaf"
+    ],
+    [
+      20,
+      3,
+      "Woodland Wildflower Wedding Cake",
+      "fresh",
+      "Three-tier textured ivory cake with fresh wildflowers, ferns and greenery on a wooden board"
+    ],
+    [
+      22,
+      4,
+      "Blush Monogram Semi-Naked Wedding Cake",
+      "fresh",
+      "Four-tier semi-naked wedding cake with blush roses, greenery and a heart monogram"
+    ],
+    [
+      25,
+      3,
+      "White Rose & Blue Meadow Wedding Cake",
+      "fresh",
+      "Three-tier ridged white cake with cream roses, pale blue flowers and green foliage"
+    ],
+    [
+      26,
+      4,
+      "Autumn Fig Semi-Naked Wedding Cake",
+      null,
+      "Four-tier semi-naked cake with autumn-coloured decorations and sliced figs on a wooden stand"
+    ],
+    [
+      27,
+      4,
+      "Tropical Orchid Garden Wedding Cake",
+      "fresh",
+      "Four-tier semi-naked cake with pink orchids, white lilies, colourful flowers and fruit"
+    ],
+    [
+      29,
+      3,
+      "Autumn Rose Semi-Naked Wedding Cake",
+      "fresh",
+      "Three-tier semi-naked cake with burgundy, peach and mauve flowers and gypsophila"
+    ],
+    [
+      31,
+      3,
+      "Woodland Thistle Wedding Cake",
+      "fresh",
+      "Three-tier semi-naked cake with blue thistles, foliage and dark fruit"
+    ],
+    [
+      34,
+      3,
+      "Gypsophila Garland Wedding Cake",
+      "fresh",
+      "Three-tier semi-naked cake with white gypsophila garlands"
+    ],
+    [
+      57,
+      3,
+      "Ivory & Gold Rose Tower Wedding Cake",
+      null,
+      "Three-tier white cake with a cascade of gold-edged ivory roses and a Happily Ever After topper"
+    ],
+    [
+      39,
+      4,
+      "Midnight Fern & Rose Wedding Cake",
+      null,
+      "Four-tier black wedding cake with metallic fern patterns and peach roses"
+    ],
+    [
+      40,
+      3,
+      "Painted Garden Rose Wedding Cake",
+      "sugar",
+      "Three-tier white cake with a hand-painted floral base and cascading blush sugar roses"
+    ],
+    [
+      42,
+      2,
+      "Lilac Watercolour Anemone Wedding Cake",
+      "sugar",
+      "Two-tier ivory and purple watercolour cake with gold flecks and white anemone flowers"
+    ],
+    [
+      44,
+      3,
+      "Sky Blue Watercolour Wedding Cake",
+      "sugar",
+      "Three-tier ivory cake with a sky blue watercolour base and pale sugar flowers"
+    ],
+    [
+      45,
+      1,
+      "Burgundy Ombré Sugar Flower Cake",
+      "sugar",
+      "Tall single-tier cake with burgundy watercolour shading and a red and ivory sugar flower crown"
+    ],
+    [
+      46,
+      1,
+      "Painted Birdcage Wedding Cake",
+      "sugar",
+      "Tall single-tier birdcage-shaped cake with painted birds, delicate branches and pale sugar roses"
+    ],
+    [
+      48,
+      4,
+      "Hand-Painted Spring Floral Wedding Cake",
+      "sugar",
+      "Four-tier ivory cake with painted pastel flowers and clusters of white and blush sugar flowers"
+    ],
+    [
+      49,
+      3,
+      "Blue Ruffle & Ivory Rose Wedding Cake",
+      "sugar",
+      "Three-tier cake with layered blue ruffles on the bottom tier and ivory sugar flower clusters"
+    ],
+    [
+      52,
+      1,
+      "Silver Rings Engagement Cake",
+      null,
+      "Single-tier white cake with silver trim, a heart plaque and decorative rings on a small cushion"
+    ],
+    [
+      56,
+      3,
+      "Blush Rosette & Gold Wedding Cake",
+      null,
+      "Three-tier pink and white cake with a piped rosette band, gold leaf and a gold script topper"
+    ],
+    [
+      59,
+      3,
+      "Ivory Silhouette Wedding Cake",
+      null,
+      "Three-tier ivory cake with black romantic silhouettes and a couple topper"
+    ],
+    [
+      61,
+      3,
+      "Purple Marble & Silver Vine Wedding Cake",
+      null,
+      "Three-tier purple and white cake with a marbled base, silver leaves and interlocking heart topper"
+    ],
+    [
+      63,
+      4,
+      "Champagne Ruffle & Monogram Wedding Cake",
+      null,
+      "Four-tier champagne and ivory cake with a ruffled base, white roses and a silver monogram"
+    ],
+    [
+      68,
+      2,
+      "Blush Watercolour Sugar Blossom Cake",
+      "sugar",
+      "Two-tier white cake with a blush watercolour base and pastel pink and blue sugar flowers"
+    ],
+    [
+      72,
+      4,
+      "Peach Watercolour & Lace Wedding Cake",
+      "sugar",
+      "Four-tier peach and ivory cake with delicate lace piping and blush sugar flowers"
+    ],
+    [
+      73,
+      3,
+      "Ivory Peony & Blush Rose Fresh Floral Cake",
+      "fresh",
+      "Three-tier semi-naked cake with ivory peonies, blush roses and green foliage"
+    ],
+    [
+      74,
+      4,
+      "Pastel Fresh Flower Garland Wedding Cake",
+      "fresh",
+      "Four-tier ivory cake with piped pearl swags and pastel fresh flower garlands"
+    ],
+    [
+      77,
+      3,
+      "Peach Rose & Lisianthus Semi-Naked Cake",
+      "fresh",
+      "Three-tier semi-naked cake with peach and blush roses, white lisianthus and foliage"
+    ],
+    [
+      80,
+      3,
+      "White Rose & Gypsophila Wedding Cake",
+      "fresh",
+      "Three-tier white cake with ivory roses, gypsophila, trailing foliage and a wedding topper"
+    ],
+    [
+      82,
+      3,
+      "Pink Rose & Peony Ribbon Wedding Cake",
+      "fresh",
+      "Three-tier white cake with a pink rose and peony cascade and long pink ribbon"
+    ],
+    [
+      84,
+      3,
+      "Lavender & Rose Fresh Floral Cascade Cake",
+      "fresh",
+      "Three-tier semi-naked cake with cream and blush roses, lavender and a green floral cascade"
+    ],
+    [
+      88,
+      4,
+      "Floating Rose Garden Wedding Cake",
+      "fresh",
+      "Four-tier white cake with a floating upper tier and blush roses around the open floral centre"
+    ],
+    [
+      89,
+      3,
+      "Cream Rose & Peony Gold Leaf Cake",
+      "fresh",
+      "Three-tier semi-naked cake with cream roses, peonies, foliage and gold leaf"
+    ],
+    [
+      92,
+      3,
+      "Sunset Rose & Dahlia Cascade Cake",
+      "fresh",
+      "Three-tier white cake with a cascade of orange roses, red dahlias and small purple flowers"
+    ],
+    [
+      93,
+      3,
+      "Mocha & Blush Rose Wedding Cake",
+      "fresh",
+      "Three-tier ivory cake with mocha and blush fresh roses and loose green foliage"
+    ],
+    [
+      96,
+      3,
+      "Pink Dahlia & Rose Ripple Wedding Cake",
+      "fresh",
+      "Three-tier rippled ivory cake with large pale pink dahlias, pink roses, foliage and macarons"
+    ],
+    [
+      98,
+      1,
+      "Crimson Sugar Peony Wrap Cake",
+      "sugar",
+      "Single-tier ivory cake with a crimson sugar peony, pink wrap and twine detail"
+    ],
+    [
+      99,
+      2,
+      "White Sugar Blossom Relief Cake",
+      "sugar",
+      "Two-tier white cake with raised white sugar flowers across the lower tier"
+    ],
+    [
+      100,
+      2,
+      "Black & Pink Sugar Rose Wedding Cake",
+      "sugar",
+      "Two-tier black cake with an upright pink sugar rose and purple and pink blossoms"
+    ],
+    [
+      101,
+      4,
+      "Navy & Ivory Sugar Peony Wedding Cake",
+      "sugar",
+      "Four-tier navy and ivory cake with large peach sugar peonies, small pastel flowers and gold leaf"
+    ],
+    [
+      102,
+      2,
+      "Mint & Mauve Sugar Rose Wedding Cake",
+      "sugar",
+      "Two-tier pale mint cake with mauve sugar roses, burgundy flowers and gold leaf"
+    ],
+    [
+      103,
+      4,
+      "Burgundy Sugar Rose & Lace Cake",
+      "sugar",
+      "Four-tier ivory and burgundy cake with red sugar roses, white flowers, lace and a red ruffle base"
+    ],
+    [
+      104,
+      3,
+      "Blush Lace & White Sugar Flower Cake",
+      "sugar",
+      "Three-tier pale blush cake with white sugar flowers, delicate lace texture and white foliage"
+    ],
+    [
+      106,
+      1,
+      "Navy Sugar Peony Bouquet Cake",
+      "sugar",
+      "Tall single-tier navy cake with white and peach sugar peonies, small pink flowers and blush ribbon"
+    ],
+    [
+      108,
+      4,
+      "Ivory Lace & Pink Sugar Rose Cake",
+      "sugar",
+      "Four-tier ivory cake with lace, blush sugar roses and small white blossoms"
+    ],
+    [
+      113,
+      3,
+      "Pink Sugar Peony & Hydrangea Cake",
+      "sugar",
+      "Three-tier white cake with a hydrangea-covered base, pink sugar peony and initial topper"
+    ],
+    [
+      122,
+      3,
+      "Polka Dot Sugar Peony Wedding Cake",
+      "sugar",
+      "Three-tier ivory cake with rounded edges, piped polka dots, a pink sugar peony and satin bow"
+    ],
+    [
+      144,
+      3,
+      "Orange Sugar Rose & Stencil Wedding Cake",
+      "sugar",
+      "Three-tier ivory and orange cake with orange sugar roses, white blossoms and a stencilled base"
+    ],
+    [
+      145,
+      4,
+      "Magnolia Branch & Blush Marble Cake",
+      "sugar",
+      "Four-tier ivory cake with torn blush marble edges and a white sugar magnolia branch"
+    ],
+    [
+      175,
+      3,
+      "Blue & Gold Sugar Peony Wedding Cake",
+      "sugar",
+      "Three-tier pale blue cake with a gold spacer, white sugar peonies, green foliage and gold leaf"
+    ],
+    [
+      193,
+      2,
+      "White Sugar Peony & Lattice Cake",
+      "sugar",
+      "Two-tier ivory and pale grey cake with geometric lattice and a large white sugar peony"
+    ],
+    [
+      194,
+      2,
+      "Blush Sugar Rose & Ruffle Cake",
+      "sugar",
+      "Two-tier blush cake with pink sugar roses, white ruffles and piped pearl trim"
+    ],
+    [
+      205,
+      2,
+      "Pink Marble Sugar Blossom Cake",
+      "sugar",
+      "Two-tier pink and white marble cake with torn gold-edged panels and pink sugar blossom branches"
+    ],
+    [
+      206,
+      3,
+      "Apricot Sugar Peony & Gold Leaf Cake",
+      "sugar",
+      "Three-tier white cake with apricot sugar peonies, gold leaves, small pearls and a ruffled detail"
+    ],
+    [
+      208,
+      3,
+      "Peach Sugar Rose Cascade Cake",
+      "sugar",
+      "Three-tier textured ivory cake with peach sugar roses, white blossoms and green leaves"
+    ],
+    [
+      199,
+      3,
+      "Fresh Dahlia & Gerbera Semi-Naked Cake",
+      "fresh",
+      "Three-tier semi-naked cake with pale pink dahlias, bright red gerberas, small white flowers and foliage"
+    ],
+    [
+      217,
+      2,
+      "Pink Rose & Berry Fresh Floral Cake",
+      "fresh",
+      "Two-tier semi-naked cake with pink fresh roses, mixed berries and a gold wedding topper"
+    ]
+  ],
+  "rejectedForWatermarkOrOverlay": [
+    21,
+    30,
+    32,
+    41,
+    43,
+    47,
+    64
+  ],
+  "rejectedForCrop": [
+    3,
+    4,
+    24,
+    28,
+    37,
+    50,
+    66,
+    67
+  ],
+  "discoverySearches": [
+    {
+      "url": "https://uk.pinterest.com/pin/our-twotier-heart-engagement-cake-is-giving-vintage-vibes-with-its-stunning-pink-piping-romantic-pearls-and-b-in-2025--1040753795146232843/",
+      "use": "Engagement design discovery; original source not sufficiently established for reuse"
+    },
+    {
+      "url": "https://uk.pinterest.com/pin/heart-shaped-engagement-cake-with-handmade-sugar-flowers--851391504558309384/",
+      "use": "Design discovery; selected photographs traced to direct UK maker galleries"
+    }
+  ],
+  "reverseSearch": "Visual search used for discovery. Dedicated reverse-image verification was not available; compare downloads against existing asset hashes and reject repeated designs manually.",
+  "rejectedForLowResolution": [
+    38,
+    70
+  ]
+}

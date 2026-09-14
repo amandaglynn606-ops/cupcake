@@ -1,0 +1,16 @@
+'use strict';
+const fs=require('node:fs');
+const disclaimer='If we’re unable to fulfil your request ourselves, we’ll work with a fulfilment partner and coordinate the details with you, helping make your occasion special.';
+let file='pages/editorial.js',source=fs.readFileSync(file,'utf8');
+source=source.replace(/function atelier\(ctx\)\{[\s\S]*?\n\}/,"function atelier(ctx){return require('./about').about(ctx);}");
+fs.writeFileSync(file,source);
+file='pages/home-content.js';source=fs.readFileSync(file,'utf8');
+if(!source.includes('<p>'+disclaimer+'</p>'))throw Error('Homepage disclaimer missing');
+source=source.replace('<p>'+disclaimer+'</p>','');fs.writeFileSync(file,source);
+file='lib/ui.js';source=fs.readFileSync(file,'utf8');
+const notice='<p class="currency-notice wrap" data-currency-notice data-currency-fixed>All orders are quoted in AED.</p>';
+if(!source.includes(notice))throw Error('Currency notice missing');
+source=source.replace(notice,'<p class="footer-partner-note wrap">'+disclaimer+'</p>');fs.writeFileSync(file,source);
+const metadata=JSON.parse(fs.readFileSync('data/page-metadata.json','utf8'));
+metadata['/atelier'].description='Meet Maison Zavi, born in the heart of Dubai. Discover our approach to personal wedding, engagement and celebration cakes, from flowers and colours to flavours.';
+fs.writeFileSync('data/page-metadata.json',JSON.stringify(metadata,null,2)+'\n');

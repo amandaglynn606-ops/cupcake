@@ -1,0 +1,128 @@
+{
+  "description": "Public collection selection. The complete imported catalog remains in data/catalog.json and data/wedding-additions.json.",
+  "luxuryProductIds": [
+    "8957439181025",
+    "8957441278177",
+    "8961075151073",
+    "8957444653281",
+    "8957434069217",
+    "9380708155617",
+    "9162988716257",
+    "9108908966113",
+    "9088842957025",
+    "8961211990241",
+    "8961203994849",
+    "8961203470561",
+    "8961200062689",
+    "8961199866081",
+    "8961060012257",
+    "8961055654113",
+    "8960050364641",
+    "8894857150689",
+    "8491017404641",
+    "8303601909985",
+    "8242768838881",
+    "8242755698913",
+    "8241046225121",
+    "8241039409377",
+    "8232863629537",
+    "8061926965473",
+    "8061926834401",
+    "8061926768865",
+    "8061925884129",
+    "8060065153249",
+    "8028661252321",
+    "8028655911137",
+    "7995899871457",
+    "7995898298593",
+    "7995898167521",
+    "7995898134753",
+    "6541538525373",
+    "6541539541181",
+    "6541538394301",
+    "6541538590909",
+    "6541634732221",
+    "7516514418913",
+    "6541541015741"
+  ],
+  "engagementProductIds": [
+    "7995901313249",
+    "8962586804449",
+    "9380722573537",
+    "9380708155617",
+    "8961211990241",
+    "8961203470561",
+    "8961060012257",
+    "8242768838881",
+    "8241046225121",
+    "8241039409377",
+    "7995899871457",
+    "7995898167521",
+    "8028660531425",
+    "8028660302049",
+    "8028656337121",
+    "8028655616225"
+  ],
+  "flowerMaterials": {
+    "8491017404641": {
+      "material": "fresh",
+      "evidence": "Existing product description explicitly identifies fresh roses around the sponge-filled chocolate cake."
+    },
+    "9800000000083": {
+      "material": "sugar",
+      "evidence": "Source product image alt text identifies handmade sugar flowers.",
+      "sourceUrl": "https://shop.gccouture.co.uk/products/burgundy-wedding-cake-london"
+    },
+    "9800000000085": {
+      "material": "sugar",
+      "evidence": "Source product image alt text identifies handmade sugar flowers.",
+      "sourceUrl": "https://shop.gccouture.co.uk/products/ivory-wedding-cake-london"
+    },
+    "9800000000087": {
+      "material": "sugar",
+      "evidence": "Source product image alt text identifies handmade sugar flowers.",
+      "sourceUrl": "https://shop.gccouture.co.uk/products/black-wedding-cake-london"
+    },
+    "9800000000089": {
+      "material": "sugar",
+      "evidence": "Source product image alt text identifies handmade sugar flowers.",
+      "sourceUrl": "https://shop.gccouture.co.uk/products/grey-marble-wedding-cake-london"
+    },
+    "9800000000091": {
+      "material": "sugar",
+      "evidence": "Source product image alt text identifies handmade sugar flowers.",
+      "sourceUrl": "https://shop.gccouture.co.uk/products/pink-wedding-cake-london"
+    },
+    "9800000000093": {
+      "material": "sugar",
+      "evidence": "Source product image alt text identifies handmade sugar flowers.",
+      "sourceUrl": "https://shop.gccouture.co.uk/products/navy-blue-wedding-cake-london"
+    },
+    "8028660367585": {
+      "material": "fresh",
+      "evidence": "Reviewed replacement photograph and source gallery description.",
+      "sourceUrl": "https://www.appletreecakedesign.co.uk/fresh-floral-wedding-cake-gallery"
+    },
+    "8028660203745": {
+      "material": "sugar",
+      "evidence": "Reviewed replacement photograph and source gallery description.",
+      "sourceUrl": "https://etoilebakery.co.uk/pages/wedding-gallery-london-southeast-delivery"
+    },
+    "8028661645537": {
+      "material": "sugar",
+      "evidence": "Reviewed replacement photograph and source gallery description.",
+      "sourceUrl": "https://cakesbyanusha.co.uk/wedding-cakes/"
+    },
+    "8028660433121": {
+      "material": "sugar",
+      "evidence": "Reviewed replacement photograph and source gallery description.",
+      "sourceUrl": "https://cakesbyanusha.co.uk/wedding-cakes/"
+    },
+    "8028660039905": {
+      "material": "fresh",
+      "evidence": "Reviewed replacement photograph and source gallery description.",
+      "sourceUrl": "https://cakesbyanusha.co.uk/wedding-cakes/"
+    }
+  },
+  "excludeUnreplacedPerfectGift": true
+}

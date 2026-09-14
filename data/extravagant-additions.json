@@ -1,0 +1,388 @@
+{
+  "products": [
+    {
+      "id": "9920000000001",
+      "handle": "floating-ivory-blossom-grand-cake-e01",
+      "title": "Floating Ivory Blossom Grand Cake",
+      "categories": [
+        "luxury-cakes",
+        "tiered-cake"
+      ],
+      "kind": "cake",
+      "description": "Six-tier ivory cake with a central ornamental column and clouds of translucent white blossoms. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/extravagant/cake-floating-ivory-blossom-grand-cake-e01.webp",
+      "images": [
+        "assets/products/cakes/extravagant/cake-floating-ivory-blossom-grand-cake-e01.webp"
+      ],
+      "imageAlt": "Six-tier ivory cake with a central ornamental column and clouds of translucent white blossoms",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "992000000000101",
+          "title": "6 tiers - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/extravagant/cake-floating-ivory-blossom-grand-cake-e01.webp",
+          "tiers": 6
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 6,
+      "catalogueAddition": "luxury-2026-09",
+      "collectionBatch": "extravagant-2026-09",
+      "searchText": "Floating Ivory Blossom Grand Cake Six-tier ivory cake with a central ornamental column and clouds of translucent white blossoms 6 tier bespoke"
+    },
+    {
+      "id": "9920000000002",
+      "handle": "monochrome-lace-sculpture-cake-e02",
+      "title": "Monochrome Lace Sculpture Cake",
+      "categories": [
+        "luxury-cakes",
+        "tiered-cake"
+      ],
+      "kind": "cake",
+      "description": "Six-tier black and ivory cake with pearl details, silver separators and translucent lace-like sails. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/extravagant/cake-monochrome-lace-sculpture-cake-e02.webp",
+      "images": [
+        "assets/products/cakes/extravagant/cake-monochrome-lace-sculpture-cake-e02.webp"
+      ],
+      "imageAlt": "Six-tier black and ivory cake with pearl details, silver separators and translucent lace-like sails",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "992000000000201",
+          "title": "6 tiers - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/extravagant/cake-monochrome-lace-sculpture-cake-e02.webp",
+          "tiers": 6
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 6,
+      "catalogueAddition": "luxury-2026-09",
+      "collectionBatch": "extravagant-2026-09",
+      "searchText": "Monochrome Lace Sculpture Cake Six-tier black and ivory cake with pearl details, silver separators and translucent lace-like sails 6 tier bespoke"
+    },
+    {
+      "id": "9920000000003",
+      "handle": "blue-filigree-botanical-sculpture-cake-e03",
+      "title": "Blue Filigree & Botanical Sculpture Cake",
+      "categories": [
+        "luxury-cakes",
+        "tiered-cake"
+      ],
+      "kind": "cake",
+      "description": "Two extra-tall blue fluted cake tiers with silver filigree, pale sculptural sails and blush flowers. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/extravagant/cake-blue-filigree-botanical-sculpture-cake-e03.webp",
+      "images": [
+        "assets/products/cakes/extravagant/cake-blue-filigree-botanical-sculpture-cake-e03.webp"
+      ],
+      "imageAlt": "Two extra-tall blue fluted cake tiers with silver filigree, pale sculptural sails and blush flowers",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "992000000000301",
+          "title": "2 tiers - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/extravagant/cake-blue-filigree-botanical-sculpture-cake-e03.webp",
+          "tiers": 2
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 2,
+      "catalogueAddition": "luxury-2026-09",
+      "collectionBatch": "extravagant-2026-09",
+      "searchText": "Blue Filigree & Botanical Sculpture Cake Two extra-tall blue fluted cake tiers with silver filigree, pale sculptural sails and blush flowers 2 tier bespoke"
+    },
+    {
+      "id": "9920000000004",
+      "handle": "ivory-rose-sculpted-sail-tower-cake-e04",
+      "title": "Ivory Rose & Sculpted Sail Tower Cake",
+      "categories": [
+        "luxury-cakes",
+        "tiered-cake",
+        "sugar-flower-cakes"
+      ],
+      "kind": "cake",
+      "description": "Five-tier ivory cake with white roses, pearls and sweeping translucent sails. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/extravagant/cake-ivory-rose-sculpted-sail-tower-cake-e04.webp",
+      "images": [
+        "assets/products/cakes/extravagant/cake-ivory-rose-sculpted-sail-tower-cake-e04.webp"
+      ],
+      "imageAlt": "Five-tier ivory cake with white roses, pearls and sweeping translucent sails",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "992000000000401",
+          "title": "5 tiers - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/extravagant/cake-ivory-rose-sculpted-sail-tower-cake-e04.webp",
+          "tiers": 5
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 5,
+      "catalogueAddition": "luxury-2026-09",
+      "collectionBatch": "extravagant-2026-09",
+      "searchText": "Ivory Rose & Sculpted Sail Tower Cake Five-tier ivory cake with white roses, pearls and sweeping translucent sails 5 tier bespoke"
+    },
+    {
+      "id": "9920000000005",
+      "handle": "burgundy-blossom-ivory-pleat-cake-e05",
+      "title": "Burgundy Blossom & Ivory Pleat Cake",
+      "categories": [
+        "luxury-cakes",
+        "tiered-cake",
+        "sugar-flower-cakes"
+      ],
+      "kind": "cake",
+      "description": "Four-tier ivory pleated cake with blush roses, burgundy blossoms and pale blue leaves. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/extravagant/cake-burgundy-blossom-ivory-pleat-cake-e05.webp",
+      "images": [
+        "assets/products/cakes/extravagant/cake-burgundy-blossom-ivory-pleat-cake-e05.webp"
+      ],
+      "imageAlt": "Four-tier ivory pleated cake with blush roses, burgundy blossoms and pale blue leaves",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "992000000000501",
+          "title": "4 tiers - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/extravagant/cake-burgundy-blossom-ivory-pleat-cake-e05.webp",
+          "tiers": 4
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 4,
+      "catalogueAddition": "luxury-2026-09",
+      "collectionBatch": "extravagant-2026-09",
+      "searchText": "Burgundy Blossom & Ivory Pleat Cake Four-tier ivory pleated cake with blush roses, burgundy blossoms and pale blue leaves 4 tier bespoke"
+    },
+    {
+      "id": "9920000000006",
+      "handle": "blush-ruffle-botanical-cascade-cake-e06",
+      "title": "Blush Ruffle & Botanical Cascade Cake",
+      "categories": [
+        "luxury-cakes",
+        "tiered-cake",
+        "sugar-flower-cakes"
+      ],
+      "kind": "cake",
+      "description": "Two-tier square pink ruffle cake with peach and ivory flowers, burgundy accents and dark leaves. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/extravagant/cake-blush-ruffle-botanical-cascade-cake-e06.webp",
+      "images": [
+        "assets/products/cakes/extravagant/cake-blush-ruffle-botanical-cascade-cake-e06.webp"
+      ],
+      "imageAlt": "Two-tier square pink ruffle cake with peach and ivory flowers, burgundy accents and dark leaves",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "992000000000601",
+          "title": "2 tiers - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/extravagant/cake-blush-ruffle-botanical-cascade-cake-e06.webp",
+          "tiers": 2
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 2,
+      "catalogueAddition": "luxury-2026-09",
+      "collectionBatch": "extravagant-2026-09",
+      "searchText": "Blush Ruffle & Botanical Cascade Cake Two-tier square pink ruffle cake with peach and ivory flowers, burgundy accents and dark leaves 2 tier bespoke"
+    },
+    {
+      "id": "9920000000007",
+      "handle": "riviera-tile-lemon-tower-cake-e07",
+      "title": "Riviera Tile & Lemon Tower Cake",
+      "categories": [
+        "luxury-cakes",
+        "tiered-cake"
+      ],
+      "kind": "cake",
+      "description": "Three-tier blue and white tile-patterned cake with an ivory top tier, yellow lemons and green leaves. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/extravagant/cake-riviera-tile-lemon-tower-cake-e07.webp",
+      "images": [
+        "assets/products/cakes/extravagant/cake-riviera-tile-lemon-tower-cake-e07.webp"
+      ],
+      "imageAlt": "Three-tier blue and white tile-patterned cake with an ivory top tier, yellow lemons and green leaves",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "992000000000701",
+          "title": "3 tiers - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/extravagant/cake-riviera-tile-lemon-tower-cake-e07.webp",
+          "tiers": 3
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 3,
+      "catalogueAddition": "luxury-2026-09",
+      "collectionBatch": "extravagant-2026-09",
+      "searchText": "Riviera Tile & Lemon Tower Cake Three-tier blue and white tile-patterned cake with an ivory top tier, yellow lemons and green leaves 3 tier bespoke"
+    },
+    {
+      "id": "9920000000008",
+      "handle": "midnight-gold-star-tower-cake-e08",
+      "title": "Midnight Gold Star Tower Cake",
+      "categories": [
+        "luxury-cakes",
+        "tiered-cake"
+      ],
+      "kind": "cake",
+      "description": "Five-tier black and gold cake decorated with cascading gold and black stars. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/extravagant/cake-midnight-gold-star-tower-cake-e08.webp",
+      "images": [
+        "assets/products/cakes/extravagant/cake-midnight-gold-star-tower-cake-e08.webp"
+      ],
+      "imageAlt": "Five-tier black and gold cake decorated with cascading gold and black stars",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "992000000000801",
+          "title": "5 tiers - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/extravagant/cake-midnight-gold-star-tower-cake-e08.webp",
+          "tiers": 5
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 5,
+      "catalogueAddition": "luxury-2026-09",
+      "collectionBatch": "extravagant-2026-09",
+      "searchText": "Midnight Gold Star Tower Cake Five-tier black and gold cake decorated with cascading gold and black stars 5 tier bespoke"
+    },
+    {
+      "id": "9920000000009",
+      "handle": "gilded-rose-burgundy-bouquet-cake-e09",
+      "title": "Gilded Rose & Burgundy Bouquet Cake",
+      "categories": [
+        "luxury-cakes",
+        "tiered-cake"
+      ],
+      "kind": "cake",
+      "description": "Two-tier gold and burgundy cake with abundant mauve roses and deep burgundy chrysanthemums. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/extravagant/cake-gilded-rose-burgundy-bouquet-cake-e09.webp",
+      "images": [
+        "assets/products/cakes/extravagant/cake-gilded-rose-burgundy-bouquet-cake-e09.webp"
+      ],
+      "imageAlt": "Two-tier gold and burgundy cake with abundant mauve roses and deep burgundy chrysanthemums",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "992000000000901",
+          "title": "2 tiers - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/extravagant/cake-gilded-rose-burgundy-bouquet-cake-e09.webp",
+          "tiers": 2
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 2,
+      "catalogueAddition": "luxury-2026-09",
+      "collectionBatch": "extravagant-2026-09",
+      "searchText": "Gilded Rose & Burgundy Bouquet Cake Two-tier gold and burgundy cake with abundant mauve roses and deep burgundy chrysanthemums 2 tier bespoke"
+    },
+    {
+      "id": "9920000000010",
+      "handle": "gold-leaf-pink-peony-couture-cake-e10",
+      "title": "Gold Leaf & Pink Peony Couture Cake",
+      "categories": [
+        "luxury-cakes",
+        "tiered-cake",
+        "sugar-flower-cakes"
+      ],
+      "kind": "cake",
+      "description": "Two-tier ivory and gold-leaf cake with large pink sugar peonies, tiny blossoms and berry stems. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/extravagant/cake-gold-leaf-pink-peony-couture-cake-e10.webp",
+      "images": [
+        "assets/products/cakes/extravagant/cake-gold-leaf-pink-peony-couture-cake-e10.webp"
+      ],
+      "imageAlt": "Two-tier ivory and gold-leaf cake with large pink sugar peonies, tiny blossoms and berry stems",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "992000000001001",
+          "title": "2 tiers - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/extravagant/cake-gold-leaf-pink-peony-couture-cake-e10.webp",
+          "tiers": 2
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 2,
+      "catalogueAddition": "luxury-2026-09",
+      "collectionBatch": "extravagant-2026-09",
+      "searchText": "Gold Leaf & Pink Peony Couture Cake Two-tier ivory and gold-leaf cake with large pink sugar peonies, tiny blossoms and berry stems 2 tier bespoke"
+    }
+  ]
+}

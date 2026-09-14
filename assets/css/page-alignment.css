@@ -1,0 +1,25 @@
+/* Centre page headings within their content column. */
+body:not([data-page="/"]):not([data-page^="/cakes/"]) main :is(h1,h2){text-align:center}
+body:not([data-page="/"]):not([data-page^="/cakes/"]) main h1{margin-inline:auto}
+.product-page{padding-top:clamp(40px,4.5vw,64px)}
+.product-page>.product-layout{padding-top:0}
+body:not([data-page="/"]) :is(.page-intro,.directory-intro,.collection-intro){text-align:center}
+body:not([data-page="/"]) .collection-intro{display:block}
+body:not([data-page="/"]) .collection-intro>div>p:last-child{margin-inline:auto}
+body:not([data-page="/"]) .atelier-hero>div{margin-inline:auto;text-align:center}
+body:not([data-page="/"]) .atelier-hero>div>p{margin-inline:auto}
+body:not([data-page="/"]) .enquiry-intro>.eyebrow{text-align:center}
+body:not([data-page="/"]) .checkout-heading{display:block;text-align:center}
+body:not([data-page="/"]) .checkout-heading>p{margin-top:18px}
+.shop-toolbar{display:grid;grid-template-columns:minmax(0,1fr) auto;align-items:center;gap:16px}
+.shop-toolbar .results-count{margin:0;line-height:1.5;min-width:0}
+.shop-toolbar .sort-label{display:flex;align-items:center;gap:10px;min-width:0;margin:0;font:400 13px/1.5 var(--body);white-space:nowrap}
+.shop-toolbar .sort-label select{box-sizing:border-box;height:44px;margin:0;padding:8px 26px 8px 10px;min-width:0;max-width:none;border:1px solid var(--line);background-color:transparent;font:400 13px/1.5 var(--body)}
+.shop-toolbar .mobile-filter-button{box-sizing:border-box;align-items:center;justify-content:center;height:44px;margin:0;padding:8px 12px;border:1px solid var(--line);font:500 13px/1.5 var(--body);white-space:nowrap}
+@media(max-width:760px){
+ .shop-toolbar{grid-template-columns:auto minmax(0,1fr);gap:12px}
+ .shop-toolbar .mobile-filter-button{display:flex;grid-column:1;grid-row:1}
+ .shop-toolbar .sort-label{grid-column:2;grid-row:1;justify-content:flex-end;gap:6px;font-size:12px}
+ .shop-toolbar .sort-label select{flex:1;width:100%;font-size:12px}
+ .shop-toolbar .results-count{grid-column:1/-1;grid-row:2;font-size:12px}
+}

@@ -1,0 +1,102 @@
+{
+  "/": {
+    "title": "Wedding & Luxury Cakes in the UAE",
+    "description": "Browse Maison Zavi wedding, luxury and engagement cakes. Choose tiered, fresh floral or sugar flower designs and request a quote for UAE delivery."
+  },
+  "/collections": {
+    "title": "Wedding & Celebration Cake Collections",
+    "description": "Explore six Maison Zavi collections: wedding, luxury, engagement, tiered, fresh floral and sugar flower cakes. Compare designs and request a quote."
+  },
+  "/collections/all": {
+    "title": "Wedding, Luxury & Engagement Cake Designs",
+    "description": "Browse all Maison Zavi cake designs. Filter by occasion, tiers, flowers, flavour and price, then select a cake and request a quote for your event."
+  },
+  "/collections/wedding-cakes": {
+    "title": "Wedding Cakes in Dubai & the UAE",
+    "description": "Browse tiered wedding cakes with fresh flowers, sugar flowers and piped decoration. Choose a design and request a quote from Maison Zavi for UAE delivery."
+  },
+  "/collections/luxury-cakes": {
+    "title": "Luxury Cakes with Sculpted & Floral Designs",
+    "description": "Explore Maison Zavi luxury cakes with tall tiers, sculpted decorations and metallic finishes. Request a quote with your event date and guest count."
+  },
+  "/collections/engagement-cakes": {
+    "title": "Engagement & Proposal Cakes",
+    "description": "Discover engagement and proposal cakes with flowers, ring decorations and engagement toppers. Choose your options and request a quote from Maison Zavi."
+  },
+  "/collections/tiered-cakes": {
+    "title": "Tiered Wedding & Celebration Cakes",
+    "description": "Browse cakes with two or more tiers. Choose sponge and filling options by tier, then confirm size and delivery in your Maison Zavi cake quote."
+  },
+  "/collections/fresh-floral-cakes": {
+    "title": "Fresh Flower Cakes with Roses, Peonies & Dahlias",
+    "description": "Browse fresh flower cakes with roses, peonies, dahlias and mixed arrangements. Choose flower combinations and request a cake quote from Maison Zavi."
+  },
+  "/collections/sugar-flower-cakes": {
+    "title": "Sugar Flower Cakes with Roses & Peonies",
+    "description": "Explore cakes decorated with sugar roses, peonies, magnolias and floral cascades. Request a quote from Maison Zavi with your preferred size and colours."
+  },
+  "/atelier": {
+    "title": "Our Story: Born in Dubai",
+    "description": "Meet Maison Zavi, born in the heart of Dubai. Discover our approach to personal wedding, engagement and celebration cakes, from flowers and colours to flavours."
+  },
+  "/bespoke": {
+    "title": "Request a Custom Cake Quote",
+    "description": "Request a custom wedding, engagement or celebration cake from Maison Zavi. Share your date, guest count, budget and design ideas, with optional reference photos."
+  },
+  "/contact": {
+    "title": "Contact Maison Zavi",
+    "description": "Message Maison Zavi on WhatsApp at +971 54 597 4005 for cake enquiries, custom designs and order discussions, or send your details through our contact form."
+  },
+  "/delivery": {
+    "title": "Cake Delivery in Dubai & Across the UAE",
+    "description": "Maison Zavi cake delivery costs AED 100 in Dubai and AED 200 in other emirates. Read delivery, date confirmation and collection arrangements before ordering."
+  },
+  "/faq": {
+    "title": "Cake Ordering & Delivery FAQs",
+    "description": "Find answers about choosing a cake, custom designs, order confirmation, payment arrangements, UAE delivery and dietary requests at Maison Zavi."
+  },
+  "/privacy": {
+    "title": "Privacy Policy",
+    "description": "Read how Maison Zavi handles contact details, cake enquiries, reference photos, saved selections and order information, and how to ask about your data."
+  },
+  "/policies/refund-policy": {
+    "title": "Cake Refunds & Cancellations Policy",
+    "description": "Read Maison Zavi terms for cake cancellations, changes, refunds and reporting an issue with an order. Contact us with your order reference for assistance."
+  },
+  "/policies/terms-of-service": {
+    "title": "Cake Orders: Terms & Conditions",
+    "description": "Read Maison Zavi terms and conditions for using the website, requesting cakes and confirming orders, including prices, payment and delivery arrangements."
+  },
+  "/policies/substitution-policy": {
+    "title": "Cake Decoration Substitution Policy",
+    "description": "Read Maison Zavi guidance on substitutions for cake flowers, colours and decorations, including how design changes are discussed before your order."
+  },
+  "/policies/edible-items-policy": {
+    "title": "Cake Ingredients, Allergens & Care",
+    "description": "Read Maison Zavi guidance on cake ingredients, allergens, edible and non-edible decorations, food colouring, storage, handling and serving."
+  },
+  "/search": {
+    "title": "Search Cake Designs",
+    "description": "Search Maison Zavi cakes by colour, flowers or style. Filter matching designs by tiers, flavour and price."
+  },
+  "/wishlist": {
+    "title": "Your Saved Cake Designs",
+    "description": "Review the Maison Zavi cake designs saved in this browser. Open a cake to choose options or add it to your quote."
+  },
+  "/cart": {
+    "title": "Your Cake Quote",
+    "description": "Review your selected cakes, flavours and quantities before sending a Maison Zavi order request. Prices and availability are confirmed before ordering."
+  },
+  "/bag": {
+    "title": "Your Cake Selection",
+    "description": "Review the cakes in your Maison Zavi bag and update quantities before preparing your order request."
+  },
+  "/checkout": {
+    "title": "Send Your Cake Order Request",
+    "description": "Add your contact details, event date and delivery address to your Maison Zavi cake request. Orders and payment arrangements are confirmed separately."
+  },
+  "/404": {
+    "title": "Page Not Found",
+    "description": "This Maison Zavi page could not be found. Browse our cake collections or contact us for help finding a design."
+  }
+}

@@ -1,0 +1,1659 @@
+{
+  "batch": 7,
+  "size": 50,
+  "sourcePreference": "Pinterest",
+  "records": [
+    {
+      "n": 301,
+      "productId": "8957379641569",
+      "title": "White Bento Birthday Cake with mini red hearts",
+      "originalImage": "assets/products/527a6013f2a2b24dc9de.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/83738874313185108/",
+          "description": "Small Red Velvet Cake with Mini Hearts! | Recipe | Velvet cake, Red velvet cake, Cute birthday cakes (https://www.pinterest.com/pin/83738874313185108/)",
+          "imageUrl": "https://i.pinimg.com/736x/9e/92/1d/9e921d53647b22fc2fe11d6b663479ec.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8957379641569-363db798f4d9.jpg",
+          "sha256": "363db798f4d9484e919320b6b95ae7b18f6f6e0494dc05950e306b85ad60f78d"
+        },
+        {
+          "sourceUrl": "https://fr.pinterest.com/pin/593349319690897743/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/4d/a5/40/4da5404b7eef0c286d6dac42091badaa.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8957379641569-c6db1bd04c2f.jpg",
+          "sha256": "c6db1bd04c2fe456d42e461849fba807c4cc820604c30d65e37b4875ca8c0bf7"
+        },
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/133630313948909640/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/76/5a/56/765a567f9e067d413925df85def2c7eb.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8957379641569-b9df5cdb7bc4.jpg",
+          "sha256": "b9df5cdb7bc4d54ef4e8a30c75c6c8f22478186ae72ef589b2afe45ec93a1182"
+        }
+      ],
+      "query": "site:pinterest.com/pin White Bento Birthday Cake with mini red hearts"
+    },
+    {
+      "n": 302,
+      "productId": "8957379150049",
+      "title": "Pink Bento Birthday Cake with mini white hearts",
+      "originalImage": "assets/products/8f6566beff13be19651e.png",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://uk.pinterest.com/pin/pink-and-white-birthday-cake-with-hearts--464081936573383196/",
+          "description": "Pink and White Birthday Cake with Hearts (https://uk.pinterest.com/pin/pink-and-white-birthday-cake-with-hearts--464081936573383196/)",
+          "imageUrl": "https://i.pinimg.com/736x/22/c1/1c/22c11cc113f21fcb409e731733a1b1bd.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8957379150049-86610de09682.jpg",
+          "sha256": "86610de0968232d27a4858b04076cf61ff59a34271d80f7c277101722cf6cbef"
+        },
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/bento-cake-with-white-hearts--751608625336269742/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/c7/16/4e/c7164edc5115f31a29f0b487ef26f110.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8957379150049-608c15a81001.jpg",
+          "sha256": "608c15a8100129bd363428f7642847c62b5b4deced15d6b3b06c8d47a42e6f34"
+        },
+        {
+          "sourceUrl": "https://au.pinterest.com/pin/pink-and-white-birthday-cake-with-hearts--384705993155211200/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/ea/b3/c7/eab3c753449795cb76ebda2e50bc4c99.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8957379150049-37ac2a95f98d.jpg",
+          "sha256": "37ac2a95f98d4cca5f37b38e06b32994c46d3425a7cdd28a4de53aed08d269ec"
+        }
+      ],
+      "query": "site:pinterest.com/pin Pink Bento Birthday Cake with mini white hearts"
+    },
+    {
+      "n": 303,
+      "productId": "8957374922977",
+      "title": "Bento Birthday Cake for Him",
+      "originalImage": "assets/products/254e828e5e974a480ff6.jpg",
+      "status": "applied",
+      "candidates": [
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/bento-cake-for-man--889953576340480905/",
+          "description": "Bento cake for man | Cake for boyfriend, Cakes for men, Funny birthday cakes (https://in.pinterest.com/pin/bento-cake-for-man--889953576340480905/)",
+          "imageUrl": "https://i.pinimg.com/736x/18/a0/1a/18a01a4839c3170097e019fd747357e9.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8957374922977-b3ef5a54d4f9.jpg",
+          "sha256": "b3ef5a54d4f954ac5421bba3918a7bfa6d239ea22698ed1b14d2c520fdc13fd0"
+        },
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/bento-cake-design-in-2025--940478334696516550/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/aa/32/b8/aa32b81196575b12ecf8be6c8c23c574.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8957374922977-a2c3228e262b.jpg",
+          "sha256": "a2c3228e262bde7d8166d13f6b1bd089308990b0a13d0dd9842054fd0eaa8849"
+        },
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/724587027581370642/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/49/4e/9d/494e9d1999decc2b63ba58bc414c13ff.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8957374922977-e8524f66fa47.jpg",
+          "sha256": "e8524f66fa47364d254360ab51a72096a712b09d31dc999ee8458bc2ec4afdb7"
+        }
+      ],
+      "query": "site:pinterest.com/pin Bento Birthday Cake for Him",
+      "selected": {
+        "sourceUrl": "https://in.pinterest.com/pin/bento-cake-for-man--889953576340480905/",
+        "description": "Bento cake for man | Cake for boyfriend, Cakes for men, Funny birthday cakes (https://in.pinterest.com/pin/bento-cake-for-man--889953576340480905/)",
+        "imageUrl": "https://i.pinimg.com/736x/18/a0/1a/18a01a4839c3170097e019fd747357e9.jpg",
+        "localImage": "assets/products/matches/batch-007-pinterest/8957374922977-b3ef5a54d4f9.jpg",
+        "sha256": "b3ef5a54d4f954ac5421bba3918a7bfa6d239ea22698ed1b14d2c520fdc13fd0"
+      },
+      "localImage": "assets/products/matches/batch-007-pinterest/8957374922977-b3ef5a54d4f9.jpg",
+      "sha256": "b3ef5a54d4f954ac5421bba3918a7bfa6d239ea22698ed1b14d2c520fdc13fd0",
+      "visualReview": {
+        "verified": true,
+        "tierCount": 1,
+        "shape": "round",
+        "notes": "One black bento birthday cake in a takeaway box."
+      },
+      "reviewNote": "One black bento birthday cake in a takeaway box."
+    },
+    {
+      "n": 304,
+      "productId": "8956482093281",
+      "title": "Black & White Balloon Birthday Cake",
+      "originalImage": "assets/products/a3e2e786f586fbf31dba.jpg",
+      "status": "applied",
+      "candidates": [
+        {
+          "sourceUrl": "https://uk.pinterest.com/pin/black-and-white-balloons-birthday-cake--573575702515311524/",
+          "description": "Black and White Balloons Birthday Cake (https://uk.pinterest.com/pin/black-and-white-balloons-birthday-cake--573575702515311524/)",
+          "imageUrl": "https://i.pinimg.com/736x/7f/86/1c/7f861caf46a11f1a12a83dc2cd495faf.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8956482093281-c4269c1b2850.jpg",
+          "sha256": "c4269c1b2850bb75730077262e2b40532aab4f879ee080949fdb2201171c5a2d"
+        },
+        {
+          "sourceUrl": "https://mx.pinterest.com/pin/pinterest-in-2023--441775044715511896/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/c3/2e/4e/c32e4e2a329cf31b7c5516125331f518.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8956482093281-3c8ac086d02a.jpg",
+          "sha256": "3c8ac086d02a7130e48bf244bf45818cf4cd47af1e2212e0be201280c860bc0d"
+        },
+        {
+          "sourceUrl": "https://nl.pinterest.com/pin/black-and-white-balloon-cake-for-birthday--605100899920741569/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/ec/53/52/ec53527012bb0cc210b22b4e8c5ce6d5.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8956482093281-e2ac876c6e85.jpg",
+          "sha256": "e2ac876c6e85a05b67db6b1a135ece95507115a538db559b8f6fab682b4ff41b"
+        }
+      ],
+      "query": "site:pinterest.com/pin Black & White Balloon Birthday Cake",
+      "selected": {
+        "sourceUrl": "https://mx.pinterest.com/pin/pinterest-in-2023--441775044715511896/",
+        "description": "",
+        "imageUrl": "https://i.pinimg.com/736x/c3/2e/4e/c32e4e2a329cf31b7c5516125331f518.jpg",
+        "localImage": "assets/products/matches/batch-007-pinterest/8956482093281-3c8ac086d02a.jpg",
+        "sha256": "3c8ac086d02a7130e48bf244bf45818cf4cd47af1e2212e0be201280c860bc0d"
+      },
+      "localImage": "assets/products/matches/batch-007-pinterest/8956482093281-3c8ac086d02a.jpg",
+      "sha256": "3c8ac086d02a7130e48bf244bf45818cf4cd47af1e2212e0be201280c860bc0d",
+      "visualReview": {
+        "verified": true,
+        "tierCount": 1,
+        "shape": "round",
+        "notes": "One black and white round cake with matching balloons."
+      },
+      "reviewNote": "One black and white round cake with matching balloons."
+    },
+    {
+      "n": 305,
+      "productId": "8956481798369",
+      "title": "Red Balloon Birthday Cake",
+      "originalImage": "assets/products/da87fd99391d9482ff46.png",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/birthday-cake-with-red-balloon--160440805453823487/",
+          "description": "Birthday Cake with Red Balloon (https://in.pinterest.com/pin/birthday-cake-with-red-balloon--160440805453823487/)",
+          "imageUrl": "https://i.pinimg.com/736x/8b/af/97/8baf9781a99dbc7e1c89b4b73f0f63dc.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8956481798369-d5b2961f761e.jpg",
+          "sha256": "d5b2961f761ebe3452c46840603ed642a77a5d038ba6b2fea943a3ab00912ab1"
+        },
+        {
+          "sourceUrl": "https://ca.pinterest.com/pin/red-birthday-cake-with-lots-of-balloons-and-decorations--635711303636587705/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/6f/b5/8e/6fb58e998f4ee3e977f8440275f6b318.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8956481798369-6546625eb001.jpg",
+          "sha256": "6546625eb00100d373936a21d1f676ce061cbd4183ff98856cf9236922418573"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/pinterest--448600812863422529/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/51/ea/e7/51eae7e252da90cafde2dd9d7de56af9.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8956481798369-8f89e0a67a0b.jpg",
+          "sha256": "8f89e0a67a0b65b7401c6b0910122d56fba203c05e31e232bd1f9a46b52043eb"
+        }
+      ],
+      "query": "site:pinterest.com/pin Red Balloon Birthday Cake"
+    },
+    {
+      "n": 306,
+      "productId": "8955546992865",
+      "title": "Personalized Red & Gold Cake with Chrome Balloons",
+      "originalImage": "assets/products/16e374971838ce4fe8cc.png",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://uk.pinterest.com/pin/birthday-cake-with-red-and-gold-balloons--392868767504850199/",
+          "description": "Birthday Cake with Red and Gold Balloons (https://uk.pinterest.com/pin/birthday-cake-with-red-and-gold-balloons--392868767504850199/)",
+          "imageUrl": "https://i.pinimg.com/736x/0f/7f/6c/0f7f6c7ef3b41cf4936cc7ad6a462c13.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8955546992865-7a438073a704.jpg",
+          "sha256": "7a438073a704838dc60605ad550b2a1ae5216a0292e53c1617921a3daefd2800"
+        },
+        {
+          "sourceUrl": "https://br.pinterest.com/pin/227431849922013169/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/11/1f/d9/111fd905485879225db7e3444debb6bf.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8955546992865-65aaac809a27.jpg",
+          "sha256": "65aaac809a27958108b03d0777afe3a342e418265ca0804cddb5018a7fdccc64"
+        },
+        {
+          "sourceUrl": "https://uk.pinterest.com/pin/50th-birthday-red-and-gold-balloon-cake--305963368416760441/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/5f/2b/39/5f2b39205c6b5be8af4b48174b899443.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8955546992865-123aa0db1ab4.jpg",
+          "sha256": "123aa0db1ab4c63807b9fcc52cb40ff1ce5ee60d19ec05c793b277084ce70098"
+        }
+      ],
+      "query": "site:pinterest.com/pin Personalized Red & Gold Cake with Chrome Balloons"
+    },
+    {
+      "n": 307,
+      "productId": "8955546239201",
+      "title": "Personalized Black & Silver Cake with Chrome Balloons",
+      "originalImage": "assets/products/3faf89c2dea890a3bd1b.png",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://uk.pinterest.com/pin/personalised-chrome-silver-star-balloon-in-2025--4593038380821828608/",
+          "description": "Personalised Chrome Silver  Star Balloon in 2025 | Balloons, Balloon prices, Helium filled balloons (https://uk.pinterest.com/pin/personalised-chrome-silver-star-balloon-in-2025--4593038380821828608/)",
+          "imageUrl": "https://i.pinimg.com/736x/7e/8d/a2/7e8da2a645e8d0b997dfc93bbcec7565.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8955546239201-d3d07e2375b0.jpg",
+          "sha256": "d3d07e2375b0265f2a13408e05c4a2cb31981a3d4fa627985a99553f0228a9af"
+        },
+        {
+          "sourceUrl": "https://uk.pinterest.com/pin/1037939045369498034/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/88/ae/c3/88aec3003e8cb37e017ffb6100f24cc5.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8955546239201-562c0529d10b.jpg",
+          "sha256": "562c0529d10bf78afc0e4225be12776359ba6ca3a6b0a3bb50cb60c00ae2c7f4"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/965459238845241806/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/53/59/72/535972ede60f4e165d11f62d30fe7b6c.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8955546239201-ddd9c6bc1c84.jpg",
+          "sha256": "ddd9c6bc1c84a7da21412e559c8cbef2f41a3e5846096ca3787d100020defb16"
+        }
+      ],
+      "query": "site:pinterest.com/pin Personalized Black & Silver Cake with Chrome Balloons"
+    },
+    {
+      "n": 308,
+      "productId": "8955521237217",
+      "title": "Purple & Silver Birthday Cake with Balloons",
+      "originalImage": "assets/products/28a011e6c8d393b80a43.png",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://br.pinterest.com/pin/doces-magia-on-instagram-bolo-de-andar-com-bales-no-topo-boloeuphoria-boloroxo-em-2023--916693699131896528/",
+          "description": "Purple and Silver Cake with Balloons on Top (https://br.pinterest.com/pin/doces-magia-on-instagram-bolo-de-andar-com-bales-no-topo-boloeuphoria-boloroxo-em-2023--916693699131896528/)",
+          "imageUrl": "https://i.pinimg.com/736x/39/45/ab/3945ab44d44df459d4e2e5eb72bd140f.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8955521237217-6cd182d13220.jpg",
+          "sha256": "6cd182d132205eee9ba869803a5adb3bc0c2152bf5b698e96fb37570e9e11e69"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/purple-and-silver-dessert-table-with-balloons--331788697565646363/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/a3/5e/12/a35e12dd48e69c76027cb9e5e2984625.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8955521237217-02bf770674a3.jpg",
+          "sha256": "02bf770674a35b5b1e4a50fb6e7cc46acb6f46db8c27110ce18e7df900d6c33b"
+        },
+        {
+          "sourceUrl": "https://uk.pinterest.com/pin/purple-birthday-cake-with-balloons--521291725634394824/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/f9/e7/70/f9e770003e247e88c1baaf2cc45e8c34.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8955521237217-064c5537cff6.jpg",
+          "sha256": "064c5537cff645490f89219b1d54fb8caccac44e887ff2441a7513d173d3b407"
+        }
+      ],
+      "query": "site:pinterest.com/pin Purple & Silver Birthday Cake with Balloons"
+    },
+    {
+      "n": 309,
+      "productId": "8955517141217",
+      "title": "Lime Green Birthday Cake with Balloons",
+      "originalImage": "assets/products/a465b77e64dbec9145a3.jpg",
+      "status": "applied",
+      "candidates": [
+        {
+          "sourceUrl": "https://br.pinterest.com/pin/lime-green-cake-for-a-happy-birthday--720646377873010596/",
+          "description": "Lime Green Cake for a Happy Birthday (https://br.pinterest.com/pin/lime-green-cake-for-a-happy-birthday--720646377873010596/)",
+          "imageUrl": "https://i.pinimg.com/736x/52/6d/f2/526df2c4eab38f3f9271ca344598007f.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8955517141217-59d10b4909f1.jpg",
+          "sha256": "59d10b4909f1388f2edcc8028e7cbcb7f0ed7f0bcf373b287e558b5882c5ed1b"
+        },
+        {
+          "sourceUrl": "https://uk.pinterest.com/pin/birthday-cake-with-balloon-garland-and-a-green-theme--632615078941431904/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/ed/77/48/ed77482a2bdc61072b55d7fa4b2e245f.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8955517141217-c37c8741d41a.jpg",
+          "sha256": "c37c8741d41ab52cd0035dec5a510f7c16a86767cdea082c65ccc6070887b0a8"
+        },
+        {
+          "sourceUrl": "https://es.pinterest.com/pin/green-birthday-cake-with-balloons-and-number-one--418905202820111806/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/a6/fb/58/a6fb587326cb703f3889aa7ca81bef95.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8955517141217-15e93f3620df.jpg",
+          "sha256": "15e93f3620df81497f8e30a33d40b9a1e4c34648415bffed55c248502ac718e4"
+        }
+      ],
+      "query": "site:pinterest.com/pin Lime Green Birthday Cake with Balloons",
+      "selected": {
+        "sourceUrl": "https://uk.pinterest.com/pin/birthday-cake-with-balloon-garland-and-a-green-theme--632615078941431904/",
+        "description": "",
+        "imageUrl": "https://i.pinimg.com/736x/ed/77/48/ed77482a2bdc61072b55d7fa4b2e245f.jpg",
+        "localImage": "assets/products/matches/batch-007-pinterest/8955517141217-c37c8741d41a.jpg",
+        "sha256": "c37c8741d41ab52cd0035dec5a510f7c16a86767cdea082c65ccc6070887b0a8"
+      },
+      "localImage": "assets/products/matches/batch-007-pinterest/8955517141217-c37c8741d41a.jpg",
+      "sha256": "c37c8741d41ab52cd0035dec5a510f7c16a86767cdea082c65ccc6070887b0a8",
+      "visualReview": {
+        "verified": true,
+        "tierCount": 1,
+        "shape": "round",
+        "notes": "One green round cake with green, ivory and gold balloons."
+      },
+      "reviewNote": "One green round cake with green, ivory and gold balloons."
+    },
+    {
+      "n": 310,
+      "productId": "8941749600481",
+      "title": "Piano Themed Cake",
+      "originalImage": "assets/products/b1a70b7ff69d2eb64914.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/7036943140562198/",
+          "description": "Buttercream rose piano cake.  \"Hey Mom, do you think you could make this for my birthday?\" | Piano cakes, Music cakes, Music themed cakes (https://www.pinterest.com/pin/7036943140562198/)",
+          "imageUrl": "https://i.pinimg.com/736x/cb/b3/8a/cbb38a10411f9280306385e424e5d824.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8941749600481-0285b52d3d40.jpg",
+          "sha256": "0285b52d3d405efe1b10d9be535749f5744a22a174a0d8ee5a1f36ac336a421c"
+        },
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/piano-cake-i-made-this-cake-for-my-friends-boss-who-loves-music-and-plays-the-piano--493918284109202129/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/83/22/2a/83222a91ce30d6df7858397e05a2d4d5.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8941749600481-e39094d21800.jpg",
+          "sha256": "e39094d2180063b909bae4c6bb8e643092f1023c3272bae96b9f4aa9269334c1",
+          "businessNameVisible": true,
+          "rejectionNote": "Visible Cake a Doodle watermark"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/piano-birthday-cake-music-red-white-and-black-birthday-cake-handmade-piano-keys-treble-davemelillocom--771452611157068252/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/74/a9/93/74a9932b9c4848c1986b9ffda30a0f75.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8941749600481-dae4fd28ffec.jpg",
+          "sha256": "dae4fd28ffec1fa6f10cbd5c03cda54bff1b67a594361144a5dfcaf2df724de1"
+        }
+      ],
+      "query": "site:pinterest.com/pin Piano Themed Cake"
+    },
+    {
+      "n": 311,
+      "productId": "8941745373409",
+      "title": "Dollars Bills Grey Cake",
+      "originalImage": "assets/products/fedff79c3c8c2d535c21.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/100-dollar-bill-cake--12455336467346625/",
+          "description": "$100 Dollar Bill Cake (https://www.pinterest.com/pin/100-dollar-bill-cake--12455336467346625/)",
+          "imageUrl": "https://i.pinimg.com/736x/2a/41/ef/2a41ef9736788de7e81b11db42913aca.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8941745373409-fe41c93b26fe.jpg",
+          "sha256": "fe41c93b26fe850babffe6609f2411564855cac2f83e65de66c231b64dcc820e"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/2955555982137102/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/29/0e/91/290e917999e48ba7a7f969e0e9317587.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8941745373409-b117d5e489fc.jpg",
+          "sha256": "b117d5e489fc82e8347f0e304770ad584394e0ba19d278fad3f9f6c295f90d31"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/845199055048341116/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/fc/70/8d/fc708dc2ef64d9e8791aca23f4816072.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8941745373409-38f3632099f2.jpg",
+          "sha256": "38f3632099f22874fe4f57ae5e8af03416df0b68dcb31e378bb36a5c4f6c64d2"
+        }
+      ],
+      "query": "site:pinterest.com/pin Dollars Bills Grey Cake"
+    },
+    {
+      "n": 312,
+      "productId": "8941730234593",
+      "title": "Two Tiered Birthday Cake with Pastel Rainbow",
+      "originalImage": "assets/products/cea9a19d2f4d76c22d52.jpg",
+      "status": "applied",
+      "candidates": [
+        {
+          "sourceUrl": "https://uk.pinterest.com/pin/856035841689766335/",
+          "description": "Two-tiered Pastel Rainbow Cake (https://uk.pinterest.com/pin/856035841689766335/)",
+          "imageUrl": "https://i.pinimg.com/736x/2f/51/cf/2f51cf8b918d80e2658bdde54dd80574.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8941730234593-96eb8a70d43c.jpg",
+          "sha256": "96eb8a70d43c61f0c8c3e04da318e5c5a290b953adf49dfe95bd627f3fd4a210"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/i-made-this-two-tiered-cake-for-my-bffs-babys-first-birthday-top-tier-was-vanilla-and-bottom-tier-was-red-velvet-both-tie--242350023684179507/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/5f/65/87/5f65873b00a43d49695b9a0b9841e768.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8941730234593-c2e38d97d2e3.jpg",
+          "sha256": "c2e38d97d2e348732be446203ccc487d4d1e0b1d654a309bef8aeb74caf02d51"
+        },
+        {
+          "sourceUrl": "https://es.pinterest.com/pin/570831321543359762/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/b0/73/20/b073206049a529b61b09d743e324b27d.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8941730234593-b527a51f6605.jpg",
+          "sha256": "b527a51f66059d809e5715953074aac32dfaacaf5c40a774211168c7032b9a6e"
+        }
+      ],
+      "query": "site:pinterest.com/pin Two Tiered Birthday Cake with Pastel Rainbow",
+      "selected": {
+        "sourceUrl": "https://uk.pinterest.com/pin/856035841689766335/",
+        "description": "Two-tiered Pastel Rainbow Cake (https://uk.pinterest.com/pin/856035841689766335/)",
+        "imageUrl": "https://i.pinimg.com/736x/2f/51/cf/2f51cf8b918d80e2658bdde54dd80574.jpg",
+        "localImage": "assets/products/matches/batch-007-pinterest/8941730234593-96eb8a70d43c.jpg",
+        "sha256": "96eb8a70d43c61f0c8c3e04da318e5c5a290b953adf49dfe95bd627f3fd4a210"
+      },
+      "localImage": "assets/products/matches/batch-007-pinterest/8941730234593-96eb8a70d43c.jpg",
+      "sha256": "96eb8a70d43c61f0c8c3e04da318e5c5a290b953adf49dfe95bd627f3fd4a210",
+      "visualReview": {
+        "verified": true,
+        "tierCount": 2,
+        "shape": "round",
+        "notes": "Two distinct cake tiers with pastel rainbow, stars and clouds."
+      },
+      "reviewNote": "Two distinct cake tiers with pastel rainbow, stars and clouds."
+    },
+    {
+      "n": 313,
+      "productId": "8941697368289",
+      "title": "Birthday Letter Roses Arrangements with Macarons or Dipped Strawberries",
+      "originalImage": "assets/products/49ebbf1f95d6504b8309.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/563442603385370017/",
+          "description": "Letter R Strawberry Cake with Macaron and Rose Decorations (https://in.pinterest.com/pin/563442603385370017/)",
+          "imageUrl": "https://i.pinimg.com/736x/7b/06/49/7b064932f7aed556687ea5e2d5e2fcaa.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8941697368289-4983ac7c0107.jpg",
+          "sha256": "4983ac7c01072f2bd962e4fa2d9ad8bb7a30929516639c7248fce6a95b1023b3"
+        },
+        {
+          "sourceUrl": "https://uk.pinterest.com/pin/birthday-cake-decorated-with-macarons-strawberry-and-roses--776308054523085304/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/a9/35/db/a935db9ee66e0de52983965c99619ad7.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8941697368289-5b6bbbc58170.jpg",
+          "sha256": "5b6bbbc581705f30ab078b22c4efbbda1300823312c2b3a7dcdb567b64c6a1a6"
+        },
+        {
+          "sourceUrl": "https://fr.pinterest.com/pin/papeterie-carterie-cartes-danniversaire-offrir-un-grand-march--310466968069556467/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/dc/80/e2/dc80e29baf5cd52506812db9d80d324a.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8941697368289-2d32c60b6978.jpg",
+          "sha256": "2d32c60b6978d8040c9ea3b324f4846269568db3fb80841eb5f67a217ffb1328"
+        }
+      ],
+      "query": "site:pinterest.com/pin Birthday Letter Roses Arrangements with Macarons or Dipped Strawberries"
+    },
+    {
+      "n": 314,
+      "productId": "8911400960225",
+      "title": "Blue Striped Cake with Candles",
+      "originalImage": "assets/products/0a202912c0f5edbff1c8.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/blue-birthday-cake-with-candles--313774299008524724/",
+          "description": "Blue Birthday Cake with Candles (https://www.pinterest.com/pin/blue-birthday-cake-with-candles--313774299008524724/)",
+          "imageUrl": "https://i.pinimg.com/736x/0d/a1/74/0da1748059515287c75d84c8bddc8550.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8911400960225-37facf171357.jpg",
+          "sha256": "37facf1713576cb21dacc826bda932541359ff997c02ff6d9648950801458f83"
+        },
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/candles-on-birthday-cake-with-number-age-celebration-party-icons-happy-birthday-cupcake-and-striped-candles-with-fire-light-red-blue-orange-yellow-and-gree--887561039032645524/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/d5/e9/22/d5e9225467801bb50222c381b3e0f753.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8911400960225-e0bb595cfc5f.jpg",
+          "sha256": "e0bb595cfc5ffe94644b605f9592c366d8f2db5b25f7cb98225776ba20958403"
+        },
+        {
+          "sourceUrl": "https://ca.pinterest.com/pin/decopac-seven-birthday-candle-cake-decoration-blue--122863896087553408/",
+          "description": "",
+          "imageUrl": "https://s.pinimg.com/images/default_open_graph_1200.png",
+          "error": "Expected Pinterest image"
+        }
+      ],
+      "query": "site:pinterest.com/pin Blue Striped Cake with Candles"
+    },
+    {
+      "n": 315,
+      "productId": "8911399911649",
+      "title": "Swiss Vanilla Cake",
+      "originalImage": "assets/products/01174f674e7a45f76302.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/181481059980857750/",
+          "description": "Vanilla Swiss Roll Cake [Video] | Recipe [Video] | Swiss roll cake, Roll cake, Baking recipes (https://www.pinterest.com/pin/181481059980857750/)",
+          "imageUrl": "https://i.pinimg.com/736x/82/f2/42/82f24222430d04695d81474e31d55c47.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8911399911649-a2b89c68890e.jpg",
+          "sha256": "a2b89c68890ed291afd0f1b1c24f0a3d1c1487f6febf4632590a8e01582669cd"
+        },
+        {
+          "sourceUrl": "https://ca.pinterest.com/pin/i-am-in-love-with-this-cake-three-layer-vanilla-cake-with-a-mock-swiss-meringue-buttercream-i-had-creative-control--800866746274638562/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/b1/ba/a3/b1baa33200911e6235060195f02638a5.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8911399911649-8619cb05941c.jpg",
+          "sha256": "8619cb05941c2b3334b365a140a42abff6bf0ac60d7efb0382d0c73be9aeb401"
+        },
+        {
+          "sourceUrl": "https://ca.pinterest.com/pin/880453795904150540/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/cb/09/73/cb09736c534e9377e1a3f5adbf2a60de.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8911399911649-e531314bd7ff.jpg",
+          "sha256": "e531314bd7ff51a485913ab4b55873b063281e359449651e529236786357aaae"
+        }
+      ],
+      "query": "site:pinterest.com/pin Swiss Vanilla Cake"
+    },
+    {
+      "n": 316,
+      "productId": "8911399846113",
+      "title": "Swiss Chocolate Orange Cake",
+      "originalImage": "assets/products/de0cf16fc5691b1eb144.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://uk.pinterest.com/pin/chocolate-orange-cake-made-by-me-in-2025--663577326383611801/",
+          "description": "chocolate orange cake made by me in 2025 | Orange cake, Orange chocolate cake, Chocolate orange (https://uk.pinterest.com/pin/chocolate-orange-cake-made-by-me-in-2025--663577326383611801/)",
+          "imageUrl": "https://i.pinimg.com/736x/0c/2e/70/0c2e7027920c009520a17df86a6b5c7b.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8911399846113-1d8a9f2b6241.jpg",
+          "sha256": "1d8a9f2b62413c79e66269d63511994f8246827d5a3d4efe2483e9e6dd723bb4"
+        },
+        {
+          "sourceUrl": "https://uk.pinterest.com/pin/cake-in-2025--472103973493942643/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/ba/0f/39/ba0f393143814ffaeb80703b1142913f.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8911399846113-893a4e2cf38b.jpg",
+          "sha256": "893a4e2cf38bf7d1527330c39134d8fc42d79b4a57347111cad0fcb8f11ee3a7"
+        },
+        {
+          "sourceUrl": "https://uk.pinterest.com/pin/chocolate-orange-cake-in-2025--670614200810785461/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/0e/9f/1d/0e9f1db1b952889db16b5471e1931423.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8911399846113-5a83bb97e0e6.jpg",
+          "sha256": "5a83bb97e0e6dfd37c24e48b04dbd845499a5eda8fa70fd102076e5cf0952433"
+        }
+      ],
+      "query": "site:pinterest.com/pin Swiss Chocolate Orange Cake"
+    },
+    {
+      "n": 317,
+      "productId": "8911399780577",
+      "title": "Swiss Chocolate Vanilla Berries Cake",
+      "originalImage": "assets/products/6b484ec589b7fb1c63f7.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/three-layer-vanilla-cake-with-strawberry-swiss-meringue-buttercream-and-chocolate-glaze-2nd-anniversary--179862578843622206/",
+          "description": "Three Layer Vanilla Cake with Strawberry Swiss Buttercream and Chocolate Glaze (https://www.pinterest.com/pin/three-layer-vanilla-cake-with-strawberry-swiss-meringue-buttercream-and-chocolate-glaze-2nd-anniversary--179862578843622206/)",
+          "imageUrl": "https://i.pinimg.com/736x/26/c4/e5/26c4e5e7aafc3d676c17692ded13dbcc.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8911399780577-b813c75d5d81.jpg",
+          "sha256": "b813c75d5d8139da7338228f96e9717c26522409d03ff76caeae431ab7059c75"
+        },
+        {
+          "sourceUrl": "https://au.pinterest.com/pin/layers-of-vanilla-butter-cake-with-a-burst-of-mixed-berry-coulis-all-wrapped-in-silky-swiss-me--682858362290827554/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/6c/53/d5/6c53d5839213f602b378b37567de62c0.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8911399780577-4e88eeafc6a2.jpg",
+          "sha256": "4e88eeafc6a2da4de02df27eb5afc23f36213c90956454ca3d4f3de7094aeaf6"
+        },
+        {
+          "sourceUrl": "https://ca.pinterest.com/pin/funfetti-cake-madagascar-vanilla-bean-pastry-cream-raspberry-jam-fresh-raspberries-vanilla-swiss-meringue-but-in-2025--124412008450770589/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/f9/e1/48/f9e148a44c915aab5e8a1f4901a94421.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8911399780577-dfd437f20a5b.jpg",
+          "sha256": "dfd437f20a5b1dbf2dfe8a8c3e56ee542d0e09bf3790087722b1bec4dfa5d32e"
+        }
+      ],
+      "query": "site:pinterest.com/pin Swiss Chocolate Vanilla Berries Cake"
+    },
+    {
+      "n": 318,
+      "productId": "8911398732001",
+      "title": "Swiss Chocolate Squares Cake",
+      "originalImage": "assets/products/da419d82963030ef8a8e.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/swiss-chocolate-cake-recipe--247346204526815631/",
+          "description": "Swiss Chocolate Cake Recipe (https://www.pinterest.com/pin/swiss-chocolate-cake-recipe--247346204526815631/)",
+          "imageUrl": "https://i.pinimg.com/736x/10/9a/4d/109a4d4bdf340c7d08609fca04872f03.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8911398732001-c981d7bd8932.jpg",
+          "sha256": "c981d7bd8932387c4684944af8dbcb0e7dea203e63f209211daab2a164c33a1b"
+        },
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/oldfashioned-swiss-chocolate-cake-recipe-ingredients-1-cup-unsalted-butter-softene-in-2025--902408844083903936/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/e8/99/7c/e8997c1efaf44e5b59bbf64975b6e005.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8911398732001-d47b931572a1.jpg",
+          "sha256": "d47b931572a19fa924c7926bd2176a2fdbd4a3949469e5230403d0ce54c9a9f5"
+        },
+        {
+          "sourceUrl": "https://ca.pinterest.com/pin/swiss-chocolate-cake-350g-in-2025--4602608549965227520/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/0a/f7/96/0af796ab1d43f1a94a923c9703f7088a.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8911398732001-9a16fafc9853.jpg",
+          "sha256": "9a16fafc9853c1c29e57dc9a8caab2e3bf7ea35c7df0ae07c9700655f5c65ed6"
+        }
+      ],
+      "query": "site:pinterest.com/pin Swiss Chocolate Squares Cake"
+    },
+    {
+      "n": 319,
+      "productId": "8911395750113",
+      "title": "Evil Eye Blue Heart Cake",
+      "originalImage": "assets/products/b04f10357586892a319b.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://uk.pinterest.com/pin/this-blue-heart-cake-is-giving-us-all-the-feels-made-with-love-for-a-special-birthday-who-says-heart-cakes-have-in-2025--592997475970643267/",
+          "description": "This blue heart cake is giving us ALL the feels! 😍 Made with love for a special birthday. 💙 Who says heart cakes have… in 2025 | Blue heart, Heart cakes, Special birthday (https://uk.pinterest.com/pin/this-blue-heart-cake-is-giving-us-all-the-feels-made-with-love-for-a-special-birthday-who-says-heart-cakes-have-in-2025--592997475970643267/)",
+          "imageUrl": "https://i.pinimg.com/736x/7c/6b/d3/7c6bd3fb1df51987e7bbd8676ade3621.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8911395750113-feb4a3187606.jpg",
+          "sha256": "feb4a318760682939bb60d861525738e2976ac087ad991a743f6582d14ab8437"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/142989356916643846/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/97/88/09/9788091e5c6fef4f37dc3e385c4163cd.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8911395750113-5603901ae50e.jpg",
+          "sha256": "5603901ae50eb8f5946f58ae3f7552761fb2830750230973b811bcdb3496dd6c"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/navy-blue-heart-shaped-cake-with-pearls--1118300151223396357/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/ed/14/c1/ed14c13b8210ae37497362b8bb8c483f.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8911395750113-27b4653212b5.jpg",
+          "sha256": "27b4653212b5e265ec73e6206e9c15621f5ef82a2d48e6e45dc3756430e912a8"
+        }
+      ],
+      "query": "site:pinterest.com/pin Evil Eye Blue Heart Cake"
+    },
+    {
+      "n": 320,
+      "productId": "8911393685729",
+      "title": "Pistachio Kunafa Dubai Viral Chocolate - Flower Arrangement",
+      "originalImage": "assets/products/bb930cb05b0d1729ac52.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/twisted-on-instagram-we-know-everyones-seen-the-trending-dubai-pistachio-kunafa-chocolate-bars-but-not__a__baker-wanted-to-take-it-one-step-further-proba--599963981641065468/",
+          "description": "Twisted on Instagram: \"We know, everyone’s seen the trending Dubai pistachio kunafa chocolate bars, but @not__a__baker wanted to take it one step further. Proba… | Pistachio dessert, Chocolate avocado brownies, Pistachio butter (https://www.pinterest.com/pin/twisted-on-instagram-we-know-everyones-seen-the-trending-dubai-pistachio-kunafa-chocolate-bars-but-not__a__baker-wanted-to-take-it-one-step-further-proba--599963981641065468/)",
+          "imageUrl": "https://i.pinimg.com/736x/d3/d7/f2/d3d7f2a7d4992d6973947f3e5308e1c1.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8911393685729-a7463b2cd097.jpg",
+          "sha256": "a7463b2cd09770772b1285e3273cef1ad73f6b107d12c5028f2f5e4d37c58a07"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/viral-dubai-pistachio-kunafa-ultimate-chocolate-bar-experience--96968198221147741/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/e0/b5/b5/e0b5b5d6b60235205d20ddbc0eca5b87.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8911393685729-7857835cd235.jpg",
+          "sha256": "7857835cd23536a94f3fe4fdf3c8ed141bf50842af2dfe9b7dcd2464ac4c0bab"
+        },
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/dubai-viral-chocolate-kunafa-pistachio-packagr-design-in-2025--773211829812212102/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/ba/1c/59/ba1c594fab84e8aeed4848bf3f4df4d6.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8911393685729-0d07d48a30f0.jpg",
+          "sha256": "0d07d48a30f02141f68153ef6cf5b7b064bb9ba8ae48b7c4440482e87530981e"
+        }
+      ],
+      "query": "site:pinterest.com/pin Pistachio Kunafa Dubai Viral Chocolate - Flower Arrangement"
+    },
+    {
+      "n": 321,
+      "productId": "8911391523041",
+      "title": "Cat Shaped Birthday Cake with Flowers",
+      "originalImage": "assets/products/3c9165ccc73cee5c2a94.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://uk.pinterest.com/pin/80th-cat-birthday-cake-with-floral-decor--747949450599029624/",
+          "description": "80th Cat Birthday Cake with Floral Decor (https://uk.pinterest.com/pin/80th-cat-birthday-cake-with-floral-decor--747949450599029624/)",
+          "imageUrl": "https://i.pinimg.com/736x/0b/2e/dd/0b2eddf1906232e6db6c23a4e6af3ba7.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8911391523041-b079e319000e.jpg",
+          "sha256": "b079e319000e5dcf01f6fa585526ef54270f9780362783c03fcea722e7e77055"
+        },
+        {
+          "sourceUrl": "https://uk.pinterest.com/pin/adorable-first-birthday-cake-with-cats-and-flowers--734509020466936165/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/98/09/32/98093260f304e9a197f05de92b673c77.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8911391523041-68c536c5ee1e.jpg",
+          "sha256": "68c536c5ee1e6558a961ab94f131c906f4d7edfb4bc2cdf65b4b5128f211622b"
+        },
+        {
+          "sourceUrl": "https://uk.pinterest.com/pin/1st-birthday-cake-with-pink-flowers-and-cats--23573598027713670/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/b2/bc/40/b2bc40fb1b588a3a0f399857ac10534a.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8911391523041-1f4f1722a9f9.jpg",
+          "sha256": "1f4f1722a9f9f72e81490d6085380a1f41389c829c13d009f8716847800910c9"
+        }
+      ],
+      "query": "site:pinterest.com/pin Cat Shaped Birthday Cake with Flowers"
+    },
+    {
+      "n": 322,
+      "productId": "8911386018017",
+      "title": "Swiss Chocolate Cat Shaped Cake",
+      "originalImage": "assets/products/2d62b55023181eeeea2b.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/cat-modeling-chocolate-cake--215609900883089537/",
+          "description": "Cat - Modeling chocolate - cake | Modeling chocolate, Cat cake, Chocolate cake (https://www.pinterest.com/pin/cat-modeling-chocolate-cake--215609900883089537/)",
+          "imageUrl": "https://i.pinimg.com/736x/78/6e/e9/786ee9a8cc0fc4e79a7f4ce3ca1d6a7b.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8911386018017-237772cab035.jpg",
+          "sha256": "237772cab035157678bca2717689c2f897f7d0d9cfa03c9d7a3492127d7b86c2"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/653092383441027403/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/40/24/e9/4024e998521d6375d5ad9184e4e41fb3.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8911386018017-493ed1596965.jpg",
+          "sha256": "493ed1596965812965ba7ee7dbc8ca7c31dd045b6651b063af46c5695341faf4"
+        },
+        {
+          "sourceUrl": "https://uk.pinterest.com/pin/delicious-chocolate-cake-with-a-cat-on-top--709879960035705630/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/e0/52/3f/e0523f9ae23c073bcac24ddeecdd57f0.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8911386018017-16ace6ce2549.jpg",
+          "sha256": "16ace6ce2549d0ccb1d33c9ba679959d25917e5aa0eca09abe544b942e646aa6"
+        }
+      ],
+      "query": "site:pinterest.com/pin Swiss Chocolate Cat Shaped Cake"
+    },
+    {
+      "n": 323,
+      "productId": "8910847181025",
+      "title": "Black & Gold Birthday Cake with Balloons",
+      "originalImage": "assets/products/bb16a930766d173db1b7.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://ca.pinterest.com/pin/finezja-torty-monika-biskup-on-instagram-happy-birthday-przepikny-topper-i-dekor-minioweformy3d-18thbirthday-1-in-2023--583638432980271831/",
+          "description": "Happy 18th Birthday Black and Gold Cake with Balloons (https://ca.pinterest.com/pin/finezja-torty-monika-biskup-on-instagram-happy-birthday-przepikny-topper-i-dekor-minioweformy3d-18thbirthday-1-in-2023--583638432980271831/)",
+          "imageUrl": "https://i.pinimg.com/736x/2d/98/50/2d9850553125a4f01a7a6556c12cc305.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8910847181025-bcd9026e1c6f.jpg",
+          "sha256": "bcd9026e1c6f67af60984939e5fbc3ad0b00af8b63dd18a08ccb36d3011783b1"
+        },
+        {
+          "sourceUrl": "https://ca.pinterest.com/pin/happy-18th-birthday-black-and-gold-cake-with-balloons--583638432980271831/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/2d/98/50/2d9850553125a4f01a7a6556c12cc305.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8910847181025-bcd9026e1c6f.jpg",
+          "sha256": "bcd9026e1c6f67af60984939e5fbc3ad0b00af8b63dd18a08ccb36d3011783b1"
+        },
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/jumbo-happy-birthday-cake-balloon-with-black-gold-theme-in-2025--4592475456414068736/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/33/1b/ec/331bec50bb79b33310df6a20dda3f525.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8910847181025-2b4b287545a3.jpg",
+          "sha256": "2b4b287545a333f977e1e9b3890754fb035b9e30d2d814d43a310ff0ab5ef8a9"
+        }
+      ],
+      "query": "site:pinterest.com/pin Black & Gold Birthday Cake with Balloons"
+    },
+    {
+      "n": 324,
+      "productId": "8910812512481",
+      "title": "White Crown Cake Initial Cake",
+      "originalImage": "assets/products/fa4a7d37f110c0197ce8.png",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/white-black-and-gold-crown-cake--121597258670592066/",
+          "description": "White Black and Gold Crown Cake (https://www.pinterest.com/pin/white-black-and-gold-crown-cake--121597258670592066/)",
+          "imageUrl": "https://i.pinimg.com/736x/48/a4/3e/48a43eadad88860e2a3e9ec6333a8f86.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8910812512481-477f32860b2b.jpg",
+          "sha256": "477f32860b2b36337ed16721a35cd033d979cb403ba78eafafa18d44dcf6f793"
+        },
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/1st-birthday-cake-for-girl-with-crown-pink-and-white--677791812650261225/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/fe/49/8b/fe498b42732dd4a40b1f787c80e9e723.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8910812512481-48540a74be6a.jpg",
+          "sha256": "48540a74be6a793e3a7737b98a3a04f8fcda5e1ea3227f5f209342bbfc291274"
+        },
+        {
+          "sourceUrl": "https://it.pinterest.com/pin/pin-di-imelda-ismet-su-cake-decoration--389702174015807913/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/04/7d/4c/047d4c8422dce3d012eacd71d1c573f9.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8910812512481-19f526310160.jpg",
+          "sha256": "19f526310160594bc90218036c890e61721bbbb266efeb8a706e0132abda44fe"
+        }
+      ],
+      "query": "site:pinterest.com/pin White Crown Cake Initial Cake"
+    },
+    {
+      "n": 325,
+      "productId": "8894860624097",
+      "title": "Leopard & Black Crown Cake",
+      "originalImage": "assets/products/a4ae5ab9756f141c95b1.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://at.pinterest.com/pin/tarta-de-leopardo--61150507411770630/",
+          "description": "Leopard Print Cake with Black Bow and Gold Trim (https://at.pinterest.com/pin/tarta-de-leopardo--61150507411770630/)",
+          "imageUrl": "https://i.pinimg.com/736x/9b/80/44/9b80441e99b999cbe9289c1bd658ec70.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8894860624097-84364ec54aa8.jpg",
+          "sha256": "84364ec54aa81bc68cd2b656df669e7e244e5c8725355318a2692ef44bbb1abe"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/black-gold-leopard-print-cake--800374165040805375/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/c1/fb/d0/c1fbd0cf597b91cf02070766d0b016ce.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8894860624097-34b80cc0a5e3.jpg",
+          "sha256": "34b80cc0a5e3808e4fbc2f24f890bbf77b062438898f717c3916e220b892e0db"
+        },
+        {
+          "sourceUrl": "https://uk.pinterest.com/pin/awesome-cakes--9781324184784129/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/d0/00/ce/d000ce0f2c337b20bdbb6c8f01f8e794.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8894860624097-062c5e2cc5fb.jpg",
+          "sha256": "062c5e2cc5fbd25191b90f172ae372a4e32544ece257c413902775102cb414c0"
+        }
+      ],
+      "query": "site:pinterest.com/pin Leopard & Black Crown Cake"
+    },
+    {
+      "n": 326,
+      "productId": "8894857150689",
+      "title": "Pink Rose Shaped Cake",
+      "originalImage": "assets/products/e82352cf9315077115af.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://uk.pinterest.com/pin/pink-rose-cake-with-frosting-roses--400961173044600074/",
+          "description": "Pink Rose Cake with Frosting Roses (https://uk.pinterest.com/pin/pink-rose-cake-with-frosting-roses--400961173044600074/)",
+          "imageUrl": "https://i.pinimg.com/736x/2c/b8/23/2cb823c83db000f0c87cd95a59876175.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8894857150689-7220e67e3954.jpg",
+          "sha256": "7220e67e395418f7bfff0bf378c5f48f12239b0d2c8dbe8418c6a9bbaf663aea"
+        },
+        {
+          "sourceUrl": "https://nz.pinterest.com/pin/mirdita-guraziu-on-instagram-frommiriwithlovemirifrommybaguetteilovemyjobcakeworldcakeinspoheartcakeherztorteheartcakesfondantcakecak-2024--638033472238780816/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/5e/ce/41/5ece41be8887a2e4c6f5c689e6a803ff.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8894857150689-a18571ec1523.jpg",
+          "sha256": "a18571ec1523b517ae6a211706b6f9eec7c902e06c91f54736e2d572d9430b9f"
+        },
+        {
+          "sourceUrl": "https://uk.pinterest.com/pin/heart-shaped-cake-with-pink-rose--274015958571563911/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/97/d0/78/97d07855adade195cec1cb96a6114291.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8894857150689-ab917fe8f284.jpg",
+          "sha256": "ab917fe8f2848f8d2eeac4ac8cfb7b5a3c22964ed94722373ad552e85dfae172"
+        }
+      ],
+      "query": "site:pinterest.com/pin Pink Rose Shaped Cake"
+    },
+    {
+      "n": 327,
+      "productId": "8894848729313",
+      "title": "Swiss Chocolate Teddy Bear Cake - Pink Bow",
+      "originalImage": "assets/products/073bdd401352df3940fb.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://dk.pinterest.com/pin/my-cakes--260645897157463937/",
+          "description": "Cute Teddy Bear Cake with Pink Bow (https://dk.pinterest.com/pin/my-cakes--260645897157463937/)",
+          "imageUrl": "https://i.pinimg.com/736x/1c/ef/31/1cef3135a15a49dd4b8a05f7234c0dd5.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8894848729313-b61837f4c6a0.jpg",
+          "sha256": "b61837f4c6a020e4e6af58fac23a031d6660f491b5b23d1f3ed34b11d0900f90"
+        },
+        {
+          "sourceUrl": "https://co.pinterest.com/pin/adorable-teddy-bear-cake-with-pink-bow--7388786879757275/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/9a/15/b3/9a15b363eb013539d80206f1e59143ad.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8894848729313-5c375611c896.jpg",
+          "sha256": "5c375611c89681dd40790eae2b1d75061bccecff36b2792622465084efb0500f"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/pink-teddy-bear-cake--338192253244034307/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/7a/b2/26/7ab226234605527531fae1f64ae6afa4.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8894848729313-7fb33e112770.jpg",
+          "sha256": "7fb33e11277046b81087a5087f275715693a21579bbc0c844d3305b0e52f698c"
+        }
+      ],
+      "query": "site:pinterest.com/pin Swiss Chocolate Teddy Bear Cake - Pink Bow"
+    },
+    {
+      "n": 328,
+      "productId": "8888205574369",
+      "title": "Easter Pastel Bunny Cookies",
+      "originalImage": "assets/products/4dfd5de3ad37096d63f0.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/whats-cuter-than-pastel-bunny-cookies-on-easter-in-2025--1080089923143050474/",
+          "description": "What's Cuter Than Pastel Bunny Cookies on Easter? in 2025 | Bunny cookies, Easter cookies, Birthday cookies (https://in.pinterest.com/pin/whats-cuter-than-pastel-bunny-cookies-on-easter-in-2025--1080089923143050474/)",
+          "imageUrl": "https://i.pinimg.com/736x/ed/30/dc/ed30dccf4e1546a2b94a036b6f3eabd2.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8888205574369-ff1012710af4.jpg",
+          "sha256": "ff1012710af4dc03be6cea5ea46098849b01596589e35f9c35a25edaefa613a8"
+        },
+        {
+          "sourceUrl": "https://ca.pinterest.com/pin/83246293106488999/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/ac/31/53/ac315365f29e9fbcb467c25063e56dda.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8888205574369-c9014193d2be.jpg",
+          "sha256": "c9014193d2be4a136a4feb130c88afcce018bac05f51c29ded96419fc37f3a51"
+        },
+        {
+          "sourceUrl": "https://mx.pinterest.com/pin/bunny-cookies-galletas-decoradas-de-conejito-colores-pastel--251990541648791246/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/f3/c9/61/f3c9619a5fcca58e1ce76f02e31c8851.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8888205574369-cf6201e866df.jpg",
+          "sha256": "cf6201e866df8632a3002807e4dddd4753e53f31f8f101a42d10463ed582f4a3",
+          "businessNameVisible": true,
+          "rejectionNote": "Visible third-party cake logo"
+        }
+      ],
+      "query": "site:pinterest.com/pin Easter Pastel Bunny Cookies"
+    },
+    {
+      "n": 329,
+      "productId": "8883825377505",
+      "title": "Ramadan Lantern Cake & Cupcake Set",
+      "originalImage": "assets/products/7f2c2fff6de55830a995.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://au.pinterest.com/pin/896427500861906974/",
+          "description": "Set,black Gold Cake Stand,moon Star Castle Cake Rack,3 Tier Paper Cupcake Display Rack,ramadan Decoration… in 2025 | Black and gold cake, Ramadan decorations, Paper cupcake (https://au.pinterest.com/pin/896427500861906974/)",
+          "imageUrl": "https://i.pinimg.com/736x/18/73/3b/18733bf713165e58d0ac904e62f18904.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8883825377505-c0ab5a61beab.jpg",
+          "sha256": "c0ab5a61beaba549f8e8a2edcf00b42b5ebe1a895a4bf59e68e2947099cb6b26"
+        },
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/ramadan-lantern-set-islamic-decorative-lights--1101552390095258057/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/df/4a/4e/df4a4e98586fc7ce7da51107f0a27e56.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8883825377505-27f38bad58fd.jpg",
+          "sha256": "27f38bad58fd588bf718cca10a6c697259e9e2cb254c7b8a7c3ff77efbd3fd79"
+        },
+        {
+          "sourceUrl": "https://au.pinterest.com/pin/set-cake-standblack-gold-moon-star-castle-cake-rack3-tier-paper-cupcake-display-rackramadan-decoratio-in-2025--896427500861906968/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/04/ce/bb/04cebba5d1b00497e37dbd49d6d59d07.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8883825377505-b91c0e9fb681.jpg",
+          "sha256": "b91c0e9fb681cbe2ec7d15d9b5d69db89d18ddc8db520fed2b8f1484749dc5e9"
+        }
+      ],
+      "query": "site:pinterest.com/pin Ramadan Lantern Cake & Cupcake Set"
+    },
+    {
+      "n": 330,
+      "productId": "8883804373217",
+      "title": "Easter Bunny Ears Cookies",
+      "originalImage": "assets/products/1acc72dcc924d5ca210e.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://ca.pinterest.com/pin/sweetambs-amber-spiegel-on-instagram-i-made-a-pastel-version-of-the-easter-bunny-ears-too-the-full-video-tuto--22025485671105228/",
+          "description": "SweetAmbs - Amber Spiegel on Instagram: \"I made a pastel version of the Easter bunny ears, too!  The full video tuto… | Easter bunny ears, Bunny ear, Easter cookies (https://ca.pinterest.com/pin/sweetambs-amber-spiegel-on-instagram-i-made-a-pastel-version-of-the-easter-bunny-ears-too-the-full-video-tuto--22025485671105228/)",
+          "imageUrl": "https://i.pinimg.com/736x/c4/b8/b0/c4b8b0ff7f968cea6d7b1e009c3ae352.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8883804373217-8cb2a8077955.jpg",
+          "sha256": "8cb2a8077955b4a93abcfae9edc6002d4308d4db2cbb5c69e8763173aa631af0"
+        },
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/cute-easter-cookies-with-bunny-ears--193936327696853975/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/8e/ab/40/8eab403677978e693b0fe9d1836033ce.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8883804373217-1d8aaf42ba7e.jpg",
+          "sha256": "1d8aaf42ba7ea97be1795522a2ded188e51659bdb2665d5f3bcd862ccdb9227d"
+        },
+        {
+          "sourceUrl": "https://au.pinterest.com/pin/easter-cookies-with-bunny-ears--574209021212896172/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/c9/c8/10/c9c810c67d22b51ec20a6daf0e7e2c80.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8883804373217-6d4b89abcb7f.jpg",
+          "sha256": "6d4b89abcb7f1655923aaa56076a257c339616307d86e5adf4801a90bda473b4"
+        }
+      ],
+      "query": "site:pinterest.com/pin Easter Bunny Ears Cookies"
+    },
+    {
+      "n": 331,
+      "productId": "8879782232289",
+      "title": "Gold Glitter Crown Heart cake",
+      "originalImage": "assets/products/0b27aae97facac1dec14.png",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://ca.pinterest.com/pin/686376799496425605/",
+          "description": "🤎 aries szn heart cake ",
+          "imageUrl": "https://i.pinimg.com/736x/a8/60/3a/a8603a316473e2d07bbdf661ee532496.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8879782232289-5195e95f8cad.jpg",
+          "sha256": "5195e95f8cad5ba79f049efc6cfa86a46458545b1f9ab6225f198665064f77ef"
+        },
+        {
+          "sourceUrl": "https://uk.pinterest.com/pin/gold-glitter-crown-cake-topper-timber-handmade-wedding-cake-top-princess-party-cake-topper-cake-decoration-princess-crown-princess-p--339599628160687229/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/c8/e4/d9/c8e4d92aac89245447cdcaa46a9261e4.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8879782232289-1a39f33f90f7.jpg",
+          "sha256": "1a39f33f90f7ef8acb54cb74bca9c012e959b8a94cf4de38d571c195245e3c3b"
+        },
+        {
+          "sourceUrl": "https://ca.pinterest.com/pin/sugar-n-sprinkles-co-on-instagram-aries-szn-heart-cake-7-2layer-vanilla-heart-cake-with-vanilla-frosting-silver-crown-topper-custom-glitter-mes-video-video-in-2025--686376799496425605/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/a8/60/3a/a8603a316473e2d07bbdf661ee532496.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8879782232289-5195e95f8cad.jpg",
+          "sha256": "5195e95f8cad5ba79f049efc6cfa86a46458545b1f9ab6225f198665064f77ef"
+        }
+      ],
+      "query": "site:pinterest.com/pin Gold Glitter Crown Heart cake"
+    },
+    {
+      "n": 332,
+      "productId": "8862802641121",
+      "title": "Easter Egg Shaped Cookies with Stick",
+      "originalImage": "assets/products/894903a1b40171171c8c.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://uk.pinterest.com/pin/easter-egg-shaped-cookie-biscuit-in-2022--738449670161605705/",
+          "description": "Easter Egg Shaped Cookie (Biscuit) | Egg shaped cookies, Easter cookies, Natural sprinkles (https://uk.pinterest.com/pin/easter-egg-shaped-cookie-biscuit-in-2022--738449670161605705/)",
+          "imageUrl": "https://i.pinimg.com/736x/78/38/4c/78384c12464adb4368c322dd918c606f.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8862802641121-cb805cb3531e.jpg",
+          "sha256": "cb805cb3531e0b2384c49debe74270eb38b360c6356865305c5fa6e6e30a92a9"
+        },
+        {
+          "sourceUrl": "https://uk.pinterest.com/pin/easter-cookies--467318898852355646/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/42/29/12/4229121cdbb8d5a5a612df01685dbcc0.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8862802641121-44d398cdf2d2.jpg",
+          "sha256": "44d398cdf2d22d6840c42133ed39c9a61b536713cc3d42464e7fc0e03262bd1c"
+        },
+        {
+          "sourceUrl": "https://uk.pinterest.com/pin/easter-cookies-gingerbread-czechstyle-breathtakingly-beautiful-creations-the-most-amazing-edible-art-ever--219128338111501075/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/59/17/6a/59176afe94ce6f993313e49da8f7ea59.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8862802641121-bda69ec072c4.jpg",
+          "sha256": "bda69ec072c4fe062ec20276329f1e15916ff0786afec407432b71749729a0f1"
+        }
+      ],
+      "query": "site:pinterest.com/pin Easter Egg Shaped Cookies with Stick"
+    },
+    {
+      "n": 333,
+      "productId": "8848110125281",
+      "title": "Swiss Chocolate Jumbo Strawberry Shape Cake",
+      "originalImage": "assets/products/a3d56a156a8cc22227a1.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/three-layer-vanilla-cake-with-strawberry-swiss-meringue-buttercream-and-chocolate-glaze-2nd-anniversary--179862578843622206/",
+          "description": "Three Layer Vanilla Cake with Strawberry Swiss Buttercream and Chocolate Glaze (https://www.pinterest.com/pin/three-layer-vanilla-cake-with-strawberry-swiss-meringue-buttercream-and-chocolate-glaze-2nd-anniversary--179862578843622206/)",
+          "imageUrl": "https://i.pinimg.com/736x/26/c4/e5/26c4e5e7aafc3d676c17692ded13dbcc.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8848110125281-b813c75d5d81.jpg",
+          "sha256": "b813c75d5d8139da7338228f96e9717c26522409d03ff76caeae431ab7059c75"
+        },
+        {
+          "sourceUrl": "https://uk.pinterest.com/pin/white-chocolate-and-strawberry-cake-vanilla-sponge-with-white-chocolate-swiss-meringue-buttercream--390546598907907898/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/e6/2c/ba/e62cba2ba2bd4def7abbb2ed40190c15.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8848110125281-7b1e0a33eda0.jpg",
+          "sha256": "7b1e0a33eda0465b4de218374459abbdc32a43fb6c4a256752575ef9b129e011"
+        },
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/swiss-roll-cake-with-strawberry-cream-and-chocolate-ganache--854417360525625569/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/69/83/e6/6983e6e5a5e821cefa46dc39fe5c2d7e.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8848110125281-152653f3a8f4.jpg",
+          "sha256": "152653f3a8f429fe3028f6a90e307673f4f59a26537f81dfae5deb65b8669549"
+        }
+      ],
+      "query": "site:pinterest.com/pin Swiss Chocolate Jumbo Strawberry Shape Cake"
+    },
+    {
+      "n": 334,
+      "productId": "8848103866593",
+      "title": "Swiss Chocolate Unicorn Shape Cake",
+      "originalImage": "assets/products/68cebe8d8bc61b15d6d8.png",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://uk.pinterest.com/pin/one-bite-of-this-unicorn-swirlinspired-cake-with-layers-of-swiss-meringue-buttercream-will-give-you-on-an-in--99431104266941450/",
+          "description": "One bite of this unicorn swirl-inspired cake with layers of Swiss meringue buttercream will give you on an in… | Cupcake cakes, Cake supply store, Best cake recipes (https://uk.pinterest.com/pin/one-bite-of-this-unicorn-swirlinspired-cake-with-layers-of-swiss-meringue-buttercream-will-give-you-on-an-in--99431104266941450/)",
+          "imageUrl": "https://i.pinimg.com/736x/96/bc/7e/96bc7e7bc4b7104c87d3478401ff06f5.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8848103866593-acf643b8b539.jpg",
+          "sha256": "acf643b8b5398e9669da1f1a4d680d3d0b96c7ba51b9d4fcf064dbc1fb0372c1"
+        },
+        {
+          "sourceUrl": "https://ca.pinterest.com/pin/unicorn-swiss-roll--378091331225753056/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/9e/c1/d5/9ec1d534487307163b676155389c6e37.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8848103866593-adff7cdef4ef.jpg",
+          "sha256": "adff7cdef4effc00545772f6470944787c3b9439f730f8c4ba12fe1b2df08212"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/unicorn-birthday-cake-three-layers-chocolate-cake-and-chocolate-ganache-vg--126241595790084210/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/66/ec/40/66ec401e1d8fb67bdd2245d185888ded.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8848103866593-7bbd65f73f9f.jpg",
+          "sha256": "7bbd65f73f9f0599a013966b35a1023cd37fd2b7483d44d7f8435fff4546034f"
+        }
+      ],
+      "query": "site:pinterest.com/pin Swiss Chocolate Unicorn Shape Cake"
+    },
+    {
+      "n": 335,
+      "productId": "8848087449825",
+      "title": "Swiss Chocolate Puppy Shape Cake",
+      "originalImage": "assets/products/3a23401f1730f041ca6a.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/new-single-hot-air-balloon-puppy-shape-fondant-chocolate-mold-cake-decoration-baking-tool-cake-silicone-mo-in-2025--4601904878196643328/",
+          "description": "New Single Hot Air Balloon Puppy Shape Fondant Chocolate Mold Cake Decoration Baking Tool Cake Silicone Mo… in 2025 | Chocolate fondant, Cupcakes decoration, Candles crafts (https://in.pinterest.com/pin/new-single-hot-air-balloon-puppy-shape-fondant-chocolate-mold-cake-decoration-baking-tool-cake-silicone-mo-in-2025--4601904878196643328/)",
+          "imageUrl": "https://i.pinimg.com/736x/fe/4d/03/fe4d036a03f982c6ef05657da3d612a1.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8848087449825-e9bdc5bf3a72.jpg",
+          "sha256": "e9bdc5bf3a72daf20a9c8762901c5e39ce31ccd9b74f6af2d3ad3d6a5f26bbaa"
+        },
+        {
+          "sourceUrl": "https://uk.pinterest.com/pin/chocolate-mousse-dogshaped-cake--187743878186371595/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/31/4a/6f/314a6f909ee80676120be4e6fec0bf52.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8848087449825-702b5bda71cd.jpg",
+          "sha256": "702b5bda71cd9dcaf2f4b4e1ab12e252fc788aab891eccb33255128d07741f68"
+        },
+        {
+          "sourceUrl": "https://au.pinterest.com/pin/doggy-birthday-cake-chocolate-swiss-roll-with-chocolate-mousse-icing--258112622364392862/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/5a/10/a6/5a10a67e727f7d20e4e590a49af251c6.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8848087449825-590d0a9a0c41.jpg",
+          "sha256": "590d0a9a0c4111a823111508ee0a34b23e9158254f8777f4bf31abb680f83b63"
+        }
+      ],
+      "query": "site:pinterest.com/pin Swiss Chocolate Puppy Shape Cake"
+    },
+    {
+      "n": 336,
+      "productId": "8800931381473",
+      "title": "Bento Cake & Flower Gift box",
+      "originalImage": "assets/products/12ec9b9102b44ff44ffe.jpg",
+      "status": "applied",
+      "candidates": [
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/bento-cake-box--859906122634685137/",
+          "description": "Bento Cake Box | Mini Cakes, Box Cake, Floral Cake (https://in.pinterest.com/pin/bento-cake-box--859906122634685137/)",
+          "imageUrl": "https://i.pinimg.com/736x/af/75/ee/af75ee2de88db7bc94fe211451cb82b3.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8800931381473-20f5a01722c1.jpg",
+          "sha256": "20f5a01722c10a6c07a2b79206c24f40d0152d21ea58ed2a4b255f3281a847be"
+        },
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/custom-bento-cake-dan-buket-bungapaket-bento-cake-bungabouquet-flowers-dan-bento-cakekado-wisudahadiah-ulang-tahunhadiah-valentin-in-2025--4592686558106835968/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/de/be/c1/debec1beac7b38f006103d3145aa14f4.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8800931381473-ecd3a46b9129.jpg",
+          "sha256": "ecd3a46b91299441e55a283e220c5a10a75a314aa634a137713c0a746e330b24"
+        },
+        {
+          "sourceUrl": "https://de.pinterest.com/pin/979532987699984245/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/81/b7/74/81b7745d2340c416383349b6bd16dc34.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8800931381473-2640d1cc1733.jpg",
+          "sha256": "2640d1cc173376cbd6d682819eb828157c7e7c3536951f832bc13a2d5b85d351"
+        }
+      ],
+      "query": "site:pinterest.com/pin Bento Cake & Flower Gift box",
+      "selected": {
+        "sourceUrl": "https://in.pinterest.com/pin/bento-cake-box--859906122634685137/",
+        "description": "Bento Cake Box | Mini Cakes, Box Cake, Floral Cake (https://in.pinterest.com/pin/bento-cake-box--859906122634685137/)",
+        "imageUrl": "https://i.pinimg.com/736x/af/75/ee/af75ee2de88db7bc94fe211451cb82b3.jpg",
+        "localImage": "assets/products/matches/batch-007-pinterest/8800931381473-20f5a01722c1.jpg",
+        "sha256": "20f5a01722c10a6c07a2b79206c24f40d0152d21ea58ed2a4b255f3281a847be"
+      },
+      "localImage": "assets/products/matches/batch-007-pinterest/8800931381473-20f5a01722c1.jpg",
+      "sha256": "20f5a01722c10a6c07a2b79206c24f40d0152d21ea58ed2a4b255f3281a847be",
+      "visualReview": {
+        "verified": true,
+        "tierCount": 1,
+        "shape": "round",
+        "notes": "One small pink round cake packaged with flowers."
+      },
+      "reviewNote": "One small pink round cake packaged with flowers."
+    },
+    {
+      "n": 337,
+      "productId": "8800925647073",
+      "title": "Pink Bento Cake & Flower Gift box",
+      "originalImage": "assets/products/af54ca8621cf07d2f785.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://uk.pinterest.com/pin/bento-bloom-package-in-pink-customised-4-inch-heart-cake-with-mix-arrangement-of-roses-manchester-manchesterbaker-manidelig-video-in-2025--800937115017251065/",
+          "description": "Bento & Bloom Package in pink 🎀💗",
+          "imageUrl": "https://i.pinimg.com/736x/ec/4e/f0/ec4ef0b986cc33efb5f6851d2daa3bb8.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8800925647073-457d4b9b2ab7.jpg",
+          "sha256": "457d4b9b2ab7ffbfd3ddbfd84ef8de163d6f7e2d6dcba5632d31797a8eac4518"
+        },
+        {
+          "sourceUrl": "https://uk.pinterest.com/pin/bento-bloom-package-in-pink-customised-4-inch-heart-cake-with-mix-arrangement-of-roses-manchester-manchesterbaker-manideli-video-in-2025--800937115017251065/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/ec/4e/f0/ec4ef0b986cc33efb5f6851d2daa3bb8.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8800925647073-457d4b9b2ab7.jpg",
+          "sha256": "457d4b9b2ab7ffbfd3ddbfd84ef8de163d6f7e2d6dcba5632d31797a8eac4518"
+        },
+        {
+          "sourceUrl": "https://uk.pinterest.com/pin/4644405860068147/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/3d/17/3b/3d173b398715cbb3f3c60430017fb93e.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8800925647073-571bbe034c6d.jpg",
+          "sha256": "571bbe034c6d703836de46e323462dafc25b83c04271bea5da7e52d1323a919c"
+        }
+      ],
+      "query": "site:pinterest.com/pin Pink Bento Cake & Flower Gift box"
+    },
+    {
+      "n": 338,
+      "productId": "8789338030305",
+      "title": "UAE National Day Flag Cupcake",
+      "originalImage": "assets/products/e3fd92ad566e4b0a7a2e.jpg",
+      "status": "applied",
+      "candidates": [
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/604397212518569804/",
+          "description": "Online National Day Celebration Cupcakes Gift Delivery in UAE - FNP | National day, Uae national day, Cupcake gift (https://in.pinterest.com/pin/604397212518569804/)",
+          "imageUrl": "https://i.pinimg.com/736x/19/95/79/1995799ed5d1d4329a2adad43d329ff4.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8789338030305-068fddf0e451.jpg",
+          "sha256": "068fddf0e45107b3e335cf9f7187e1e6210521094fc6f2e4388c8851959df102"
+        },
+        {
+          "sourceUrl": "https://dk.pinterest.com/pin/uae-national-day-cupcake--556053885221955103/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/c4/14/59/c414598a11938cac20837e967cd3a738.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8789338030305-69a26e0ced2d.jpg",
+          "sha256": "69a26e0ced2d1eca07267653024dd3aa9eeeff9e87e13f063973e2d97180fe47"
+        },
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/623818985868789883/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/5b/2e/e5/5b2ee5f3f85c1262ccb23661ea2bb46e.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8789338030305-d2fb173e5076.jpg",
+          "sha256": "d2fb173e507602dad94de990e2ac26f793d5ba7d8315fae240056d940626324e"
+        }
+      ],
+      "query": "site:pinterest.com/pin UAE National Day Flag Cupcake",
+      "selected": {
+        "sourceUrl": "https://in.pinterest.com/pin/604397212518569804/",
+        "description": "Online National Day Celebration Cupcakes Gift Delivery in UAE - FNP | National day, Uae national day, Cupcake gift (https://in.pinterest.com/pin/604397212518569804/)",
+        "imageUrl": "https://i.pinimg.com/736x/19/95/79/1995799ed5d1d4329a2adad43d329ff4.jpg",
+        "localImage": "assets/products/matches/batch-007-pinterest/8789338030305-068fddf0e451.jpg",
+        "sha256": "068fddf0e45107b3e335cf9f7187e1e6210521094fc6f2e4388c8851959df102"
+      },
+      "localImage": "assets/products/matches/batch-007-pinterest/8789338030305-068fddf0e451.jpg",
+      "sha256": "068fddf0e45107b3e335cf9f7187e1e6210521094fc6f2e4388c8851959df102",
+      "visualReview": {
+        "verified": true,
+        "tierCount": null,
+        "shape": "cupcakes",
+        "notes": "Chocolate cupcakes with UAE flag and National Day toppers."
+      },
+      "reviewNote": "Chocolate cupcakes with UAE flag and National Day toppers."
+    },
+    {
+      "n": 339,
+      "productId": "8761217024225",
+      "title": "Swiss Chocolate Teddy Bear Cake - Red Bow",
+      "originalImage": "assets/products/ebd64eb8af91b2bbd279.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/adorable-teddy-bear-with-a-red-bow-in-heartshaped-chocolates-in-2025--1098315427877485921/",
+          "description": "Adorable teddy bear with a red bow in heart-shaped chocolates in 2025 | Happy valentines day, Happy valentine, Heart shaped chocolate (https://in.pinterest.com/pin/adorable-teddy-bear-with-a-red-bow-in-heartshaped-chocolates-in-2025--1098315427877485921/)",
+          "imageUrl": "https://s.pinimg.com/images/default_open_graph_1200.png",
+          "error": "Expected Pinterest image"
+        },
+        {
+          "sourceUrl": "https://uk.pinterest.com/pin/teddy-bear-chocolate-cake--493073859187616052/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/1b/0e/b5/1b0eb52975e52bdc7d93014ea9edfea6.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8761217024225-b3e4336e7994.jpg",
+          "sha256": "b3e4336e7994bb6f88f5ed8f07b03352f69f7b5c50a83d79da8848e6523f3f84"
+        },
+        {
+          "sourceUrl": "https://au.pinterest.com/pin/shubhra-on-instagram-let-have-some-fun-decorating-this-cute-teddy-cake-with-me-a-chocolate-sponge-cake-with-swiss-meringue-buttercream-layered-and-coate-video-video-in-2025--164662930122317096/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/1e/9a/66/1e9a66ca32a37d09ee2ad17ab1402e38.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8761217024225-856c89f1a4a3.jpg",
+          "sha256": "856c89f1a4a34ddc15b42e3c1bf5aa4e69d2ad6d72a1f34bb1d36c0ab7b52fed"
+        }
+      ],
+      "query": "site:pinterest.com/pin Swiss Chocolate Teddy Bear Cake - Red Bow"
+    },
+    {
+      "n": 340,
+      "productId": "8761210175713",
+      "title": "Swiss Chocolate Teddy Bear Cake & Flower Arrangements",
+      "originalImage": "assets/products/3da2c75a7b309b4e2601.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/1025131933942565043/",
+          "description": "ORDER NOW DM 📩",
+          "imageUrl": "https://i.pinimg.com/736x/d5/9c/4c/d59c4c34103638f0296bdcbf703bb135.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8761210175713-37633aa432e5.jpg",
+          "sha256": "37633aa432e5364c78728d975ec02cab275e15cfdbef9b0d660654e2e41cb6b6"
+        },
+        {
+          "sourceUrl": "https://uk.pinterest.com/pin/chocolate-cake-with-teddy-bear-and-flower-decorations--224687468894802772/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/f8/63/f5/f863f56771cf473478495d6e4bcdecb7.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8761210175713-97526d2cdb94.jpg",
+          "sha256": "97526d2cdb94690ad65f411c92bc52c4aac7cc339f1fc32db065986d9de0dc81"
+        },
+        {
+          "sourceUrl": "https://de.pinterest.com/pin/teddy-bear-cake-with-flowers--28991991329550772/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/3b/62/fa/3b62fa87268d7cd0d3e5740029f60b34.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8761210175713-bc3b69862f05.jpg",
+          "sha256": "bc3b69862f05c7887bf528db913790d6764926f4a740c72e07c79afb55cca017"
+        }
+      ],
+      "query": "site:pinterest.com/pin Swiss Chocolate Teddy Bear Cake & Flower Arrangements"
+    },
+    {
+      "n": 341,
+      "productId": "8749737836769",
+      "title": "Happy Diwali Cupcakes",
+      "originalImage": "assets/products/b0ce6b74f9d3e648724f.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/790874384540086338/",
+          "description": "Happy Diwali Cupcake Celebration (https://www.pinterest.com/pin/790874384540086338/)",
+          "imageUrl": "https://i.pinimg.com/736x/85/ea/3f/85ea3f87edfe7a38528d9fa33bbdee75.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8749737836769-90d27c2b3412.jpg",
+          "sha256": "90d27c2b3412768175f3e86eb70f7c0692598c3b12f7f815bd2761488ea725be"
+        },
+        {
+          "sourceUrl": "https://uk.pinterest.com/pin/happy-diwali-happy-diwali-from-sugar-rush-chigwell-luxurious-cookies-cupcakes-cakes-in-vanilla-in-2025--1016758053377447685/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/67/a0/ae/67a0aed8d8c654020d10a3227229b838.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8749737836769-da6072552e93.jpg",
+          "sha256": "da6072552e9372ccca4a922e1a3eab4a434ad8ce33a0cc57a9d7aae9de110c29"
+        },
+        {
+          "sourceUrl": "https://ca.pinterest.com/pin/happy-diwali--642607440576781644/",
+          "description": "",
+          "imageUrl": "https://s.pinimg.com/images/default_open_graph_1200.png",
+          "error": "Expected Pinterest image"
+        }
+      ],
+      "query": "site:pinterest.com/pin Happy Diwali Cupcakes"
+    },
+    {
+      "n": 342,
+      "productId": "8749736493281",
+      "title": "Diwali Peacock Themed Cake",
+      "originalImage": "assets/products/1fad8d264a51726a9e0f.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/diwali-cake-decorated-with-peacock-feathers-and-flowers--70157706732739715/",
+          "description": "Diwali Cake Decorated with Peacock Feathers and Flowers (https://in.pinterest.com/pin/diwali-cake-decorated-with-peacock-feathers-and-flowers--70157706732739715/)",
+          "imageUrl": "https://i.pinimg.com/736x/37/97/09/379709787bb028b0b173ab3e6a3cdd9d.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8749736493281-10ea149c0eb2.jpg",
+          "sha256": "10ea149c0eb243e91aa8a286e15b67e51b83263f750452df8d4682fd8e4bbab2"
+        },
+        {
+          "sourceUrl": "https://uk.pinterest.com/pin/peacock-themed-cake--546413367281512962/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/26/09/36/26093606d873acce0c806741a532a981.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8749736493281-ee76b2313ea1.jpg",
+          "sha256": "ee76b2313ea1d1d37c1af72e6ecfc4b061aa46465970443aa302f8186b87ab50"
+        },
+        {
+          "sourceUrl": "https://id.pinterest.com/pin/peacock-themed-cake--27725353949979815/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/52/70/f5/5270f5300d369a30811a6a121a3e645f.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8749736493281-707c5d30ef62.jpg",
+          "sha256": "707c5d30ef6230663a925ad0668b7ce90c28d6f813b092abc1f15ef70d6f03d7"
+        }
+      ],
+      "query": "site:pinterest.com/pin Diwali Peacock Themed Cake"
+    },
+    {
+      "n": 343,
+      "productId": "8749729612001",
+      "title": "Diwali Floral Three Tier Cake",
+      "originalImage": "assets/products/ff4f008fbbddf61b6bf0.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://ca.pinterest.com/pin/floral-three-tiered-cake--442056519644918881/",
+          "description": "Floral Three Tiered Cake (https://ca.pinterest.com/pin/floral-three-tiered-cake--442056519644918881/)",
+          "imageUrl": "https://i.pinimg.com/736x/56/c3/ee/56c3ee7d9f59d7a9e62245684a6dbd4e.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8749729612001-1f9a9b71c974.jpg",
+          "sha256": "1f9a9b71c9744c399e5472bb3ee5d1384770a9e759279aef08fb54edfa864328"
+        },
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/three-tiered-cake-with-floral-decor--306174474640972876/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/5c/9c/c0/5c9cc0100bbd6eb252d5e21376455d89.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8749729612001-4c031c04b194.jpg",
+          "sha256": "4c031c04b1941c5109a4e7abc09338eae6d404b2d2900d1098c4ee2cc653971d"
+        },
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/beautiful-three-tiered-cake-with-floral-decor--751538256544556550/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/86/12/e0/8612e07c1a79e1b558859f0ccbbe5c1f.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8749729612001-8b5955a3deb4.jpg",
+          "sha256": "8b5955a3deb4adadd747d9bcf79c0ed0e67152826f68bf23f1bc45653757b2f2"
+        }
+      ],
+      "query": "site:pinterest.com/pin Diwali Floral Three Tier Cake"
+    },
+    {
+      "n": 344,
+      "productId": "8749728760033",
+      "title": "Diwali Elephant Floral Two Tier Cake",
+      "originalImage": "assets/products/c82e71968588e5951c6b.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/588564245081014569/",
+          "description": "Cute Elephant Themed 2 Tier Birthday Cake (https://www.pinterest.com/pin/588564245081014569/)",
+          "imageUrl": "https://i.pinimg.com/736x/de/91/ef/de91efb90cf54818d077758eccc53724.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8749728760033-627c5a3f0d65.jpg",
+          "sha256": "627c5a3f0d65536c2ee7d50ff85d186e17d5de1a25577db0cd2bce4ad0fcde03"
+        },
+        {
+          "sourceUrl": "https://uk.pinterest.com/pin/cute-elephant-themed-2-tier-birthday-cake--588564245081014569/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/de/91/ef/de91efb90cf54818d077758eccc53724.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8749728760033-627c5a3f0d65.jpg",
+          "sha256": "627c5a3f0d65536c2ee7d50ff85d186e17d5de1a25577db0cd2bce4ad0fcde03"
+        },
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/2-tier-lets-celebrate-birthday-cake-with-cute-elephant-tigerbees-baloons-and-flowers--510032726537644006/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/5c/15/71/5c157114858fb9cc368130a6900c3e49.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8749728760033-868a7fd10124.jpg",
+          "sha256": "868a7fd10124012e2a54b75b0e7965b42ce2552a5c7ddd3e18312a320e06d33f"
+        }
+      ],
+      "query": "site:pinterest.com/pin Diwali Elephant Floral Two Tier Cake"
+    },
+    {
+      "n": 345,
+      "productId": "8749727023329",
+      "title": "Diwali Purple Themed Two Tier Cake",
+      "originalImage": "assets/products/d7679c39897bfb711db8.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://uk.pinterest.com/pin/cake-cake-decorating-icing-fondant-white-purple-wedding-flower-2tier-2tierweddingcake-stackedweddingcake-rib--545991154795056829/",
+          "description": "2 tier wedding cake with white, lilac and purple blossoms. Simple and elegant design. Cakes by @letsbake3 | Tiered wedding cake, Cake, Cupcake cakes (https://uk.pinterest.com/pin/cake-cake-decorating-icing-fondant-white-purple-wedding-flower-2tier-2tierweddingcake-stackedweddingcake-rib--545991154795056829/)",
+          "imageUrl": "https://i.pinimg.com/736x/6f/d4/ca/6fd4ca10f3c65c4d7ccb8c6acd00db74.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8749727023329-736918c0a47c.jpg",
+          "sha256": "736918c0a47cc752a29ed0f4ca1207b3abc4b97f265d37e28250365f846d5180"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/499688521141773303/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/78/d5/a4/78d5a4b7946a1001bbe454bbe5854a66.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8749727023329-306c7c9a6d4c.jpg",
+          "sha256": "306c7c9a6d4cf02fce5ba416fc752ef8395c9bd8f3bd43a920e591ff2a52fb12"
+        },
+        {
+          "sourceUrl": "https://uk.pinterest.com/pin/purple-themed-2-tier-birthday-cake--247698048233802024/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/be/a9/3c/bea93cafcd44613b40b5a101dd0a4029.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8749727023329-f8269076b495.jpg",
+          "sha256": "f8269076b495541582d2adb7ab449e024c42baf01f783599a167ffaa7f08c84d"
+        }
+      ],
+      "query": "site:pinterest.com/pin Diwali Purple Themed Two Tier Cake"
+    },
+    {
+      "n": 346,
+      "productId": "8749726499041",
+      "title": "Diwali Gold Themed Two Tier Cake",
+      "originalImage": "assets/products/f380f7c0812e5eca02d4.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/1101974602547991140/",
+          "description": "Golden Wedding 2 tier cake with flower spray and edible gold lace. Made by crafty-cakes.… | Golden wedding cake, Edible lace wedding cake, Wedding anniversary cakes (https://in.pinterest.com/pin/1101974602547991140/)",
+          "imageUrl": "https://i.pinimg.com/736x/07/07/05/07070520677e67f7da7af5eb3411337d.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8749726499041-2482575ab494.jpg",
+          "sha256": "2482575ab494a1f394224a8dbafa123d16d6370ad7a064a1e3efb5dc8d3edb11"
+        },
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/elegant-twotiered-cake-with-gold-and-black-decorations--105975397471427101/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/c5/55/72/c555724a6b674f4acc068325420f0b76.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8749726499041-5fb616ce84e5.jpg",
+          "sha256": "5fb616ce84e59c604ccbbc83ca811ea44d145cac545c6c41d047b952f9d2fd8e"
+        },
+        {
+          "sourceUrl": "https://au.pinterest.com/pin/559361216243811223/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/e7/b6/6e/e7b66e25fd5a13164633450f06a3dc06.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8749726499041-56117fce2b2b.jpg",
+          "sha256": "56117fce2b2b2a6de8174e627fa39b092f2b2850d4f754539d4c172de75564f1"
+        }
+      ],
+      "query": "site:pinterest.com/pin Diwali Gold Themed Two Tier Cake"
+    },
+    {
+      "n": 347,
+      "productId": "8749725876449",
+      "title": "Diwali Elephant Rangoli Theme Two Tier Cake",
+      "originalImage": "assets/products/2d55626fb6bf86fa537e.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/588564245081014569/",
+          "description": "Cute Elephant Themed 2 Tier Birthday Cake (https://www.pinterest.com/pin/588564245081014569/)",
+          "imageUrl": "https://i.pinimg.com/736x/de/91/ef/de91efb90cf54818d077758eccc53724.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8749725876449-627c5a3f0d65.jpg",
+          "sha256": "627c5a3f0d65536c2ee7d50ff85d186e17d5de1a25577db0cd2bce4ad0fcde03"
+        },
+        {
+          "sourceUrl": "https://uk.pinterest.com/pin/cute-elephant-themed-2-tier-birthday-cake--588564245081014569/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/de/91/ef/de91efb90cf54818d077758eccc53724.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8749725876449-627c5a3f0d65.jpg",
+          "sha256": "627c5a3f0d65536c2ee7d50ff85d186e17d5de1a25577db0cd2bce4ad0fcde03"
+        },
+        {
+          "sourceUrl": "https://jp.pinterest.com/pin/leonardo-lightning-xl-create-diwali-theme-cake-in-2-tier-with-1--1148629079958917251/",
+          "description": "",
+          "imageUrl": "https://s.pinimg.com/images/default_open_graph_1200.png",
+          "error": "Expected Pinterest image"
+        }
+      ],
+      "query": "site:pinterest.com/pin Diwali Elephant Rangoli Theme Two Tier Cake"
+    },
+    {
+      "n": 348,
+      "productId": "8749724401889",
+      "title": "Happy Diwali Colorful Cake",
+      "originalImage": "assets/products/6050281d072e2b2581de.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/happy-diwali-cake--795870565397679193/",
+          "description": "Happy Diwali Cake | Festive Dessert (https://in.pinterest.com/pin/happy-diwali-cake--795870565397679193/)",
+          "imageUrl": "https://i.pinimg.com/736x/ba/bf/df/babfdf6037add68710b41367ccdb36cb.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8749724401889-0ca0bf15b2f0.jpg",
+          "sha256": "0ca0bf15b2f0d0ae8a61c68c8fbda45f3e094c8c2310a429a73302efac7c8c79"
+        },
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/happy-diwali-celebration-with-colorful-candies-cake--711639178648067836/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/97/fd/89/97fd896cd2bf0bcec8d8233e9b197247.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8749724401889-fb4e37573643.jpg",
+          "sha256": "fb4e375736436cf7d60be56d0be0eceb1bf20ec52b77533e9f577de8e9c736fb"
+        },
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/happy-diwali-cake--585819864014580101/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/f8/cd/27/f8cd27f008e0ed179dd72b36aa1cd363.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8749724401889-ed02df21f1ff.jpg",
+          "sha256": "ed02df21f1fffe6142304927148fc3020557a1698d6998718b9d705b00d7bc8a"
+        }
+      ],
+      "query": "site:pinterest.com/pin Happy Diwali Colorful Cake"
+    },
+    {
+      "n": 349,
+      "productId": "8749722960097",
+      "title": "Diwali Choli Theme Cake",
+      "originalImage": "assets/products/aac0b7ddc87f0a75cad9.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/diwali-theme-chocolate-loaded-cake-in-2025--1028650371179104658/",
+          "description": "Diwali Theme Chocolate Loaded Cake in 2025 | Pink rose cake, Chocolate, Cake (https://in.pinterest.com/pin/diwali-theme-chocolate-loaded-cake-in-2025--1028650371179104658/)",
+          "imageUrl": "https://i.pinimg.com/736x/7e/2f/47/7e2f475740874618e3d7aa66a08c4d02.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8749722960097-74d22d1bb5a1.jpg",
+          "sha256": "74d22d1bb5a1eb391d5e1e23fab00ecd9fca418ab4757300ef990408d41ac71d"
+        },
+        {
+          "sourceUrl": "https://uk.pinterest.com/pin/diwali-cake-with-rangoli-theme--369787819419287159/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/8e/cd/7c/8ecd7c69e72e1f0137b706ebff8c1c9b.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8749722960097-9e2b02880c00.jpg",
+          "sha256": "9e2b02880c002bb53d440345abca1e888907cea2db807568c92a3ad67063cf4c"
+        },
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/483011128803933398/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/9d/a6/64/9da664dfd7667e09ae975689a177f8b5.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8749722960097-d79b7c402aec.jpg",
+          "sha256": "d79b7c402aecd14fa43c65ccc9ff064f42940051283ecaf91980251d02f8c3eb"
+        }
+      ],
+      "query": "site:pinterest.com/pin Diwali Choli Theme Cake"
+    },
+    {
+      "n": 350,
+      "productId": "8749722173665",
+      "title": "Happy Dippavali Peacock Cake",
+      "originalImage": "assets/products/2aad98654d8b5fedd669.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/407998047474343190/",
+          "description": "#Peacock #cake. Wafer paper flowers for plumes and withered wood effect -fondant loved the way it turned out | Cake, Peacock cake, Cupcake cakes (https://www.pinterest.com/pin/407998047474343190/)",
+          "imageUrl": "https://i.pinimg.com/736x/22/79/99/2279991b21ddb47c71f5cf33fc891fea.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8749722173665-f5af3ae0b683.jpg",
+          "sha256": "f5af3ae0b683b4c7ff8e768e7b8da2f480bdfc9a7df7017fb4b22e612f7e62d9"
+        },
+        {
+          "sourceUrl": "https://ca.pinterest.com/pin/o-o--5277724559328038/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/d0/17/ae/d017aeb279c4231c3c862295afc11abd.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8749722173665-872d6858b5fb.jpg",
+          "sha256": "872d6858b5fbea33d9f5221345d9045497ac51d2717b933f629602e1bfee7e98"
+        },
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/happy-diwali-peacock-rangoli-design-using-belanrolling-pin--764837949224944911/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/05/a0/1f/05a01f442a51d1226a4c0dccce04fe46.jpg",
+          "localImage": "assets/products/matches/batch-007-pinterest/8749722173665-bbfddf041388.jpg",
+          "sha256": "bbfddf0413883e04dc49bf426b8ddb7d6f2628faa57ab88b138c4cdec2e0f8f5"
+        }
+      ],
+      "query": "site:pinterest.com/pin Happy Dippavali Peacock Cake"
+    }
+  ],
+  "reviewedAt": "2026-09-12T14:02:03.153Z",
+  "summary": {
+    "reviewed": 50,
+    "replaced": 6,
+    "pending": 44
+  }
+}

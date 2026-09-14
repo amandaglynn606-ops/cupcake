@@ -1,0 +1,407 @@
+{
+  "batch": 11,
+  "size": 50,
+  "sourcePreference": "Pinterest",
+  "records": [
+    {
+      "n": 501,
+      "productId": "8060066201825",
+      "title": "Tall Lotus Biscoff Cake",
+      "originalImage": "assets/products/7892bf1a4198f0061e00.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 502,
+      "productId": "8060066169057",
+      "title": "Lotus Biscoff Cake",
+      "originalImage": "assets/products/3dd9b873ea2c9158dafe.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 503,
+      "productId": "8060066103521",
+      "title": "Birthday Cupcakes & Macarons",
+      "originalImage": "assets/products/a1abb9f73a03071eadbe.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 504,
+      "productId": "8060066070753",
+      "title": "Birthday Donut & Macaron Fiesta",
+      "originalImage": "assets/products/047db5c738cda4ebac35.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 505,
+      "productId": "8060066037985",
+      "title": "Birthday Pastel Cookies, Donuts & Cupcakes",
+      "originalImage": "assets/products/43ba847bddb0d465daeb.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 506,
+      "productId": "8060066005217",
+      "title": "Birthday Themed Cookies in Wooden Box",
+      "originalImage": "assets/products/7b6ba5f10740da39b584.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 507,
+      "productId": "8060065939681",
+      "title": "Elegant Birthday Cupcake, Smash Heart & Cakesicle Set",
+      "originalImage": "assets/products/f01e4ec03066bae095d2.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 508,
+      "productId": "8060065906913",
+      "title": "Brownies Fiesta",
+      "originalImage": "assets/products/4b60bed8432201cdbd92.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 509,
+      "productId": "8060065874145",
+      "title": "Birthday Cupcake, Smash Heart & Cakesicle Set",
+      "originalImage": "assets/products/7d1f9323de75a9eaa5af.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 510,
+      "productId": "8060065841377",
+      "title": "Eid Cake & Cupcake Set",
+      "originalImage": "assets/products/c0893cd0c10ef3875437.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 511,
+      "productId": "8060065808609",
+      "title": "Bento Cake & Flower Set",
+      "originalImage": "assets/products/f95082ead0474997a8da.png",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 512,
+      "productId": "8060065775841",
+      "title": "Daisies Birthday Cake & Cakesicle Set",
+      "originalImage": "assets/products/ba4a11693d77862da189.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 513,
+      "productId": "8060065743073",
+      "title": "White Birthday Cake & Cupcakes Set",
+      "originalImage": "assets/products/3c38d3822fe14a26b00f.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 514,
+      "productId": "8060065677537",
+      "title": "Blackberry Birthday Cake & Cupcakes Set",
+      "originalImage": "assets/products/3e6afcb55fae5681e1eb.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 515,
+      "productId": "8060065644769",
+      "title": "Shades of Pink Cake & Cupcakes Set",
+      "originalImage": "assets/products/db3d3374ba2c80163a91.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 516,
+      "productId": "8060065612001",
+      "title": "Pink Birthday Cake & Cupcakes Set",
+      "originalImage": "assets/products/0720d9f382e7b5e3ddab.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 517,
+      "productId": "8060065579233",
+      "title": "Bento Birthday Cake & Cupcakes Set",
+      "originalImage": "assets/products/7890923b8fcd5bbc13c6.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 518,
+      "productId": "8060065546465",
+      "title": "Chocolate Cake & Cupcakes Set",
+      "originalImage": "assets/products/356378fdb7d116114898.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 519,
+      "productId": "8060065480929",
+      "title": "Light Pink Birthday Cake",
+      "originalImage": "assets/products/c2001b6b5aa7cce7ae33.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 520,
+      "productId": "8060065448161",
+      "title": "Mixed Berries-Kitkat Cake",
+      "originalImage": "assets/products/f5e9c4dca43601244a0c.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 521,
+      "productId": "8060065415393",
+      "title": "Strawberry-Kitkat Cake",
+      "originalImage": "assets/products/144440fe358c97d53593.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 522,
+      "productId": "8060065382625",
+      "title": "Swiss Chocolate Black Forest Cake with Gold Cherries",
+      "originalImage": "assets/products/0b309bf3d92319d4756b.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 523,
+      "productId": "8060065349857",
+      "title": "Blueberries & Citrus Cake",
+      "originalImage": "assets/products/9b57d4f842bcf362a901.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 524,
+      "productId": "8060065317089",
+      "title": "Bento Calendar Birthday Cake & Cupcakes Set",
+      "originalImage": "assets/products/f3135d9d478992e19a55.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 525,
+      "productId": "8060065251553",
+      "title": "Calendar Birthday Cake & Cupcakes Set",
+      "originalImage": "assets/products/0435c814aa380ffd2edf.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 526,
+      "productId": "8060065218785",
+      "title": "Pink Cake & Cupcakes Set",
+      "originalImage": "assets/products/0525829c0469577a8de5.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 527,
+      "productId": "8060065153249",
+      "title": "Black & Red Rose Cake",
+      "originalImage": "assets/products/c72720f961477871ac80.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 528,
+      "productId": "8060065120481",
+      "title": "Pistachio Chocolate Cake",
+      "originalImage": "assets/products/0b36b3ef62a883bc00ab.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 529,
+      "productId": "8060065087713",
+      "title": "Red Flame Cake with Cream Cheese",
+      "originalImage": "assets/products/2960696e3d792a96d152.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 530,
+      "productId": "8058656686305",
+      "title": "Pink Superwoman Kryptonite Cake",
+      "originalImage": "assets/products/67ca343eef3f5a1d9b79.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 531,
+      "productId": "8054898819297",
+      "title": "Blue Birthday Candles",
+      "originalImage": "assets/products/df4173a76988494695d7.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 532,
+      "productId": "8049931223265",
+      "title": "Eid Al Adha Crescent Cake",
+      "originalImage": "assets/products/9cafa40e30e14d6f084f.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 533,
+      "productId": "6541544816829",
+      "title": "Newborn Baby Cake Pops",
+      "originalImage": "assets/products/c8225be72b4a89a768bf.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 534,
+      "productId": "6541639123133",
+      "title": "‘Best Dad' Chocolate-Dipped Strawberries",
+      "originalImage": "assets/products/b3e2eb7e37217539b030.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 535,
+      "productId": "6541639024829",
+      "title": "‘Father's Day' Chocolate-Dipped Strawberries",
+      "originalImage": "assets/products/2a5c9e2ace6915bf37dc.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 536,
+      "productId": "8028661645537",
+      "title": "Pink & White Abstract 3 Tier Cake",
+      "originalImage": "assets/products/fcdc863be937ce9b84b8.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 537,
+      "productId": "8028661612769",
+      "title": "Luxury Wedding Drape Floral Cake",
+      "originalImage": "assets/products/930fd2b735b7c3c4d570.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 538,
+      "productId": "8028661547233",
+      "title": "Wedding Cake with Pink Roses",
+      "originalImage": "assets/products/0bf4c28dcdc31f9f1d5c.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 539,
+      "productId": "8028661514465",
+      "title": "Casa Lily & Peonies Wedding Cake",
+      "originalImage": "assets/products/b576db8f89b4d3f5b710.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 540,
+      "productId": "8028661481697",
+      "title": "Gold & Navy Blue 3 Tier Cake",
+      "originalImage": "assets/products/2bc05f7605f0e5b1cb65.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 541,
+      "productId": "8028661448929",
+      "title": "Square Wedding Cake",
+      "originalImage": "assets/products/8cfe1b49b499fc9440ec.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 542,
+      "productId": "8028661416161",
+      "title": "Two Tiered Cake with Gypso",
+      "originalImage": "assets/products/6254ded345fc37a9cc68.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 543,
+      "productId": "8028661350625",
+      "title": "Elegant Mango Cake",
+      "originalImage": "assets/products/b7040ddf71d79158248f.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 544,
+      "productId": "8028661317857",
+      "title": "Imperial Wedding Cake",
+      "originalImage": "assets/products/5858dd2b802ee56665a7.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 545,
+      "productId": "8028661285089",
+      "title": "Modern Wedding Cake",
+      "originalImage": "assets/products/a1d33206bd6fc19d4e92.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 546,
+      "productId": "8028661252321",
+      "title": "Marble Black & White Two Tiered Cake",
+      "originalImage": "assets/products/132c18ae55850314d755.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 547,
+      "productId": "8028661219553",
+      "title": "Black & White Two Tiered Cake",
+      "originalImage": "assets/products/256c5afaf2a17517288d.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 548,
+      "productId": "8028661154017",
+      "title": "Imperial Black & Gold Four Tier Cake",
+      "originalImage": "assets/products/e7cc2645d877b85c40d8.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 549,
+      "productId": "8028661121249",
+      "title": "Royal Black Four Tier Cake",
+      "originalImage": "assets/products/55ba1ccc52b4044a01c2.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 550,
+      "productId": "8028661055713",
+      "title": "Imperial White Wedding Cake",
+      "originalImage": "assets/products/221339b9d1f1e512098a.jpg",
+      "status": "needs-search",
+      "candidates": []
+    }
+  ]
+}

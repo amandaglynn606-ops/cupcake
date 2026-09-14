@@ -1,0 +1,407 @@
+{
+  "batch": 14,
+  "size": 50,
+  "sourcePreference": "Pinterest",
+  "records": [
+    {
+      "n": 651,
+      "productId": "8004179132641",
+      "title": "Minnie Mouse Cookies",
+      "originalImage": "assets/products/3381684e6d548183992a.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 652,
+      "productId": "8004178837729",
+      "title": "Minecraft Cookies",
+      "originalImage": "assets/products/6fa9f4999c4c12f2b6b6.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 653,
+      "productId": "8004178772193",
+      "title": "Minions Cookies",
+      "originalImage": "assets/products/f7d591f193e3ea8eef68.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 654,
+      "productId": "8004178706657",
+      "title": "Fortnite Theme Cookies",
+      "originalImage": "assets/products/2c7024075f9d2f64e62b.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 655,
+      "productId": "8004178641121",
+      "title": "Sony XBOX Joystick Cookies",
+      "originalImage": "assets/products/258827026faea04f29f2.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 656,
+      "productId": "8004178608353",
+      "title": "Joystick Cookies",
+      "originalImage": "assets/products/38ea000ef73f4cd223d7.png",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 657,
+      "productId": "8004178510049",
+      "title": "Soccer/Football Theme Cookies",
+      "originalImage": "assets/products/eee7e7f5b7b75b10b9b6.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 658,
+      "productId": "8004177789153",
+      "title": "Cupcake with Photo",
+      "originalImage": "assets/products/3c0955930b9a8c344dd7.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 659,
+      "productId": "8004177723617",
+      "title": "Cookies with Photo",
+      "originalImage": "assets/products/903d3404ed4b35be62ef.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 660,
+      "productId": "8004177690849",
+      "title": "Cookies with Company Logo",
+      "originalImage": "assets/products/932e5cd985ca1aea2eee.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 661,
+      "productId": "8004177658081",
+      "title": "Cupcake with Logo",
+      "originalImage": "assets/products/9b22a15a38d03c507b2c.png",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 662,
+      "productId": "8004177559777",
+      "title": "Classy Oh Baby Cupcakes",
+      "originalImage": "assets/products/af1ca06803386521dc95.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 663,
+      "productId": "8004177527009",
+      "title": "Elegant Oh Baby Cupcakes",
+      "originalImage": "assets/products/27931137706dc024fe62.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 664,
+      "productId": "8004177494241",
+      "title": "Oh Baby Cupcakes",
+      "originalImage": "assets/products/79068ee1788b1e054d08.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 665,
+      "productId": "8004177461473",
+      "title": "Baby Pink Cupcakes",
+      "originalImage": "assets/products/438d29e2a2d6db249118.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 666,
+      "productId": "7995918254305",
+      "title": "Royal Blue Cake",
+      "originalImage": "assets/products/85775ab35276235c97ca.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 667,
+      "productId": "7995918221537",
+      "title": "Elegant Black Round Cake",
+      "originalImage": "assets/products/58dc96305a8006f67d8f.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 668,
+      "productId": "7995918123233",
+      "title": "Square Grey Cake",
+      "originalImage": "assets/products/cf275122381c18619089.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 669,
+      "productId": "7995918057697",
+      "title": "Elegant White Tuxedo Cake",
+      "originalImage": "assets/products/9e1cebf09dfb589d85d7.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 670,
+      "productId": "7995918024929",
+      "title": "Superman Kryptonite Cake",
+      "originalImage": "assets/products/f094c44f2302ca887614.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 671,
+      "productId": "7995917992161",
+      "title": "Elegant Black Rectangular Cake",
+      "originalImage": "assets/products/be28e2954963f0248784.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 672,
+      "productId": "7995917959393",
+      "title": "Royal Green Cake",
+      "originalImage": "assets/products/780072b9f73ab487edf7.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 673,
+      "productId": "7995917926625",
+      "title": "Black Superman Cake",
+      "originalImage": "assets/products/a0b48ca33db263af24a6.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 674,
+      "productId": "7995917893857",
+      "title": "Elegant Chess Cake",
+      "originalImage": "assets/products/bdac2232193e2c71a083.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 675,
+      "productId": "7995917861089",
+      "title": "Elegant Black Candles Cake",
+      "originalImage": "assets/products/96b2e6dfaa143e3e3875.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 676,
+      "productId": "7995917697249",
+      "title": "Pink Butterfly Bomb Cake",
+      "originalImage": "assets/products/e7653fcb0b52aa6c2545.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 677,
+      "productId": "7995917664481",
+      "title": "Rose Gold Birthday Cake with Balloons",
+      "originalImage": "assets/products/872b03ae8e0f73e9fa32.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 678,
+      "productId": "7995917598945",
+      "title": "Pink Bomb Cake",
+      "originalImage": "assets/products/e0f90a7182bb7c989aed.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 679,
+      "productId": "7995917566177",
+      "title": "Elegant Pink Candles Cake",
+      "originalImage": "assets/products/8ebdc99564497c48b1ea.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 680,
+      "productId": "7995917533409",
+      "title": "White Crown Cake",
+      "originalImage": "assets/products/560c651808ae36924fcb.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 681,
+      "productId": "7995917500641",
+      "title": "White & Blue Crown Cake",
+      "originalImage": "assets/products/9da8ebad9612449eef2f.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 682,
+      "productId": "7995917467873",
+      "title": "Black Crown Cake",
+      "originalImage": "assets/products/42583e239d9899e1447f.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 683,
+      "productId": "7995917435105",
+      "title": "Black Rectangular Cake",
+      "originalImage": "assets/products/b1b2b8b307a8e42ac098.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 684,
+      "productId": "7995907735777",
+      "title": "Swiss Chocolate Cake with Fresh Berries",
+      "originalImage": "assets/products/040d718dcb60de5d59ff.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 685,
+      "productId": "7995907703009",
+      "title": "Swiss Chocolate Cake with Lindt",
+      "originalImage": "assets/products/e68bc846f450e0112c3e.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 686,
+      "productId": "7995907637473",
+      "title": "Swiss Chocolate Cake",
+      "originalImage": "assets/products/e6c55cfe12f77429a3aa.png",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 687,
+      "productId": "7995907604705",
+      "title": "Swiss Chocolate Black Forest Cake",
+      "originalImage": "assets/products/a0828b11a471e1faef54.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 688,
+      "productId": "7995907506401",
+      "title": "Swiss Chocolate-Orange Cake",
+      "originalImage": "assets/products/98624a127ebdaf1505bc.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 689,
+      "productId": "7995906719969",
+      "title": "Chocolate & Chocolate Cake",
+      "originalImage": "assets/products/abbc5418325e15e810d9.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 690,
+      "productId": "7995906621665",
+      "title": "Ultimate Chocolate Berries Cake",
+      "originalImage": "assets/products/3b22dfe4f48560b61ad5.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 691,
+      "productId": "7995906588897",
+      "title": "Yellow Chocolate Berries Cake",
+      "originalImage": "assets/products/8f18e077b6cb1e243cfd.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 692,
+      "productId": "7995906523361",
+      "title": "Red Berries Cake",
+      "originalImage": "assets/products/b23a8481a322bd5a345e.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 693,
+      "productId": "7995906490593",
+      "title": "Green Berries Cake",
+      "originalImage": "assets/products/374ee88d4eaefda32f11.png",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 694,
+      "productId": "7995906425057",
+      "title": "Pastel Blue Orange Cake",
+      "originalImage": "assets/products/29d89b3a2e7f3b5ccd59.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 695,
+      "productId": "7995906392289",
+      "title": "Pink Berries Cake",
+      "originalImage": "assets/products/e7b586e0169f7b2d98d3.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 696,
+      "productId": "7995906359521",
+      "title": "Light Blue Birthday Cake",
+      "originalImage": "assets/products/0db88a51f57798e16f3c.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 697,
+      "productId": "7995906326753",
+      "title": "Blue Chocolate Birthday Cake",
+      "originalImage": "assets/products/2d865c75994c8c2a00cb.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 698,
+      "productId": "7995906293985",
+      "title": "Swiss Chocolate Cake",
+      "originalImage": "assets/products/1628769e17590a7f1590.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 699,
+      "productId": "7995906228449",
+      "title": "Orange Swirls Birthday Cake",
+      "originalImage": "assets/products/75fcb5246fd1b514b6ca.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 700,
+      "productId": "7995906195681",
+      "title": "Pink Hearts & Cookies Birthday Cake",
+      "originalImage": "assets/products/a4cc419c9d13d1c82ec6.jpg",
+      "status": "needs-search",
+      "candidates": []
+    }
+  ]
+}

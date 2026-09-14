@@ -1,0 +1,467 @@
+{
+  "products": {
+    "9900000000041": {
+      "material": "fresh",
+      "flowerTypes": [
+        "peonies",
+        "roses"
+      ],
+      "verified": true,
+      "source": "https://www.appletreecakedesign.co.uk/fresh-floral-wedding-cake-gallery",
+      "evidence": "Source gallery material description and visual review in data/floral-batch-review.json."
+    },
+    "9900000000042": {
+      "material": "fresh",
+      "flowerTypes": [
+        "roses"
+      ],
+      "verified": true,
+      "source": "https://www.appletreecakedesign.co.uk/fresh-floral-wedding-cake-gallery",
+      "evidence": "Source gallery material description and visual review in data/floral-batch-review.json."
+    },
+    "9900000000043": {
+      "material": "fresh",
+      "flowerTypes": [
+        "roses",
+        "lisianthus"
+      ],
+      "verified": true,
+      "source": "https://www.appletreecakedesign.co.uk/fresh-floral-wedding-cake-gallery",
+      "evidence": "Source gallery material description and visual review in data/floral-batch-review.json."
+    },
+    "9900000000044": {
+      "material": "fresh",
+      "flowerTypes": [
+        "roses",
+        "gypsophila"
+      ],
+      "verified": true,
+      "source": "https://www.appletreecakedesign.co.uk/fresh-floral-wedding-cake-gallery",
+      "evidence": "Source gallery material description and visual review in data/floral-batch-review.json."
+    },
+    "9900000000045": {
+      "material": "fresh",
+      "flowerTypes": [
+        "roses",
+        "peonies"
+      ],
+      "verified": true,
+      "source": "https://www.appletreecakedesign.co.uk/fresh-floral-wedding-cake-gallery",
+      "evidence": "Source gallery material description and visual review in data/floral-batch-review.json."
+    },
+    "9900000000046": {
+      "material": "fresh",
+      "flowerTypes": [
+        "roses",
+        "lavender"
+      ],
+      "verified": true,
+      "source": "https://www.appletreecakedesign.co.uk/fresh-floral-wedding-cake-gallery",
+      "evidence": "Source gallery material description and visual review in data/floral-batch-review.json."
+    },
+    "9900000000047": {
+      "material": "fresh",
+      "flowerTypes": [
+        "roses"
+      ],
+      "verified": true,
+      "source": "https://www.appletreecakedesign.co.uk/fresh-floral-wedding-cake-gallery",
+      "evidence": "Source gallery material description and visual review in data/floral-batch-review.json."
+    },
+    "9900000000048": {
+      "material": "fresh",
+      "flowerTypes": [
+        "roses",
+        "peonies"
+      ],
+      "verified": true,
+      "source": "https://www.thegoldfinchkitchen.com/wedding-cake-portfolio",
+      "evidence": "Source gallery material description and visual review in data/floral-batch-review.json."
+    },
+    "9900000000049": {
+      "material": "fresh",
+      "flowerTypes": [
+        "roses",
+        "dahlias"
+      ],
+      "verified": true,
+      "source": "https://www.thegoldfinchkitchen.com/wedding-cake-portfolio",
+      "evidence": "Source gallery material description and visual review in data/floral-batch-review.json."
+    },
+    "9900000000050": {
+      "material": "fresh",
+      "flowerTypes": [
+        "roses"
+      ],
+      "verified": true,
+      "source": "https://www.thegoldfinchkitchen.com/wedding-cake-portfolio",
+      "evidence": "Source gallery material description and visual review in data/floral-batch-review.json."
+    },
+    "9900000000051": {
+      "material": "fresh",
+      "flowerTypes": [
+        "roses",
+        "dahlias"
+      ],
+      "verified": true,
+      "source": "https://www.thegoldfinchkitchen.com/wedding-cake-portfolio",
+      "evidence": "Source gallery material description and visual review in data/floral-batch-review.json."
+    },
+    "9900000000052": {
+      "material": "sugar",
+      "flowerTypes": [
+        "peonies"
+      ],
+      "verified": true,
+      "source": "https://thesugarpeony.com/wedding-cakes/",
+      "evidence": "Source gallery material description and visual review in data/floral-batch-review.json."
+    },
+    "9900000000053": {
+      "material": "sugar",
+      "flowerTypes": [
+        "mixed-blossoms"
+      ],
+      "verified": true,
+      "source": "https://thesugarpeony.com/wedding-cakes/",
+      "evidence": "Source gallery material description and visual review in data/floral-batch-review.json."
+    },
+    "9900000000054": {
+      "material": "sugar",
+      "flowerTypes": [
+        "roses"
+      ],
+      "verified": true,
+      "source": "https://thesugarpeony.com/wedding-cakes/",
+      "evidence": "Source gallery material description and visual review in data/floral-batch-review.json."
+    },
+    "9900000000055": {
+      "material": "sugar",
+      "flowerTypes": [
+        "peonies",
+        "hydrangeas",
+        "sweet-peas"
+      ],
+      "verified": true,
+      "source": "https://thesugarpeony.com/wedding-cakes/",
+      "evidence": "Source gallery material description and visual review in data/floral-batch-review.json."
+    },
+    "9900000000056": {
+      "material": "sugar",
+      "flowerTypes": [
+        "roses"
+      ],
+      "verified": true,
+      "source": "https://thesugarpeony.com/wedding-cakes/",
+      "evidence": "Source gallery material description and visual review in data/floral-batch-review.json."
+    },
+    "9900000000057": {
+      "material": "sugar",
+      "flowerTypes": [
+        "roses"
+      ],
+      "verified": true,
+      "source": "https://thesugarpeony.com/wedding-cakes/",
+      "evidence": "Source gallery material description and visual review in data/floral-batch-review.json."
+    },
+    "9900000000058": {
+      "material": "sugar",
+      "flowerTypes": [
+        "mixed-blossoms"
+      ],
+      "verified": true,
+      "source": "https://thesugarpeony.com/wedding-cakes/",
+      "evidence": "Source gallery material description and visual review in data/floral-batch-review.json."
+    },
+    "9900000000059": {
+      "material": "sugar",
+      "flowerTypes": [
+        "peonies"
+      ],
+      "verified": true,
+      "source": "https://thesugarpeony.com/wedding-cakes/",
+      "evidence": "Source gallery material description and visual review in data/floral-batch-review.json."
+    },
+    "9900000000060": {
+      "material": "sugar",
+      "flowerTypes": [
+        "roses",
+        "mixed-blossoms"
+      ],
+      "verified": true,
+      "source": "https://etoilebakery.co.uk/pages/wedding-gallery-london-southeast-delivery",
+      "evidence": "Source gallery material description and visual review in data/floral-batch-review.json."
+    },
+    "9900000000061": {
+      "material": "sugar",
+      "flowerTypes": [
+        "peonies",
+        "hydrangeas"
+      ],
+      "verified": true,
+      "source": "https://etoilebakery.co.uk/pages/wedding-gallery-london-southeast-delivery",
+      "evidence": "Source gallery material description and visual review in data/floral-batch-review.json."
+    },
+    "9900000000062": {
+      "material": "sugar",
+      "flowerTypes": [
+        "peonies"
+      ],
+      "verified": true,
+      "source": "https://etoilebakery.co.uk/pages/wedding-gallery-london-southeast-delivery",
+      "evidence": "Source gallery material description and visual review in data/floral-batch-review.json."
+    },
+    "8028660367585": {
+      "material": "fresh",
+      "flowerTypes": [
+        "roses",
+        "lisianthus"
+      ],
+      "verified": true,
+      "source": "https://www.appletreecakedesign.co.uk/fresh-floral-wedding-cake-gallery",
+      "evidence": "White round three-tier cake with a white floral cascade and foliage."
+    },
+    "8028660203745": {
+      "material": "sugar",
+      "flowerTypes": [
+        "roses"
+      ],
+      "verified": true,
+      "source": "https://etoilebakery.co.uk/pages/wedding-gallery-london-southeast-delivery",
+      "evidence": "Four round white tiers with blush and ivory rose cascade."
+    },
+    "9900000000063": {
+      "material": "sugar",
+      "flowerTypes": [
+        "roses",
+        "mixed-blossoms"
+      ],
+      "verified": true,
+      "source": "https://cakesbyanusha.co.uk/wedding-cakes/",
+      "evidence": "Source gallery material description and visual review in data/floral-batch-review.json."
+    },
+    "9900000000064": {
+      "material": "sugar",
+      "flowerTypes": [
+        "magnolias"
+      ],
+      "verified": true,
+      "source": "https://cakesbyanusha.co.uk/wedding-cakes/",
+      "evidence": "Source gallery material description and visual review in data/floral-batch-review.json."
+    },
+    "9900000000065": {
+      "material": "sugar",
+      "flowerTypes": [
+        "peonies"
+      ],
+      "verified": true,
+      "source": "https://cakesbyanusha.co.uk/wedding-cakes/",
+      "evidence": "Source gallery material description and visual review in data/floral-batch-review.json."
+    },
+    "9900000000066": {
+      "material": "sugar",
+      "flowerTypes": [
+        "peonies"
+      ],
+      "verified": true,
+      "source": "https://cakesbyanusha.co.uk/wedding-cakes/",
+      "evidence": "Source gallery material description and visual review in data/floral-batch-review.json."
+    },
+    "9900000000067": {
+      "material": "sugar",
+      "flowerTypes": [
+        "roses"
+      ],
+      "verified": true,
+      "source": "https://cakesbyanusha.co.uk/wedding-cakes/",
+      "evidence": "Source gallery material description and visual review in data/floral-batch-review.json."
+    },
+    "9900000000068": {
+      "material": "sugar",
+      "flowerTypes": [
+        "mixed-blossoms"
+      ],
+      "verified": true,
+      "source": "https://cakesbyanusha.co.uk/wedding-cakes/",
+      "evidence": "Source gallery material description and visual review in data/floral-batch-review.json."
+    },
+    "9900000000069": {
+      "material": "sugar",
+      "flowerTypes": [
+        "peonies"
+      ],
+      "verified": true,
+      "source": "https://cakesbyanusha.co.uk/wedding-cakes/",
+      "evidence": "Source gallery material description and visual review in data/floral-batch-review.json."
+    },
+    "9900000000070": {
+      "material": "sugar",
+      "flowerTypes": [
+        "roses",
+        "mixed-blossoms"
+      ],
+      "verified": true,
+      "source": "https://cakesbyanusha.co.uk/wedding-cakes/",
+      "evidence": "Source gallery material description and visual review in data/floral-batch-review.json."
+    },
+    "9900000000071": {
+      "material": "fresh",
+      "flowerTypes": [
+        "dahlias",
+        "gerberas"
+      ],
+      "verified": true,
+      "source": "https://cakesbyanusha.co.uk/wedding-cakes/",
+      "evidence": "Source gallery material description and visual review in data/floral-batch-review.json."
+    },
+    "9900000000072": {
+      "material": "fresh",
+      "flowerTypes": [
+        "roses"
+      ],
+      "verified": true,
+      "source": "https://cakesbyanusha.co.uk/wedding-cakes/",
+      "evidence": "Source gallery material description and visual review in data/floral-batch-review.json."
+    },
+    "8028661645537": {
+      "material": "sugar",
+      "flowerTypes": [
+        "roses"
+      ],
+      "verified": true,
+      "source": "https://cakesbyanusha.co.uk/wedding-cakes/",
+      "evidence": "Three round tiers, pink and ivory palette, abstract marble detail and pale pink flowers."
+    },
+    "8028660433121": {
+      "material": "sugar",
+      "flowerTypes": [
+        "roses",
+        "peonies"
+      ],
+      "verified": true,
+      "source": "https://cakesbyanusha.co.uk/wedding-cakes/",
+      "evidence": "Three white round tiers with pink roses and additional sugar blooms."
+    },
+    "8028660039905": {
+      "material": "fresh",
+      "flowerTypes": [
+        "roses"
+      ],
+      "verified": true,
+      "source": "https://cakesbyanusha.co.uk/wedding-cakes/",
+      "evidence": "Two round white semi-naked tiers with white roses and foliage."
+    },
+    "9910000000017": {
+      "material": "fresh",
+      "flowerTypes": [
+        "roses"
+      ],
+      "verified": true,
+      "source": "https://deliziedijho.it/torte-compleanno-milano/",
+      "evidence": "Source identifies fresh flowers (Italy) or fondant/gumpaste decorations (Canada); flower types visually reviewed."
+    },
+    "9910000000019": {
+      "material": "sugar",
+      "flowerTypes": [
+        "mixed-blossoms"
+      ],
+      "verified": true,
+      "source": "https://daango.com/products/marble",
+      "evidence": "Source identifies fresh flowers (Italy) or fondant/gumpaste decorations (Canada); flower types visually reviewed."
+    },
+    "9910000000020": {
+      "material": "sugar",
+      "flowerTypes": [
+        "roses",
+        "mixed-blossoms"
+      ],
+      "verified": true,
+      "source": "https://daango.com/products/rose-gold-garden",
+      "evidence": "Source identifies fresh flowers (Italy) or fondant/gumpaste decorations (Canada); flower types visually reviewed."
+    },
+    "9920000000004": {
+      "material": "sugar",
+      "flowerTypes": [
+        "roses"
+      ],
+      "verified": true,
+      "source": "https://www.cakedelightbyfarah.ca/",
+      "evidence": "Source identifies handmade sugar flowers; flower types visually reviewed."
+    },
+    "9920000000005": {
+      "material": "sugar",
+      "flowerTypes": [
+        "roses",
+        "mixed-blossoms"
+      ],
+      "verified": true,
+      "source": "https://www.cakedelightbyfarah.ca/",
+      "evidence": "Source identifies handmade sugar flowers; flower types visually reviewed."
+    },
+    "9920000000006": {
+      "material": "sugar",
+      "flowerTypes": [
+        "roses",
+        "mixed-blossoms"
+      ],
+      "verified": true,
+      "source": "https://www.fayecahill.com.au/custom-cakes/special-event-cakes",
+      "evidence": "Source identifies handmade sugar flowers; flower types visually reviewed."
+    },
+    "9920000000010": {
+      "material": "sugar",
+      "flowerTypes": [
+        "peonies",
+        "mixed-blossoms"
+      ],
+      "verified": true,
+      "source": "https://rosalindmillercakes.com/cakes/",
+      "evidence": "Source identifies handmade sugar flowers; flower types visually reviewed."
+    },
+    "9930000000002": {
+      "material": "fresh",
+      "flowerTypes": [
+        "roses"
+      ],
+      "verified": true,
+      "source": "https://acaketorememberblog.com/wp-content/uploads/2025/01/black-wedding-cake-5-723x1024.jpg",
+      "evidence": "Visual review of the user-selected downloaded photograph; original country unverified."
+    },
+    "9930000000006": {
+      "material": "fresh",
+      "flowerTypes": [
+        "roses",
+        "hydrangeas"
+      ],
+      "verified": true,
+      "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVXsg5e9zBdENuAcMXB6E6amdm5ZzCJoDK3GD3RuaCRUF30sZVccwun4bW&s=10",
+      "evidence": "Visual review of the user-selected downloaded photograph; original country unverified."
+    },
+    "9930000000007": {
+      "material": "sugar",
+      "flowerTypes": [
+        "roses"
+      ],
+      "verified": true,
+      "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG5dztv2wuKsDm8MEKxuPfK4oQaDeID9IUPYVAbJtzS5WhT6MhvMW12pCx&s=10",
+      "evidence": "Visual review of the user-selected downloaded photograph; original country unverified."
+    },
+    "9930000000008": {
+      "material": "fresh",
+      "flowerTypes": [
+        "roses"
+      ],
+      "verified": true,
+      "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSER1Z1STXvOPMjnmXbF8G1PM6AFU87c-xwaAI-oCn-Oc7eCtSJd7Qm9R7l&s=10",
+      "evidence": "Visual review of the user-selected downloaded photograph; original country unverified."
+    },
+    "9930000000009": {
+      "material": "fresh",
+      "flowerTypes": [
+        "roses"
+      ],
+      "verified": true,
+      "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCT76ZX2Br3dWJQuHXsG15XuFxDBJ_gB7kr3WMxDgZYWhvyJrr5Pt7VZKO&s=10",
+      "evidence": "Visual review of the user-selected downloaded photograph; original country unverified."
+    }
+  }
+}

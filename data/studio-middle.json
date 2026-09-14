@@ -1,0 +1,34 @@
+[
+  {
+    "id": "peony-ballet",
+    "path": "assets/studio/peony-ballet.png",
+    "sourceId": null,
+    "type": "generated design concept",
+    "prompt": "Use case: product-mockup. Create an original Maison Xavi wedding cake design concept, photographed with exceptionally realistic sugarcraft and fine botanical detail. SUBJECT: Exactly four graduated ivory wedding cake tiers with delicate pleated sugar ruffles, lush blush peonies and ivory garden roses cascading diagonally, occasional tiny pearl details, elegant full silhouette.. Dramatic, exceptionally beautiful, plausible professionally engineered wedding centrepiece. Refined ivory and soft blush palette, delicate hand-shaped sugar petals, no rainbow colours. Seamless matte warm ivory studio floor and matching background #F3EEE5, soft diffused light from upper left, subtle contact shadow. Cake centred, entire structure and thin ivory base visible, square composition, at least 10 percent breathing room on all sides. No people, venue, tablecloth, text, logo or watermark. High resolution, crisp details.",
+    "original": "C:\\Users\\Dania Muneer\\.codex\\generated_images\\01a091f2-ddde-7332-9b41-48d06d1c3a55\\exec-8b6f82a7-27a1-442d-9812-d331451e171b.png"
+  },
+  {
+    "id": "orchid-reverie",
+    "path": "assets/studio/orchid-reverie.png",
+    "sourceId": null,
+    "type": "generated design concept",
+    "prompt": "Use case: product-mockup. Create an original Maison Xavi wedding cake design concept, photographed with exceptionally realistic sugarcraft and fine botanical detail. SUBJECT: Exactly five graduated ivory wedding cake tiers, a modern arrangement of delicate white cascading phalaenopsis orchids around the outer left side from crown to base, softly draped translucent sugar fabric, one tall smooth middle tier, subtle ivory pearl borders.. Dramatic, exceptionally beautiful, plausible professionally engineered wedding centrepiece. Refined ivory and soft blush palette, delicate hand-shaped sugar petals, no rainbow colours. Seamless matte warm ivory studio floor and matching background #F3EEE5, soft diffused light from upper left, subtle contact shadow. Cake centred, entire structure and thin ivory base visible, square composition, at least 10 percent breathing room on all sides. No people, venue, tablecloth, text, logo or watermark. High resolution, crisp details.",
+    "original": "C:\\Users\\Dania Muneer\\.codex\\generated_images\\01a091f2-ddde-7332-9b41-48d06d1c3a55\\exec-dd6fcfe3-3fd5-414f-b307-544ed9df31d8.png"
+  },
+  {
+    "id": "rose-pavilion",
+    "path": "assets/studio/rose-pavilion.png",
+    "sourceId": null,
+    "type": "generated design concept",
+    "prompt": "Use case: product-mockup. Create an original Maison Xavi wedding cake design concept, photographed with exceptionally realistic sugarcraft and fine botanical detail. SUBJECT: Exactly five broad and tall ivory wedding cake tiers, spectacular abundant full rings of blush roses and ivory peonies between tiers, delicate ivory lattice and leaf relief panels, lavish wide garden wedding centrepiece, no metallic accents.. Dramatic, exceptionally beautiful, plausible professionally engineered wedding centrepiece. Refined ivory and soft blush palette, delicate hand-shaped sugar petals, no rainbow colours. Seamless matte warm ivory studio floor and matching background #F3EEE5, soft diffused light from upper left, subtle contact shadow. Cake centred, entire structure and thin ivory base visible, square composition, at least 10 percent breathing room on all sides. No people, venue, tablecloth, text, logo or watermark. High resolution, crisp details.",
+    "original": "C:\\Users\\Dania Muneer\\.codex\\generated_images\\01a091f2-ddde-7332-9b41-48d06d1c3a55\\exec-36becee8-4eb3-411d-84ad-3cabc38bf130.png"
+  },
+  {
+    "id": "ivory-gilded",
+    "path": "assets/studio/ivory-gilded.png",
+    "sourceId": "unsplash-uxdBVzWDki4",
+    "type": "edited licensed reference",
+    "prompt": "Edit this licensed cake photograph for a consistent Maison Xavi product catalog. Preserve the photographed cake's exact number of tiers, shape, frosting, flowers and colours. Remove the entire original venue, tablecloth, people, glasses, loose props and signage/topper text. Keep only the complete cake and a thin discreet ivory cake board. Place it centred on a seamless matte warm ivory studio surface and matching warm ivory background (#F3EEE5). Soft diffused daylight from upper left, subtle realistic contact shadow, no saturated background, no gradients to other hues, no decor or framing. Square image, full cake including top and board visible with 12 percent breathing room, cake about 76 percent of frame height. Faithful photographic background replacement, not a new design; don't add tiers or embellishments. No text, logo or watermark.",
+    "original": "C:\\Users\\Dania Muneer\\.codex\\generated_images\\01a091f2-ddde-7332-9b41-48d06d1c3a55\\exec-392c7f90-84ac-498d-9834-77233ce4713d.png"
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "id": "9900000000001",
+    "handle": "orchid-palais-wedding-cake",
+    "title": "Orchid Palais Wedding Cake",
+    "tiers": 6,
+    "priceAED": 100000,
+    "flowers": "White orchids & ivory roses",
+    "finish": "Pleated ivory tiers & pearls",
+    "description": "Six graduated ivory tiers frame two cascading trails of white orchids and roses. Fine vertical pleating alternates with smooth panels, while small pearl borders follow each tier. The design is intended as a tall focal point for a formal wedding reception.",
+    "imageId": "orchid-palais"
+  },
+  {
+    "id": "9900000000002",
+    "handle": "rose-cathedral-wedding-cake",
+    "title": "Rose Cathedral Wedding Cake",
+    "tiers": 7,
+    "priceAED": 150000,
+    "flowers": "Blush garden roses & ivory peonies",
+    "finish": "Fine lace piping & pearl borders",
+    "description": "Seven tiers of delicate ivory lacework are wrapped in a continuous spiral of blush garden roses and ivory peonies. The flowers become fuller towards the base, giving the tall silhouette a soft, romantic balance.",
+    "imageId": "rose-cathedral"
+  },
+  {
+    "id": "9900000000003",
+    "handle": "jardin-imperial-wedding-cake",
+    "title": "Jardin Imperial Wedding Cake",
+    "tiers": 8,
+    "priceAED": 225000,
+    "flowers": "Ivory roses, hydrangeas & jasmine",
+    "finish": "Botanical relief & floral collars",
+    "description": "Eight graduated tiers combine raised botanical details with generous collars of ivory flowers. Roses, hydrangeas and jasmine form an asymmetric cascade, bringing a flowering garden to a grand reception table.",
+    "imageId": "jardin-imperial"
+  },
+  {
+    "id": "9900000000004",
+    "handle": "magnolia-opera-wedding-cake",
+    "title": "Magnolia Opera Wedding Cake",
+    "tiers": 9,
+    "priceAED": 300000,
+    "flowers": "Sculptural ivory magnolias",
+    "finish": "Champagne gold filigree & pearls",
+    "description": "Nine tiers create a slender, architectural silhouette. Large ivory magnolias sweep across alternating smooth and filigree panels, with restrained champagne gold details and fine pearl borders. The open arrangement lets the shape of each flower stand out.",
+    "imageId": "magnolia-opera"
+  },
+  {
+    "id": "9900000000005",
+    "handle": "fleur-sovereign-wedding-cake",
+    "title": "Fleur Sovereign Wedding Cake",
+    "tiers": 10,
+    "priceAED": 400000,
+    "flowers": "Blush roses, peonies & jasmine",
+    "finish": "Ivory scrollwork & floral garlands",
+    "description": "Ten tiers of ornamental ivory scrollwork rise between abundant garlands of blush roses and peonies. Fine jasmine trails connect the floral collars into an elaborate, symmetrical centrepiece.",
+    "imageId": "fleur-sovereign"
+  },
+  {
+    "id": "9900000000006",
+    "handle": "grand-floral-palace-wedding-cake",
+    "title": "Grand Floral Palace Wedding Cake",
+    "tiers": 10,
+    "priceAED": 500000,
+    "flowers": "White orchids & blush garden roses",
+    "finish": "Three cake towers & intricate lace",
+    "description": "A ten-tier central tower is accompanied by two five-tier cake towers on a shared floral base. Cascades of white orchids and blush roses link intricate ivory lacework into one monumental wedding installation. Venue access, structural support and assembly form part of the individual consultation.",
+    "imageId": "grand-floral-palace"
+  },
+  {
+    "id": "9900000000007",
+    "handle": "blush-garden-wedding-cake",
+    "title": "Blush Garden Wedding Cake",
+    "tiers": 2,
+    "priceAED": 10000,
+    "flowers": "Ivory & blush roses",
+    "finish": "Pearl borders & soft ivory buttercream",
+    "description": "Two ivory tiers carry a generous crown of blush and white roses, with a smaller floral arrangement at the base. Pearl borders define the soft silhouette.",
+    "imageId": "blush-roses",
+    "referencePhoto": true
+  },
+  {
+    "id": "9900000000008",
+    "handle": "ivory-gilded-wedding-cake",
+    "title": "Ivory Gilded Wedding Cake",
+    "tiers": 3,
+    "priceAED": 20000,
+    "flowers": "Ivory peonies & white flowers",
+    "finish": "Gold edges & ivory buttercream",
+    "description": "Three ivory tiers are edged with irregular gold detailing and a restrained arrangement of white flowers. A floral crown and lower clusters balance the clean stacked silhouette.",
+    "imageId": "ivory-gilded",
+    "referencePhoto": true
+  },
+  {
+    "id": "9900000000009",
+    "handle": "peony-ballet-wedding-cake",
+    "title": "Peony Ballet Wedding Cake",
+    "tiers": 4,
+    "priceAED": 35000,
+    "flowers": "Blush peonies & ivory roses",
+    "finish": "Soft sugar draping & pearls",
+    "description": "Four graduated tiers are wrapped in soft ivory draping. A generous diagonal trail of blush peonies and ivory garden roses runs from the floral crown to the base, with fine pearl accents between the folds.",
+    "imageId": "peony-ballet",
+    "referencePhoto": false
+  },
+  {
+    "id": "9900000000010",
+    "handle": "orchid-reverie-wedding-cake",
+    "title": "Orchid Reverie Wedding Cake",
+    "tiers": 5,
+    "priceAED": 50000,
+    "flowers": "Cascading white orchids",
+    "finish": "Draped ivory panels & pearls",
+    "description": "Five tiers combine smooth ivory panels and delicate draping. A long cascade of white orchids traces one side of the cake, giving the tall silhouette a graceful asymmetry.",
+    "imageId": "orchid-reverie",
+    "referencePhoto": false
+  },
+  {
+    "id": "9900000000011",
+    "handle": "rose-pavilion-wedding-cake",
+    "title": "Rose Pavilion Wedding Cake",
+    "tiers": 5,
+    "priceAED": 75000,
+    "flowers": "Blush roses & ivory peonies",
+    "finish": "Floral collars, lattice & leaf relief",
+    "description": "Five substantial tiers are separated by full collars of blush roses and ivory peonies. Alternating lattice and botanical relief panels create a richly detailed garden-inspired centrepiece.",
+    "imageId": "rose-pavilion",
+    "referencePhoto": false
+  }
+]

@@ -1,0 +1,1355 @@
+{
+  "batch": 2,
+  "size": 50,
+  "sourcePreference": "Pinterest",
+  "records": [
+    {
+      "n": 51,
+      "productId": "9401603883233",
+      "title": "Elegant Butterfly 3 tier Cake with Matching Balloons",
+      "originalImage": "assets/products/4167e6087c5e74a4d2de.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://za.pinterest.com/pin/140806232636075/",
+          "imageUrl": "https://i.pinimg.com/originals/51/98/cd/5198cd33238ae123cb0a41e8b78a05f3.jpg",
+          "description": "A three-tiered ombré cake transitions from deep purple at the base to soft pink at the top, creating a visually stunning gradient. Each tier is embellished with clusters of edible gold spheres and delicate pastel butterfly cutouts edged in gold, adding a whimsical touch. The cake rests on a marble surface, enhancing its elegant presentation and making it an ideal centerpiece for a butterfly-themed baby shower.\n\nThe design balances playful elements with refined details, from the smooth frosting layers to the metallic accents. Perfect for celebrating a new arrival, this cake combines pastel colors and gold highlights to evoke a sense of joy and sophistication.",
+          "localImage": "assets/products/matches/batch-002-pinterest/9401603883233-4418a845c25c.jpg",
+          "sha256": "4418a845c25c6bc2cde218636891062d3d10a5a1af6736cc244be32d0149b6bc"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/butterfly-cake-in-2024--14284923811761973/",
+          "imageUrl": "https://i.pinimg.com/originals/dd/81/07/dd81077f8a6ee647b78964930ed85e1e.jpg",
+          "description": "A three-tiered cake with gradient purple and white frosting sits atop a wooden stand, decorated with metallic gold spheres and delicate butterfly cutouts. The top tier features a cluster of gold orbs and butterflies, while smaller gold balls accent each layer. The base of the cake board spells out \"HAPPY BIRTHDAY AISHA\" in purple lettering, and the side of the cake reads \"HAPPINESS Handmade By Mamatha.\" This luxurious design, highlighted on Pinterest as a \"Purple Butterfly Cake,\" is ideal for a 21st birthday celebration, combining pastel hues with opulent gold accents.",
+          "localImage": "assets/products/matches/batch-002-pinterest/9401603883233-b7dc0b109cf3.jpg",
+          "sha256": "b7dc0b109cf35a89f5a60492efd2f6aba3977e1b2c1c87729daf375ef5eea510"
+        }
+      ],
+      "query": "Elegant Butterfly 3 tier Cake with Matching Balloons Pinterest"
+    },
+    {
+      "n": 52,
+      "productId": "9401237438689",
+      "title": "Elegant Barbie Cupcakes",
+      "originalImage": "assets/products/f6231e7024cc14830a83.png",
+      "status": "applied",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/30-tempting-cupcake-varieties-barbiethemed-cupcakes--422281210928718/",
+          "imageUrl": "https://i.pinimg.com/736x/78/55/30/785530202e35fe3a1ed10dab9abdd14d.jpg",
+          "description": "A collection of vanilla cupcakes is artfully arranged in a white box, each adorned with swirls of pink buttercream and white fondant silhouettes of Barbie’s iconic profile. Some cupcakes feature intricate rosette piping, clusters of edible pearls, and glittery spheres, while others are topped with miniature disco ball decorations for extra sparkle.\n\nThese treats showcase a cohesive pink-and-white palette, perfect for a Barbie-themed party. The combination of smooth fondant cutouts and textured buttercream designs creates a playful yet elegant presentation, ideal for elevating any celebration.",
+          "localImage": "assets/products/matches/batch-002-pinterest/9401237438689-f3d2e240e3f8.jpg",
+          "sha256": "f3d2e240e3f8b3bcb66bf4597723c1bb0f390fc33a679ca90867672f2cc8fbf5"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/55732114132336299/",
+          "imageUrl": "https://i.pinimg.com/originals/f0/82/8a/f0828ac6dbfb4c6edacd84a89517ef9e.jpg",
+          "description": "A collection of rich chocolate cupcakes is elegantly presented in a box, each crowned with generous swirls of pink buttercream frosting. Edible toppers showcase Barbie’s smiling face encircled by tiny hearts, while delicate sugar flowers, pastel pearls, and a dusting of edible glitter add a playful, celebratory touch. \n\nThese treats were shared by a home baker and caterer in Wilgeheuwel, Johannesburg, on Pinterest and Instagram under the handle FOOD AT HOME (@foodathomesa). Perfect for a Barbie-themed birthday party, the cupcakes combine vibrant pink hues and detailed decorations to delight young fans of the iconic doll.",
+          "localImage": "assets/products/matches/batch-002-pinterest/9401237438689-a3e770b36764.jpg",
+          "sha256": "a3e770b367641bceefb2a17f0464d177effda0c724925db599b2ec34ba860e7c"
+        }
+      ],
+      "query": "Elegant Barbie Cupcakes Pinterest",
+      "selected": {
+        "sourceUrl": "https://www.pinterest.com/pin/30-tempting-cupcake-varieties-barbiethemed-cupcakes--422281210928718/",
+        "imageUrl": "https://i.pinimg.com/736x/78/55/30/785530202e35fe3a1ed10dab9abdd14d.jpg",
+        "description": "A collection of vanilla cupcakes is artfully arranged in a white box, each adorned with swirls of pink buttercream and white fondant silhouettes of Barbie’s iconic profile. Some cupcakes feature intricate rosette piping, clusters of edible pearls, and glittery spheres, while others are topped with miniature disco ball decorations for extra sparkle.\n\nThese treats showcase a cohesive pink-and-white palette, perfect for a Barbie-themed party. The combination of smooth fondant cutouts and textured buttercream designs creates a playful yet elegant presentation, ideal for elevating any celebration.",
+        "localImage": "assets/products/matches/batch-002-pinterest/9401237438689-f3d2e240e3f8.jpg",
+        "sha256": "f3d2e240e3f8b3bcb66bf4597723c1bb0f390fc33a679ca90867672f2cc8fbf5"
+      },
+      "localImage": "assets/products/matches/batch-002-pinterest/9401237438689-f3d2e240e3f8.jpg",
+      "sha256": "f3d2e240e3f8b3bcb66bf4597723c1bb0f390fc33a679ca90867672f2cc8fbf5",
+      "visualReview": {
+        "verified": true,
+        "tierCount": null,
+        "shape": "cupcakes",
+        "notes": "Pink Barbie silhouette cupcakes with piped pink rosettes."
+      },
+      "reviewNote": "Pink Barbie silhouette cupcakes with piped pink rosettes."
+    },
+    {
+      "n": 53,
+      "productId": "9401237209313",
+      "title": "Elegant Barbie themed Cakepops",
+      "originalImage": "assets/products/a77508849f4ca5ec4cd1.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/barbie-cake-pops-with-pink-frosting--3377768467310800/",
+          "imageUrl": "https://i.pinimg.com/originals/69/dd/f4/69ddf4718a357846117796ab6ce6b128.jpg",
+          "description": "A set of pastel pink cake pops coated in sparkling sugar crystals stands upright on striped sticks, each crowned with a Barbie silhouette topper featuring a delicate bow. The treats are meticulously arranged in rows on a clean white surface, creating a visually appealing display. Perfectly suited for a Barbie-themed party, these cake pops combine playful design with sweet indulgence, making them an ideal dessert centerpiece for any celebration.",
+          "localImage": "assets/products/matches/batch-002-pinterest/9401237209313-d5fab45f4a82.jpg",
+          "sha256": "d5fab45f4a8284c076092cc9a4530195282f76ee6c57d2b5e1291a088fca4d50",
+          "businessNameVisible": true
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/barbie-birthday-cake-pops--1266706138778714/",
+          "imageUrl": "https://i.pinimg.com/736x/26/cc/d4/26ccd4828b95beb4c7f4868e2944cc2f.jpg",
+          "description": "A set of eight pink cake pops arranged neatly on a light surface captures the essence of a Barbie-themed birthday party. Each pop is coated in smooth pastel pink icing and embellished with unique decorations: two feature the iconic Barbie silhouette topped with tiny bows, two spell out “Barbie” in raised cursive lettering, two resemble lace skirts with delicate netting and ribbon accents, and two are adorned with clusters of spherical candies and small bows.\n\nThese cake pops combine playful design with confectionery craftsmanship, making them ideal for a celebration centered around the classic doll. The consistent color palette of soft pinks and whites, along with the varied textures—from smooth icing to intricate lace—creates a cohesive yet dynamic display that would delight guests at any Barbie-inspired event.",
+          "localImage": "assets/products/matches/batch-002-pinterest/9401237209313-257e81adee85.jpg",
+          "sha256": "257e81adee8505d7e68c6a5ce03f9e47d01b06154ef67521305f6c708826ef07"
+        }
+      ],
+      "query": "Elegant Barbie themed Cakepops Pinterest",
+      "reviewNote": "Visible third-party bakery name, logo or photo credit in the full-size image. Replacement remains pending."
+    },
+    {
+      "n": 54,
+      "productId": "9401237078241",
+      "title": "Elegant Barbie themed Cakesicles",
+      "originalImage": "assets/products/5c07ca362d1aea336429.jpg",
+      "status": "applied",
+      "candidates": [
+        {
+          "sourceUrl": "https://pt.pinterest.com/pin/barbie-themed-cakesicles-barbie-treat-barbie-cake-pops-cakesicles-cake-pops-etsy-en-2024--914090055608443760/",
+          "imageUrl": "https://i.pinimg.com/736x/5f/bf/8f/5fbf8ff1fc8c503e30bfe76aaf64bfb8.jpg",
+          "description": "A collection of pink chocolate cakesicles is arranged on a white countertop with a tiled backsplash. Each treat is coated in pastel pink chocolate, drizzled with icing, and sprinkled with white and pink candy pearls and jimmies. A hand holds one prominently in the foreground, showcasing a bold 'Barbie' label and a delicate pink bow at the stick’s base.\n\nThese Barbie-themed cakesicles appear to be handcrafted confections, ideal for birthday celebrations or themed events. The image was sourced from an Etsy listing for homemade milk chocolate and birthday cake treats, though the specific item is currently unavailable.",
+          "localImage": "assets/products/matches/batch-002-pinterest/9401237078241-5873e199c66c.jpg",
+          "sha256": "5873e199c66cd003fbc28a906bf6c404f0d18926581563c5dbeb2f710d4806a4"
+        }
+      ],
+      "query": "Elegant Barbie themed Cakesicles Pinterest",
+      "selected": {
+        "sourceUrl": "https://pt.pinterest.com/pin/barbie-themed-cakesicles-barbie-treat-barbie-cake-pops-cakesicles-cake-pops-etsy-en-2024--914090055608443760/",
+        "imageUrl": "https://i.pinimg.com/736x/5f/bf/8f/5fbf8ff1fc8c503e30bfe76aaf64bfb8.jpg",
+        "description": "A collection of pink chocolate cakesicles is arranged on a white countertop with a tiled backsplash. Each treat is coated in pastel pink chocolate, drizzled with icing, and sprinkled with white and pink candy pearls and jimmies. A hand holds one prominently in the foreground, showcasing a bold 'Barbie' label and a delicate pink bow at the stick’s base.\n\nThese Barbie-themed cakesicles appear to be handcrafted confections, ideal for birthday celebrations or themed events. The image was sourced from an Etsy listing for homemade milk chocolate and birthday cake treats, though the specific item is currently unavailable.",
+        "localImage": "assets/products/matches/batch-002-pinterest/9401237078241-5873e199c66c.jpg",
+        "sha256": "5873e199c66cd003fbc28a906bf6c404f0d18926581563c5dbeb2f710d4806a4"
+      },
+      "localImage": "assets/products/matches/batch-002-pinterest/9401237078241-5873e199c66c.jpg",
+      "sha256": "5873e199c66cd003fbc28a906bf6c404f0d18926581563c5dbeb2f710d4806a4",
+      "visualReview": {
+        "verified": true,
+        "tierCount": null,
+        "shape": "cakesicles",
+        "notes": "Pink rectangular cakesicles with Barbie lettering."
+      },
+      "reviewNote": "Pink rectangular cakesicles with Barbie lettering."
+    },
+    {
+      "n": 55,
+      "productId": "9442883076321",
+      "title": "Branded Chocolate Cigars Box with Company Logo",
+      "originalImage": "assets/products/8202f485f2bc41b47957.jpg",
+      "status": "needs-better-match",
+      "candidates": [],
+      "query": "Branded Chocolate Cigars Box with Company Logo Pinterest"
+    },
+    {
+      "n": 56,
+      "productId": "9410534047969",
+      "title": "Gender Reveal Baby Feet Macarons",
+      "originalImage": "assets/products/9f18dada01c36e2616f8.jpg",
+      "status": "needs-better-match",
+      "candidates": [],
+      "query": "Gender Reveal Baby Feet Macarons Pinterest"
+    },
+    {
+      "n": 57,
+      "productId": "9410525364449",
+      "title": "Teddy Bear Macarons",
+      "originalImage": "assets/products/1f5d28b86b68a616065c.jpg",
+      "status": "applied",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/adorable-teddy-bear-macarons-for-a-baby-shower--68746659829/",
+          "imageUrl": "https://i.pinimg.com/736x/84/55/c8/8455c83cb5cda04468f03276be907f3f.jpg",
+          "description": "A collection of brown macarons meticulously decorated to look like teddy bear faces, each cookie featuring white icing snouts and ear accents along with tiny black icing dots for eyes and noses. The uniform arrangement and consistent design showcase the baker’s precision and creativity, making them an ideal sweet treat for a baby shower celebration.\n\nThese adorable macarons not only serve as delightful desserts but also double as charming party favors, enhancing the festive atmosphere with their playful appearance. Their warm brown tones and simple yet effective icing details contribute to a cohesive and visually appealing dessert display.",
+          "localImage": "assets/products/matches/batch-002-pinterest/9410525364449-1bc3cd0614de.jpg",
+          "sha256": "1bc3cd0614de9e137ef7d53b841f4b67bbee9c93a4b439a6ef9f0ab19b970285"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/794181715521122623/",
+          "imageUrl": "https://i.pinimg.com/originals/12/02/ba/1202bafd93999feb6a96b8cdc67d0ae1.jpg",
+          "description": "A collection of pastel pink and yellow macarons sits neatly arranged on a metal tray, each cookie featuring tiny fondant ears and a sweet teddy bear face. The creamy filling peeks out between the shells, matching the soft hues of the shells and enhancing the overall charm.\n\nThese Korean-style treats blend delicate baking techniques with playful design, making them perfect for parties or as a delightful gift. Their uniform shapes and consistent decoration highlight careful craftsmanship and attention to detail.",
+          "localImage": "assets/products/matches/batch-002-pinterest/9410525364449-bf9622da1cf8.jpg",
+          "sha256": "bf9622da1cf87636f0b106aa1a974105e3e7bc3cd677433f1c5be99bf4e9c15a"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/13792342601983084/",
+          "imageUrl": "https://i.pinimg.com/originals/ea/b3/fa/eab3fa826119bf50c5c516c99d6e74e1.jpg",
+          "description": "A white tray holds a dozen light brown macarons crafted to resemble teddy bear faces. Each cookie features two small round ears, black dot eyes, and a cream-colored snout, with a visible layer of chocolate buttercream filling peeking out between the shells. The uniform shapes and consistent piping highlight the baker’s attention to detail and skill.\n\nThese macarons were created by a home baker for a baby shower and shared on Instagram by Baked by Joyce on April 18, 2023. The post, which included behind-the-scenes reels, garnered over 26,000 likes and 166 comments, celebrating the adorable design and delicious flavor combination.",
+          "localImage": "assets/products/matches/batch-002-pinterest/9410525364449-42360e67437b.jpg",
+          "sha256": "42360e67437bcc9f19659de7995155cb73e87cab741310c5e27b0d00df15055c"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/704039354220990263/",
+          "imageUrl": "https://i.pinimg.com/564x/19/93/5c/19935c75e596e03d49a42b74a4e83536.jpg",
+          "description": "A charming assortment of teddy bear–shaped macarons is arranged on a pink polka-dot plate. The pastel pink, white, and chocolate shells are decorated with tiny ears, eyes, and rosy cheeks, capturing the essence of kawaii dessert design. These sweet treats, featured on a Pinterest pin from Blippo.com, highlight the playful and adorable aesthetic popular in Japanese-inspired confectionery.\n\nPerfect for themed parties or as delightful gifts, these macarons combine visual appeal with delicious flavors. The soft color palette and intricate detailing make them stand out as both a tasty snack and a decorative centerpiece.",
+          "localImage": "assets/products/matches/batch-002-pinterest/9410525364449-e63508067b59.jpg",
+          "sha256": "e63508067b59997bb09022c4d14fbe516d2e9ba6a31474a78d53e49d8e5690a3"
+        }
+      ],
+      "query": "Teddy Bear Macarons Pinterest",
+      "selected": {
+        "sourceUrl": "https://www.pinterest.com/pin/adorable-teddy-bear-macarons-for-a-baby-shower--68746659829/",
+        "imageUrl": "https://i.pinimg.com/736x/84/55/c8/8455c83cb5cda04468f03276be907f3f.jpg",
+        "description": "A collection of brown macarons meticulously decorated to look like teddy bear faces, each cookie featuring white icing snouts and ear accents along with tiny black icing dots for eyes and noses. The uniform arrangement and consistent design showcase the baker’s precision and creativity, making them an ideal sweet treat for a baby shower celebration.\n\nThese adorable macarons not only serve as delightful desserts but also double as charming party favors, enhancing the festive atmosphere with their playful appearance. Their warm brown tones and simple yet effective icing details contribute to a cohesive and visually appealing dessert display.",
+        "localImage": "assets/products/matches/batch-002-pinterest/9410525364449-1bc3cd0614de.jpg",
+        "sha256": "1bc3cd0614de9e137ef7d53b841f4b67bbee9c93a4b439a6ef9f0ab19b970285"
+      },
+      "localImage": "assets/products/matches/batch-002-pinterest/9410525364449-1bc3cd0614de.jpg",
+      "sha256": "1bc3cd0614de9e137ef7d53b841f4b67bbee9c93a4b439a6ef9f0ab19b970285",
+      "visualReview": {
+        "verified": true,
+        "tierCount": null,
+        "shape": "bear macarons",
+        "notes": "Brown bear-shaped macarons with cream muzzle and round ears."
+      },
+      "reviewNote": "Brown bear-shaped macarons with cream muzzle and round ears."
+    },
+    {
+      "n": 58,
+      "productId": "9410470019297",
+      "title": "New Baby Giveaway Cookies Bag",
+      "originalImage": "assets/products/2eb15079c01f7e37feb7.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/68746037616/",
+          "imageUrl": "https://i.pinimg.com/originals/83/c7/72/83c772e90d4950730659cc8016ae50cb.jpg",
+          "description": "Two transparent gift bags are filled with bite-sized round cookies in various flavors and tied at the top with crisp white ribbon bows. Each bag bears a pastel circular tag that reads “Welcome WORLD” along with personalized details like a name and date, indicating they are favors for a baby shower event. The cookies are neatly arranged inside the bags, showcasing their different textures and hues against a light tabletop and soft green backdrop.\n\nThese charming cookie favors combine simple packaging with delicate pastel accents, making them ideal for welcoming a new baby. The personalized tags and uniform presentation reflect thoughtful attention to detail, perfect for gifting to guests at a celebratory gathering.",
+          "localImage": "assets/products/matches/batch-002-pinterest/9410470019297-c3d685a40c24.jpg",
+          "sha256": "c3d685a40c24156cacbd9ddbce655eb9cd16e073385d848e8818753132693bad"
+        }
+      ],
+      "query": "New Baby Giveaway Cookies Bag Pinterest"
+    },
+    {
+      "n": 59,
+      "productId": "9407455985889",
+      "title": "Macarons with Flowers",
+      "originalImage": "assets/products/9c3efd22caa902319866.png",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/josianejackers/bouquet-et-fleurs-bonbons/",
+          "imageUrl": "https://i.pinimg.com/originals/5f/2d/96/5f2d965b279999f719f2b92493a6c8cf.jpg",
+          "description": "A heart-shaped box holds an exquisite combination of pastel macarons and fresh blooms. The outer rim is lined with delicate macarons in mint green, soft pink, and creamy white, while the center bursts with roses, hydrangeas, lisianthus, and chrysanthemums in shades of pink, purple, and peach. This creative fusion of sweets and flowers offers a romantic, elegant gift idea, perfect for special occasions like Valentine’s Day or anniversaries.\n\nThis arrangement was featured on a Pinterest board titled “12 idées de Bouquet et fleurs bonbons,” curated by Josiane Jackers on May 1, 2019. It exemplifies the trend of combining confectionery treats with floral design to create visually stunning and edible bouquets.",
+          "localImage": "assets/products/matches/batch-002-pinterest/9407455985889-5b86b1e7396f.jpg",
+          "sha256": "5b86b1e7396fdff8fd3bd598791d35072ff84adf501c3a22b56196aa90481037"
+        }
+      ],
+      "query": "Macarons with Flowers Pinterest"
+    },
+    {
+      "n": 60,
+      "productId": "9407453495521",
+      "title": "Light Pink Flower Macarons",
+      "originalImage": "assets/products/1e0b08e34af7d443d9fb.jpg",
+      "status": "needs-better-match",
+      "candidates": [],
+      "query": "Light Pink Flower Macarons Pinterest"
+    },
+    {
+      "n": 61,
+      "productId": "9405725671649",
+      "title": "Pink Bows Macarons",
+      "originalImage": "assets/products/7dd469166e4b6c4d0e9d.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/carrie-sharkey-on-instagram-light-pink-shells-with-white-bows-i-love-classic-themes-vanilla-strawberry-and-salted-caramel-macarons-decorated-with-royal--438045501276168375/",
+          "imageUrl": "https://i.pinimg.com/736x/68/51/61/6851610b38e8b9f9f2c0d015e5f7dad6.jpg",
+          "description": "A neat array of pastel pink macarons sits on a clean white surface, each one adorned with a white fondant bow. The creamy filling peeks out between the two shells, hinting at flavors such as vanilla, strawberry, or salted caramel. The consistent pink hue and uniform bow decorations give the display a refined, classic look perfect for weddings, parties, or elegant dessert tables.\n\nThese macarons showcase meticulous craftsmanship in both baking and decoration. The soft pink shells contrast beautifully with the crisp white bows, creating a visually appealing treat that doubles as a decorative element for special occasions.",
+          "localImage": "assets/products/matches/batch-002-pinterest/9405725671649-5e0bb5dfc9c5.jpg",
+          "sha256": "5e0bb5dfc9c59ff8af96817c0d08010f2300b27177b58bfde2523c399bd69a28"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/heartshaped-macarons-with-white-bows--39547302972395559/",
+          "imageUrl": "https://i.pinimg.com/originals/8a/9b/85/8a9b85835a72c68443ea0caba757999c.jpg",
+          "description": "A neatly arranged box holds eight pink heart-shaped macarons, each nestled in its own paper cup. The macarons are filled with smooth white ganache and lightly dusted with sugar crystals. Delicate white fondant bows sit atop each heart, enhancing their charming appearance.\n\nPerfectly suited for special occasions, these macarons combine a romantic shape with elegant decoration. Their presentation in a divided white box makes them an ideal gift or centerpiece for celebrations.",
+          "localImage": "assets/products/matches/batch-002-pinterest/9405725671649-621993641ee8.jpg",
+          "sha256": "621993641ee82d1994e6063ced510a059699a1e30539ec05b4ad06b2f828fa39"
+        }
+      ],
+      "query": "Pink Bows Macarons Pinterest"
+    },
+    {
+      "n": 62,
+      "productId": "9405606592737",
+      "title": "Pink Roses Macarons",
+      "originalImage": "assets/products/9c12a37ecfaab6b4ed89.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/macarons--497225615104575455/",
+          "imageUrl": "https://i.pinimg.com/736x/64/74/f6/6474f6d2e14d3f0121b9ee0fc0de93df.jpg",
+          "description": "A spread of delicate pale pink macarons is elegantly arranged on a white surface, each smooth shell paired with a fresh pink rose blossom. The macarons’ glossy exteriors and creamy fillings complement the soft, layered petals of the roses, creating a harmonious pastel display.\n\nThis styling evokes a refined dessert presentation ideal for special occasions or afternoon tea. The combination of floral accents and pastel hues highlights both the craftsmanship of the macarons and the natural beauty of the roses.",
+          "localImage": "assets/products/matches/batch-002-pinterest/9405606592737-2a17817336f9.jpg",
+          "sha256": "2a17817336f9a73070b94074655150ebb98ba8d0a050995ae74fbd26272e1402"
+        }
+      ],
+      "query": "Pink Roses Macarons Pinterest"
+    },
+    {
+      "n": 63,
+      "productId": "9405603086561",
+      "title": "Pink Butterfly Cookies",
+      "originalImage": "assets/products/db154c797b4569ab1ab7.png",
+      "status": "applied",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/9710955419784936/",
+          "imageUrl": "https://i.pinimg.com/originals/33/da/49/33da4928b541bb1a127941660a3356bf.jpg",
+          "description": "A set of butterfly-shaped sugar cookies is decorated using a royal icing invisible outline technique. Each cookie is coated in a smooth pink base and accented with white piped lines forming wing patterns and small dot clusters near the edges. The cookies are neatly arranged on a white platter, emphasizing their uniform shape and intricate detailing.\n\nThis decorating method focuses on creating a clean, professional finish by piping an invisible outline before flooding the cookie surface. The result is a crisp edge and refined look, perfect for special occasions or elegant dessert tables.",
+          "localImage": "assets/products/matches/batch-002-pinterest/9405603086561-31a117f6a337.jpg",
+          "sha256": "31a117f6a33750e8b59666ee6f70cdfe4b1cbb7e621f6c7318c9f5203d56a696"
+        }
+      ],
+      "query": "Pink Butterfly Cookies Pinterest",
+      "selected": {
+        "sourceUrl": "https://www.pinterest.com/pin/9710955419784936/",
+        "imageUrl": "https://i.pinimg.com/originals/33/da/49/33da4928b541bb1a127941660a3356bf.jpg",
+        "description": "A set of butterfly-shaped sugar cookies is decorated using a royal icing invisible outline technique. Each cookie is coated in a smooth pink base and accented with white piped lines forming wing patterns and small dot clusters near the edges. The cookies are neatly arranged on a white platter, emphasizing their uniform shape and intricate detailing.\n\nThis decorating method focuses on creating a clean, professional finish by piping an invisible outline before flooding the cookie surface. The result is a crisp edge and refined look, perfect for special occasions or elegant dessert tables.",
+        "localImage": "assets/products/matches/batch-002-pinterest/9405603086561-31a117f6a337.jpg",
+        "sha256": "31a117f6a33750e8b59666ee6f70cdfe4b1cbb7e621f6c7318c9f5203d56a696"
+      },
+      "localImage": "assets/products/matches/batch-002-pinterest/9405603086561-31a117f6a337.jpg",
+      "sha256": "31a117f6a33750e8b59666ee6f70cdfe4b1cbb7e621f6c7318c9f5203d56a696",
+      "visualReview": {
+        "verified": true,
+        "tierCount": null,
+        "shape": "butterfly cookies",
+        "notes": "Pink butterfly-shaped iced cookies."
+      },
+      "reviewNote": "Pink butterfly-shaped iced cookies."
+    },
+    {
+      "n": 64,
+      "productId": "9405555540193",
+      "title": "Unicorn themed Cookies",
+      "originalImage": "assets/products/2f4b8acab72c8f222a81.png",
+      "status": "applied",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/custom-sugar-cookies-by-bouge-cookie-co--617837642673119209/",
+          "imageUrl": "https://i.pinimg.com/736x/64/a4/8f/64a48f4ff85102f784a96ced75c4591c.jpg",
+          "description": "A whimsical assortment of custom sugar cookies by Bouge Cookie Co features pastel-colored unicorn heads, golden horns, and rainbow arches with fluffy clouds. One cloud-shaped cookie is personalized with the name “Leonora” in multicolored script, while other cookies include the number six, piped rosettes, and tiny rainbow accents.\n\nThe cookies are iced in soft lavender, pink, mint, and white, with metallic gold highlights on the unicorn horns. The cohesive set suggests a unicorn-themed celebration, likely for a child’s birthday party, combining playful shapes and delicate piping techniques.",
+          "localImage": "assets/products/matches/batch-002-pinterest/9405555540193-6bf11286ce8c.jpg",
+          "sha256": "6bf11286ce8cdaffea576fa8027273dc01bba028ac3d1e6aeccebbdce1cdac8e"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/68741811091/",
+          "imageUrl": "https://i.pinimg.com/originals/91/0e/98/910e98b77ba060ca2679e7f827e92d21.jpg",
+          "description": "A set of pastel-hued sugar cookies showcases unicorn heads and decorative frames, each meticulously iced with royal icing. The unicorn manes swirl in layers of pink, purple, and teal, while gold piping outlines the shapes and highlights the horns. Some cookies feature the name \"Aubree\" in elegant pink script beneath a crown of icing flowers.\n\nThese cookies are designed for a unicorn-themed birthday celebration, offering a magical touch with their whimsical details and vibrant color palette. The combination of floral accents, gold trim, and personalized lettering makes them perfect for a festive party setting.",
+          "localImage": "assets/products/matches/batch-002-pinterest/9405555540193-53331d496cb6.jpg",
+          "sha256": "53331d496cb6cbe5736f9f256edcacc518155a136824ead9863b59adaa5d44e8"
+        }
+      ],
+      "query": "Unicorn themed Cookies Pinterest",
+      "selected": {
+        "sourceUrl": "https://www.pinterest.com/pin/68741811091/",
+        "imageUrl": "https://i.pinimg.com/originals/91/0e/98/910e98b77ba060ca2679e7f827e92d21.jpg",
+        "description": "A set of pastel-hued sugar cookies showcases unicorn heads and decorative frames, each meticulously iced with royal icing. The unicorn manes swirl in layers of pink, purple, and teal, while gold piping outlines the shapes and highlights the horns. Some cookies feature the name \"Aubree\" in elegant pink script beneath a crown of icing flowers.\n\nThese cookies are designed for a unicorn-themed birthday celebration, offering a magical touch with their whimsical details and vibrant color palette. The combination of floral accents, gold trim, and personalized lettering makes them perfect for a festive party setting.",
+        "localImage": "assets/products/matches/batch-002-pinterest/9405555540193-53331d496cb6.jpg",
+        "sha256": "53331d496cb6cbe5736f9f256edcacc518155a136824ead9863b59adaa5d44e8"
+      },
+      "localImage": "assets/products/matches/batch-002-pinterest/9405555540193-53331d496cb6.jpg",
+      "sha256": "53331d496cb6cbe5736f9f256edcacc518155a136824ead9863b59adaa5d44e8",
+      "visualReview": {
+        "verified": true,
+        "tierCount": null,
+        "shape": "unicorn cookies",
+        "notes": "White unicorn-head cookies with pastel manes and gold horns."
+      },
+      "reviewNote": "White unicorn-head cookies with pastel manes and gold horns."
+    },
+    {
+      "n": 65,
+      "productId": "9404199633121",
+      "title": "Roblox Cookies",
+      "originalImage": "assets/products/9e8cbfcd1c90f6c3b968.png",
+      "status": "applied",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/imuhstrangewon/roblox-cookies/",
+          "imageUrl": "https://i.pinimg.com/736x/30/17/34/3017340b86d29ad4812cd419cb30661a.jpg",
+          "description": "A collection of sugar cookies decorated for a Roblox-themed birthday party includes round cookies iced with the red Roblox 'R' logo, white plaques bearing the name \"Ryden\" alongside a blocky Roblox avatar, and circular cookies marked with the number \"6\". Each cookie is outlined or accented with gold icing dots, and a character face cookie features brown spiky hair, black headphones, and a smiling expression.\n\nThe cookies are arranged on a light wooden surface, showcasing a cohesive color palette of red, white, yellow, blue, and brown. These designs draw directly from Roblox branding and personalize the treats for a sixth birthday celebration, combining playful gaming motifs with festive confectionery artistry.",
+          "localImage": "assets/products/matches/batch-002-pinterest/9404199633121-d226df8e4daa.jpg",
+          "sha256": "d226df8e4daadd7091ffacca384eceadc220495c5c32dd3d5a010f169d246587"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/roblox--662732901442623012/",
+          "imageUrl": "https://i.pinimg.com/736x/2a/a1/b3/2aa1b33d31423a49ecd86624dddaf59e.jpg",
+          "description": "A grid of vibrantly iced sugar cookies displays Roblox-inspired shapes and initials. The cookies include the letter “R,” the number “8,” and the initials “AJ,” each decorated in bold reds, blues, and whites. Some feature a stylized character face with brown hair and a headset, adding a playful touch.\n\nThese treats are arranged neatly on a dark wooden surface, suggesting preparation for a children’s birthday party. The Pinterest pin by user Elenanikolenko highlights these cookies under a Roblox theme, inviting viewers to discover and save similar party ideas.",
+          "localImage": "assets/products/matches/batch-002-pinterest/9404199633121-b5d2ee49ae54.jpg",
+          "sha256": "b5d2ee49ae542efbbed684544fecc56834951776d0424334c1c598828fbfb1f2"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/imuhstrangewon/roblox-cookies/",
+          "imageUrl": "https://i.pinimg.com/originals/d0/6a/74/d06a74962b4a878a8989f6b1eb1a4a20.jpg",
+          "description": "A vibrant assortment of custom-decorated sugar cookies celebrates a child’s seventh birthday with a Roblox theme. The cookies are iced in bold primary colors—red, blue, yellow, and white—and feature iconic Roblox elements such as the stylized “R” logo, blocky avatar faces, and the number 7 set against star patterns. Two cloud-shaped cookies are personalized with the name “LINCOLN,” one reading “Happy Birthday LINCOLN” and another simply “LINCOLN,” tying the display to a specific celebrant.\n\nThese cookies were shared on a Pinterest board curated by Melody Emerson on September 28, 2020, showcasing creative Roblox cake and cookie ideas. The arrangement on a textured stone background emphasizes the playful, handcrafted nature of the treats, making them ideal inspiration for themed birthday parties.",
+          "localImage": "assets/products/matches/batch-002-pinterest/9404199633121-f8f9f556def2.jpg",
+          "sha256": "f8f9f556def29a1ecf609d411af3aa47c9a66d30208d72e57577d3300c78ec50"
+        }
+      ],
+      "query": "Roblox Cookies Pinterest",
+      "selected": {
+        "sourceUrl": "https://www.pinterest.com/imuhstrangewon/roblox-cookies/",
+        "imageUrl": "https://i.pinimg.com/736x/30/17/34/3017340b86d29ad4812cd419cb30661a.jpg",
+        "description": "A collection of sugar cookies decorated for a Roblox-themed birthday party includes round cookies iced with the red Roblox 'R' logo, white plaques bearing the name \"Ryden\" alongside a blocky Roblox avatar, and circular cookies marked with the number \"6\". Each cookie is outlined or accented with gold icing dots, and a character face cookie features brown spiky hair, black headphones, and a smiling expression.\n\nThe cookies are arranged on a light wooden surface, showcasing a cohesive color palette of red, white, yellow, blue, and brown. These designs draw directly from Roblox branding and personalize the treats for a sixth birthday celebration, combining playful gaming motifs with festive confectionery artistry.",
+        "localImage": "assets/products/matches/batch-002-pinterest/9404199633121-d226df8e4daa.jpg",
+        "sha256": "d226df8e4daadd7091ffacca384eceadc220495c5c32dd3d5a010f169d246587"
+      },
+      "localImage": "assets/products/matches/batch-002-pinterest/9404199633121-d226df8e4daa.jpg",
+      "sha256": "d226df8e4daadd7091ffacca384eceadc220495c5c32dd3d5a010f169d246587",
+      "visualReview": {
+        "verified": true,
+        "tierCount": null,
+        "shape": "Roblox cookies",
+        "notes": "Roblox character faces and logo-shaped iced cookies."
+      },
+      "reviewNote": "Roblox character faces and logo-shaped iced cookies."
+    },
+    {
+      "n": 66,
+      "productId": "9404195373281",
+      "title": "Purple Flower macarons",
+      "originalImage": "assets/products/9f5671b6d9625b4307b8.jpg",
+      "status": "applied",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/432345632968804658/",
+          "imageUrl": "https://i.pinimg.com/originals/87/11/4b/87114bdb2ffddf3f5fb4e43ba640bd16.jpg",
+          "description": "A Pinterest pin features a row of pastel purple and white macarons elegantly arranged on a light wooden tray. Each macaron is filled with a creamy lavender-colored filling and decorated with tiny violet flowers, enhancing the dessert’s delicate appearance.\n\nThe soft color palette and floral garnishes evoke a springtime or garden-party atmosphere. This charming presentation highlights the macarons’ smooth shells and textured filling, making them an inviting treat for special occasions or afternoon tea.",
+          "localImage": "assets/products/matches/batch-002-pinterest/9404195373281-7e8a94f9e49a.jpg",
+          "sha256": "7e8a94f9e49ac591be2172404b66bdf8fd6f4ed7aaaa49b02b6da6be96029913"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/annettesteve/purple-desserts/",
+          "imageUrl": "https://i.pinimg.com/474x/5f/5e/c8/5f5ec84cd4017ff02e5761712694ccc9.jpg",
+          "description": "A collection of pastel purple macarons is artfully arranged on a floral-patterned china plate, each cookie crowned with a sugared edible flower. The smooth, delicate shells and creamy lavender-hued filling create a harmonious visual appeal that complements the vintage-inspired tea set in the background.\n\nIdeal for spring gatherings or elegant tea parties, these macarons blend subtle floral flavors with a refined presentation. The soft natural lighting accentuates the gentle color palette and intricate sugar-crystal details, inviting viewers to savor both the taste and the aesthetic charm of these handcrafted treats.",
+          "localImage": "assets/products/matches/batch-002-pinterest/9404195373281-6b1a60e36e8a.jpg",
+          "sha256": "6b1a60e36e8a9238556d3480f228251d4f96ff62de0b0f76d51af630e3579cf0"
+        }
+      ],
+      "query": "Purple Flower macarons Pinterest",
+      "selected": {
+        "sourceUrl": "https://www.pinterest.com/annettesteve/purple-desserts/",
+        "imageUrl": "https://i.pinimg.com/474x/5f/5e/c8/5f5ec84cd4017ff02e5761712694ccc9.jpg",
+        "description": "A collection of pastel purple macarons is artfully arranged on a floral-patterned china plate, each cookie crowned with a sugared edible flower. The smooth, delicate shells and creamy lavender-hued filling create a harmonious visual appeal that complements the vintage-inspired tea set in the background.\n\nIdeal for spring gatherings or elegant tea parties, these macarons blend subtle floral flavors with a refined presentation. The soft natural lighting accentuates the gentle color palette and intricate sugar-crystal details, inviting viewers to savor both the taste and the aesthetic charm of these handcrafted treats.",
+        "localImage": "assets/products/matches/batch-002-pinterest/9404195373281-6b1a60e36e8a.jpg",
+        "sha256": "6b1a60e36e8a9238556d3480f228251d4f96ff62de0b0f76d51af630e3579cf0"
+      },
+      "localImage": "assets/products/matches/batch-002-pinterest/9404195373281-6b1a60e36e8a.jpg",
+      "sha256": "6b1a60e36e8a9238556d3480f228251d4f96ff62de0b0f76d51af630e3579cf0",
+      "visualReview": {
+        "verified": true,
+        "tierCount": null,
+        "shape": "macarons",
+        "notes": "Purple macarons topped with little flowers."
+      },
+      "reviewNote": "Purple macarons topped with little flowers."
+    },
+    {
+      "n": 67,
+      "productId": "9404183970017",
+      "title": "Pink & Gold Butterfly Macarons",
+      "originalImage": "assets/products/f2be65d0b078b373d2d5.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/elegant-pink-macaroons-with-gold-glitters-and-flowers--17099673581666424/",
+          "imageUrl": "https://i.pinimg.com/736x/1c/95/91/1c9591ca3afb0fc9529cc825eff70f11.jpg",
+          "description": "A set of five pastel-pink macarons is artfully arranged on a white decorative plate, each shell gleaming with edible gold dust. The macarons showcase a variety of gold embellishments, including brushstroke patterns, scattered flakes, and metallic highlights along the edges. Delicate sugar decorations—tiny daisies and a miniature bow—add a whimsical, feminine touch to the ensemble.\n\nThe creamy white filling between the shells provides a striking contrast to the vibrant pink and shimmering gold. This presentation evokes a luxurious dessert spread, perfect for upscale events or elegant gatherings. The clean white platter enhances the visual impact, allowing the colors and textures of the macarons to stand out.",
+          "localImage": "assets/products/matches/batch-002-pinterest/9404183970017-648d5e945ea5.jpg",
+          "sha256": "648d5e945ea5c8d63fe60f7be01a5cec7a93ebc593fd0886365e803c87b921f9"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/pink-gold-butterfly-baby-shower--394135404918056712/",
+          "imageUrl": "https://i.pinimg.com/736x/dc/90/36/dc9036816414c2a31d1979185665804d.jpg",
+          "description": "Delicate pink macarons lightly dusted with gold shimmer are arranged on an intricately cut white plate, perfectly complementing the butterfly-themed décor. These sweet treats were styled by Sharon Brodsky of Couture Creations in Brooklyn, NY, as part of an elegant baby shower featuring a soft pastel palette of pink, yellow, and metallic gold accents.\n\nThe ornate white dessert plate sits atop a rose gold sequined tablecloth, enhancing the luxurious and feminine atmosphere. Each macaron’s smooth shell and subtle gold flecks tie into the overall design, creating a cohesive and visually stunning dessert display.",
+          "localImage": "assets/products/matches/batch-002-pinterest/9404183970017-0ae6b86f5225.jpg",
+          "sha256": "0ae6b86f5225184b5879bf101324f057d671c6962210b0d72cf3596dcf6d1eb7"
+        }
+      ],
+      "query": "Pink & Gold Butterfly Macarons Pinterest"
+    },
+    {
+      "n": 68,
+      "productId": "9404182823137",
+      "title": "Cars Racing Cookies",
+      "originalImage": "assets/products/e2518ebd4184c7348a93.png",
+      "status": "applied",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/cmbutterworth/cookies-disneys-cars/",
+          "imageUrl": "https://i.pinimg.com/originals/1f/20/77/1f20778ab0cd9229e629fdbf4f86412a.jpg",
+          "description": "A vibrant assortment of sugar cookies inspired by Disney’s Cars characters and racing motifs is artfully arranged on a white backdrop. Lightning McQueen’s bright red form, Mater’s rustic brown tow-truck face, and Cruz Ramirez’s sunny yellow profile stand out among checkered-flag squares, golden trophy icons, and bold lightning bolts. Number “2” cookies and “Speed Limit 2” signs add a playful nod to racing, while custom name plaques reading “Ben” personalize the display.\n\nEach cookie showcases meticulous icing work, from the stitching details on the numbers to the expressive eyes and smiles of the Cars characters. This collection, featured on a Pinterest board by Cami Butterworth, offers creative inspiration for Disney Cars–themed parties and celebrations.",
+          "localImage": "assets/products/matches/batch-002-pinterest/9404182823137-b3f95d722ec5.jpg",
+          "sha256": "b3f95d722ec59e35b2edcd7ca8ee99508f61adbffc7e0dc16539e7ea2e04a155"
+        }
+      ],
+      "query": "Cars Racing Cookies Pinterest",
+      "selected": {
+        "sourceUrl": "https://www.pinterest.com/cmbutterworth/cookies-disneys-cars/",
+        "imageUrl": "https://i.pinimg.com/originals/1f/20/77/1f20778ab0cd9229e629fdbf4f86412a.jpg",
+        "description": "A vibrant assortment of sugar cookies inspired by Disney’s Cars characters and racing motifs is artfully arranged on a white backdrop. Lightning McQueen’s bright red form, Mater’s rustic brown tow-truck face, and Cruz Ramirez’s sunny yellow profile stand out among checkered-flag squares, golden trophy icons, and bold lightning bolts. Number “2” cookies and “Speed Limit 2” signs add a playful nod to racing, while custom name plaques reading “Ben” personalize the display.\n\nEach cookie showcases meticulous icing work, from the stitching details on the numbers to the expressive eyes and smiles of the Cars characters. This collection, featured on a Pinterest board by Cami Butterworth, offers creative inspiration for Disney Cars–themed parties and celebrations.",
+        "localImage": "assets/products/matches/batch-002-pinterest/9404182823137-b3f95d722ec5.jpg",
+        "sha256": "b3f95d722ec59e35b2edcd7ca8ee99508f61adbffc7e0dc16539e7ea2e04a155"
+      },
+      "localImage": "assets/products/matches/batch-002-pinterest/9404182823137-b3f95d722ec5.jpg",
+      "sha256": "b3f95d722ec59e35b2edcd7ca8ee99508f61adbffc7e0dc16539e7ea2e04a155",
+      "visualReview": {
+        "verified": true,
+        "tierCount": null,
+        "shape": "racing cookies",
+        "notes": "Iced racing-car and checkered-flag cookies."
+      },
+      "reviewNote": "Iced racing-car and checkered-flag cookies."
+    },
+    {
+      "n": 69,
+      "productId": "9403769716961",
+      "title": "Elegant Butterfly Macarons",
+      "originalImage": "assets/products/b15eacccc64dccdcaf33.png",
+      "status": "needs-better-match",
+      "candidates": [],
+      "query": "Elegant Butterfly Macarons Pinterest"
+    },
+    {
+      "n": 70,
+      "productId": "9402462896353",
+      "title": "Racing Cars Cookies",
+      "originalImage": "assets/products/976ca6b1aa2c717c4b50.jpg",
+      "status": "needs-better-match",
+      "candidates": [],
+      "query": "Racing Cars Cookies Pinterest"
+    },
+    {
+      "n": 71,
+      "productId": "9401236979937",
+      "title": "Barbie themed Cakesicles",
+      "originalImage": "assets/products/20ae7ebfcda47c399f9e.jpg",
+      "status": "applied",
+      "candidates": [
+        {
+          "sourceUrl": "https://pt.pinterest.com/pin/barbie-themed-cakesicles-barbie-treat-barbie-cake-pops-cakesicles-cake-pops-etsy-en-2024--914090055608443760/",
+          "imageUrl": "https://i.pinimg.com/736x/5f/bf/8f/5fbf8ff1fc8c503e30bfe76aaf64bfb8.jpg",
+          "description": "A collection of pink chocolate cakesicles is arranged on a white countertop with a tiled backsplash. Each treat is coated in pastel pink chocolate, drizzled with icing, and sprinkled with white and pink candy pearls and jimmies. A hand holds one prominently in the foreground, showcasing a bold 'Barbie' label and a delicate pink bow at the stick’s base.\n\nThese Barbie-themed cakesicles appear to be handcrafted confections, ideal for birthday celebrations or themed events. The image was sourced from an Etsy listing for homemade milk chocolate and birthday cake treats, though the specific item is currently unavailable.",
+          "localImage": "assets/products/matches/batch-002-pinterest/9401236979937-5873e199c66c.jpg",
+          "sha256": "5873e199c66cd003fbc28a906bf6c404f0d18926581563c5dbeb2f710d4806a4"
+        }
+      ],
+      "query": "Barbie themed Cakesicles Pinterest",
+      "selected": {
+        "sourceUrl": "https://pt.pinterest.com/pin/barbie-themed-cakesicles-barbie-treat-barbie-cake-pops-cakesicles-cake-pops-etsy-en-2024--914090055608443760/",
+        "imageUrl": "https://i.pinimg.com/736x/5f/bf/8f/5fbf8ff1fc8c503e30bfe76aaf64bfb8.jpg",
+        "description": "A collection of pink chocolate cakesicles is arranged on a white countertop with a tiled backsplash. Each treat is coated in pastel pink chocolate, drizzled with icing, and sprinkled with white and pink candy pearls and jimmies. A hand holds one prominently in the foreground, showcasing a bold 'Barbie' label and a delicate pink bow at the stick’s base.\n\nThese Barbie-themed cakesicles appear to be handcrafted confections, ideal for birthday celebrations or themed events. The image was sourced from an Etsy listing for homemade milk chocolate and birthday cake treats, though the specific item is currently unavailable.",
+        "localImage": "assets/products/matches/batch-002-pinterest/9401236979937-5873e199c66c.jpg",
+        "sha256": "5873e199c66cd003fbc28a906bf6c404f0d18926581563c5dbeb2f710d4806a4"
+      },
+      "localImage": "assets/products/matches/batch-002-pinterest/9401236979937-5873e199c66c.jpg",
+      "sha256": "5873e199c66cd003fbc28a906bf6c404f0d18926581563c5dbeb2f710d4806a4",
+      "visualReview": {
+        "verified": true,
+        "tierCount": null,
+        "shape": "cakesicles",
+        "notes": "Pink rectangular Barbie cakesicles."
+      },
+      "reviewNote": "Pink rectangular Barbie cakesicles."
+    },
+    {
+      "n": 72,
+      "productId": "9401231507681",
+      "title": "Barbie themed Cookies",
+      "originalImage": "assets/products/be03bba77bab3ccd4988.png",
+      "status": "needs-better-match",
+      "candidates": [],
+      "query": "Barbie themed Cookies Pinterest"
+    },
+    {
+      "n": 73,
+      "productId": "9401230786785",
+      "title": "Barbie Princess Cake",
+      "originalImage": "assets/products/264593646cb783afcfc9.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/castle-birthday-cake-ideas-images-pictures--577023771037318424/",
+          "imageUrl": "https://i.pinimg.com/736x/9b/d5/b7/9bd5b71ab3d716547d23bc249fb09c52.jpg",
+          "description": "A two-tiered pink fondant cake is crafted to resemble a princess castle, complete with four conical turrets decorated with golden bows and yellow flowers. The base tier features a wood-grain fondant door outlined in gold, while the top tier displays a prominent Barbie logo and cutouts of Barbie in elegant pink gowns. The cake sits on a teal fondant platform embossed with a cobblestone pattern, creating a whimsical fairytale scene perfect for a birthday celebration.\n\nThe design combines vibrant pink hues with gold accents and playful Barbie imagery. The Pinterest source highlights this as part of a collection of custom castle cake ideas for birthdays, weddings, and anniversaries, emphasizing its suitability for themed celebrations.",
+          "localImage": "assets/products/matches/batch-002-pinterest/9401230786785-96c8b54cd056.jpg",
+          "sha256": "96c8b54cd056af153262ebb274ee0dd0c1dd00f7b209c9671e0d70bca25e0918"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/25-beautiful-barbie-cake-ideas-to-celebrate-any-occasion-in-style--442056519696503081/",
+          "imageUrl": "https://i.pinimg.com/originals/f1/0b/b5/f10bb599f5c9da0aa019c91a6ead2013.jpg",
+          "description": "This tiered celebration cake presents a blonde Barbie doll at its center, her bodice adorned with delicate floral lace patterns. The skirt is crafted entirely from piped buttercream rosettes in alternating shades of pink, lavender, and white, producing a soft ombré effect. The cake rests on a silver base, ready for a birthday or special occasion.\n\nInspired by popular Barbie cake designs, this creation blends edible artistry with toy integration. The seamless transition from doll to frosting gown highlights skilled piping techniques and a cohesive color palette, making it an eye-catching centerpiece for any Barbie fan.",
+          "localImage": "assets/products/matches/batch-002-pinterest/9401230786785-c8bd72e6684f.jpg",
+          "sha256": "c8bd72e6684fd7f646d4d6fe61a2c0b8fc8381b24af3f6ecbf0ab3590ed7b846"
+        }
+      ],
+      "query": "Barbie Princess Cake Pinterest"
+    },
+    {
+      "n": 74,
+      "productId": "9401228394721",
+      "title": "Barbie Bow Cake",
+      "originalImage": "assets/products/68a8ed4417aa5faa7e8b.png",
+      "status": "applied",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/112238215705464785/",
+          "imageUrl": "https://i.pinimg.com/originals/19/9b/e1/199be1ca2e6b9be93f2669116d91a44d.jpg",
+          "description": "A pastel pink round cake adorned with a large fondant bow, scattered heart decorations, and a pink number \"3\" topper. The front bears a white plaque reading \"Barbie\" in vibrant pink script, emphasizing the theme. The cake rests on a gold board placed on a wooden surface, combining elegance with playful charm.\n\nThis design is featured on a Pinterest page offering Barbie-themed cake decor ideas, showcasing easy-to-make, classic options perfect for birthdays and special occasions. The page highlights both elegant and fun styles, encouraging personalized creations to express affection.",
+          "localImage": "assets/products/matches/batch-002-pinterest/9401228394721-c7e1857c9245.jpg",
+          "sha256": "c7e1857c9245509aa970d1be231f556c7c72f841ed3bb5b027721c962c4f5b9d"
+        }
+      ],
+      "query": "Barbie Bow Cake Pinterest",
+      "selected": {
+        "sourceUrl": "https://www.pinterest.com/pin/112238215705464785/",
+        "imageUrl": "https://i.pinimg.com/originals/19/9b/e1/199be1ca2e6b9be93f2669116d91a44d.jpg",
+        "description": "A pastel pink round cake adorned with a large fondant bow, scattered heart decorations, and a pink number \"3\" topper. The front bears a white plaque reading \"Barbie\" in vibrant pink script, emphasizing the theme. The cake rests on a gold board placed on a wooden surface, combining elegance with playful charm.\n\nThis design is featured on a Pinterest page offering Barbie-themed cake decor ideas, showcasing easy-to-make, classic options perfect for birthdays and special occasions. The page highlights both elegant and fun styles, encouraging personalized creations to express affection.",
+        "localImage": "assets/products/matches/batch-002-pinterest/9401228394721-c7e1857c9245.jpg",
+        "sha256": "c7e1857c9245509aa970d1be231f556c7c72f841ed3bb5b027721c962c4f5b9d"
+      },
+      "localImage": "assets/products/matches/batch-002-pinterest/9401228394721-c7e1857c9245.jpg",
+      "sha256": "c7e1857c9245509aa970d1be231f556c7c72f841ed3bb5b027721c962c4f5b9d",
+      "visualReview": {
+        "verified": true,
+        "tierCount": 1,
+        "shape": "round",
+        "notes": "One pink round Barbie cake with a large pink bow."
+      },
+      "reviewNote": "One pink round Barbie cake with a large pink bow."
+    },
+    {
+      "n": 75,
+      "productId": "9401224200417",
+      "title": "Basketball themed Macarons",
+      "originalImage": "assets/products/88885cbaedd8662a642f.png",
+      "status": "needs-better-match",
+      "candidates": [],
+      "query": "Basketball themed Macarons Pinterest"
+    },
+    {
+      "n": 76,
+      "productId": "9401211650273",
+      "title": "Basketball Cake",
+      "originalImage": "assets/products/e3a93f8a1ba4eda937cf.jpg",
+      "status": "applied",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/46513808644369187/",
+          "imageUrl": "https://i.pinimg.com/originals/e2/71/ae/e271aecef8a7f93c37b6d682bbc2bc82.jpg",
+          "description": "A vibrant, round birthday cake is styled to look like a basketball, featuring bright orange fondant, black piping for the ball’s characteristic lines, and a white icing net cascading down the sides. A thin red fondant band accents the top edge, while the celebratory message \"Happy 12th Birthday EJ!\" is neatly piped in white icing on the black cake board.\n\nThis one-tier chocolate cake sits on a scalloped white base placed on a rustic wooden table, set against a teal-painted brick wall. Perfect for a sports-loving child, the design combines playful basketball motifs with personalized birthday greetings.",
+          "localImage": "assets/products/matches/batch-002-pinterest/9401211650273-9fabec4a9802.jpg",
+          "sha256": "9fabec4a980234ee66b02612df30cfdc180537ae96522e5aa9af70e2fbfe03e9"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/basketball-cake-unique-birthday-dessert-idea--492649953012405/",
+          "imageUrl": "https://i.pinimg.com/736x/e5/d2/64/e5d26438c581208bb1f045e6e55f27bb.jpg",
+          "description": "A vibrant orange cake styled like a basketball rests on a white cake board labeled “ELDIN.” Black fondant lines trace the ball’s characteristic seams, and the number “14” sits atop the cake’s surface. Rising from the center is a hoop-shaped topper featuring a glittery basketball and the words “HAPPY BIRTHDAY.”\n\nThis design was shared on Pinterest as a unique birthday dessert idea for basketball fans. The webpage describes it as a hoop-shaped cake perfect for sports enthusiasts, aiming to impress guests with its creative theme.",
+          "localImage": "assets/products/matches/batch-002-pinterest/9401211650273-4c366c506c68.jpg",
+          "sha256": "4c366c506c688da142c33da66a6ef75dac3dccdaec223a7c3eba2207cb7c60a3"
+        },
+        {
+          "sourceUrl": "https://br.pinterest.com/pin/290271138495710542/",
+          "imageUrl": "https://i.pinimg.com/originals/f2/e8/7c/f2e87cca8aa8f88ea9b2a36ebdfb49d9.jpg",
+          "description": "A vibrant two-tiered orange birthday cake celebrates a 12th birthday with a basketball theme. The top tier features the name \"Thayson\" and the number \"12\" in bold white and orange lettering, flanked by two small basketball toppers. Above it, a miniature basketball hoop and two player silhouettes add dynamic flair.\n\nBlack icing borders each tier, while basketball silhouettes decorate the sides. The cake rests on a white stand, surrounded by coordinating orange, blue, and black balloons, creating a festive party atmosphere.",
+          "localImage": "assets/products/matches/batch-002-pinterest/9401211650273-e6b7a8b84214.jpg",
+          "sha256": "e6b7a8b8421469383f2c75aa71d49114ccfdfd1e690501f5cc3cc577ca79f802"
+        }
+      ],
+      "query": "Basketball Cake Pinterest",
+      "selected": {
+        "sourceUrl": "https://www.pinterest.com/pin/basketball-cake-unique-birthday-dessert-idea--492649953012405/",
+        "imageUrl": "https://i.pinimg.com/736x/e5/d2/64/e5d26438c581208bb1f045e6e55f27bb.jpg",
+        "description": "A vibrant orange cake styled like a basketball rests on a white cake board labeled “ELDIN.” Black fondant lines trace the ball’s characteristic seams, and the number “14” sits atop the cake’s surface. Rising from the center is a hoop-shaped topper featuring a glittery basketball and the words “HAPPY BIRTHDAY.”\n\nThis design was shared on Pinterest as a unique birthday dessert idea for basketball fans. The webpage describes it as a hoop-shaped cake perfect for sports enthusiasts, aiming to impress guests with its creative theme.",
+        "localImage": "assets/products/matches/batch-002-pinterest/9401211650273-4c366c506c68.jpg",
+        "sha256": "4c366c506c688da142c33da66a6ef75dac3dccdaec223a7c3eba2207cb7c60a3"
+      },
+      "localImage": "assets/products/matches/batch-002-pinterest/9401211650273-4c366c506c68.jpg",
+      "sha256": "4c366c506c688da142c33da66a6ef75dac3dccdaec223a7c3eba2207cb7c60a3",
+      "visualReview": {
+        "verified": true,
+        "tierCount": 1,
+        "shape": "round",
+        "notes": "One orange cylindrical basketball cake with a hoop topper."
+      },
+      "reviewNote": "One orange cylindrical basketball cake with a hoop topper."
+    },
+    {
+      "n": 77,
+      "productId": "9401211289825",
+      "title": "Basketball Square Birthday Cake",
+      "originalImage": "assets/products/a3443a2455e7aeec8e33.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/basketball-court-birthday-cake--18014467257274743/",
+          "imageUrl": "https://i.pinimg.com/originals/0c/4c/79/0c4c798430de9db19bb3a830d7b0fd7c.jpg",
+          "description": "A vibrant square cake is crafted to look like an orange basketball court, complete with detailed white court markings and a miniature hoop standing at one end. The top of the cake bears the message “HAPPY 1ST B’DAY” in white icing, celebrating a first birthday with a playful sports theme.\n\nAround the court, small plastic figurines of basketball players in green and red uniforms are arranged as if mid-game. The cake’s sides are decorated with basketball motifs and bordered by green icing piped to resemble grass, enhancing the sporty aesthetic.",
+          "localImage": "assets/products/matches/batch-002-pinterest/9401211289825-d0661b3306cc.jpg",
+          "sha256": "d0661b3306cc04dbb145611097146365fa8999a268cf042e0aebf16216f25237"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/dq-basketball-court-cake--166422148722825507/",
+          "imageUrl": "https://i.pinimg.com/originals/17/87/68/178768ad1dd8a4ec6ec32fd5abec8ca3.jpg",
+          "description": "A rectangular sheet cake is transformed into a miniature basketball court with wood-grain frosting and white icing lines marking the key and three-point arcs. Bright orange piped frosting borders the cake, sprinkled with white and brown confetti sprinkles for a festive touch. At the center, a realistic basketball topper sits atop the court, with “Dominick!” written in orange icing beneath it and “Happy Birthday” scripted above.\n\nThis creative dessert, known as the DQ Basketball Court Cake, is highlighted on Pinterest as an ideal treat for sports-themed birthday parties. The combination of detailed court design, vibrant colors, and personalized message makes it a standout centerpiece for any basketball enthusiast’s celebration.",
+          "localImage": "assets/products/matches/batch-002-pinterest/9401211289825-0ebf435ff34a.jpg",
+          "sha256": "0ebf435ff34aab7da5f8fb2f340d1ced9ee9153ddd999d50c009225d742e823a"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/basketball-birthday-cake--408420259941485008/",
+          "imageUrl": "https://i.pinimg.com/originals/3a/51/06/3a5106e20b0b14dec94dfef0f00aef79.jpg",
+          "description": "A festive rectangular cake sits on a silver board over a wooden table, celebrating Eric’s 15th birthday with a basketball theme. The white frosting is bordered by alternating red and blue piped icing, and red and blue sprinkles are scattered across the surface. Centered on top is a basketball graphic entering a black-iced hoop, flanked by the blue-iced message “Happy Birthday” above and “15th Eric” below.\n\nThis cake design combines vibrant team colors and sports imagery to create a personalized celebration centerpiece. The clean white backdrop highlights the bold red and blue accents, making it ideal for a basketball enthusiast’s milestone birthday.",
+          "localImage": "assets/products/matches/batch-002-pinterest/9401211289825-6b8a2cefed32.jpg",
+          "sha256": "6b8a2cefed32d20aebde090f9425e119be706edbe6f9e13d5d0a34437c681faf"
+        }
+      ],
+      "query": "Basketball Square Birthday Cake Pinterest"
+    },
+    {
+      "n": 78,
+      "productId": "9401210798305",
+      "title": "Sports themed Cakesicles",
+      "originalImage": "assets/products/3975a87b57ee4d295eb3.jpg",
+      "status": "applied",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/118923246404752922/",
+          "imageUrl": "https://i.pinimg.com/736x/73/dd/f2/73ddf28ca8da72d6137bf35695c26596.jpg",
+          "description": "A collection of soccer-inspired desserts is artfully displayed on a white platter and cake stand. Four cakesicles, dipped in alternating green and white coatings, each feature a small edible soccer ball on top and are mounted on wooden sticks. Behind them, matching cupcakes are frosted with bright green icing piped to mimic grass and crowned with identical soccer ball decorations.\n\nThese treats blend vivid green and white hues to evoke the look of a soccer field, making them perfect for sports-themed gatherings. The cohesive design and playful details cater to both soccer enthusiasts and dessert lovers seeking festive party fare.",
+          "localImage": "assets/products/matches/batch-002-pinterest/9401210798305-e3706cf3e5ae.jpg",
+          "sha256": "e3706cf3e5ae179e5ee833ce5e4d4fc4802d402b687162542434af02ae3fd79d"
+        }
+      ],
+      "query": "Sports themed Cakesicles Pinterest",
+      "selected": {
+        "sourceUrl": "https://www.pinterest.com/pin/118923246404752922/",
+        "imageUrl": "https://i.pinimg.com/736x/73/dd/f2/73ddf28ca8da72d6137bf35695c26596.jpg",
+        "description": "A collection of soccer-inspired desserts is artfully displayed on a white platter and cake stand. Four cakesicles, dipped in alternating green and white coatings, each feature a small edible soccer ball on top and are mounted on wooden sticks. Behind them, matching cupcakes are frosted with bright green icing piped to mimic grass and crowned with identical soccer ball decorations.\n\nThese treats blend vivid green and white hues to evoke the look of a soccer field, making them perfect for sports-themed gatherings. The cohesive design and playful details cater to both soccer enthusiasts and dessert lovers seeking festive party fare.",
+        "localImage": "assets/products/matches/batch-002-pinterest/9401210798305-e3706cf3e5ae.jpg",
+        "sha256": "e3706cf3e5ae179e5ee833ce5e4d4fc4802d402b687162542434af02ae3fd79d"
+      },
+      "localImage": "assets/products/matches/batch-002-pinterest/9401210798305-e3706cf3e5ae.jpg",
+      "sha256": "e3706cf3e5ae179e5ee833ce5e4d4fc4802d402b687162542434af02ae3fd79d",
+      "visualReview": {
+        "verified": true,
+        "tierCount": null,
+        "shape": "cakesicles",
+        "notes": "Rounded rectangular cakesicles with soccer-ball decoration."
+      },
+      "reviewNote": "Rounded rectangular cakesicles with soccer-ball decoration."
+    },
+    {
+      "n": 79,
+      "productId": "9401196052705",
+      "title": "Sports themed Cookies",
+      "originalImage": "assets/products/1a0904cc029f5c8b17e7.png",
+      "status": "needs-better-match",
+      "candidates": [],
+      "query": "Sports themed Cookies Pinterest"
+    },
+    {
+      "n": 80,
+      "productId": "9401190056161",
+      "title": "Baketball themed Cakepops",
+      "originalImage": "assets/products/9433e673758b795ecf36.png",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/392939136231249017/",
+          "imageUrl": "https://i.pinimg.com/originals/da/fb/44/dafb447fd9fe1a5948bb67450c2f0a47.jpg",
+          "description": "A set of twelve orange cake pops, each decorated with black icing lines to mimic basketball seams and a red band adorned with white sugar beads, stands upright on a white display block. The uniform arrangement highlights the vibrant orange color and intricate detailing of each treat.\n\nThese cake pops, sold by DessertsForDaysNJ on Etsy, have garnered 367 favorites and ship from North Bergen, NJ. Listed on August 27, 2025, they are designed for sports-themed parties, birthdays, and dessert tables, offering a playful and edible basketball motif.",
+          "localImage": "assets/products/matches/batch-002-pinterest/9401190056161-42fc97e85cbf.jpg",
+          "sha256": "42fc97e85cbfde3ca38e43f36da9d72ce51578d434322c7c9d26029a2dcb9d4f",
+          "businessNameVisible": true
+        },
+        {
+          "sourceUrl": "https://ph.pinterest.com/amyignacio/ny-knicks-baby-shower/",
+          "imageUrl": "https://i.pinimg.com/originals/80/9e/02/809e025f84c854103d4526f05b709ace.jpg",
+          "description": "These vibrant orange cake pops are meticulously decorated to look like miniature basketballs, featuring black chocolate lines and white icing nets. Each treat is mounted on a white stick, creating a cohesive display ideal for a sports-themed celebration. The bright hues and precise icing details capture the playful spirit of a New York Knicks baby shower, blending team colors with festive dessert artistry.\n\nPerfect for fans of basketball and party planners alike, these cake pops demonstrate how themed treats can elevate an event. The uniform arrangement and consistent design showcase careful craftsmanship, making them both visually appealing and deliciously fun.",
+          "localImage": "assets/products/matches/batch-002-pinterest/9401190056161-c0be3ab1c424.jpg",
+          "sha256": "c0be3ab1c4241e67f6b38c6ec55aa2211cb28efa5b86f8a108b6bb31cb29cb64"
+        }
+      ],
+      "query": "Baketball themed Cakepops Pinterest",
+      "reviewNote": "Visible third-party bakery name, logo or photo credit in the full-size image. Replacement remains pending."
+    },
+    {
+      "n": 81,
+      "productId": "9400110317793",
+      "title": "White Feathers Tiered Cake",
+      "originalImage": "assets/products/0639978b7c1bd43308f3.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://fi.pinterest.com/pin/563231497166063485/",
+          "imageUrl": "https://i.pinimg.com/1200x/3f/06/37/3f063747897bbcd5e4fc24d55c744db4.jpg",
+          "description": "A three-tier white wedding cake features a smooth fondant finish and a dramatic cascade of delicate white feathers flowing from top to bottom. The feathers add texture and movement, creating a striking contrast against the cake’s clean, minimalist design. At the summit, a gold bird-shaped topper introduces a modern, luxurious accent that complements the cake’s elegant aesthetic.\n\nPerfect for a contemporary wedding celebration, this cake blends simplicity with refined details. The monochromatic white palette and feather embellishments evoke a sense of lightness and sophistication, making it an ideal centerpiece for couples seeking a stylish and memorable dessert display.",
+          "localImage": "assets/products/matches/batch-002-pinterest/9400110317793-367f689ad052.jpg",
+          "sha256": "367f689ad052ca5313fc2ea9806b50dd1bfb9194b9d2b2309d88dbebf43eb431"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/32932641005073434/",
+          "imageUrl": "https://i.pinimg.com/736x/72/ae/68/72ae6843a8851af7615816b72761ff07.jpg",
+          "description": "A three-tier white wedding cake rests on a polished silver pedestal, its middle layer adorned with meticulously crafted feather-like icing. Two tall white feather plumes and a small floral accent crown the top tier, adding height and a whimsical touch. The cake sits beside a mirror and neatly arranged silverware, hinting at a refined reception setup.\n\nThis design, highlighted on Pinterest by Rachael Bennett under Incredible Edibles, blends classic elegance with modern artistry. The feather motif and clean white palette create an ethereal focal point perfect for a sophisticated wedding celebration.",
+          "localImage": "assets/products/matches/batch-002-pinterest/9400110317793-5ea77780d126.jpg",
+          "sha256": "5ea77780d126458ba42710275812236fe485e3c42ab641a3fd7a0a34536adfc5"
+        }
+      ],
+      "query": "White Feathers Tiered Cake Pinterest"
+    },
+    {
+      "n": 82,
+      "productId": "9399966367969",
+      "title": "Football themed Butter Cookies",
+      "originalImage": "assets/products/47e8e887eb40c332a978.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/football-and-stadium-cookies--56435801561750630/",
+          "imageUrl": "https://i.pinimg.com/736x/e5/36/2f/e5362ff2690794e808f75ce1a0f156f7.jpg",
+          "description": "A collection of intricately decorated sugar cookies sits on a white serving plate atop a granite countertop. The assortment includes brown football-shaped cookies detailed with white icing laces and dot patterns, alongside rectangular cookies iced to resemble green football fields complete with yard line markings and a border of colorful sprinkles. \n\nPerfect for a Super Bowl party or game-day celebration, these cookies combine playful design with vibrant colors. The mix of classic football imagery and festive sprinkles creates an inviting treat display that captures the spirit of the sport.",
+          "localImage": "assets/products/matches/batch-002-pinterest/9399966367969-f33d01fdd030.jpg",
+          "sha256": "f33d01fdd0300da6cf1ce96a813131e9d9f692363bfebf917210ac0f02f6e498"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/486670303498328477/",
+          "imageUrl": "https://i.pinimg.com/736x/9e/a0/ec/9ea0ecc1cfe572dfa6ac7a97e3ca5ae3.jpg",
+          "description": "A collection of intricately decorated sugar cookies celebrates Super Bowl Sunday with football-themed designs. Brown football-shaped cookies are detailed with white icing laces, while round field cookies combine green yard-line icing with colorful sprinkles. Square cookies feature hand-drawn play diagrams of Xs and Os, adding a playful strategic element.\n\nOriginally shared on Pinterest, these cookies were made for last year’s Super Bowl celebration. The creator notes disappointment at not baking new cookies this year, opting to showcase these festive treats instead. Displayed on a marble tabletop, the assortment highlights creative icing techniques and vibrant, game-day spirit.",
+          "localImage": "assets/products/matches/batch-002-pinterest/9399966367969-42b4cc40c479.jpg",
+          "sha256": "42b4cc40c47926f54f617642aef57599ced68c9a530735a553797359caeb89db"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/217861700712522548/",
+          "imageUrl": "https://i.pinimg.com/originals/b7/6b/3e/b76b3ee4dc7770bf4fd17bd1612b17ed.jpg",
+          "description": "A platter holds an assortment of football-themed sugar cookies decorated by Bailey Lane Baking Co. Brown football-shaped cookies feature white icing laces, while round cookies are half-covered in green icing and multicolored sprinkles. Square cookies display black icing play diagrams—Xs, Os, and arrows—on white backgrounds, evoking game strategy boards. The vibrant designs and varied shapes make these treats perfect for a football party or game-day celebration.",
+          "localImage": "assets/products/matches/batch-002-pinterest/9399966367969-ee6c1c4cab74.jpg",
+          "sha256": "ee6c1c4cab74c1c066b166c29240af679ae194b527db1fee18e1c9b3853ac3b9"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/football-sugar-cookies--7036943157678027/",
+          "imageUrl": "https://i.pinimg.com/736x/d4/ab/6d/d4ab6d89935e1b86e42522c5cd58dcd1.jpg",
+          "description": "A neat arrangement of fifteen football-shaped sugar cookies sits inside a plain cardboard box. Each cookie features a base layer of brown buttercream frosting, piped in parallel lines to resemble the texture of a football. White icing accents outline the football shape and add laces, creating a realistic miniature replica of the classic sports ball.\n\nThese handcrafted treats are ideal for a game-day celebration or sports-themed party. The consistent piping and uniform layout highlight the baker’s attention to detail, while the simple packaging keeps the focus on the decorative cookies themselves.",
+          "localImage": "assets/products/matches/batch-002-pinterest/9399966367969-8500d89f5084.jpg",
+          "sha256": "8500d89f50845062800db091eab618902b6b1ce84be1ca7ed3793264525790e8"
+        }
+      ],
+      "query": "Football themed Butter Cookies Pinterest"
+    },
+    {
+      "n": 83,
+      "productId": "9399955587297",
+      "title": "Football themed Macarons",
+      "originalImage": "assets/products/66e823fb243309ca416e.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/football-macarons--854628466757340099/",
+          "imageUrl": "https://i.pinimg.com/736x/0d/86/93/0d869314879156a11454bef93c4f1d00.jpg",
+          "description": "A brown macaron with piped white icing laces mimics the look of a miniature football, resting on a bold black-and-white chevron cloth. The smooth, glossy shell and precise lace detailing capture the essence of a game-day snack, perfect for football-themed parties. This playful dessert idea is featured on a Pinterest page offering recipes and presentation tips for “Football Macarons | Delicious Desserts.”",
+          "localImage": "assets/products/matches/batch-002-pinterest/9399955587297-5c309f880a32.jpg",
+          "sha256": "5c309f880a329d12d1fcafd1296f47c41583a597800598dca2950c38271a8d8f"
+        }
+      ],
+      "query": "Football themed Macarons Pinterest"
+    },
+    {
+      "n": 84,
+      "productId": "9399929962721",
+      "title": "Football themed Cupcakes",
+      "originalImage": "assets/products/a4d84f810c7399a78d6e.jpg",
+      "status": "needs-better-match",
+      "candidates": [],
+      "query": "Football themed Cupcakes Pinterest"
+    },
+    {
+      "n": 85,
+      "productId": "9399925309665",
+      "title": "Football themed Cakepops",
+      "originalImage": "assets/products/77187e330a6f2be0fdfb.jpg",
+      "status": "applied",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/football-cake-pops--169448004714168914/",
+          "imageUrl": "https://i.pinimg.com/736x/a7/91/8f/a7918f2652de73991ccfa057392dce7d.jpg",
+          "description": "A collection of chocolate-coated cake pops shaped like miniature footballs is presented on white sticks, nestled in a soft white cloth. Each pop features white icing laces and end stripes, creating a realistic football appearance. The rich dark chocolate coating contrasts with the bright white details, making them visually striking for a sports-themed event.\n\nThese treats were crafted by Lori's Lollicakes and shared on Pinterest under the title \"Football cake pops | Chocolate dipped pretzels, Football cake pops, Chocolate dipped pretzel rods.\" The pin encourages viewers to discover and save similar dessert ideas for game-day celebrations.",
+          "localImage": "assets/products/matches/batch-002-pinterest/9399925309665-1a269787adf0.jpg",
+          "sha256": "1a269787adf0091ce3d7dd844e20218f7237303d96a2ee8d8065d0e9c4dc1b86"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/soccer-cake-pops--301459768788328109/",
+          "imageUrl": "https://i.pinimg.com/736x/ab/c7/6e/abc76e6060e4cdf93a945f4739cd8998.jpg",
+          "description": "A set of white cake pops is arranged in orderly rows, each topped with black pentagon shapes to mimic a soccer ball. Green icing piped around the base of each ball resembles grass, adding a playful touch to the sports-themed treats.\n\nLabeled “Dani’s CakePop Shoppe,” these cake pops are showcased on a Pinterest page titled “Soccer Cake Pops with Green and White Icing.” The description notes they’re perfect for soccer birthday parties and football-themed events, combining classic soccer imagery with festive green accents for a fun presentation.",
+          "localImage": "assets/products/matches/batch-002-pinterest/9399925309665-c90556f8d88c.jpg",
+          "sha256": "c90556f8d88c316418a71a74b667456ed1ad4a06c301b5344dce3c0adb7c681a",
+          "businessNameVisible": true
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/ideas/football-cakesicles/958332881599/",
+          "imageUrl": "https://i.pinimg.com/474x/c3/8f/f3/c38ff32a1d78f0e33da5df7bc33d0b2b.jpg",
+          "description": "A collection of football-themed cake pops is arranged on a tray, featuring alternating designs of brown footballs with white icing laces and green helmets with white facemasks. Each cake pop is mounted on a white stick, creating a uniform presentation perfect for serving at sports-themed gatherings. The contrasting colors of green, brown, and white highlight the playful and festive nature of these treats.\n\nSourced from a Pinterest idea board titled \"Football Cakesicles,\" these desserts offer creative inspiration for game-day parties. The webpage encourages users to save and recreate these designs, showcasing how simple cake pops can be transformed into themed confections with minimal decoration techniques.",
+          "localImage": "assets/products/matches/batch-002-pinterest/9399925309665-d06a5688db9a.jpg",
+          "sha256": "d06a5688db9ab18ead0163387935765dcd788f48aabab4da8048f332efefdfc5"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/168744317263138667/",
+          "imageUrl": "https://i.pinimg.com/originals/75/3c/f1/753cf103fc69dddfd446663195a3eb55.jpg?nii=t",
+          "description": "A collection of white cake pops stands upright in a plastic holder, each decorated with black pentagon shapes to resemble classic soccer balls. Green icing at the base of each pop adds a grass-like effect, enhancing the sports theme. These uniform treats are perfect for World Cup parties or soccer-themed birthday celebrations, combining playful design with edible fun.\n\nThis image was featured on a Pinterest board titled “Desserts Fit For the World Cup, Soccer Treat Central!” which highlights a variety of soccer-inspired desserts including cupcakes, cakes, cake pops, and cookies. The roundup emphasizes festive snack ideas tailored for soccer fans and celebratory events.",
+          "localImage": "assets/products/matches/batch-002-pinterest/9399925309665-db6f24d1e89a.jpg",
+          "sha256": "db6f24d1e89ab8fdf622a093855588bc0e802899be9c25d666ac09012d293a2c"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/wedding-and-party-ideas--5559199510118301/",
+          "imageUrl": "https://i.pinimg.com/736x/5f/39/da/5f39da822c9a0356dcd02f70a013eb37.jpg",
+          "description": "A decorative arrangement features green and white cake pops, alternating between soccer ball designs and green sprinkle coatings. Each pop is mounted on a white stick and inserted into a white container filled with green paper shreds, creating a cohesive sports-themed presentation. This setup offers a playful and festive touch ideal for wedding receptions, birthday parties, or soccer fan gatherings.\n\nThe pin originates from a Pinterest board dedicated to wedding and party ideas, curated by Heather Petersen Pineda. The image highlights a DIY dessert concept that blends color coordination with thematic design, making it a standout centerpiece or party favor display.",
+          "localImage": "assets/products/matches/batch-002-pinterest/9399925309665-a01d906cceda.jpg",
+          "sha256": "a01d906cceda4bb353b1ce9adcaef0260900e360b66d8fb78e86b9219f1f81c8"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/264727284323149465/",
+          "imageUrl": "https://i.pinimg.com/originals/c0/55/54/c055544f55ed091fc5623c0e111d2662.jpg",
+          "description": "A collection of five soccer ball–themed cake pops stands upright on white toothpicks, each coated in white chocolate and adorned with black pentagon shapes. They are nestled in green grass against a bright blue backdrop, creating a playful and sporty presentation perfect for World Cup viewing parties.\n\nThese treats combine festive design with sweet flavors, making them ideal for sharing with friends during soccer matches. The detailed decoration and vibrant setting emphasize the celebratory mood of the event.",
+          "localImage": "assets/products/matches/batch-002-pinterest/9399925309665-aa46d69c365b.jpg",
+          "sha256": "aa46d69c365b3992abb244acbe94132c85b6ceb7dd25ba9313db4afe5a183885"
+        }
+      ],
+      "query": "Football themed Cakepops Pinterest",
+      "reviewNote": "Soccer-ball cake pops with matching green cake pops; full-size image reviewed with no visible bakery name.",
+      "selected": {
+        "sourceUrl": "https://www.pinterest.com/pin/wedding-and-party-ideas--5559199510118301/",
+        "imageUrl": "https://i.pinimg.com/736x/5f/39/da/5f39da822c9a0356dcd02f70a013eb37.jpg",
+        "description": "A decorative arrangement features green and white cake pops, alternating between soccer ball designs and green sprinkle coatings. Each pop is mounted on a white stick and inserted into a white container filled with green paper shreds, creating a cohesive sports-themed presentation. This setup offers a playful and festive touch ideal for wedding receptions, birthday parties, or soccer fan gatherings.\n\nThe pin originates from a Pinterest board dedicated to wedding and party ideas, curated by Heather Petersen Pineda. The image highlights a DIY dessert concept that blends color coordination with thematic design, making it a standout centerpiece or party favor display.",
+        "localImage": "assets/products/matches/batch-002-pinterest/9399925309665-a01d906cceda.jpg",
+        "sha256": "a01d906cceda4bb353b1ce9adcaef0260900e360b66d8fb78e86b9219f1f81c8"
+      },
+      "localImage": "assets/products/matches/batch-002-pinterest/9399925309665-a01d906cceda.jpg",
+      "sha256": "a01d906cceda4bb353b1ce9adcaef0260900e360b66d8fb78e86b9219f1f81c8",
+      "visualReview": {
+        "verified": true,
+        "tierCount": null,
+        "shape": "round cake pops",
+        "notes": "Soccer-ball cake pops with matching green cake pops; full-size image reviewed with no visible bakery name."
+      }
+    },
+    {
+      "n": 86,
+      "productId": "9399919476961",
+      "title": "Football Chocolate-Smash Cake",
+      "originalImage": "assets/products/d916c87ed50cbbd73188.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://es.pinterest.com/pin/228205906113177207/",
+          "imageUrl": "https://i.pinimg.com/736x/da/42/42/da42427c6ab42f3a669ade1d215c9102.jpg",
+          "description": "A charming two-tier football-themed smash cake celebrates a baby’s first birthday with playful details. The top tier is coated in smooth chocolate frosting, adorned with white icing laces and topped by a yellow '1' candle. The bottom tier mimics a football field, featuring green grass-like frosting, white yard lines, the numbers '10' and '20', and miniature fondant footballs. A smaller matching smash cake echoes the football lace design, completing the festive setup on a wooden table by a window.\n\nThe cake was shared on Pinterest under \"Football Smash Cake Ideas - First Year Down Birthday Party,\" highlighting personalized and adorable football designs perfect for a one-year-old’s cake smash celebration.",
+          "localImage": "assets/products/matches/batch-002-pinterest/9399919476961-9835c4740164.jpg",
+          "sha256": "9835c47401648c697b2ac0d7a6c90104a764b0da0afc60305a9f183dbee2c566"
+        }
+      ],
+      "query": "Football Chocolate-Smash Cake Pinterest"
+    },
+    {
+      "n": 87,
+      "productId": "9399913480417",
+      "title": "Football Cake",
+      "originalImage": "assets/products/6d50c7131a53fec3f60c.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/140806231436495/",
+          "imageUrl": "https://i.pinimg.com/originals/82/a8/10/82a810ed915bcb7a109a151a01fe739e.jpg",
+          "description": "A homemade cake shaped and frosted to look like a classic brown football rests on a green \"grass\" base. White icing details include the laces and end stripes, while the name \"Knox 1\" is piped in white at the front edge. The cake sits on a foil-covered board, held by a hand wearing a black wristband, against a backdrop of wooden kitchen cabinets and a granite countertop.\n\nThis image accompanies an \"Easy Football Cake Recipe\" from Pinterest, which highlights a simple method for creating a festive football-shaped cake perfect for Game Day or themed birthday parties. The recipe promises an impressive centerpiece that’s both straightforward to assemble and visually striking for guests.",
+          "localImage": "assets/products/matches/batch-002-pinterest/9399913480417-d7bf6108399d.jpg",
+          "sha256": "d7bf6108399d7b4361c39eec951012ecd799738a0e92d6b44a624d024e3b593d"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/football-cake-1st-birthday--1688918603180532/",
+          "imageUrl": "https://i.pinimg.com/736x/ae/6f/bc/ae6fbc220d1d50ff72bbbf851110aa8f.jpg",
+          "description": "A vibrant green and white cake mimics a football field, complete with white fondant yard lines and piped green frosting grass. Atop the cake sits a realistic chocolate football adorned with white icing laces. Around the base, the name “WILLIAM” is spelled out in brown letters, and the numbers “1 2 0 3 0 4 0 5” encircle the cake’s side. This design, showcased on a Pinterest page titled “Football Cake 1st Birthday,” is ideal for celebrating a little MVP’s first birthday with a sporty twist.",
+          "localImage": "assets/products/matches/batch-002-pinterest/9399913480417-8cc53a260cdc.jpg",
+          "sha256": "8cc53a260cdc86f4e4f6928b9e7befeb5f385753a5ff4ae2c72ba1e2cdaff8e3"
+        },
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/football-birthday-cake-ideas-score-big-with-these-10-creative-designs-in-2024--871728071611511138/",
+          "imageUrl": "https://i.pinimg.com/736x/90/c5/9d/90c59d8b4345ea4a072245f63e4c086c.jpg",
+          "description": "A two-tier cake combines vibrant team colors and football motifs for a sports-themed celebration. The bottom tier is covered in green fondant with white yard line markings at 20, 30, 40, and 50, mimicking a football field. The top tier is wrapped in blue fondant, featuring a fondant jersey with the number 12 and a small team logo. A realistic fondant football sits on top, accented by decorative ribbons, creating a festive centerpiece for a football fan’s birthday party.",
+          "localImage": "assets/products/matches/batch-002-pinterest/9399913480417-2bff5e1d92c5.jpg",
+          "sha256": "2bff5e1d92c504402a773980865744780ff6e6103ec3c85a2f884d2b85088afe"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/football-birthday-cake-with-green-frosting--492649952647431/",
+          "imageUrl": "https://i.pinimg.com/736x/04/2d/92/042d929ef7b6c058c88c7e2279a79f2f.jpg",
+          "description": "A vibrant green birthday cake celebrates an eight-year-old named Liam with sporty flair. White yard-line markings encircle the cake’s sides, while the top displays \"LIAM\" and the number \"8\" in bold white fondant. A realistic chocolate football, complete with white laces and a Nike swoosh, sits on a ring of piped green frosting grass, adding a playful touch.\n\nThis cake, featured on a Pinterest page titled \"Football Birthday Cake with Green Frosting,\" is designed for football fans. The green and white color scheme, along with the personalized name and age, makes it a perfect centerpiece for a child’s football-themed birthday party.",
+          "localImage": "assets/products/matches/batch-002-pinterest/9399913480417-1dec159ba560.jpg",
+          "sha256": "1dec159ba560e5751df43a2db19d8b0a4b667a6f8c9eb3e89bc381d2ed78e09c"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/540994973996831374/",
+          "imageUrl": "https://i.pinimg.com/originals/a6/65/aa/a665aa91798b49a142c84db94f1a0e9c.jpg",
+          "description": "A vibrant green birthday cake styled as a miniature football field is topped with a three-dimensional fondant football. White icing yard lines and goal markers encircle the cake’s sides, while “Happy Birthday” is neatly piped across the top. The realistic football and field details create a playful sports-themed centerpiece perfect for a football fan’s celebration.\n\nThis design is featured on a Pinterest page for Craig’s Cake Shop, which specializes in custom event cakes. The shop’s reputation for time-tested recipes and dedicated craftsmanship is highlighted, encouraging orders for birthdays, weddings, and other special occasions.",
+          "localImage": "assets/products/matches/batch-002-pinterest/9399913480417-8559abf00d49.jpg",
+          "sha256": "8559abf00d4982902b2bd6792c9de5618ebf06bcb7b006dd1af7c6cf1eb2607e"
+        }
+      ],
+      "query": "Football Cake Pinterest"
+    },
+    {
+      "n": 88,
+      "productId": "9399890018529",
+      "title": "Cookie Monster Cake & Macarons",
+      "originalImage": "assets/products/18283bb03ecad7a712ec.jpg",
+      "status": "needs-better-match",
+      "candidates": [],
+      "query": "Cookie Monster Cake & Macarons Pinterest"
+    },
+    {
+      "n": 89,
+      "productId": "9399888806113",
+      "title": "Space themed Cakesicles",
+      "originalImage": "assets/products/4aca5b8638cb14bc544c.jpg",
+      "status": "applied",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/sugarologie/space-desserts/",
+          "imageUrl": "https://i.pinimg.com/474x/e8/3e/1d/e83e1dbe8674ec351fc500dae1c3e488.jpg",
+          "description": "Three popsicles lie side by side on a clean white background, each covered in a glossy mirror glaze that swirls deep blues and purples to mimic the look of a distant galaxy. Tiny silver and blue sprinkles, along with small star-shaped confetti, are scattered across both the popsicles and the surrounding surface, enhancing the cosmic theme.\n\nThe reflective finish of the glaze creates fluid, nebula-like patterns on each treat, showcasing a popular space-themed dessert technique. These galaxy popsicles illustrate how mirror glazes and metallic accents can transform simple frozen treats into visually stunning confections.",
+          "localImage": "assets/products/matches/batch-002-pinterest/9399888806113-0c3c875eaaf8.jpg",
+          "sha256": "0c3c875eaaf86215801ec114104b1c7c2e8112906ec4d31c769a46c0eecc8a7d"
+        }
+      ],
+      "query": "Space themed Cakesicles Pinterest",
+      "selected": {
+        "sourceUrl": "https://www.pinterest.com/sugarologie/space-desserts/",
+        "imageUrl": "https://i.pinimg.com/474x/e8/3e/1d/e83e1dbe8674ec351fc500dae1c3e488.jpg",
+        "description": "Three popsicles lie side by side on a clean white background, each covered in a glossy mirror glaze that swirls deep blues and purples to mimic the look of a distant galaxy. Tiny silver and blue sprinkles, along with small star-shaped confetti, are scattered across both the popsicles and the surrounding surface, enhancing the cosmic theme.\n\nThe reflective finish of the glaze creates fluid, nebula-like patterns on each treat, showcasing a popular space-themed dessert technique. These galaxy popsicles illustrate how mirror glazes and metallic accents can transform simple frozen treats into visually stunning confections.",
+        "localImage": "assets/products/matches/batch-002-pinterest/9399888806113-0c3c875eaaf8.jpg",
+        "sha256": "0c3c875eaaf86215801ec114104b1c7c2e8112906ec4d31c769a46c0eecc8a7d"
+      },
+      "localImage": "assets/products/matches/batch-002-pinterest/9399888806113-0c3c875eaaf8.jpg",
+      "sha256": "0c3c875eaaf86215801ec114104b1c7c2e8112906ec4d31c769a46c0eecc8a7d",
+      "visualReview": {
+        "verified": true,
+        "tierCount": null,
+        "shape": "cakesicles",
+        "notes": "Rounded rectangular blue-purple galaxy cakesicles with stars."
+      },
+      "reviewNote": "Rounded rectangular blue-purple galaxy cakesicles with stars."
+    },
+    {
+      "n": 90,
+      "productId": "9399887200481",
+      "title": "Astronaut Space Cake",
+      "originalImage": "assets/products/775a910faff16675afbe.jpg",
+      "status": "applied",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/3518505952916612/",
+          "imageUrl": "https://i.pinimg.com/originals/16/36/d8/1636d81e4d237fe0165ef93b86aff28d.jpg",
+          "description": "A galaxy-inspired cake titled “Торт Космос” showcases a deep blue and purple marbled icing speckled with edible glitter to evoke a starry night sky. Atop the cake sits a detailed white astronaut figurine, legs dangling over the edge, surrounded by colorful planet spheres and golden star toppers.\n\nThe planets feature varied hues—marbled blues, yellows, reds—and one ringed planet, all mounted on thin wires to appear floating. This unique design, intended for a first birthday celebration, combines playful space elements with elegant decoration, making it a memorable centerpiece.",
+          "localImage": "assets/products/matches/batch-002-pinterest/9399887200481-9d2f83ba5635.jpg",
+          "sha256": "9d2f83ba5635ecec449984eb3bdd6277b9efa7ead13626b19afc77978b14647a"
+        },
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/astronaut-theme-cake--25684660369698630/",
+          "imageUrl": "https://i.pinimg.com/736x/15/26/e5/1526e5a861c07bcffe4a43f56ec5a576.jpg",
+          "description": "A blue marbled cake by Mom is Bakeology features a white fondant astronaut perched on a crescent moon, accented with gold-painted helmet and suit details. Surrounding the astronaut are three colorful fondant planets—orange, brown, and blue—resting on the cake’s top and base. Tiny white star sprinkles adorn the sides, completing the space-themed design.\n\nThe cake’s vibrant blue icing and metallic gold highlights create a striking contrast, making it perfect for any space-themed celebration. The visible text “momisbakeology contact @6001542891” indicates the baker’s branding and contact information.",
+          "localImage": "assets/products/matches/batch-002-pinterest/9399887200481-2b01bf434d5a.jpg",
+          "sha256": "2b01bf434d5a065966d45cdf46fb7f472e1655a3dadabbba9eff4610ba74db1e"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/lisa-fisher-jessies-grad-party-space-2023--279223245640213478/",
+          "imageUrl": "https://i.pinimg.com/originals/f3/b6/cd/f3b6cd711fad5ee044ba37b7b7dae9d3.jpg",
+          "description": "A two-tier galaxy cake rests on a wooden pedestal, its frosting blending deep blues and purples to mimic outer space. The top tier features a detailed fondant astronaut seated beside a navy rocket, surrounded by spherical planets in bronze, blue, and purple hues. Gold stars and edible glitter are scattered across the cake’s surface, and a prominent number \"3\" on the front suggests it’s for a third birthday celebration.\n\nThis design was shared on Pinterest by user наталья калинько under cake ideas, highlighting galaxy cakes and birthday cake decorating. The combination of vibrant colors, metallic accents, and space motifs creates a whimsical centerpiece perfect for a child’s party.",
+          "localImage": "assets/products/matches/batch-002-pinterest/9399887200481-501a58dfc00c.jpg",
+          "sha256": "501a58dfc00cb0ea36c28523e616fc339b04330bc743f6a6988583d8839aa589"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/astronaut-cake-space-cake-fondant-astronaut--171981279517906414/",
+          "imageUrl": "https://i.pinimg.com/736x/b3/4e/00/b34e00f0dbedf420bbbd56dc53e783f2.jpg",
+          "description": "A marbled gray single-tier cake is adorned with smooth white fondant clouds and metallic silver spheres, creating a minimalist lunar landscape. Seated on a polished silver crescent moon is a detailed fondant astronaut with a gold-painted helmet, waving cheerfully. Behind the astronaut, clusters of white fondant balloons on thin wires add vertical interest and a playful touch. The mirrored silver cake board enhances the futuristic aesthetic, making this design perfect for a space enthusiast’s celebration.",
+          "localImage": "assets/products/matches/batch-002-pinterest/9399887200481-a39d48dcf6a2.jpg",
+          "sha256": "a39d48dcf6a26e30a9ee2c4cb0841a1d137c60db2608a3383d06e081c7b05669"
+        }
+      ],
+      "query": "Astronaut Space Cake Pinterest",
+      "selected": {
+        "sourceUrl": "https://www.pinterest.com/pin/lisa-fisher-jessies-grad-party-space-2023--279223245640213478/",
+        "imageUrl": "https://i.pinimg.com/originals/f3/b6/cd/f3b6cd711fad5ee044ba37b7b7dae9d3.jpg",
+        "description": "A two-tier galaxy cake rests on a wooden pedestal, its frosting blending deep blues and purples to mimic outer space. The top tier features a detailed fondant astronaut seated beside a navy rocket, surrounded by spherical planets in bronze, blue, and purple hues. Gold stars and edible glitter are scattered across the cake’s surface, and a prominent number \"3\" on the front suggests it’s for a third birthday celebration.\n\nThis design was shared on Pinterest by user наталья калинько under cake ideas, highlighting galaxy cakes and birthday cake decorating. The combination of vibrant colors, metallic accents, and space motifs creates a whimsical centerpiece perfect for a child’s party.",
+        "localImage": "assets/products/matches/batch-002-pinterest/9399887200481-501a58dfc00c.jpg",
+        "sha256": "501a58dfc00cb0ea36c28523e616fc339b04330bc743f6a6988583d8839aa589"
+      },
+      "localImage": "assets/products/matches/batch-002-pinterest/9399887200481-501a58dfc00c.jpg",
+      "sha256": "501a58dfc00cb0ea36c28523e616fc339b04330bc743f6a6988583d8839aa589",
+      "visualReview": {
+        "verified": true,
+        "tierCount": 1,
+        "shape": "round",
+        "notes": "One round blue galaxy cake with an astronaut, rocket and planets."
+      },
+      "reviewNote": "One round blue galaxy cake with an astronaut, rocket and planets."
+    },
+    {
+      "n": 91,
+      "productId": "9399881203937",
+      "title": "Car Shaped Teddy Dipped Cake",
+      "originalImage": "assets/products/892163e3d96d79515ff1.png",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/adorable-blue-teddy-bear-cake--655133077079233296/",
+          "imageUrl": "https://i.pinimg.com/736x/8a/7f/15/8a7f151958d82cc81298678acf6adb6a.jpg",
+          "description": "A light blue, single-tier cake rests on a white cake board, decorated with beige fondant tassels draped around its circumference and metallic silver and blue spheres at its base. The front of the cake features the letters “AUS,” adding a personalized touch.\n\nAtop the cake, a small brown teddy bear figurine sits inside a pastel blue toy car, creating a whimsical focal point. The blurred green foliage in the background suggests an outdoor or garden setting, enhancing the cake’s playful yet elegant presentation.",
+          "localImage": "assets/products/matches/batch-002-pinterest/9399881203937-f3f6ee759a5b.jpg",
+          "sha256": "f3f6ee759a5b2c46ea98b0c471b833d9e2097d3471e411aa5de54329654d42c8"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/teddy-bear-and-toy-car-cake--76842737370308081/",
+          "imageUrl": "https://i.pinimg.com/736x/a9/47/51/a94751f866c48cb9455833470e014a00.jpg",
+          "description": "A pastel blue cake sculpted into a classic toy car rests on a white textured base. The car’s smooth fondant finish highlights its rounded hood, detailed wheels, and clear windshield. Seated behind the wheel is a fondant teddy bear wearing a mint-green bow tie, next to a white numeral \"6\" indicating the celebrant’s age.\n\nThis design tutorial demonstrates how to assemble the car body, attach the wheels, and model the bear topper. Ideal for a sixth birthday party, the cake combines playful charm with precise fondant craftsmanship.",
+          "localImage": "assets/products/matches/batch-002-pinterest/9399881203937-7a9734f3de6f.jpg",
+          "sha256": "7a9734f3de6f70a04262c80f5b193657a87ee73dfe782ca3ec7f64cd4738f60f"
+        }
+      ],
+      "query": "Car Shaped Teddy Dipped Cake Pinterest"
+    },
+    {
+      "n": 92,
+      "productId": "9399867277537",
+      "title": "Space Themed Cupcakes",
+      "originalImage": "assets/products/6427a1af6e229758c332.png",
+      "status": "applied",
+      "candidates": [
+        {
+          "sourceUrl": "https://fr.pinterest.com/pin/45-cupcake-decorating-ideas-for-every-occasion-outer-space-theme-cupcakes--109423465941296906/",
+          "imageUrl": "https://i.pinimg.com/originals/c3/08/7c/c3087c51888746b9a45510ed5d3a76c5.jpg",
+          "description": "A box holds a dozen chocolate cupcakes, each adorned with a swirl of bright blue buttercream beneath a smooth layer of black sugar icing speckled like the night sky. Detailed fondant toppers represent celestial bodies and space objects: Earth, Saturn, Mars, the Moon, a smiling sun, an astronaut, a rocket, and a satellite. The vibrant colors and meticulous designs create a playful cosmic journey in edible form, ideal for themed celebrations or parties.\n\nThese stellar treats combine rich chocolate bases with colorful, handcrafted decorations. The contrast between the dark icing and the bright fondant shapes highlights each space motif, making the cupcakes both visually striking and whimsical.",
+          "localImage": "assets/products/matches/batch-002-pinterest/9399867277537-dbf77398d400.jpg",
+          "sha256": "dbf77398d40034897c38f4a0085aec46bb9703bb4fe47fa578827cb69bf82899"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/607423068535923487/",
+          "imageUrl": "https://i.pinimg.com/originals/0f/4e/3f/0f4e3f573a3fe1d27fd87b07c83fed64.jpg",
+          "description": "A set of six vanilla cupcakes is presented in a white bakery box, each decorated to resemble a miniature galaxy. Three cupcakes are topped with smooth black fondant discs, embellished with colorful fondant planets, stars, and a small rocket ship, while the remaining three feature swirls of purple, blue, and black buttercream frosting accented by silver sugar pearls. The fondant decorations include pink and orange circular planets, tiny white star dots, and a blue-and-white rocket with a red flame.\n\nThe cupcakes rest on a wooden surface, creating a warm contrast with the cool, cosmic color palette. This space-themed dessert arrangement was originally shared on Pinterest under the title “Galaxy cupcakes | Galaxy desserts, Galaxy cupcakes, Space themed desserts.”",
+          "localImage": "assets/products/matches/batch-002-pinterest/9399867277537-1941c4ed40f4.jpg",
+          "sha256": "1941c4ed40f4703e8f270a5b6f60d911c74eae6a9bbb687f189dd1c1e92a7d58"
+        },
+        {
+          "sourceUrl": "https://br.pinterest.com/pin/757238124834941353/",
+          "imageUrl": "https://i.pinimg.com/originals/76/de/2e/76de2eafd3e580937069260b0faac7cf.jpg",
+          "description": "A collection of vanilla cupcakes is transformed into a miniature cosmos with deep purple and blue buttercream swirls. Each swirl is crowned by a handcrafted fondant planet—ranging from bright green and fiery orange to metallic silver and soft purple—paired with tiny golden stars and shimmering silver sprinkles. The cupcakes rest on a light polka-dot board, enhancing their playful, celestial vibe.\n\nPerfect for a space-themed celebration, these treats combine vibrant colors and intricate fondant work to evoke the beauty of the galaxy in bite-sized form. The contrast between the dark frosting and the bright planet toppers creates a striking visual appeal that’s sure to delight guests at any party.",
+          "localImage": "assets/products/matches/batch-002-pinterest/9399867277537-58cf171652fd.jpg",
+          "sha256": "58cf171652fd45e075a20eac0559c641a534795b48886dc1824192e716e14b89"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/marielizzy/astronaut-cupcakes/",
+          "imageUrl": "https://i.pinimg.com/736x/74/19/18/741918dbb6ce496599de1625501e7bd6.jpg",
+          "description": "A white box holds twelve cupcakes, each adorned with swirls of teal and deep blue frosting. Fondant toppers shaped like planets, moons, stars, and suns add a cosmic flair, with some cupcakes featuring tiny white star sprinkles for extra detail.\n\nThese astronaut-inspired treats are ideal for space-themed birthday parties or celebrations. The vibrant color palette and intricate decorations showcase creative baking techniques and playful design, making them a standout dessert centerpiece.",
+          "localImage": "assets/products/matches/batch-002-pinterest/9399867277537-ae0f3e8f68fe.jpg",
+          "sha256": "ae0f3e8f68fe5f6701369882a366c14c2c52260e45faae050cbbb14f53654a23"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/ideas/space-themed-macarons/896205057166/",
+          "imageUrl": "https://i.pinimg.com/474x/6a/b9/25/6ab9252e150aada83169022a40ce3b9d.jpg",
+          "description": "A collection of six cupcakes features swirling blue and purple frosting, each topped with a different fondant celestial decoration. The designs include a bright yellow sun, a white crescent moon, a detailed Earth, a red and orange planet, a cluster of white stars, and a pale moon-like sphere. Small white sugar pearls are scattered across the frosting, adding a starry effect.\n\nThese galaxy-inspired treats are presented on a dark tabletop, which contrasts with the vivid colors of the frosting and fondant. The image aligns with Pinterest’s “Space Themed Macarons” ideas, showcasing creative baking decorations that evoke planets and outer space.",
+          "localImage": "assets/products/matches/batch-002-pinterest/9399867277537-bb374393cb23.jpg",
+          "sha256": "bb374393cb23972139fe424d798be08dbb32b051a1cbfab17d482170dcf24ae1"
+        }
+      ],
+      "query": "Space Themed Cupcakes Pinterest",
+      "selected": {
+        "sourceUrl": "https://www.pinterest.com/marielizzy/astronaut-cupcakes/",
+        "imageUrl": "https://i.pinimg.com/736x/74/19/18/741918dbb6ce496599de1625501e7bd6.jpg",
+        "description": "A white box holds twelve cupcakes, each adorned with swirls of teal and deep blue frosting. Fondant toppers shaped like planets, moons, stars, and suns add a cosmic flair, with some cupcakes featuring tiny white star sprinkles for extra detail.\n\nThese astronaut-inspired treats are ideal for space-themed birthday parties or celebrations. The vibrant color palette and intricate decorations showcase creative baking techniques and playful design, making them a standout dessert centerpiece.",
+        "localImage": "assets/products/matches/batch-002-pinterest/9399867277537-ae0f3e8f68fe.jpg",
+        "sha256": "ae0f3e8f68fe5f6701369882a366c14c2c52260e45faae050cbbb14f53654a23"
+      },
+      "localImage": "assets/products/matches/batch-002-pinterest/9399867277537-ae0f3e8f68fe.jpg",
+      "sha256": "ae0f3e8f68fe5f6701369882a366c14c2c52260e45faae050cbbb14f53654a23",
+      "visualReview": {
+        "verified": true,
+        "tierCount": null,
+        "shape": "cupcakes",
+        "notes": "Blue space cupcakes with planet, moon and star decorations."
+      },
+      "reviewNote": "Blue space cupcakes with planet, moon and star decorations."
+    },
+    {
+      "n": 93,
+      "productId": "9399856529633",
+      "title": "Peppa Pig Cake",
+      "originalImage": "assets/products/20b1ccca80ba01f39ba2.png",
+      "status": "needs-better-match",
+      "candidates": [],
+      "query": "Peppa Pig Cake Pinterest"
+    },
+    {
+      "n": 94,
+      "productId": "9399840112865",
+      "title": "Peppa Pig Cupcakes",
+      "originalImage": "assets/products/8f3fa75426232d7150f6.png",
+      "status": "needs-better-match",
+      "candidates": [],
+      "query": "Peppa Pig Cupcakes Pinterest"
+    },
+    {
+      "n": 95,
+      "productId": "9399832314081",
+      "title": "My First Baby Tooth Cake",
+      "originalImage": "assets/products/7056b26ae3c01f00ffa5.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/cakenest-on-instagram-my-first-tooth-cake-by-ladanafshanii-dm-for-queries-and-orders-delivering-pan-india-follow-cakenestin--532198880994226509/",
+          "imageUrl": "https://i.pinimg.com/736x/f3/dc/3b/f3dc3ba713ea2651ad7885165eaa3781.jpg",
+          "description": "A charming tooth-shaped cake takes center stage, featuring a smooth white fondant surface accented by a pink bow and a banner that reads “My First Tooth.” Fondant figurines—a winking tooth, a little girl climbing a ladder, and two playful mice—are arranged around the cake, with sugar pearls scattered at the base for added whimsy. This design by @ladanafshanii, shared by CAKENEST on Instagram, celebrates a baby’s milestone and is available for PAN India delivery. The post invites followers to place orders, follow @cakenest.in, and tag their own creations with #cakenestin for a chance to be featured.",
+          "localImage": "assets/products/matches/batch-002-pinterest/9399832314081-e6c9e23f7abf.jpg",
+          "sha256": "e6c9e23f7abff4654f6f97fd2f296381a5be21447aabb015d49dfe8ec5c7a09f",
+          "businessNameVisible": true
+        },
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/my-first-tooth--48132289762175897/",
+          "imageUrl": "https://i.pinimg.com/originals/64/40/42/64404228a001a6fff16ad95ee2031444.jpg",
+          "description": "A charming ivory-frosted cake celebrates a baby’s milestone with a whimsical tooth-shaped topper. The round cake is decorated with delicate edible pearls and features fondant letters spelling out “MY FIRST TOOTH” on its side. In the softly lit, wood-paneled background, a plush goose and a wooden crate add a warm, homey touch to the scene.\n\nThis Pinterest-featured design highlights a memorable first-tooth celebration, combining sweet pastel tones and playful decorations. The smiling tooth figurine, complete with a tiny bow, captures the joy of a baby’s early milestones, making it an ideal centerpiece for a family gathering or photo shoot.",
+          "localImage": "assets/products/matches/batch-002-pinterest/9399832314081-4e56d3acdc5a.jpg",
+          "sha256": "4e56d3acdc5acb74b52d900d69e67fd19da32c5fdefe14a72f9475754d2bde03"
+        },
+        {
+          "sourceUrl": "https://br.pinterest.com/pin/2392606045737660/",
+          "imageUrl": "https://i.pinimg.com/originals/e1/9b/11/e19b112d3ca988291d219aa7043fed13.jpg",
+          "description": "A charming white cake molded into a large, winking tooth sits atop a white pedestal, decorated with scattered sugar pearls and a delicate pink bow. A tiny baby figurine in a diaper climbs a wooden ladder to reach the tooth, while two fondant mice stand by, adding a playful touch. Above, a banner proclaims “MY FIRST TOOTH,” celebrating the milestone in pastel hues and cartoon-inspired design.\n\nThis cake design, featured on Pinterest by user Sofiechkakrasotka, exemplifies baby cake artistry with its clean white finish, soft pink accents, and whimsical characters. It’s categorized under tooth cakes and baby birthday cake designs, perfect for commemorating a child’s first lost tooth.",
+          "localImage": "assets/products/matches/batch-002-pinterest/9399832314081-9cfb75dcdbd4.jpg",
+          "sha256": "9cfb75dcdbd404026818a37aa5a40ea46ba4c96063238895ffc0b28e6e5cf98e"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/celebrate-milestones-with-a-first-tooth-cake--39054721766718150/",
+          "imageUrl": "https://i.pinimg.com/originals/aa/a3/ba/aaa3ba61129fc34798a219a9ae77dbac.jpg",
+          "description": "A charming round cake decorated in white and pastel blue marks the milestone of a baby’s first tooth. The top is adorned with a happy tooth figurine wearing a tiny gold crown, alongside fondant props like a toothbrush and toothpaste tube. Two striped poles support a banner spelling out “Shauryaveer,” personalizing the celebration.\n\nOn the cake’s front, a textured blue circle bears the message “I got my 1st tooth,” emphasizing the joyful occasion. This design, featured on a Pinterest page, offers a delightful way to commemorate and create lasting memories of a baby’s early milestones.",
+          "localImage": "assets/products/matches/batch-002-pinterest/9399832314081-2db6f365ad9e.jpg",
+          "sha256": "2db6f365ad9e8c0bab11c471abd62012f233d5ac14946bb65b38752598193784"
+        },
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/876372408748250905/",
+          "imageUrl": "https://i.pinimg.com/736x/ab/9d/dc/ab9ddc854817da922ccacf9184291664.jpg",
+          "description": "A custom celebration cake by Magical Hands features a smooth cream frosting base accented with bright blue fondant dots. Centered on top is an adorable tooth-shaped figure with rosy cheeks and a tiny gold crown, accompanied by miniature fondant toothbrushes and toothpaste tubes. The front plaque proudly proclaims “I got my 1st tooth,” while the cake board is personalized with the name MANRAJ SINGH.\n\nThis design commemorates the milestone of a baby’s first tooth, blending playful dental motifs with pastel colors. The combination of the crowned tooth character and dental accessories creates a charming and memorable centerpiece for a baby’s milestone celebration.",
+          "localImage": "assets/products/matches/batch-002-pinterest/9399832314081-c4613689b810.jpg",
+          "sha256": "c4613689b8109e0503af00ad73a90106c2b48b12144f6d9f0495374d00828817"
+        },
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/tooth-birthday-cake-ideas-images-pictures--978829300249176085/",
+          "imageUrl": "https://i.pinimg.com/736x/66/b5/7d/66b57d0795a2d2b937bc07b37f05fe92.jpg",
+          "description": "A pastel blue, two-tier fondant cake celebrates a baby’s milestone with a whimsical dental theme. The top tier is crowned by a smiling tooth figurine wearing a small gold crown, from which white sugar pearls cascade like a waterfall. The front of the upper tier bears the name \"ZAGROS\" in matching blue letters, while the lower tier is accented by a neatly tied white fondant bow.\n\nOn the cake board, the inscription \"NYA 1ST TOOTH\" commemorates the baby’s first tooth. This design, featured on a Pinterest page of tooth-themed cake ideas, combines playful charm and elegant detailing, making it perfect for a baby’s first-tooth celebration.",
+          "localImage": "assets/products/matches/batch-002-pinterest/9399832314081-1dc1acd2c473.jpg",
+          "sha256": "1dc1acd2c473bad4d4da2e0b14a45d720cabb0a7627bb2e941545d10d1a2fb90"
+        }
+      ],
+      "query": "My First Baby Tooth Cake Pinterest",
+      "reviewNote": "Visible third-party bakery name, logo or photo credit in the full-size image. Replacement remains pending."
+    },
+    {
+      "n": 96,
+      "productId": "9399805214945",
+      "title": "Ferrero Cake with Gold Balloons",
+      "originalImage": "assets/products/80a16ea338807c52e651.png",
+      "status": "needs-better-match",
+      "candidates": [],
+      "query": "Ferrero Cake with Gold Balloons Pinterest"
+    },
+    {
+      "n": 97,
+      "productId": "9398583492833",
+      "title": "Bunny Chocolate Smash Cake",
+      "originalImage": "assets/products/20935b75472b6c6afd20.png",
+      "status": "needs-better-match",
+      "candidates": [],
+      "query": "Bunny Chocolate Smash Cake Pinterest"
+    },
+    {
+      "n": 98,
+      "productId": "9398477979873",
+      "title": "Birthday Cake & Pink Roses in Acrylic Gift Box with Balloons",
+      "originalImage": "assets/products/640baa5c1c90cce3a932.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/cake-packaging-box-with-ribbon--774124928893928/",
+          "imageUrl": "https://i.pinimg.com/736x/8a/d0/2a/8ad02a7275434660a31ec75852d6d555.jpg",
+          "description": "A transparent cake packaging box from SHEIN, tied with a silver ribbon, showcases a white drip cake adorned with sprinkles and small heart toppers. Next to it, a black round box holds pink roses and a clear balloon filled with pink and black balloons, bearing the gold “happy birthday” inscription. \n\nThis Pinterest-featured arrangement highlights decorative packaging ideal for birthdays, weddings, and DIY celebrations. The soft pink, black, and white color scheme, combined with elegant ribbons and floral accents, creates a charming and festive presentation perfect for gifting or party décor.",
+          "localImage": "assets/products/matches/batch-002-pinterest/9398477979873-d35114990ebe.jpg",
+          "sha256": "d35114990ebeaaa1c6e956d0fe2649d4ca2af01a4a99835c5432c8695e6cb5e3",
+          "businessNameVisible": true
+        }
+      ],
+      "query": "Birthday Cake & Pink Roses in Acrylic Gift Box with Balloons Pinterest",
+      "reviewNote": "Visible third-party bakery name, logo or photo credit in the full-size image. Replacement remains pending."
+    },
+    {
+      "n": 99,
+      "productId": "9398469624033",
+      "title": "Ferrari & Tyre Tiered Cake",
+      "originalImage": "assets/products/9d31495a38ba9c34797d.jpg",
+      "status": "applied",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/405464772678957854/",
+          "imageUrl": "https://i.pinimg.com/originals/01/ab/7f/01ab7ffd6ba4c8d62162062375bb62c3.jpg",
+          "description": "A custom three-tier cake by CettyG celebrates an 18th birthday with a striking Ferrari motif. The bottom tier is covered in black fondant textured like a tire and features the Pirelli logo in gold. The middle tier is red with the iconic Ferrari prancing horse shield, while the top tier is yellow with the Ferrari name in red lettering.\n\nAtop the cake sits a detailed red racing car model flanked by two blue-and-white checkered flags. The design combines bold primary colors and authentic racing elements to honor the recipient’s passion for Ferrari and motorsport.",
+          "localImage": "assets/products/matches/batch-002-pinterest/9398469624033-ee1f24fb6b37.jpg",
+          "sha256": "ee1f24fb6b37750dac169277ba1e120d0547da51c14182fe0ab16701ed4259fe"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/annabellasalazar21/ferrari-cake/",
+          "imageUrl": "https://i.pinimg.com/originals/57/0f/1c/570f1c1ae02dea904109401e1b8501a7.jpg",
+          "description": "This two-tiered birthday cake showcases a vibrant motorsport theme, with the top tier draped in red fondant and emblazoned with the iconic Ferrari prancing horse shield. A fondant racing car, complete with a driver figure, checkered flags, and a light-up number 9, sits atop the cake. The bottom tier resembles stacked black tires, adding texture and depth to the design. A gold plaque on the cake board spells out “Dominic,” personalizing the confection for the celebrant.\n\nThe cake draws inspiration from Ferrari-themed designs popular on Pinterest, where Annabella Salazar’s board “43 Ferrari Cake ideas” features similar car-shaped birthday cakes. This custom creation blends vibrant colors, realistic fondant details, and a playful racing motif to celebrate a young fan’s special day.",
+          "localImage": "assets/products/matches/batch-002-pinterest/9398469624033-08b1f351d7ec.jpg",
+          "sha256": "08b1f351d7ec1c792d7d7fc2eaf5ed14ab6c9105e925fe69eb84b38258795b08"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/formula-1-cake--76842737376282416/",
+          "imageUrl": "https://i.pinimg.com/736x/42/93/90/429390706dd48e576bdb0decf3429b0a.jpg",
+          "description": "A custom three-tiered cake designed for a 50th birthday celebration features distinct motorsport motifs. The bottom tier mimics a black racing tire with realistic tread patterns. The middle tier is bright red, decorated with a Ferrari shield logo and checkered flag accents, while the top tier is white, showcasing a Mercedes emblem framed by green fondant laurel leaves. A “hello 50” cake topper completes the design, and the cake rests on a yellow board personalized with the name “GRAHAM.”\n\nThis cake blends iconic Formula 1 branding and celebratory elements, making it an ideal centerpiece for a racing enthusiast’s milestone birthday party.",
+          "localImage": "assets/products/matches/batch-002-pinterest/9398469624033-9dbd8bb49f57.jpg",
+          "sha256": "9dbd8bb49f57ab37863bcef2400e96b4dd384af3a69ab338354d73d49a649ad2"
+        }
+      ],
+      "query": "Ferrari & Tyre Tiered Cake Pinterest",
+      "selected": {
+        "sourceUrl": "https://www.pinterest.com/annabellasalazar21/ferrari-cake/",
+        "imageUrl": "https://i.pinimg.com/originals/57/0f/1c/570f1c1ae02dea904109401e1b8501a7.jpg",
+        "description": "This two-tiered birthday cake showcases a vibrant motorsport theme, with the top tier draped in red fondant and emblazoned with the iconic Ferrari prancing horse shield. A fondant racing car, complete with a driver figure, checkered flags, and a light-up number 9, sits atop the cake. The bottom tier resembles stacked black tires, adding texture and depth to the design. A gold plaque on the cake board spells out “Dominic,” personalizing the confection for the celebrant.\n\nThe cake draws inspiration from Ferrari-themed designs popular on Pinterest, where Annabella Salazar’s board “43 Ferrari Cake ideas” features similar car-shaped birthday cakes. This custom creation blends vibrant colors, realistic fondant details, and a playful racing motif to celebrate a young fan’s special day.",
+        "localImage": "assets/products/matches/batch-002-pinterest/9398469624033-08b1f351d7ec.jpg",
+        "sha256": "08b1f351d7ec1c792d7d7fc2eaf5ed14ab6c9105e925fe69eb84b38258795b08"
+      },
+      "localImage": "assets/products/matches/batch-002-pinterest/9398469624033-08b1f351d7ec.jpg",
+      "sha256": "08b1f351d7ec1c792d7d7fc2eaf5ed14ab6c9105e925fe69eb84b38258795b08",
+      "visualReview": {
+        "verified": true,
+        "tierCount": 2,
+        "shape": "round",
+        "notes": "Two separate stacked round tiers: black tyre below red Ferrari tier, with car topper.",
+        "originalTierCount": 2
+      },
+      "reviewNote": "Two separate stacked round tiers: black tyre below red Ferrari tier, with car topper."
+    },
+    {
+      "n": 100,
+      "productId": "9398447866081",
+      "title": "Ramadan Crescent Cupcakes",
+      "originalImage": "assets/products/f88a7129d44ea50c2bac.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/92183123596494092/",
+          "imageUrl": "https://i.pinimg.com/736x/7a/71/e1/7a71e17b0ed1c0093ff76c0837d103f7.jpg",
+          "description": "A batch of vanilla cupcakes is beautifully decorated for Ramadan and Eid festivities. Each cupcake features either dark chocolate or deep blue frosting, meticulously piped to create textured surfaces. Golden crescent moons, stars, and miniature lanterns rest atop the frosting, symbolizing traditional Islamic motifs.\n\nThese festive desserts are perfect for Eid gatherings, combining rich flavors with ornate decorations. The cupcakes’ vibrant colors and intricate designs reflect the celebratory spirit of the holiday, making them both visually appealing and delicious treats for family and friends.",
+          "localImage": "assets/products/matches/batch-002-pinterest/9398447866081-6e4267278b75.jpg",
+          "sha256": "6e4267278b7565cb92065d7017217cb045a66f079d7ad50bf76fa062914de628"
+        }
+      ],
+      "query": "Ramadan Crescent Cupcakes Pinterest"
+    }
+  ],
+  "reviewedAt": "2026-09-12T13:14:15.827Z",
+  "summary": {
+    "reviewed": 50,
+    "replaced": 17,
+    "pending": 33
+  }
+}

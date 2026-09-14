@@ -1,0 +1,407 @@
+{
+  "batch": 13,
+  "size": 50,
+  "sourcePreference": "Pinterest",
+  "records": [
+    {
+      "n": 601,
+      "productId": "8028655911137",
+      "title": "Rose Gold & Black 3 Tier Cake",
+      "originalImage": "assets/products/3f4c92b6b25f2ce0bf52.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 602,
+      "productId": "8028655878369",
+      "title": "Shades of Orange Three Tiered Cake",
+      "originalImage": "assets/products/d4cf8cda8c9b0dbaccc7.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 603,
+      "productId": "8028655845601",
+      "title": "Two Tiered Naked Berries Cake",
+      "originalImage": "assets/products/62017538be28f582e573.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 604,
+      "productId": "8028655812833",
+      "title": "White & Gold Orchids Cake",
+      "originalImage": "assets/products/281a38a5b64d802cdc2d.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 605,
+      "productId": "8028655780065",
+      "title": "Elegant Hexagonal 3 Tier Wedding Cake",
+      "originalImage": "assets/products/75bbaf2c35f571b213cf.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 606,
+      "productId": "8028655681761",
+      "title": "Royalty Wedding Cake",
+      "originalImage": "assets/products/d736e5f306ace6178c48.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 607,
+      "productId": "8028655616225",
+      "title": "Gold & White Two Tier Wedding Cake",
+      "originalImage": "assets/products/35fe08937936e712ae95.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 608,
+      "productId": "8027000832225",
+      "title": "No 5 Gold Birthday Candle",
+      "originalImage": "assets/products/f2491e3267a4368d3f32.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 609,
+      "productId": "8027000471777",
+      "title": "Blue Letters Birthday Candle",
+      "originalImage": "assets/products/c5d6d52db4bc03302c30.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 610,
+      "productId": "8026999783649",
+      "title": "Pastel & Glitter Letters Birthday Candles",
+      "originalImage": "assets/products/d6927856d50be41608b4.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 611,
+      "productId": "8026999554273",
+      "title": "Colorful with Gold Birthday Candles",
+      "originalImage": "assets/products/3383763c297c67d0447f.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 612,
+      "productId": "8004182966497",
+      "title": "Pink & Blue Cupcakes",
+      "originalImage": "assets/products/18e8e9c3c62fdd455361.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 613,
+      "productId": "8004182933729",
+      "title": "Baby Face & Hearts Cupcakes",
+      "originalImage": "assets/products/335fae3ba3e388f7f68c.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 614,
+      "productId": "8004182868193",
+      "title": "Stars & Buttons Baby Cupcakes",
+      "originalImage": "assets/products/59a1a973a0507d15189d.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 615,
+      "productId": "8004182802657",
+      "title": "Its A Boy Baby Cupcakes",
+      "originalImage": "assets/products/29e1007aa335d1671fb9.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 616,
+      "productId": "8004182638817",
+      "title": "New Born Baby Cupcakes",
+      "originalImage": "assets/products/8d25abfec4dc5f29e2dd.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 617,
+      "productId": "8004182442209",
+      "title": "Letter Cake - 1.5kg",
+      "originalImage": "assets/products/6587ac2ba80df47b02ed.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 618,
+      "productId": "8004182409441",
+      "title": "Birthday Pink Choco-Smash Heart Cake with Dipped Strawberries",
+      "originalImage": "assets/products/493d5afdeab3d2fc3771.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 619,
+      "productId": "8004182376673",
+      "title": "Green Heart Choco-Smash-mini Cake, Macarons & Strawberries",
+      "originalImage": "assets/products/4e635a8c2db585aad5a8.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 620,
+      "productId": "8004182343905",
+      "title": "Blue Heart Choco-Smash-mini Cakes",
+      "originalImage": "assets/products/16cdce9eafe8b4cd1450.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 621,
+      "productId": "8004182278369",
+      "title": "Pink Heart Choco-Smash-mini cakes",
+      "originalImage": "assets/products/56e91bbf2bc3c1f7727b.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 622,
+      "productId": "8004182245601",
+      "title": "Chocolate Cakesicles",
+      "originalImage": "assets/products/68344253a95edbf83776.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 623,
+      "productId": "8004182212833",
+      "title": "Teddy Cakesicles",
+      "originalImage": "assets/products/a620c12d70a60f0f8265.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 624,
+      "productId": "8004182180065",
+      "title": "White Cakesicles with Choco-Smash Heart Cakes",
+      "originalImage": "assets/products/d14bb0b8c86e89b5007e.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 625,
+      "productId": "8004182147297",
+      "title": "Lips & Hearts Cakesicles",
+      "originalImage": "assets/products/bb48ff2b866ad0b5ecd1.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 626,
+      "productId": "8004182114529",
+      "title": "Gold Lip Kisses Cakesicles",
+      "originalImage": "assets/products/432a6ea3c090f39abddb.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 627,
+      "productId": "8004182081761",
+      "title": "Gold & Pink Cakesicles with Hearts & Cupcake",
+      "originalImage": "assets/products/8107077be2a3dcc512ef.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 628,
+      "productId": "8004182048993",
+      "title": "Pink Cakesicles with Hearts & mini Choco-bars",
+      "originalImage": "assets/products/f7360f55bd7581b57643.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 629,
+      "productId": "8004181819617",
+      "title": "Round Elegant Cake",
+      "originalImage": "assets/products/41cbca8cd006facb37de.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 630,
+      "productId": "8004181754081",
+      "title": "Round Elegant White Cake",
+      "originalImage": "assets/products/c6ed1b503fb3dd8fd627.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 631,
+      "productId": "8004181721313",
+      "title": "Elegant Black Hexagonal Theme Cake",
+      "originalImage": "assets/products/99d7c2c575587ac89603.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 632,
+      "productId": "8004181655777",
+      "title": "Elegant Black Birthday Cake",
+      "originalImage": "assets/products/cf5bc196b1f8ab09ed39.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 633,
+      "productId": "8004181590241",
+      "title": "King Tuxedo Cake for Him",
+      "originalImage": "assets/products/d86fae9b7ffdda337fb8.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 634,
+      "productId": "8004181557473",
+      "title": "Elegant Black Tuxedo Cake",
+      "originalImage": "assets/products/0469efa993f318e32bbf.png",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 635,
+      "productId": "8004181524705",
+      "title": "Elegant White Swan Cake",
+      "originalImage": "assets/products/8fb640efa463deef2d8b.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 636,
+      "productId": "8004181491937",
+      "title": "Pink Chocolate Heart with Roses",
+      "originalImage": "assets/products/c9e2d138b453284210b2.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 637,
+      "productId": "8004181459169",
+      "title": "White Birthday Cupcake, Cookie & Choco-Smash Cakes",
+      "originalImage": "assets/products/26c1d066a3ad391ad9c6.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 638,
+      "productId": "8004180967649",
+      "title": "Teddy Bear Cookies",
+      "originalImage": "assets/products/a863027a12c1e839c96f.png",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 639,
+      "productId": "8004180803809",
+      "title": "New born Teddy Bear Cookies",
+      "originalImage": "assets/products/17c78e1b5c100fe900c1.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 640,
+      "productId": "8004180705505",
+      "title": "Twinkle Stars& Clouds Baby Cookies",
+      "originalImage": "assets/products/5f4510a153e083ac60d6.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 641,
+      "productId": "8004180672737",
+      "title": "New Born Teddy & Bow Cookies",
+      "originalImage": "assets/products/c222fecb61c54c98afa8.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 642,
+      "productId": "8004180574433",
+      "title": "It's A Boy Baby Blue Cookies",
+      "originalImage": "assets/products/01398fb707f7885e09de.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 643,
+      "productId": "8004180541665",
+      "title": "Baby Bottle Cookies",
+      "originalImage": "assets/products/cde680dfba88a1d496a8.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 644,
+      "productId": "8004180476129",
+      "title": "Pink Name Cookies",
+      "originalImage": "assets/products/3169be1471d2e0b91317.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 645,
+      "productId": "8004180443361",
+      "title": "Pink Floral Name Cookies",
+      "originalImage": "assets/products/719199f60f65b7993f61.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 646,
+      "productId": "8004180377825",
+      "title": "Baby Beige Cookies",
+      "originalImage": "assets/products/c28063b6023cc15e6dcd.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 647,
+      "productId": "8004180181217",
+      "title": "Personalised Baby Cookies",
+      "originalImage": "assets/products/b94f0c28ce094c2a861d.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 648,
+      "productId": "8004180115681",
+      "title": "Hot AIr Balloon Baby Cookies",
+      "originalImage": "assets/products/a4ad529f0f5306ceacb7.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 649,
+      "productId": "8004180050145",
+      "title": "Gender Reveal Baby Cookies",
+      "originalImage": "assets/products/3c8d98ce35d80eb5e524.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 650,
+      "productId": "8004180017377",
+      "title": "Gender Reveal / Baby Shower Cookies",
+      "originalImage": "assets/products/c93c15a9475118718fd5.jpg",
+      "status": "needs-search",
+      "candidates": []
+    }
+  ]
+}

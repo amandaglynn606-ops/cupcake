@@ -1,0 +1,35 @@
+.footer-policies{display:flex;flex-wrap:wrap;gap:16px 30px;padding-block:30px;border-top:1px solid #ffffff25;border-bottom:1px solid #ffffff25}
+.footer-policies a{font-family:var(--sans);font-size:14px;line-height:1.5;color:inherit;opacity:.85}
+.footer-policies a:hover{text-decoration:underline;opacity:1}
+.reference-badge{position:absolute;left:12px;bottom:12px;background:#f3eee5ed;color:#554438;padding:7px 10px;font-family:var(--sans);font-size:10px;letter-spacing:.035em;line-height:1.4;pointer-events:none}
+.product-photo,.product-gallery .main-photo,.collection-image{background:#f3eee5!important}
+.product-photo img,.product-gallery .main-photo>img,.collection-image img{mix-blend-mode:multiply}
+.product-image-link img,.collection-image img{object-fit:contain!important}
+.photography-copy{max-width:780px;margin:auto}.photography-copy section{margin-bottom:35px}.photography-copy h2{font-size:32px}.photography-copy p{font-size:17px;line-height:1.8}.credits-table-wrap{overflow-x:auto;margin-block:50px}.credits-table{width:100%;border-collapse:collapse;font-size:15px}.credits-table caption{text-align:left;font-size:24px;padding-bottom:20px}.credits-table th,.credits-table td{text-align:left;padding:18px 12px;border-bottom:1px solid #d8caba;vertical-align:top}.credits-table small{display:inline-block;padding-top:7px}.credits-table a{text-decoration:underline;text-underline-offset:3px}
+.image-reference-note,.starting-price-note{font-size:14px;line-height:1.7;color:#685c52}
+.image-reference-note{padding:16px 0;border-bottom:1px solid #ddd3c6;margin:0}
+.starting-price-note{background:#f3eee5;padding:16px;border-left:2px solid #967859}
+.design-specification{margin:24px 0 30px;padding:22px;border:1px solid #d8caba;background:#f3eee5}
+.design-specification>p:first-child{text-transform:uppercase;letter-spacing:.12em;font-size:13px}
+.design-specification dl{margin:20px 0;display:grid;gap:14px}
+.design-specification dl div{display:grid;grid-template-columns:70px 1fr;gap:16px}
+.design-specification dt{font-size:13px;text-transform:uppercase;letter-spacing:.06em}
+.design-specification dd{margin:0;font-size:16px}
+.design-specification>p:last-child{font-size:14px;line-height:1.7}
+.floral-hero{background:#f3eee5!important;color:#491b29!important;min-height:730px!important;height:auto!important;display:grid!important;grid-template-columns:44% 56%;isolation:isolate}
+.floral-hero #hero-image{position:relative!important;inset:auto!important;grid-column:2;grid-row:1;width:100%!important;height:700px!important;object-fit:contain!important;object-position:center!important;filter:none!important;mix-blend-mode:multiply}
+.floral-hero .hero-shade{display:none!important}
+.floral-hero .hero-copy{position:relative!important;inset:auto!important;grid-column:1;grid-row:1;align-self:center;padding:55px 0 80px clamp(28px,5vw,90px)!important;width:auto!important;max-width:none!important;color:#491b29!important}
+.floral-hero h1{font-size:clamp(48px,5.1vw,86px)!important;line-height:1.03!important;letter-spacing:-.045em!important;white-space:nowrap}
+.floral-hero .eyebrow,.floral-hero .hero-copy>p,.floral-hero .text-link{color:#491b29!important}
+.floral-hero .button-light{background:#491b29!important;color:#fffaf3!important;border-color:#491b29!important}
+.floral-hero .hero-actions{display:flex;flex-wrap:wrap;gap:20px;margin-top:32px}
+.floral-hero .hero-bottom{position:absolute!important;color:#491b29!important;bottom:25px!important;border-color:#491b2930!important}
+.floral-hero .hero-bottom a{color:inherit!important}
+.policy-page .information-layout article{min-width:0}
+.policy-page h1{font-size:clamp(38px,4.3vw,64px);line-height:1.06;text-wrap:balance}
+.policy-page .information-layout h2{font-size:clamp(24px,2.4vw,34px);line-height:1.2;max-width:100%;text-wrap:balance}
+.policy-page .information-layout p{line-height:1.8;font-size:17px}
+.policy-page .information-layout nav a{line-height:1.5}
+@media(max-width:900px){.floral-hero{grid-template-columns:1fr;min-height:0!important}.floral-hero .hero-copy{grid-column:1;grid-row:1;padding:45px 24px 20px!important;text-align:center}.floral-hero #hero-image{grid-column:1;grid-row:2;height:min(90vw,650px)!important}.floral-hero h1{font-size:clamp(44px,8.5vw,70px)!important}.floral-hero .hero-actions{justify-content:center}.floral-hero .hero-bottom{position:relative!important;inset:auto!important;grid-row:3;padding:20px 24px!important;gap:14px}.floral-hero .hero-bottom>span{display:none}.footer-policies{gap:18px 24px}.policy-page .information-layout p{font-size:16px}}
+@media(prefers-reduced-motion:no-preference){.floral-hero #hero-image{animation:floral-arrival 1.6s cubic-bezier(.2,.65,.3,1) both}@keyframes floral-arrival{from{opacity:0;transform:translateY(18px)}to{opacity:1;transform:translateY(0)}}}

@@ -1,0 +1,1409 @@
+{
+  "batch": 1,
+  "size": 50,
+  "sourcePreference": "Pinterest",
+  "records": [
+    {
+      "n": 1,
+      "productId": "8957439181025",
+      "title": "Pink & White Birthday Cake with Ribbon Bows",
+      "originalImage": "assets/products/8957439181025.jpg",
+      "candidates": [
+        {
+          "sourceUrl": "https://tr.pinterest.com/pin/561683384796085359/",
+          "imageUrl": "https://i.pinimg.com/736x/1c/fc/fd/1cfcfdbe1c5b1bcc2c568b3490c95e81.jpg",
+          "description": "A two-tiered buttercream cake is elegantly styled in a vintage motif, featuring piped scalloped borders along the top and bottom edges. Soft pink satin ribbons tied into bows are draped around the sides, adding a delicate contrast to the smooth white frosting. The cake sits on a round board atop a white cloth, set against a neutral gray background, making it an ideal centerpiece for bridal showers or other special occasions."
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/56858014039168409/",
+          "imageUrl": "https://i.pinimg.com/736x/bb/5c/f1/bb5cf17aafa126371e8becc10c2d0c9a.jpg",
+          "description": "A petite round cake rests on a white pedestal, its smooth white frosting accented by piped ruffles and scalloped borders. Delicate pink satin ribbons tied into bows drape gracefully around the cake’s circumference, lending a vintage charm. The minimalist setting, with a marble tabletop and soft lighting, highlights the cake’s refined details and pastel palette.",
+          "businessNameVisible": true
+        },
+        {
+          "sourceUrl": "https://br.pinterest.com/pin/23292123067496198/",
+          "imageUrl": "https://i.pinimg.com/736x/f7/05/db/f705db526e319f5e37b74db2d8b27c7d.jpg",
+          "description": "This round cake showcases a delicate coquette style with white and pale pink buttercream frosting. The top and sides are adorned with piped swirls, ruffled borders, and small pearl-like accents, while soft pink ribbon bows cascade from the top edge. Set against a pastel pink backdrop, the cake exudes a romantic, vintage charm perfect for a birthday celebration."
+        }
+      ],
+      "status": "needs-better-match",
+      "reviewNote": "Visible third-party bakery name, logo or photo credit in the full-size image. Replacement remains pending."
+    },
+    {
+      "n": 2,
+      "productId": "8957441278177",
+      "title": "Blue & White Birthday Cake with Ribbon Bows",
+      "originalImage": "assets/products/8957441278177.jpg",
+      "selected": {
+        "sourceUrl": "https://www.pinterest.com/pin/white-cake-with-ruffles-and-baby-blue-bows-in-2025--564568503306355270/",
+        "imageUrl": "https://i.pinimg.com/736x/bc/b9/e9/bcb9e9e9b2c19e475f4be611c1b9755b.jpg",
+        "description": "A round white buttercream cake features three horizontal rows of piped ruffles and shell motifs, creating a textured, vintage-inspired look. Soft baby blue satin ribbons are tied into neat bows around the top edge and sides, providing a subtle contrast against the smooth white frosting."
+      },
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/white-cake-with-ruffles-and-baby-blue-bows-in-2025--564568503306355270/",
+          "imageUrl": "https://i.pinimg.com/736x/bc/b9/e9/bcb9e9e9b2c19e475f4be611c1b9755b.jpg",
+          "description": "A round white buttercream cake features three horizontal rows of piped ruffles and shell motifs, creating a textured, vintage-inspired look. Soft baby blue satin ribbons are tied into neat bows around the top edge and sides, providing a subtle contrast against the smooth white frosting."
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/heartshaped-vintage-cake-with-elegant-blue-ribbons2025--31595634884153381/",
+          "imageUrl": "https://i.pinimg.com/originals/c3/86/06/c38606a7def7b683e63b4867c40958ca.png",
+          "description": "A heart-shaped cake features a smooth ivory buttercream finish, topped with scalloped piping and accented by tiny white sugar pearls and pale blue buttercream rosettes. Around the sides, blue satin ribbons tied into neat bows add a refined touch, echoing the pastel blue details on top."
+        },
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/vintage-birthday-cake-with-blue-and-white-design--844493673648213/",
+          "imageUrl": "https://i.pinimg.com/736x/83/d5/01/83d5010cb83f3bb6758c3312d210b057.jpg",
+          "description": "A round cake sits atop a clear glass pedestal, its smooth white frosting accented by evenly spaced blue piped bows cascading down the sides. The top edge is finished with scalloped white frosting and small pearls, while a single blue heart adorns the center. "
+        }
+      ],
+      "status": "applied",
+      "localImage": "assets/products/matches/batch-001-pinterest/8957441278177-6f31c759c2.jpg",
+      "sha256": "febb41bbccea0814791e5977b708bf084e135835817b7a1ded469efa5962354d",
+      "visualReview": {
+        "verified": true,
+        "tierCount": 1,
+        "shape": "round",
+        "notes": "White cake, blue ribbon bows; one cylindrical tier."
+      },
+      "reviewNote": "White cake, blue ribbon bows; one cylindrical tier."
+    },
+    {
+      "n": 3,
+      "productId": "8961075151073",
+      "title": "Pink Crown Lambeth Birthday Cake",
+      "originalImage": "assets/products/8961075151073.jpg",
+      "candidates": [
+        {
+          "sourceUrl": "https://id.pinterest.com/pin/963559282761780225/",
+          "imageUrl": "https://i.pinimg.com/originals/98/44/bc/9844bc89bf55ea8bc385b6aa1a3383b5.jpg",
+          "description": "A three-tiered cake stands elegantly on a white surface, each layer enveloped in smooth pastel pink frosting. The tiers are embellished with ornate piped swirls, scalloped borders, and small pearl-like dots, creating a vintage-inspired aesthetic. Atop the cake rests a delicate silver crown featuring intricate filigree and pearl accents, adding a regal finishing touch."
+        },
+        {
+          "sourceUrl": "https://id.pinterest.com/pin/963559282761780225/",
+          "imageUrl": "https://i.pinimg.com/originals/98/44/bc/9844bc89bf55ea8bc385b6aa1a3383b5.jpg",
+          "description": "A three-tiered cake stands elegantly on a white surface, each layer enveloped in smooth pastel pink frosting. The tiers are embellished with ornate piped swirls, scalloped borders, and small pearl-like dots, creating a vintage-inspired aesthetic. Atop the cake rests a delicate silver crown featuring intricate filigree and pearl accents, adding a regal finishing touch."
+        },
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/c-y-n-a-m-o-n-c-a-k-e-m-o-r-e-on-instagram-queen-lambeth-cake-3-tortlambeth-lambethcake-queencake-in-2025--405324035232510746/",
+          "imageUrl": "https://i.pinimg.com/736x/09/35/c5/0935c5ed4e818121c8f4a7210999d0d1.jpg",
+          "description": "A pastel pink Lambeth-style cake is elegantly decorated with piped rosettes, swags, and pearl accents around its two tiers. A gold jeweled crown crowns the top, lending a regal touch to the smooth buttercream finish. Beside the cake, a box of six gold candles suggests preparations for a celebratory event.",
+          "businessNameVisible": true
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/7107311906189709/",
+          "imageUrl": "https://i.pinimg.com/originals/72/15/20/7215203511635308b9319c7bed478598.jpg?nii=t",
+          "description": "A pastel pink three-tier birthday cake rests on a white cake board, each layer decorated with alternating swags of cream and pink piped frosting. The smooth ombré finish on the tiers transitions from a soft blush at the top to a richer pink at the base. Delicate rosettes and ruffled borders accent each level, creating a refined, celebratory look."
+        },
+        {
+          "sourceUrl": "https://br.pinterest.com/ideas/bolo-coroa/926292627640/",
+          "imageUrl": "https://i.pinimg.com/474x/5b/43/01/5b4301ac62b915dfd69aa2ddb796fa96.jpg",
+          "description": "A pale pink fondant cake is intricately decorated with piped ruffles, swags, and rosettes in multiple pink hues. The ornate gold and pink jeweled tiara perched on top reinforces the regal, princess-inspired theme. The cake rests on a white board draped in soft pink satin, enhancing its elegant and celebratory appearance."
+        },
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/c-y-n-a-m-o-n-c-a-k-e-m-o-r-e-on-instagram-queen-lambeth-cake-3-tortlambeth-lambethcake-queencake-in-2025--405324035232510746/",
+          "imageUrl": "https://i.pinimg.com/736x/09/35/c5/0935c5ed4e818121c8f4a7210999d0d1.jpg",
+          "description": "Pink crowned Lambeth cake; needs visual tier check.",
+          "businessNameVisible": true
+        }
+      ],
+      "status": "needs-better-match",
+      "reviewNote": "Visible third-party bakery name, logo or photo credit in the full-size image. Replacement remains pending."
+    },
+    {
+      "n": 4,
+      "productId": "9442929180897",
+      "title": "Long Red Raspberries Cake",
+      "originalImage": "assets/products/9442929180897.jpg",
+      "selected": {
+        "sourceUrl": "https://ph.pinterest.com/pin/long-wedding-cake-in-a-lambeth-design-in-2025--211174978372865/",
+        "imageUrl": "https://i.pinimg.com/originals/b8/d8/c9/b8d8c9ae666a646d0149d39d8213a273.jpg",
+        "description": "A contemporary wedding dessert trend showcases a long, rectangular Lambeth-style cake covered in smooth white buttercream. Intricate piped swirls and scalloped borders adorn the sides, while a dense layer of fresh red berries crowns the top, adding vibrant color and texture. This sheet cake design offers a stylish alternative to traditional tiered cakes, perfect for large receptions and buffet presentations."
+      },
+      "candidates": [
+        {
+          "sourceUrl": "https://ph.pinterest.com/pin/long-wedding-cake-in-a-lambeth-design-in-2025--211174978372865/",
+          "imageUrl": "https://i.pinimg.com/originals/b8/d8/c9/b8d8c9ae666a646d0149d39d8213a273.jpg",
+          "description": "A contemporary wedding dessert trend showcases a long, rectangular Lambeth-style cake covered in smooth white buttercream. Intricate piped swirls and scalloped borders adorn the sides, while a dense layer of fresh red berries crowns the top, adding vibrant color and texture. This sheet cake design offers a stylish alternative to traditional tiered cakes, perfect for large receptions and buffet presentations."
+        }
+      ],
+      "status": "applied",
+      "localImage": "assets/products/matches/batch-001-pinterest/9442929180897-a170e99dec.jpg",
+      "sha256": "729355b8025838b8839a49f5ee066753b58e20e5752f0f69aa2ae6157c145c57",
+      "visualReview": {
+        "verified": true,
+        "tierCount": 1,
+        "shape": "long rectangle",
+        "notes": "One long rectangular white cake topped with raspberries."
+      },
+      "reviewNote": "One long rectangular white cake topped with raspberries."
+    },
+    {
+      "n": 5,
+      "productId": "8957444653281",
+      "title": "Red & White Birthday Cake with Ribbon Bows",
+      "originalImage": "assets/products/8957444653281.jpg",
+      "selected": {
+        "sourceUrl": "https://www.pinterest.com/maryshanedelosreyes/ribbon-bow-cakes/",
+        "imageUrl": "https://i.pinimg.com/originals/7d/d2/b7/7dd2b7c676f85ffb41cb43e6fa01c54f.jpg",
+        "description": "A round cake features a pristine white buttercream finish, accented by vibrant red satin ribbon bows evenly spaced around the top edge. Delicate piped swags cascade down the sides, interspersed with small rosettes and shell borders at the base, creating a refined, vintage-inspired decoration."
+      },
+      "candidates": [
+        {
+          "sourceUrl": "https://mx.pinterest.com/ginasierrarepos/pasteles-coquette/",
+          "imageUrl": "https://i.pinimg.com/originals/94/2b/b2/942bb2e8d6885bc497ac406edcb1c5cc.jpg",
+          "description": "A two-tiered white buttercream cake showcases delicate piped ruffles and draped frosting garlands accented by small edible pearls. Deep red satin ribbon bows are tied around each tier, adding a striking contrast to the smooth ivory surface. The top tier features a simple, flat finish with piped swirls along the edge, while the bottom tier’s cascading frosting swags create a romantic, vintage-inspired look."
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/maryshanedelosreyes/ribbon-bow-cakes/",
+          "imageUrl": "https://i.pinimg.com/originals/7d/d2/b7/7dd2b7c676f85ffb41cb43e6fa01c54f.jpg",
+          "description": "A round cake features a pristine white buttercream finish, accented by vibrant red satin ribbon bows evenly spaced around the top edge. Delicate piped swags cascade down the sides, interspersed with small rosettes and shell borders at the base, creating a refined, vintage-inspired decoration."
+        }
+      ],
+      "status": "applied",
+      "localImage": "assets/products/matches/batch-001-pinterest/8957444653281-d3ce342201.jpg",
+      "sha256": "f84ca9e2a4467b13535082ca29040b611fcbffc0c4cf70952245ab7de6eddc9a",
+      "visualReview": {
+        "verified": true,
+        "tierCount": 1,
+        "shape": "round",
+        "notes": "One round white cake with red ribbon bows."
+      },
+      "reviewNote": "One round white cake with red ribbon bows."
+    },
+    {
+      "n": 6,
+      "productId": "8962586804449",
+      "title": "Two Tier Heart Lambeth Cake",
+      "originalImage": "assets/products/8962586804449.jpg",
+      "selected": {
+        "sourceUrl": "https://www.pinterest.com/pin/2t-heart-vintage-cake-6-in-2024--922112092454682651/",
+        "imageUrl": "https://i.pinimg.com/736x/84/30/22/843022b9b9a2a79e03be2b779f4546a5.jpg",
+        "description": "A two-tier white wedding cake combines a heart-shaped top tier with a round bottom tier, both lavishly decorated with ruffled icing swags, shell borders, and piped rosettes. The cake rests on a simple white stand surrounded by soft draped fabric, enhancing its romantic vintage appeal."
+      },
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/2t-heart-vintage-cake-6-in-2024--922112092454682651/",
+          "imageUrl": "https://i.pinimg.com/736x/84/30/22/843022b9b9a2a79e03be2b779f4546a5.jpg",
+          "description": "A two-tier white wedding cake combines a heart-shaped top tier with a round bottom tier, both lavishly decorated with ruffled icing swags, shell borders, and piped rosettes. The cake rests on a simple white stand surrounded by soft draped fabric, enhancing its romantic vintage appeal."
+        }
+      ],
+      "status": "applied",
+      "localImage": "assets/products/matches/batch-001-pinterest/8962586804449-112ea78abe.jpg",
+      "sha256": "93a164882e63d2040a2365a5ad468912d8719a7cd549af1d9109757870c2b284",
+      "visualReview": {
+        "verified": true,
+        "tierCount": 2,
+        "shape": "heart",
+        "notes": "Two separate, differently sized stacked heart tiers with white Lambeth piping."
+      },
+      "reviewNote": "Two separate, differently sized stacked heart tiers with white Lambeth piping."
+    },
+    {
+      "n": 7,
+      "productId": "8957376921825",
+      "title": "White & Black Bento Birthday Cake with Ribbon Bows",
+      "originalImage": "assets/products/8957376921825.jpg",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/158259374401224212/",
+          "imageUrl": "https://i.pinimg.com/736x/e6/d2/2e/e6d22e175dfec64470394226f6425530.jpg",
+          "description": "A petite white bento cake is nestled in a square, eco-friendly takeout box, its edges adorned with neat black ribbon bows. The top is framed by a scalloped white frosting border and bears the message “HAPPY BIRTHDAY 21” in bold black lettering. The box is placed on a silky draped cloth, accompanied by a sleek white candle holder and a book, creating a minimalist and elegant birthday setup.",
+          "businessNameVisible": true
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/21st-birthday-cake-with-black-bows-and-white-frosting--2533343536238026/",
+          "imageUrl": "https://i.pinimg.com/originals/6f/a7/2b/6fa72bb77b61b8d8a9ff15f80a3e08bc.jpg",
+          "description": "A round cake covered in smooth white frosting features a piped shell border along the top and bottom edges. Black satin ribbon bows are tied at regular intervals around the sides, creating a chic contrast against the white surface. Centered on the cake’s top is the number \"21\" in black icing, marking the milestone celebration."
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/21st-birthday-cake--1970393582707245/",
+          "imageUrl": "https://i.pinimg.com/originals/f9/5b/8d/f95b8da7bbc3adb1752032e815cdf783.jpg",
+          "description": "A tall, white-frosted cake features intricate piped cream swirls around its top and base, accented by black ribbon bows and small pearl decorations. Gold number candles forming “21” crown the cake above a handwritten “happy birthday” message, creating a refined celebratory centerpiece. The cake rests on a white tablecloth, surrounded by floral arrangements and party decor, making it a perfect choice for a stylish 21st birthday celebration."
+        }
+      ],
+      "status": "needs-better-match",
+      "reviewNote": "Visible third-party bakery name, logo or photo credit in the full-size image. Replacement remains pending."
+    },
+    {
+      "n": 8,
+      "productId": "8957434069217",
+      "title": "White & Pink Birthday Cake with Ribbon Bows",
+      "originalImage": "assets/products/8957434069217.jpg",
+      "selected": null,
+      "candidates": [
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/921619511245027848/",
+          "imageUrl": "https://i.pinimg.com/736x/88/a0/d4/88a0d4e3e8c11ecf5b7e77772064dc3d.jpg",
+          "description": "A two-tiered confection enveloped in pastel pink buttercream showcases meticulous ruffled piping around each tier, accented by small white sugar pearls. A white satin ribbon tied into a neat bow graces the top tier, adding a touch of sophistication. The cake rests on a simple white board against a soft pink background, evoking a festive atmosphere perfect for birthdays or celebrations."
+        }
+      ],
+      "status": "needs-search",
+      "reviewNote": "Rejected a heart-shaped pink cake: the original design is round. Other Pinterest options had large fondant bows rather than the small ribbon bows.",
+      "rejectedCandidate": {
+        "sourceUrl": "https://in.pinterest.com/pin/921619511245027848/",
+        "imageUrl": "https://i.pinimg.com/736x/88/a0/d4/88a0d4e3e8c11ecf5b7e77772064dc3d.jpg",
+        "description": "A two-tiered confection enveloped in pastel pink buttercream showcases meticulous ruffled piping around each tier, accented by small white sugar pearls. A white satin ribbon tied into a neat bow graces the top tier, adding a touch of sophistication. The cake rests on a simple white board against a soft pink background, evoking a festive atmosphere perfect for birthdays or celebrations.",
+        "localImage": "assets/products/matches/batch-001-pinterest/8957434069217-57e233a2b4.jpg"
+      }
+    },
+    {
+      "n": 9,
+      "productId": "9442928197857",
+      "title": "Red Raspberries Cake",
+      "originalImage": "assets/products/9442928197857.jpg",
+      "selected": {
+        "sourceUrl": "https://www.pinterest.com/pin/2603712280424297/",
+        "imageUrl": "https://i.pinimg.com/originals/c4/f7/32/c4f7324b6bf667bee7de9dd06092568c.jpg",
+        "description": "A pristine white wedding cake, its surface blanketed by rows of vibrant red raspberries, stands elegantly on a table draped in white linen. Beside it, lush bouquets of white roses and green hydrangeas add a fresh, natural touch."
+      },
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/2603712280424297/",
+          "imageUrl": "https://i.pinimg.com/originals/c4/f7/32/c4f7324b6bf667bee7de9dd06092568c.jpg",
+          "description": "A pristine white wedding cake, its surface blanketed by rows of vibrant red raspberries, stands elegantly on a table draped in white linen. Beside it, lush bouquets of white roses and green hydrangeas add a fresh, natural touch."
+        }
+      ],
+      "status": "applied",
+      "localImage": "assets/products/matches/batch-001-pinterest/9442928197857-d92aa2c1ca.jpg",
+      "sha256": "9bc02fb337cfe7c39cceb01c9c3d19548009c854f1f17aea0c66d42c684fbda4",
+      "visualReview": {
+        "verified": true,
+        "tierCount": 1,
+        "shape": "round",
+        "notes": "One wide round white cake covered with raspberries."
+      },
+      "reviewNote": "One wide round white cake covered with raspberries."
+    },
+    {
+      "n": 10,
+      "productId": "9442927575265",
+      "title": "Round Raspberries Cake",
+      "originalImage": "assets/products/9442927575265.jpg",
+      "candidates": [
+        {
+          "sourceUrl": "https://no.pinterest.com/pin/413486809557630416/",
+          "imageUrl": "https://i.pinimg.com/736x/19/c0/7d/19c07dd599e080b28f39e1e561cb640e.jpg",
+          "description": "A vintage-inspired buttercream cake stands elegantly on a white cake stand, its smooth ivory frosting accented by piped borders along the top and base. Fresh raspberries crown the center, creating a vibrant focal point against the creamy backdrop. "
+        },
+        {
+          "sourceUrl": "https://it.pinterest.com/elisarematore/torte-di-compleanno-per-donna/",
+          "imageUrl": "https://i.pinimg.com/736x/3f/6c/14/3f6c14c4d7d2d0052acd2cc51f8ac445.jpg",
+          "description": "A pristine white birthday cake features a lush layer of fresh raspberries crowning its top, interspersed with slender gold candles. The sides are embellished with piped cream swirls and satin ribbon bows, creating an elegant presentation. “Happy Birthday Tanz” is written in red icing on the cake board, and the entire arrangement is mirrored in a decorative frame, enhancing the celebratory display.",
+          "businessNameVisible": true
+        }
+      ],
+      "status": "needs-better-match",
+      "reviewNote": "Visible third-party bakery name, logo or photo credit in the full-size image. Replacement remains pending."
+    },
+    {
+      "n": 11,
+      "productId": "9442926428385",
+      "title": "Heart Shape Raspberries Cake",
+      "originalImage": "assets/products/9442926428385.jpg",
+      "selected": {
+        "sourceUrl": "https://in.pinterest.com/pin/heart-shaped-raspberry-cake-with-bow--2744449766714091/",
+        "imageUrl": "https://i.pinimg.com/originals/4b/95/ec/4b95ecc517ad93c865cdf56e3fe571f4.jpg",
+        "description": "A heart-shaped cake rests on a silver platter, its surface completely covered in plump, bright red raspberries. A white fondant ribbon wraps around the cake, meeting at the top in a neatly crafted bow that gives the dessert a gift-like appearance."
+      },
+      "candidates": [
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/heart-shaped-raspberry-cake-with-bow--2744449766714091/",
+          "imageUrl": "https://i.pinimg.com/originals/4b/95/ec/4b95ecc517ad93c865cdf56e3fe571f4.jpg",
+          "description": "A heart-shaped cake rests on a silver platter, its surface completely covered in plump, bright red raspberries. A white fondant ribbon wraps around the cake, meeting at the top in a neatly crafted bow that gives the dessert a gift-like appearance."
+        }
+      ],
+      "status": "applied",
+      "localImage": "assets/products/matches/batch-001-pinterest/9442926428385-b4a2e140a4.jpg",
+      "sha256": "0488160567df54b0adace766a7dc2de4334a72c01dc6f63cc282cd1c1f091061",
+      "visualReview": {
+        "verified": true,
+        "tierCount": 1,
+        "shape": "heart",
+        "notes": "One heart-shaped cake covered with raspberries and a white bow."
+      },
+      "reviewNote": "One heart-shaped cake covered with raspberries and a white bow."
+    },
+    {
+      "n": 12,
+      "productId": "9422557085921",
+      "title": "Pastel Crescent Cake & Sheep cakepops",
+      "originalImage": "assets/products/9422557085921.jpg",
+      "selected": null,
+      "candidates": [
+        {
+          "sourceUrl": "https://es.pinterest.com/pin/479281585317535126/",
+          "imageUrl": "https://i.pinimg.com/736x/41/5a/99/415a99f4e83788846f408ef2f435507c.jpg",
+          "description": "A smooth blue buttercream cake is decorated with multiple white fondant sheep, each sporting black heads, legs, and tiny green grass details. Around the sides, sheep silhouettes stand atop the blue frosting, while the top features a large textured crescent moon and a single sheep figurine holding a fishing rod. Small fondant spheres dot the cake’s surface, enhancing its playful, cartoon-like aesthetic."
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/172825704438567737/",
+          "imageUrl": "https://i.pinimg.com/736x/dc/3d/73/dc3d733e789a4d3829a53f5116f6d5c5.jpg",
+          "description": "A charming pastel dessert table showcases a two-tiered cake and an assortment of lamb-themed treats. The cake’s top tier is covered in soft pink fondant, featuring a fondant lamb face and bow, while the bottom tier displays alternating pink and white vertical stripes. Surrounding the cake are white-sprinkled cake pops, each topped with a delicate lamb face and pink ribbon, and scalloped cookies on sticks decorated with lamb faces and floral accents."
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/sheep-birthday-cake-ideas-images-for-baby-showers--547187423489515438/",
+          "imageUrl": "https://i.pinimg.com/736x/b5/2b/fb/b52bfb7840c25b5472249a4fade73032.jpg",
+          "description": "A pastel pink, two-tier cake designed for a first birthday or baby shower features charming fondant decorations. The top tier is adorned with a large pink \"1\", small golden stars, and fluffy white clouds, while the bottom tier showcases a brown picket-fence pattern with adorable sheep figures peeking through. Crowning the cake is a golden crescent moon holding a sleeping sheep, accompanied by three star-shaped toppers, creating a dreamy, whimsical scene perfect for celebrating a baby’s milestone."
+        },
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/moon-and-stars-cake--314900198956817416/",
+          "imageUrl": "https://i.pinimg.com/736x/f0/21/1c/f0211c657dece38c40531e49d415d9af.jpg",
+          "description": "A whimsical pink cake stands adorned with white fondant clouds, clusters of sugar pearls, and shimmering gold stars. The name “NILA” appears on a cloud-shaped plaque, tying the design to a personalized celebration. Atop the cake, a crescent moon supports a fondant sheep and a swaddled baby figure, completing the celestial theme."
+        }
+      ],
+      "status": "needs-search",
+      "reviewNote": "No Pinterest candidate matched both the crescent-shaped cake and sheep cake pops."
+    },
+    {
+      "n": 13,
+      "productId": "9412576313569",
+      "title": "Pink Bow Cake Pops",
+      "originalImage": "assets/products/b7e9ee8fd817bbdafce9.png",
+      "selected": {
+        "sourceUrl": "https://ph.pinterest.com/pin/pink-bow-cake-pops--2885187254099036/",
+        "imageUrl": "https://i.pinimg.com/736x/b1/48/58/b14858aa1d3ff4d1fa8aa7831f25233d.jpg",
+        "description": "A collection of pastel pink cake pops is elegantly arranged on a white circular platter. Each pop is coated in smooth pink fondant, decorated with tiny gold sprinkles, and topped with a delicate fondant bow. Mounted on white sticks, the uniform presentation emphasizes the craftsmanship and festive appeal of these treats."
+      },
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/miley-bday-in-2025--1196337403955360/",
+          "imageUrl": "https://i.pinimg.com/originals/31/b1/0d/31b10dff9f53b187d4a03db51472dc6c.jpg",
+          "description": "A set of cake pops coated in white sugar crystals and each finished with a pink fondant bow sits neatly arranged on white sticks. The pastel color scheme and uniform design create a charming, festive display ideal for birthdays, Barbie-themed gatherings, or other special celebrations. The delicate bows and sparkling sugar coating emphasize a playful yet elegant dessert presentation."
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/baby-shower-themed-cake-pops-with-fondant-pink-bow-in-2024--492649952592224/",
+          "imageUrl": "https://i.pinimg.com/originals/a4/44/bb/a444bb032d3df360501162cb95ef63df.jpg",
+          "description": "A set of white-coated cake pops is elegantly arranged in rows, each topped with a delicate pink fondant bow and mounted on a gold stick. The uniform presentation on a clean white surface highlights the pastel color scheme and handcrafted detail. These treats are styled for a baby shower or similar feminine celebration, combining simplicity with refined decorative touches."
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/ideas/bow-themed-party/893577242721/",
+          "imageUrl": "https://i.pinimg.com/474x/63/36/79/633679208bbc1d990e7d9b1070eacbab.jpg?nii=t",
+          "description": "A pristine arrangement of white chocolate cake pops sits neatly on a glossy white platter, each nestled in a fluted paper cup. Every stick is topped with a perfectly tied pink satin bow, and the cake pops are dotted with tiny pearl sprinkles for an extra touch of elegance. "
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/9148005520273150/",
+          "imageUrl": "https://i.pinimg.com/originals/6b/ed/8c/6bed8c79eb2976212b64bcdc078c129d.jpg",
+          "description": "A round white pedestal stand holds a dozen white cake pops, each coated in smooth white icing and adorned with a delicate pink satin ribbon tied into a bow. The cake pops are evenly spaced, creating a visually pleasing arrangement that highlights their uniform shape and pastel accents. Soft, out-of-focus lighting in the background enhances the elegant and celebratory mood of the display."
+        },
+        {
+          "sourceUrl": "https://ph.pinterest.com/pin/pink-bow-cake-pops--2885187254099036/",
+          "imageUrl": "https://i.pinimg.com/736x/b1/48/58/b14858aa1d3ff4d1fa8aa7831f25233d.jpg",
+          "description": "A collection of pastel pink cake pops is elegantly arranged on a white circular platter. Each pop is coated in smooth pink fondant, decorated with tiny gold sprinkles, and topped with a delicate fondant bow. Mounted on white sticks, the uniform presentation emphasizes the craftsmanship and festive appeal of these treats."
+        }
+      ],
+      "status": "applied",
+      "localImage": "assets/products/matches/batch-001-pinterest/9412576313569-8e8cdaed6c.jpg",
+      "sha256": "be1d53e5ce0cc43c03fbff1b4315c7c6bb978ada4bbefb018bbb41782b3942c2",
+      "visualReview": {
+        "verified": true,
+        "tierCount": null,
+        "shape": "cake pops",
+        "notes": "Pink cake pops with pink bows."
+      },
+      "reviewNote": "Pink cake pops with pink bows."
+    },
+    {
+      "n": 14,
+      "productId": "9412572020961",
+      "title": "New Born Cookies - Name, Carriage & Rattle",
+      "originalImage": "assets/products/54b9470fa40c68d411bf.jpg",
+      "selected": null,
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/carmenw622/baby-carriage-cookies-cakes-ideas/",
+          "imageUrl": "https://i.pinimg.com/originals/e1/23/e9/e123e90496e2909857daf27c02369004.jpg",
+          "description": "A set of eight intricately decorated sugar cookies shaped like baby strollers is arranged in two rows on a neutral surface. The cookies feature pastel icing in pink, green, blue, and white, with piped details including swirls, scallops, and dotted patterns on the carriage bodies and wheels."
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/157344580723530117/",
+          "imageUrl": "https://i.pinimg.com/originals/f4/50/22/f4502288ed0bb32db9739abac256b396.jpg",
+          "description": "A collection of eight pastel-hued sugar cookies shaped like baby carriages is artfully arranged on a wooden tray. Each cookie features a pale blue carriage body topped with a white, scalloped canopy, detailed white icing wheels, and a small heart accent. The uniform spacing and rustic wooden backdrop emphasize the delicate craftsmanship and soft color palette."
+        }
+      ],
+      "status": "needs-search",
+      "reviewNote": "Pinterest cookie sets did not show the complete named combination of name, carriage and rattle."
+    },
+    {
+      "n": 15,
+      "productId": "9412569596129",
+      "title": "New Born Cookies - Baby Bunny & Name",
+      "originalImage": "assets/products/349042573a3228629dd1.jpg",
+      "selected": null,
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/bunny-baby-shower-cookies--2392606045346633/",
+          "imageUrl": "https://i.pinimg.com/736x/09/5f/70/095f709b8cbe2a12a28619bd1a1bd975.jpg",
+          "description": "A charming assortment of pastel sugar cookies is artfully displayed, showcasing a whimsical bunny theme perfect for a first birthday or baby shower. The centerpiece hexagon cookie bears the elegant script \"Some Bunny is One,\" while a rectangular cookie is personalized with the name \"Emily.\" Surrounding these are bunny-shaped cookies holding flowers, an oversized number \"1\" adorned with leaves, and oval cookies featuring bunny ears and floral crowns. Soft pinks, creams, and muted greens dominate the palette, with intricate piped flowers and foliage adding a delicate, celebratory touch."
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/adorable-bunny-baby-shower-cookies--492649952592223/",
+          "imageUrl": "https://i.pinimg.com/originals/35/27/df/3527df57dfc9198e3df9db1dc060491d.jpg",
+          "description": "A collection of sugar cookies iced in pastel pink and white presents a cohesive bow-themed design perfect for celebrating a baby girl. The assortment includes bow-shaped cookies with smooth icing, heart-shaped treats speckled with gold accents, and baby romper shapes adorned with gingham patterns and tiny pockets. Bunny silhouettes and floral details add a whimsical touch to the elegant display."
+        }
+      ],
+      "status": "needs-search",
+      "reviewNote": "The candidate lacked a clearly visible baby bunny and personalised name combination.",
+      "rejectedCandidate": {
+        "sourceUrl": "https://www.pinterest.com/pin/adorable-bunny-baby-shower-cookies--492649952592223/",
+        "imageUrl": "https://i.pinimg.com/originals/35/27/df/3527df57dfc9198e3df9db1dc060491d.jpg",
+        "description": "A collection of sugar cookies iced in pastel pink and white presents a cohesive bow-themed design perfect for celebrating a baby girl. The assortment includes bow-shaped cookies with smooth icing, heart-shaped treats speckled with gold accents, and baby romper shapes adorned with gingham patterns and tiny pockets. Bunny silhouettes and floral details add a whimsical touch to the elegant display.",
+        "localImage": "assets/products/matches/batch-001-pinterest/9412569596129-a1c4ed69ac.jpg"
+      }
+    },
+    {
+      "n": 16,
+      "productId": "9410625470689",
+      "title": "New Born Cookies - Round Baby Bear & Stars",
+      "originalImage": "assets/products/7a2e1925587da0a98940.jpg",
+      "selected": null,
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/mireyitatorresp/teddy-bears-cookies/",
+          "imageUrl": "https://i.pinimg.com/736x/59/e1/8c/59e18c4c66c50444961f8a305782d28a.jpg",
+          "description": "A charming assortment of sugar cookies designed for a baby boy shower, featuring brown teddy bears adorned with blue bow ties, blue polka-dotted balloons tied with gold bows, and shiny gold star shapes. White cloud-shaped cookies are inscribed with \"Maurice !!!\", while a banner of small white flags spells out \"baby\" in gold lettering. Additional blue onesie cookies display tiny teddy bear motifs, all arranged neatly on a whitewashed wooden background."
+        }
+      ],
+      "status": "needs-search",
+      "reviewNote": "No close Pinterest match for round cookies with sculpted baby bear and stars."
+    },
+    {
+      "n": 17,
+      "productId": "9410617540833",
+      "title": "New Born Cookies - Baby Dress & Wings",
+      "originalImage": "assets/products/b064dcfd1c300a07c97b.jpg",
+      "selected": null,
+      "candidates": [],
+      "status": "needs-search",
+      "reviewNote": "Wing-only cookies did not match the dress-and-wings set."
+    },
+    {
+      "n": 18,
+      "productId": "9410616393953",
+      "title": "Oh Baby Rainbows & Bears Cupcakes",
+      "originalImage": "assets/products/64479015554d0e45a9e2.jpg",
+      "selected": null,
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/teddy-bear-baptism-cake-with-rainbow-decoration--5911043260865836/",
+          "imageUrl": "https://i.pinimg.com/originals/0f/61/59/0f6159150acb847faded3df42ac46d7c.jpg",
+          "description": "A charming two-tiered cake sits elegantly on a white marble stand, its smooth buttercream finish rendered in soft beige hues. The top tier is crowned with a small, textured teddy bear figurine and clusters of fondant spheres in muted neutrals, while a delicate gold script spells out “Oh Baby.” Below, the bottom tier features a minimalist rainbow decoration in pastel pink, white, and gold, echoing the spherical accents that frame the cake’s base."
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/carebear-cupcake-in-2025--194428908908747841/",
+          "imageUrl": "https://i.pinimg.com/736x/ce/fb/d3/cefbd3b408d0cf1d0c707901a80eaee6.jpg",
+          "description": "A colorful assortment of cupcakes is artfully arranged to form a rainbow inside a simple cardboard box. The cupcakes feature rosette-style frosting in six vivid colors—pink, orange, yellow, green, blue, and purple—culminating in white-frosted “cloud” cupcakes at one end. Small Care Bear character toppers are placed among the cloud cupcakes, reinforcing the playful, child-centric birthday theme. This pin, discovered by Kenyonia on Pinterest on July 18, 2025, is tagged under baby birthday themes and Care Bear birthday party ideas."
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/thecupcakelicious-care-bears-themed-cupcakezz-set--306033737153266873/",
+          "imageUrl": "https://i.pinimg.com/originals/9d/ec/ad/9decad630a819d6b3e6fbbb95e664c39.jpg",
+          "description": "A charming assortment of pastel purple cupcakes is artfully decorated with fondant Care Bears figures, each showcasing a distinct tummy symbol. Fluffy white clouds serve as bases for miniature bears in colors like yellow, blue, green, and pink, while some cupcakes feature vibrant rainbows or heart-shaped toppers."
+        },
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/377387643763708915/",
+          "imageUrl": "https://i.pinimg.com/474x/42/a3/67/42a367823474fe2b680126cdb280e1e6.jpg",
+          "description": "A turquoise Care Bear–shaped cake takes center stage on a foil-covered tray, its belly adorned with a yellow shooting star emblem and its face detailed in white and black icing. Surrounding the bear are chocolate cupcakes topped with teal frosting swirls and tiny rainbow decorations, echoing the cake’s color scheme and theme."
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/care-bear-cake-with-belly-badge-cupcakes--132011832813029077/",
+          "imageUrl": "https://i.pinimg.com/736x/43/b2/86/43b28626acc3b9203fddd91d06c27d4d.jpg",
+          "description": "A purple Care Bear–shaped cake rests on a silver embossed board, its body crafted from piped lavender frosting to mimic fluffy fur. The bear’s belly badge features a vibrant fondant rainbow, while its face displays fondant eyes, nose, and smiling mouth. "
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/slimshannonloos/carnival-cupcakes/",
+          "imageUrl": "https://i.pinimg.com/474x/08/2a/66/082a6642a9fd96966892c0ae1b06f38c.jpg",
+          "description": "A collection of vanilla cupcakes in red-and-white striped wrappers is decorated with generous swirls of white buttercream frosting and vibrant rainbow sprinkles. Each cupcake is topped with a small teddy bear-shaped cookie, reinforcing the playful carnival motif. The combination of smooth frosting, colorful sprinkles, and whimsical cookies creates a festive treat ideal for parties or fair-inspired gatherings."
+        }
+      ],
+      "status": "needs-search",
+      "reviewNote": "Pinterest bear cupcakes lacked the named rainbow decoration."
+    },
+    {
+      "n": 19,
+      "productId": "9410537160929",
+      "title": "Teddy Bear Square Cakesicles",
+      "originalImage": "assets/products/8701d2c125a73bdbab1e.jpg",
+      "selected": null,
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/custom-cakesicles-treats-on-instagram-a-little-bear-is-on-the-way-baby-shower-treats--139470919703118466/",
+          "imageUrl": "https://i.pinimg.com/originals/a7/47/59/a74759d5d0adc4ee15e1d33ca1187ee6.jpg",
+          "description": "A collection of pastel-coated cake pops is neatly arranged in a decorative box filled with shredded paper. Each pop features a fondant teddy bear wearing a tiny bow tie, alternating between soft blue and white coatings. Mini marshmallows are scattered throughout the box, adding to the festive baby shower theme."
+        }
+      ],
+      "status": "needs-search",
+      "reviewNote": "Rejected rounded cakesicles: the product calls for square cakesicles.",
+      "rejectedCandidate": {
+        "sourceUrl": "https://www.pinterest.com/pin/custom-cakesicles-treats-on-instagram-a-little-bear-is-on-the-way-baby-shower-treats--139470919703118466/",
+        "imageUrl": "https://i.pinimg.com/originals/a7/47/59/a74759d5d0adc4ee15e1d33ca1187ee6.jpg",
+        "description": "A collection of pastel-coated cake pops is neatly arranged in a decorative box filled with shredded paper. Each pop features a fondant teddy bear wearing a tiny bow tie, alternating between soft blue and white coatings. Mini marshmallows are scattered throughout the box, adding to the festive baby shower theme.",
+        "localImage": "assets/products/matches/batch-001-pinterest/9410537160929-78680e19ac.jpg"
+      }
+    },
+    {
+      "n": 20,
+      "productId": "9410536243425",
+      "title": "2D Name Intials Cookie with Flowers",
+      "originalImage": "assets/products/b0df4595f85e449d7a40.jpg",
+      "selected": null,
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/pink-letter-cake-with-gold-decorations--12947917673705701/",
+          "imageUrl": "https://i.pinimg.com/originals/50/8a/a2/508aa28b198b0b0416cd46a7cb50b58c.jpg",
+          "description": "A pastel pink letter-shaped cake is artfully arranged on a white board set against a grassy backdrop. The two-tiered cake features piped white frosting dollops topped with pink buttercream rosettes and matching pink macarons. Glittered white strawberries and intricate gold butterfly decorations enhance the cake’s elegant, festive appearance."
+        },
+        {
+          "sourceUrl": "https://es.pinterest.com/pin/18647785950995813/",
+          "imageUrl": "https://i.pinimg.com/736x/fe/bf/90/febf9033169413c24a1d7b8399485b92.jpg",
+          "description": "A delicate uppercase letter A is painted in soft watercolor purples and lavenders, its form intertwined with tropical blooms in peach, pink, and violet. Lush green leaves emerge between the petals, adding depth and a fresh springtime feel. A cream-and-coral butterfly perches gracefully on the right side of the letter, completing the botanical motif."
+        }
+      ],
+      "status": "needs-search",
+      "reviewNote": "Plaque and letter cakes did not match the freestanding floral initial cookie."
+    },
+    {
+      "n": 21,
+      "productId": "9410535489761",
+      "title": "3D Carousel Cookie with Rocking Horse",
+      "originalImage": "assets/products/3a1d355d5478ff35f4ca.jpg",
+      "selected": null,
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/527765650066688393/",
+          "imageUrl": "https://i.pinimg.com/originals/19/c5/be/19c5be4a1258e2c6003a7fc078db6e6a.jpg",
+          "description": "A delightful collection of 3D carousel-themed cookies shaped like white horses, each perched on a golden pole and decorated with pastel pink bows and ribbons. The horses feature detailed icing work in soft pink, yellow, and mint green, with floral accents and scalloped bases that enhance the whimsical carnival aesthetic."
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/biscotti-opere-darti--45810121241687520/",
+          "imageUrl": "https://i.pinimg.com/736x/5a/18/a5/5a18a56098b6f7e1a1a018c49f0798e9.jpg",
+          "description": "A set of Christmas sugar cookies is styled to resemble carousel panels, each showcasing a beautifully iced horse. The cookies feature twisted gold pillars, embossed red and green borders, and delicate pearl-like sugar beads. One cookie displays a white horse with gold accents, while another shows a brown horse adorned with a holly wreath. The overall presentation highlights intricate piping techniques and a rich holiday color scheme, perfect for seasonal celebrations."
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/403353710388720406/",
+          "imageUrl": "https://i.pinimg.com/originals/8d/81/ce/8d81ce119885a1a8f5a6f4e75a01456b.jpg",
+          "description": "A collection of intricately decorated sugar cookies shaped like rocking horses sits elegantly on a wooden tray. Each cookie is iced in smooth white with gold accents, featuring delicate lace-like patterns along the body and braided manes. Festive sprigs of pine, red berries, and gold ornaments surround the cookies, enhancing the holiday atmosphere."
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/74239093831519106/",
+          "imageUrl": "https://i.pinimg.com/originals/5e/43/89/5e4389c7783b35dd13f7b61d5201170c.jpg",
+          "description": "Two gingerbread cookies shaped like rocking horses are adorned with smooth white icing and vibrant red decorative patterns. Each cookie displays a saddle-like design with floral motifs and fringe borders, creating a charming holiday aesthetic. They are arranged on a soft, light-colored fabric backdrop, accented by translucent ribbons that enhance the festive presentation."
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/andrijpolunin/%D0%BA%D0%BE%D0%BD%D0%B8%D0%BA%D0%B8/",
+          "imageUrl": "https://i.pinimg.com/originals/e8/06/8d/e8068ddd47f12abe57d59b50e0f1ac54.jpg",
+          "description": "A gingerbread cookie shaped like a classic rocking horse is adorned with smooth white icing and ornate gold accents. The body features a central gold rose design surrounded by pearl-like dots and swirls, while the base is lined with gold rosettes and tiny white pearls. Set against a lace backdrop, the cookie’s delicate icing work and elegant color palette evoke a refined, vintage-inspired confection."
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/rocking-horse-fondant-cookies--914862399585785/",
+          "imageUrl": "https://i.pinimg.com/originals/71/18/c2/7118c2db1d7b39ce3572de61e9f55819.jpg",
+          "description": "A collection of rocking horse–shaped sugar cookies is decorated in soft cream and pastel blue icing. Each cookie features a curved rocker base adorned with delicate scrollwork and heart motifs, while the horse bodies display piped bridles, saddle blankets, and tiny black accents for eyes and stirrups."
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/309692911863302422/",
+          "imageUrl": "https://i.pinimg.com/736x/19/25/77/192577e7a1f056a002c3cb55c3c9024b--horse-cookies-rocking-horses.jpg",
+          "description": "A set of five intricately decorated sugar cookies shaped like rocking horses rests on a dark backdrop. Each cookie is iced in soft pastel pink with yellow hooves, a brown mane, and a white-and-blue saddle, all accented by tiny piped flowers and a delicate ribbon bow at the neck. The arrangement is accompanied by a branded card reading “Andrea” and “Sueños de Caramelo,” indicating a custom confectionery creation likely intended for a baby shower or birthday celebration."
+        }
+      ],
+      "status": "needs-search",
+      "reviewNote": "Flat rocking-horse cookies did not match a three-dimensional carousel."
+    },
+    {
+      "n": 22,
+      "productId": "9410530410721",
+      "title": "Pink Butterfly Cakesicles",
+      "originalImage": "assets/products/108cd94669195da85220.jpg",
+      "selected": {
+        "sourceUrl": "https://www.pinterest.com/pin/butterfly-cakesicles-with-gold-bowknots--1125968707484883/",
+        "imageUrl": "https://i.pinimg.com/736x/19/ff/44/19ff448ebaec120997766cbe322b125e.jpg",
+        "description": "A set of pastel pink cakesicles on wooden sticks showcases delicate gold butterfly and bowknot decorations, accented by tiny white sprinkles. The smooth, glossy coating and refined embellishments create an elegant dessert presentation perfect for upscale gatherings. "
+      },
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/butterfly-cakesicles-with-gold-bowknots--1125968707484883/",
+          "imageUrl": "https://i.pinimg.com/736x/19/ff/44/19ff448ebaec120997766cbe322b125e.jpg",
+          "description": "A set of pastel pink cakesicles on wooden sticks showcases delicate gold butterfly and bowknot decorations, accented by tiny white sprinkles. The smooth, glossy coating and refined embellishments create an elegant dessert presentation perfect for upscale gatherings. "
+        }
+      ],
+      "status": "applied",
+      "localImage": "assets/products/matches/batch-001-pinterest/9410530410721-f10e77d86b.jpg",
+      "sha256": "ea72ee256e254061661d45683b07d548938e53fad8268e1e02f380c0dd396dfb",
+      "visualReview": {
+        "verified": true,
+        "tierCount": null,
+        "shape": "cakesicles",
+        "notes": "Pink cakesicles decorated with butterflies."
+      },
+      "reviewNote": "Pink cakesicles decorated with butterflies."
+    },
+    {
+      "n": 23,
+      "productId": "9410527625441",
+      "title": "Pink Butterfly Square Cakesicles",
+      "originalImage": "assets/products/910c9f4cac61a8096cca.jpg",
+      "selected": null,
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/butterfly-cakesicles-with-gold-bowknots--1125968707484883/",
+          "imageUrl": "https://i.pinimg.com/736x/19/ff/44/19ff448ebaec120997766cbe322b125e.jpg",
+          "description": "A set of pastel pink cakesicles on wooden sticks showcases delicate gold butterfly and bowknot decorations, accented by tiny white sprinkles. The smooth, glossy coating and refined embellishments create an elegant dessert presentation perfect for upscale gatherings. "
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/christines-molds-on-instagram-beautiful-made-by-totallycupcakes-happy-friday-starting-off-the-weekend-with-these-beautiful-gold-butterfly-cake-popsicle--746049494546469762/",
+          "imageUrl": "https://i.pinimg.com/originals/31/bd/4a/31bd4a431f15c8561b1a2f7ec4d31408.png",
+          "description": "A trio of cake popsicles shines with metallic gold coating, each topped with a delicate gold butterfly and pastel sprinkles. Pink icing drizzles across the surface, while clusters of tiny gold sugar pearls add extra sparkle. The wooden sticks feature glittery gold star accents, completing the whimsical look."
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/baby-in-bloom-in-2025--18225573487786692/",
+          "imageUrl": "https://i.pinimg.com/originals/b7/bc/8d/b7bc8dabc81e654e27a166046988aad3.jpg",
+          "description": "A curated assortment of white-frosted cakesicles sits neatly in a box, each secured on a wooden stick with a taupe satin ribbon. The cakesicles are embellished with intricate sugar decorations, including pink roses, daisies, and pastel butterflies, as well as piped floral stems. One standout piece features an ornate sugar frame with delicate roses, enhancing the elegant presentation."
+        }
+      ],
+      "status": "needs-search",
+      "reviewNote": "Rejected rounded rectangular cakesicles: the product calls for square cakesicles.",
+      "rejectedCandidate": {
+        "sourceUrl": "https://www.pinterest.com/pin/baby-in-bloom-in-2025--18225573487786692/",
+        "imageUrl": "https://i.pinimg.com/originals/b7/bc/8d/b7bc8dabc81e654e27a166046988aad3.jpg",
+        "description": "A curated assortment of white-frosted cakesicles sits neatly in a box, each secured on a wooden stick with a taupe satin ribbon. The cakesicles are embellished with intricate sugar decorations, including pink roses, daisies, and pastel butterflies, as well as piped floral stems. One standout piece features an ornate sugar frame with delicate roses, enhancing the elegant presentation.",
+        "localImage": "assets/products/matches/batch-001-pinterest/9410527625441-df188377a4.jpg"
+      }
+    },
+    {
+      "n": 24,
+      "productId": "9410485518561",
+      "title": "Baby Onesie Cupcakes",
+      "originalImage": "assets/products/5620a6e919841c9db8ba.jpg",
+      "selected": null,
+      "candidates": [],
+      "status": "needs-search",
+      "reviewNote": "Kept the original baby onesie cupcakes; no closer Pinterest match was selected."
+    },
+    {
+      "n": 25,
+      "productId": "9410481619169",
+      "title": "Baby Feet & Bear Cupcakes",
+      "originalImage": "assets/products/b1a44fe1f6e0fb3ecae8.jpg",
+      "selected": {
+        "sourceUrl": "https://www.pinterest.com/pin/41869471531142411/",
+        "imageUrl": "https://i.pinimg.com/originals/27/9f/61/279f615aa45914f79b441c377223510d.jpg",
+        "description": "A dozen cupcakes are neatly arranged in a white box, each nestled in a gold-lined wrapper. The treats are topped with fondant decorations: some feature small brown teddy bears, others display light blue baby shoes, and a few have pastel blue discs embossed with the word “Baby” in gold script. Tiny gold accents and delicate white frosting ruffles complete the look, giving the cupcakes a refined yet whimsical feel."
+      },
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/41869471531142411/",
+          "imageUrl": "https://i.pinimg.com/originals/27/9f/61/279f615aa45914f79b441c377223510d.jpg",
+          "description": "A dozen cupcakes are neatly arranged in a white box, each nestled in a gold-lined wrapper. The treats are topped with fondant decorations: some feature small brown teddy bears, others display light blue baby shoes, and a few have pastel blue discs embossed with the word “Baby” in gold script. Tiny gold accents and delicate white frosting ruffles complete the look, giving the cupcakes a refined yet whimsical feel."
+        }
+      ],
+      "status": "applied",
+      "localImage": "assets/products/matches/batch-001-pinterest/9410481619169-d11b3b3d8c.jpg",
+      "sha256": "45a350463fb996baee26636864183d16f508a9d3b626494d4cc6ca8da78b015e",
+      "visualReview": {
+        "verified": true,
+        "tierCount": null,
+        "shape": "cupcakes",
+        "notes": "Blue and white baby cupcakes with teddy bears and booties."
+      },
+      "reviewNote": "Blue and white baby cupcakes with teddy bears and booties."
+    },
+    {
+      "n": 26,
+      "productId": "9410448064737",
+      "title": "Angel Shaped Macarons",
+      "originalImage": "assets/products/7609b80207e7de7458f8.png",
+      "selected": null,
+      "candidates": [
+        {
+          "sourceUrl": "https://uk.pinterest.com/pin/meringue-angels--421508846346443554/",
+          "imageUrl": "https://i.pinimg.com/originals/27/ff/32/27ff32f0cedcf779482c468b75d75167.jpg",
+          "description": "A collection of delicate white meringue angels sits arranged on a metal baking tray in a kitchen environment. Each angel is composed of piped meringue layers forming a rounded body, with separate wing pieces attached on either side and a small yellow candy halo perched atop the head. Simple facial features—blue icing eyes and red icing mouths—give each angel a charming expression."
+        },
+        {
+          "sourceUrl": "https://br.pinterest.com/pin/79376012179348958/",
+          "imageUrl": "https://i.pinimg.com/originals/b8/17/19/b817191cf25a9ea646cdaab508e3bbbe.jpg",
+          "description": "A collection of angel-shaped gingerbread cookies is artfully arranged on a wooden board, accented by fresh green leaves. Each cookie is meticulously decorated with white royal icing, featuring detailed wings, golden halos, and hands folded in prayer. The angels’ faces are painted with soft blush cheeks and expressive eyes, creating a whimsical and heartwarming look."
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/ideas/christmas-angel-cookies-royal-icing/897526558004/",
+          "imageUrl": "https://i.pinimg.com/474x/b7/35/4f/b7354fd57ebc5a4e0cd4413d516df52e.jpg?nii=t",
+          "description": "A collection of six angel-shaped sugar cookies is presented on a white plate, each iced with pristine white royal icing. The cookies feature peach-colored faces, golden halos, and wings coated in shimmering sugar crystals, creating a cohesive and festive look. "
+        }
+      ],
+      "status": "needs-search",
+      "reviewNote": "No close Pinterest match for the white and gold angel-shaped macarons."
+    },
+    {
+      "n": 27,
+      "productId": "9410434531553",
+      "title": "White Elegant Cake Pops",
+      "originalImage": "assets/products/c5dfb1dcf2e949f46ea9.png",
+      "selected": {
+        "sourceUrl": "https://in.pinterest.com/pin/elegant-white-luxury-dessert-inspiration-in-2025--9288742976923221/",
+        "imageUrl": "https://i.pinimg.com/originals/a2/bc/a1/a2bca18b9c6f3e1dcba67ba4e2bc1aa9.jpg",
+        "description": "A set of four spherical cake pops sits neatly on a ceramic plate, each coated in pristine white chocolate. Wooden sticks topped with ivory satin bows rise from the center of each pop, adding a touch of sophistication. Fine white chocolate drizzles cascade down the sides, accented by clusters of tiny edible pearls for a luxurious finish."
+      },
+      "candidates": [
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/elegant-white-luxury-dessert-inspiration-in-2025--9288742976923221/",
+          "imageUrl": "https://i.pinimg.com/originals/a2/bc/a1/a2bca18b9c6f3e1dcba67ba4e2bc1aa9.jpg",
+          "description": "A set of four spherical cake pops sits neatly on a ceramic plate, each coated in pristine white chocolate. Wooden sticks topped with ivory satin bows rise from the center of each pop, adding a touch of sophistication. Fine white chocolate drizzles cascade down the sides, accented by clusters of tiny edible pearls for a luxurious finish."
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/wedding-in-2025--5488830791680868/",
+          "imageUrl": "https://i.pinimg.com/originals/a7/d6/42/a7d642ea6ceebdce1c33ce398d62a5c9.jpg",
+          "description": "A set of beige cake pops stands upright on white sticks, each delicately coated in smooth icing and sprinkled with tiny white nonpareils. Every pop is finished with a neat white ribbon bow tied around the stick, creating a cohesive and refined look suitable for a wedding dessert table."
+        }
+      ],
+      "status": "applied",
+      "localImage": "assets/products/matches/batch-001-pinterest/9410434531553-3ea458c223.jpg",
+      "sha256": "f5c37aa9639a08190486bf530a6b74dbc1d7e0c5509a30f4abe07d80c3f6d23e",
+      "visualReview": {
+        "verified": true,
+        "tierCount": null,
+        "shape": "cake pops",
+        "notes": "White round cake pops with white bows and drizzled decoration."
+      },
+      "reviewNote": "White round cake pops with white bows and drizzled decoration."
+    },
+    {
+      "n": 28,
+      "productId": "9408976945377",
+      "title": "Newborn Baby Bear Cake Pops",
+      "originalImage": "assets/products/80d6fd7e9d340e131955.jpg",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/75716837460834682/",
+          "imageUrl": "https://i.pinimg.com/originals/45/4d/ba/454dba885455066cb593017584829d4e.jpg",
+          "description": "Chocolate-coated cake pops shaped like teddy bears stand in orderly rows on a white tray. Each bear has a pink bow on its head, small chocolate eyes, and a striped paper stick inserted at the top. The smooth, light brown coating and uniform details suggest careful handcrafting, making them ideal for baby showers or children’s parties.",
+          "businessNameVisible": true
+        },
+        {
+          "sourceUrl": "https://br.pinterest.com/pin/297308012915695514/",
+          "imageUrl": "https://i.pinimg.com/736x/c9/f5/67/c9f567f004208860ac33cdee97ed04c6.jpg",
+          "description": "A charming collection of pastel pink cake pops shaped like teddy bear faces sits in a neat arrangement. Each pop is coated in smooth pink icing and adorned with a light brown fondant face, complete with tiny ears, a smiling snout, and a delicate bow accent. The wooden sticks are finished with large white satin bows, adding an elegant touch to the handcrafted treats."
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/cake-designer-per-caso-adorable-teddy-cake-pops--55872851609082864/",
+          "imageUrl": "https://i.pinimg.com/736x/67/15/16/6715169d98b0b0cc4d4e24dfbb197a9f.jpg",
+          "description": "A collection of teddy bear–shaped cake pops stands neatly on a wooden board, each coated in smooth milk and white chocolate. Small fondant details form the bears’ ears, eyes, and snouts, while red-and-white gingham bows tied around the wooden sticks add a charming, festive touch. The arrangement reflects a DIY tutorial style, inviting home bakers to recreate these cute treats for parties or special occasions."
+        }
+      ],
+      "status": "needs-better-match",
+      "reviewNote": "Visible third-party bakery name, logo or photo credit in the full-size image. Replacement remains pending."
+    },
+    {
+      "n": 29,
+      "productId": "9408854393057",
+      "title": "New Born Cookies - Baby Bear Face",
+      "originalImage": "assets/products/9be97ac40d8b2c90e7df.png",
+      "selected": {
+        "sourceUrl": "https://www.pinterest.com/pin/114067803046700385/",
+        "imageUrl": "https://i.pinimg.com/originals/e8/d5/7c/e8d57c119d37d101b100dc66bdb7c7c8.jpg",
+        "description": "A set of four bear-shaped iced cookies is displayed neatly on a white surface, each featuring a smooth brown face, round eyes, and a cream-colored snout with a tiny smile. Two of the cookies are adorned with pastel bows—one in pink and one in blue—enhancing the adorable teddy bear theme."
+      },
+      "candidates": [
+        {
+          "sourceUrl": "https://ca.pinterest.com/pin/bear-cookies-with-chocolate-teddy-bears--3940718419495433/",
+          "imageUrl": "https://i.pinimg.com/originals/8b/63/6b/8b636b67deca20c99e75af70657c19ed.jpg",
+          "description": "A collection of round sugar cookies is artfully decorated with layers of brown and tan chocolate icing to resemble teddy bear faces. Each cookie features two small chocolate ears, a large oval snout, and tiny black icing dots for eyes and noses, all set against a golden-baked base. The uniform arrangement on a white tray emphasizes their consistent shape and playful design, perfect for festive occasions or children's parties."
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/114067803046700385/",
+          "imageUrl": "https://i.pinimg.com/originals/e8/d5/7c/e8d57c119d37d101b100dc66bdb7c7c8.jpg",
+          "description": "A set of four bear-shaped iced cookies is displayed neatly on a white surface, each featuring a smooth brown face, round eyes, and a cream-colored snout with a tiny smile. Two of the cookies are adorned with pastel bows—one in pink and one in blue—enhancing the adorable teddy bear theme."
+        },
+        {
+          "sourceUrl": "https://br.pinterest.com/pin/572660908869728165/",
+          "imageUrl": "https://i.pinimg.com/736x/c8/ba/2f/c8ba2ffc1651c2e2c4bea2a9edd8a2bc--teddy-bear-cookies-teddy-bears.jpg",
+          "description": "A batch of adorable bear-shaped sugar cookies sits neatly on a parchment-lined baking sheet. Each cookie features chocolate chip eyes and nose, a slightly darker snout, and pink icing cheeks, creating a charming teddy bear face. The cookies are uniformly golden brown, indicating even baking, and are arranged in rows, ready to cool or be served."
+        }
+      ],
+      "status": "applied",
+      "localImage": "assets/products/matches/batch-001-pinterest/9408854393057-63a52ee066.jpg",
+      "sha256": "12f57c548cc98c80b46da2683e874c6f1db5bd0a7927a4525a0f2001f6c2a6ae",
+      "visualReview": {
+        "verified": true,
+        "tierCount": null,
+        "shape": "bear-face cookies",
+        "notes": "Iced cookies shaped like teddy bear faces."
+      },
+      "reviewNote": "Iced cookies shaped like teddy bear faces."
+    },
+    {
+      "n": 30,
+      "productId": "9408852754657",
+      "title": "New Born Cookies - Teddy Bear with Baby Name",
+      "originalImage": "assets/products/7ee27ac6945c753863bf.jpg",
+      "selected": null,
+      "candidates": [],
+      "status": "needs-search",
+      "reviewNote": "Kept the original teddy-bear and baby-name cookie set; no closer Pinterest match was selected."
+    },
+    {
+      "n": 31,
+      "productId": "9408849903841",
+      "title": "New Born Cookies - Baby Rocking Horse",
+      "originalImage": "assets/products/f32af851362b0ee7101b.jpg",
+      "selected": {
+        "sourceUrl": "https://www.pinterest.com/pin/rocking-horse-fondant-cookies--914862399585785/",
+        "imageUrl": "https://i.pinimg.com/originals/71/18/c2/7118c2db1d7b39ce3572de61e9f55819.jpg",
+        "description": "A collection of rocking horse–shaped sugar cookies is decorated in soft cream and pastel blue icing. Each cookie features a curved rocker base adorned with delicate scrollwork and heart motifs, while the horse bodies display piped bridles, saddle blankets, and tiny black accents for eyes and stirrups."
+      },
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/rocking-horse-fondant-cookies--914862399585785/",
+          "imageUrl": "https://i.pinimg.com/originals/71/18/c2/7118c2db1d7b39ce3572de61e9f55819.jpg",
+          "description": "A collection of rocking horse–shaped sugar cookies is decorated in soft cream and pastel blue icing. Each cookie features a curved rocker base adorned with delicate scrollwork and heart motifs, while the horse bodies display piped bridles, saddle blankets, and tiny black accents for eyes and stirrups."
+        }
+      ],
+      "status": "applied",
+      "localImage": "assets/products/matches/batch-001-pinterest/9408849903841-cae0d6b36f.jpg",
+      "sha256": "5ef8cfdab09853f408d629a8497e63451ccb872d251c8dbe88e101f9865b4b2d",
+      "visualReview": {
+        "verified": true,
+        "tierCount": null,
+        "shape": "rocking-horse cookies",
+        "notes": "Iced rocking-horse cookies in cream and pastel blue."
+      },
+      "reviewNote": "Iced rocking-horse cookies in cream and pastel blue."
+    },
+    {
+      "n": 32,
+      "productId": "9408848265441",
+      "title": "New Born Cookies - Baby Carriage & Bottle",
+      "originalImage": "assets/products/59a6c3ad7d87f9fdee76.png",
+      "selected": null,
+      "candidates": [],
+      "status": "needs-search",
+      "reviewNote": "Pinterest carriage cookie sets did not preserve the named carriage-and-bottle pair."
+    },
+    {
+      "n": 33,
+      "productId": "9408835879137",
+      "title": "New Born Cookies - Baby Onesie & Bottle",
+      "originalImage": "assets/products/6bbf4f59ed7634718ab1.jpg",
+      "selected": {
+        "sourceUrl": "https://www.pinterest.com/pin/123286108547611140/",
+        "imageUrl": "https://i.pinimg.com/736x/c8/3c/18/c83c1823b45b7163f9eeb39e05fa45d8.jpg",
+        "description": "A charming assortment of pastel pink and gray sugar cookies arranged neatly on a wooden backdrop. The collection features a heart-shaped cookie adorned with a miniature banner spelling “Maddison,” a baby bottle with a small heart accent, a pacifier, and a bib also inscribed “Maddison.” A polka-dotted onesie with a central heart and a rattle labeled “BABY” complete the set. Each piece showcases delicate icing details—scalloped edges, polka dots, and tiny hearts—highlighting the craftsmanship of a bakery’s custom baby shower treats."
+      },
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/123286108547611140/",
+          "imageUrl": "https://i.pinimg.com/736x/c8/3c/18/c83c1823b45b7163f9eeb39e05fa45d8.jpg",
+          "description": "A charming assortment of pastel pink and gray sugar cookies arranged neatly on a wooden backdrop. The collection features a heart-shaped cookie adorned with a miniature banner spelling “Maddison,” a baby bottle with a small heart accent, a pacifier, and a bib also inscribed “Maddison.” A polka-dotted onesie with a central heart and a rattle labeled “BABY” complete the set. Each piece showcases delicate icing details—scalloped edges, polka dots, and tiny hearts—highlighting the craftsmanship of a bakery’s custom baby shower treats."
+        }
+      ],
+      "status": "applied",
+      "localImage": "assets/products/matches/batch-001-pinterest/9408835879137-01304d6d99.jpg",
+      "sha256": "a56fc0a5cafeff11037ffc0114a3cc14b63db0daa9bd992ff6ee01049fd0aa4c",
+      "visualReview": {
+        "verified": true,
+        "tierCount": null,
+        "shape": "onesie and bottle cookies",
+        "notes": "Baby cookie assortment includes onesies and bottles."
+      },
+      "reviewNote": "Baby cookie assortment includes onesies and bottles."
+    },
+    {
+      "n": 34,
+      "productId": "9408833454305",
+      "title": "New Born Cookies - Oval Baby Onesie",
+      "originalImage": "assets/products/86d05eb792759ad41c8d.jpg",
+      "selected": null,
+      "candidates": [
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/312859505376673694/",
+          "imageUrl": "https://i.pinimg.com/736x/83/d7/26/83d7266377e8b9a5e9b164c237bd79e2.jpg",
+          "description": "A gold tray holds a neat arrangement of white oval cookies, each nestled in delicate lace paper cups. The cookies are adorned with pastel blue fondant cutouts shaped like baby onesies, bibs, and booties, all highlighted with metallic gold accents. A decorative golden spoon rests alongside, and the setup is placed on a plush white fur surface, evoking a luxurious and celebratory atmosphere."
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/ideas/baby-royal-icing-cookies/929613489955/",
+          "imageUrl": "https://i.pinimg.com/474x/5c/51/2c/5c512ca3ea73c3e9fa77ac35a3a31d36.jpg",
+          "description": "A pastel blue sugar cookie shaped like a baby onesie features smooth royal icing and delicate white accents. Tiny floral dots are piped across the surface, while a crisp white collar and row of buttons run down the center. The cookie is presented on a white plate with embossed scrollwork, highlighting its handcrafted detail and soft color palette."
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/baby-shower-in-2025--351912466263537/",
+          "imageUrl": "https://i.pinimg.com/originals/4e/e6/19/4ee6199b19685eb6f54ca30d30201953.jpg",
+          "description": "A collection of baby onesie–shaped sugar cookies in varying shades of blue and white is displayed on a rustic wooden surface. Each cookie is meticulously decorated with royal icing, featuring designs like horizontal stripes, polka dots, tiny hearts, and small pocket details. The uniform arrangement in rows highlights the craftsmanship and pastel color scheme, making them perfect for a baby boy shower."
+        }
+      ],
+      "status": "needs-search",
+      "reviewNote": "Rejected a mixed rounded-rectangle treat set: the named cookie shape is oval.",
+      "rejectedCandidate": {
+        "sourceUrl": "https://in.pinterest.com/pin/312859505376673694/",
+        "imageUrl": "https://i.pinimg.com/736x/83/d7/26/83d7266377e8b9a5e9b164c237bd79e2.jpg",
+        "description": "A gold tray holds a neat arrangement of white oval cookies, each nestled in delicate lace paper cups. The cookies are adorned with pastel blue fondant cutouts shaped like baby onesies, bibs, and booties, all highlighted with metallic gold accents. A decorative golden spoon rests alongside, and the setup is placed on a plush white fur surface, evoking a luxurious and celebratory atmosphere.",
+        "localImage": "assets/products/matches/batch-001-pinterest/9408833454305-1fc11e10b8.jpg"
+      }
+    },
+    {
+      "n": 35,
+      "productId": "9408830111969",
+      "title": "New Born Cookies - Baby Angel & Carousel",
+      "originalImage": "assets/products/b347fd6df092b80b44aa.jpg",
+      "selected": null,
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/biscotti-opere-darti--45810121241687520/",
+          "imageUrl": "https://i.pinimg.com/736x/5a/18/a5/5a18a56098b6f7e1a1a018c49f0798e9.jpg",
+          "description": "A set of Christmas sugar cookies is styled to resemble carousel panels, each showcasing a beautifully iced horse. The cookies feature twisted gold pillars, embossed red and green borders, and delicate pearl-like sugar beads. One cookie displays a white horse with gold accents, while another shows a brown horse adorned with a holly wreath. The overall presentation highlights intricate piping techniques and a rich holiday color scheme, perfect for seasonal celebrations."
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/444800900697359107/",
+          "imageUrl": "https://i.pinimg.com/736x/4c/fb/55/4cfb55f376063cca141b82bb7f754b28.jpg",
+          "description": "This three-tiered cake combines baroque elegance with whimsical charm. The base and top tiers are wrapped in white fondant, embellished with ornate gold scrollwork and garlands of roses. The central tier, in soft pink, transforms into a carousel scene featuring sculpted cherubs, winged horses, and floral motifs, all highlighted with gold accents."
+        },
+        {
+          "sourceUrl": "https://br.pinterest.com/pin/501025527293739678/",
+          "imageUrl": "https://i.pinimg.com/originals/66/72/22/667222d07052b4f649f918b1f0801ad0.jpg",
+          "description": "A collection of pastel pink square sugar cookies is elegantly decorated with miniature white carousel horses. Each horse features intricate gold detailing on the mane, saddle, and hooves, along with tiny pink floral accents. A twisted gold pole runs beneath each horse, topped by a large pink fondant bow that adds a playful touch."
+        }
+      ],
+      "status": "needs-search",
+      "reviewNote": "No close Pinterest match combining angel and carousel cookies."
+    },
+    {
+      "n": 36,
+      "productId": "9408829980897",
+      "title": "New Born Cookies - Baby Carousel",
+      "originalImage": "assets/products/d26aedba54588b1cc27e.jpg",
+      "selected": null,
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/rocking-horse-fondant-cookies--914862399585785/",
+          "imageUrl": "https://i.pinimg.com/originals/71/18/c2/7118c2db1d7b39ce3572de61e9f55819.jpg",
+          "description": "A collection of rocking horse–shaped sugar cookies is decorated in soft cream and pastel blue icing. Each cookie features a curved rocker base adorned with delicate scrollwork and heart motifs, while the horse bodies display piped bridles, saddle blankets, and tiny black accents for eyes and stirrups."
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/denisedemoya/holly-hobbie-cakes-cookies-cupcakes/",
+          "imageUrl": "https://i.pinimg.com/736x/97/34/19/973419a1651fb0deb0b17411b9c386d7.jpg",
+          "description": "A pastel-hued assortment of custom sugar cookies celebrates the nostalgic Holly Hobbie character. Central to the display is a large carousel horse cookie, intricately iced with patchwork patterns and mounted on a decorative stand. Surrounding it are rectangular cookies featuring Holly Hobbie girls in bonnets and patchwork dresses, as well as heart-shaped cookies adorned with quilt motifs and the word “LOVE.”"
+        }
+      ],
+      "status": "needs-search",
+      "reviewNote": "Rocking-horse cookies did not match the complete carousel shape."
+    },
+    {
+      "n": 37,
+      "productId": "9408829948129",
+      "title": "New Born Cookies - Baby Onesie",
+      "originalImage": "assets/products/8985e81fd8a057fc108d.jpg",
+      "selected": {
+        "sourceUrl": "https://www.pinterest.com/pin/311452130484269497/",
+        "imageUrl": "https://i.pinimg.com/736x/a1/1e/a4/a11ea48d6e8f9a993f673b49fdb535a7.jpg",
+        "description": "A collection of twelve royal icing cookies shaped like baby onesies is artfully arranged on a round platter. The pastel color scheme of pink, white, and soft gray is complemented by intricate details including ruffled icing hems, polka dots, hearts, and delicate sugar roses. Several cookies are personalized with the name “Sarah” in metallic gold icing, adding a bespoke touch to the assortment."
+      },
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/311452130484269497/",
+          "imageUrl": "https://i.pinimg.com/736x/a1/1e/a4/a11ea48d6e8f9a993f673b49fdb535a7.jpg",
+          "description": "A collection of twelve royal icing cookies shaped like baby onesies is artfully arranged on a round platter. The pastel color scheme of pink, white, and soft gray is complemented by intricate details including ruffled icing hems, polka dots, hearts, and delicate sugar roses. Several cookies are personalized with the name “Sarah” in metallic gold icing, adding a bespoke touch to the assortment."
+        },
+        {
+          "sourceUrl": "https://ru.pinterest.com/pin/421438477607389958/",
+          "imageUrl": "https://i.pinimg.com/736x/d6/d7/90/d6d7908ba93100af6f62c12444c9ffd8.jpg",
+          "description": "A set of sugar cookies shaped like infant onesies, each coated in smooth pastel pink royal icing and dotted with white polka patterns. White heart accents and piped borders add charming detail to every piece. The cookies are arranged on a coordinating pink backdrop sprinkled with tiny hearts, enhancing the festive baby shower theme."
+        }
+      ],
+      "status": "applied",
+      "localImage": "assets/products/matches/batch-001-pinterest/9408829948129-0304718e38.jpg",
+      "sha256": "56294068835d564427a565d3e008cdc28d46a6798a76247f376600e2ac797412",
+      "visualReview": {
+        "verified": true,
+        "tierCount": null,
+        "shape": "onesie cookies",
+        "notes": "Pink and white baby onesie cookies with piping and floral details."
+      },
+      "reviewNote": "Pink and white baby onesie cookies with piping and floral details."
+    },
+    {
+      "n": 38,
+      "productId": "9408829587681",
+      "title": "New Born Baby Cookies - Elegant Luxury",
+      "originalImage": "assets/products/9afff53d048b2229bb6a.jpg",
+      "selected": {
+        "sourceUrl": "https://es.pinterest.com/pin/496099715223652028/",
+        "imageUrl": "https://i.pinimg.com/736x/b3/6f/4f/b36f4f539835c0cc68fa37e69f6631a9.jpg",
+        "description": "A curated assortment of sugar cookies in pastel blue, white, and beige tones is artfully displayed on a light background. Each cookie is shaped to celebrate a baby boy shower, featuring detailed royal icing work. The baby carriage cookie stands out with its woven basket texture, scalloped canopy, and piped bow. The onesie cookie showcases a soft gingham pattern under a crisp white collar, while round medallions are adorned with floral motifs and tiny yellow blossoms."
+      },
+      "candidates": [
+        {
+          "sourceUrl": "https://es.pinterest.com/pin/496099715223652028/",
+          "imageUrl": "https://i.pinimg.com/736x/b3/6f/4f/b36f4f539835c0cc68fa37e69f6631a9.jpg",
+          "description": "A curated assortment of sugar cookies in pastel blue, white, and beige tones is artfully displayed on a light background. Each cookie is shaped to celebrate a baby boy shower, featuring detailed royal icing work. The baby carriage cookie stands out with its woven basket texture, scalloped canopy, and piped bow. The onesie cookie showcases a soft gingham pattern under a crisp white collar, while round medallions are adorned with floral motifs and tiny yellow blossoms."
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/blue-and-gold-baby-shower-sugar-cookies-by-sadiebabysweetscom--421157002648841874/",
+          "imageUrl": "https://i.pinimg.com/originals/02/2b/07/022b07e16aea4b4f5eeae404e442b9df.jpg",
+          "description": "A collection of pastel blue and gold sugar cookies is artfully arranged on a round platter edged with gold beads. Each cookie is shaped to resemble classic baby shower icons—carriages, bottles, rocking horses, bibs, onesies, socks, and pacifiers—and decorated with intricate icing details like scalloped edges, polka dots, and tiny stars."
+        }
+      ],
+      "status": "applied",
+      "localImage": "assets/products/matches/batch-001-pinterest/9408829587681-c1103cde5a.jpg",
+      "sha256": "0199d35fb71b72fd8e7f9c3900998ab9bb40ac06cb717b16a13eeeba85449579",
+      "visualReview": {
+        "verified": true,
+        "tierCount": null,
+        "shape": "baby cookies",
+        "notes": "Blue and white baby cookie assortment with carriage and decorated onesie."
+      },
+      "reviewNote": "Blue and white baby cookie assortment with carriage and decorated onesie."
+    },
+    {
+      "n": 39,
+      "productId": "9408826114273",
+      "title": "New Born Baby Cookies - Bunny with Name",
+      "originalImage": "assets/products/0a1a981fddef73cdba0c.jpg",
+      "selected": {
+        "sourceUrl": "https://www.pinterest.com/pin/bunny-baby-shower-cookies--2392606045346633/",
+        "imageUrl": "https://i.pinimg.com/736x/09/5f/70/095f709b8cbe2a12a28619bd1a1bd975.jpg",
+        "description": "A charming assortment of pastel sugar cookies is artfully displayed, showcasing a whimsical bunny theme perfect for a first birthday or baby shower. The centerpiece hexagon cookie bears the elegant script \"Some Bunny is One,\" while a rectangular cookie is personalized with the name \"Emily.\" Surrounding these are bunny-shaped cookies holding flowers, an oversized number \"1\" adorned with leaves, and oval cookies featuring bunny ears and floral crowns. Soft pinks, creams, and muted greens dominate the palette, with intricate piped flowers and foliage adding a delicate, celebratory touch."
+      },
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/bunny-baby-shower-cookies--2392606045346633/",
+          "imageUrl": "https://i.pinimg.com/736x/09/5f/70/095f709b8cbe2a12a28619bd1a1bd975.jpg",
+          "description": "A charming assortment of pastel sugar cookies is artfully displayed, showcasing a whimsical bunny theme perfect for a first birthday or baby shower. The centerpiece hexagon cookie bears the elegant script \"Some Bunny is One,\" while a rectangular cookie is personalized with the name \"Emily.\" Surrounding these are bunny-shaped cookies holding flowers, an oversized number \"1\" adorned with leaves, and oval cookies featuring bunny ears and floral crowns. Soft pinks, creams, and muted greens dominate the palette, with intricate piped flowers and foliage adding a delicate, celebratory touch."
+        }
+      ],
+      "status": "applied",
+      "localImage": "assets/products/matches/batch-001-pinterest/9408826114273-8346b01586.jpg",
+      "sha256": "16e1b89bcb1b8dea2ce9b5d8ce6fcf024e1aa21f70bc41b6b4394e25b74597a3",
+      "visualReview": {
+        "verified": true,
+        "tierCount": null,
+        "shape": "bunny and name cookies",
+        "notes": "Bunny cookies, floral details and personalised name plaques."
+      },
+      "reviewNote": "Bunny cookies, floral details and personalised name plaques."
+    },
+    {
+      "n": 40,
+      "productId": "9407495373025",
+      "title": "Newborn Baby Onesie & Bear Cake Pops",
+      "originalImage": "assets/products/29bc32beaa9bba03bd0f.jpg",
+      "selected": null,
+      "candidates": [
+        {
+          "sourceUrl": "https://br.pinterest.com/pin/297308012915695514/",
+          "imageUrl": "https://i.pinimg.com/736x/c9/f5/67/c9f567f004208860ac33cdee97ed04c6.jpg",
+          "description": "A charming collection of pastel pink cake pops shaped like teddy bear faces sits in a neat arrangement. Each pop is coated in smooth pink icing and adorned with a light brown fondant face, complete with tiny ears, a smiling snout, and a delicate bow accent. The wooden sticks are finished with large white satin bows, adding an elegant touch to the handcrafted treats."
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/adorable-teddy-bear-cupcakes-for-baby-shower-treats--1266706139050251/",
+          "imageUrl": "https://i.pinimg.com/originals/3c/be/33/3cbe33b8dd0c8aa4ff9711ab3dcdece1.jpg",
+          "description": "A set of pastel pink and white cake pops is artfully arranged on a serving platter, each nestled in a white paper liner. The round treats are coated in smooth candy melts and accented with thin drizzles of contrasting icing. Small teddy bear-shaped cookies sit atop each pop, adding a charming baby shower theme. Sticks inserted into the cake pops make them easy to hold and enjoy, perfect for a celebratory gathering."
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/sweet-art-by-katerina-on-instagram-teddy-themed-cupcakes-cookies-and-cake-pops-for-1st-birthday-celebration-cookies-cookiedecorating-cakepo--417075615505012183/",
+          "imageUrl": "https://i.pinimg.com/736x/cd/47/64/cd4764bf59a9fbcd00d2f43aa65cd858.jpg",
+          "description": "A collection of pastel pink teddy bear cake pops and cupcakes sits elegantly on a lace-patterned stand. Each confection is topped with a fondant teddy face, complete with expressive eyes and a pink bow, all nestled in white paper cups. Behind them, a tiered tray holds matching teddy-decorated cookies, and a small easel displays a round cookie featuring a standing teddy and heart accents."
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/75716837460834682/",
+          "imageUrl": "https://i.pinimg.com/originals/45/4d/ba/454dba885455066cb593017584829d4e.jpg",
+          "description": "Chocolate-coated cake pops shaped like teddy bears stand in orderly rows on a white tray. Each bear has a pink bow on its head, small chocolate eyes, and a striped paper stick inserted at the top. The smooth, light brown coating and uniform details suggest careful handcrafting, making them ideal for baby showers or children’s parties."
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/gender-reveal-cakepops-marshmallows--859132066417620302/",
+          "imageUrl": "https://i.pinimg.com/736x/f0/8f/62/f08f62eea4edb3beba4b382990f28661.jpg",
+          "description": "A set of pastel pink and blue cakepops shaped like baby onesies, each featuring a contrasting question mark decoration. The confections are mounted on striped paper sticks and anchored in glittery sugar-coated spheres, creating a whimsical display. Perfectly suited for a gender reveal party, these treats add a charming and sweet element to the celebration, alternating between soft pink and light blue to build anticipation for the big reveal."
+        }
+      ],
+      "status": "needs-search",
+      "reviewNote": "Teddy-only cake pops did not match the named onesie-and-bear set."
+    },
+    {
+      "n": 41,
+      "productId": "9407489081569",
+      "title": "Ferrero Chocolate Smash Cake",
+      "originalImage": "assets/products/586e912198fbccba463d.jpg",
+      "selected": null,
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/5ingredient-chocolate-smash-cake--304485624812458546/",
+          "imageUrl": "https://i.pinimg.com/originals/c5/bb/6d/c5bb6df28d9ceffbb0924fb9e11fc2fa.jpg",
+          "description": "A decadent chocolate smash cake is showcased on a white plate, its dark ganache shell artfully cracked to reveal a treasure trove of Ferrero Rocher chocolates. The top is decorated with wafer shards, whole hazelnuts, and swirls of Nutella, creating a visually striking centerpiece for any dessert table."
+        }
+      ],
+      "status": "needs-search",
+      "reviewNote": "Pinterest chocolate cake options did not match the Ferrero-shaped smash shell."
+    },
+    {
+      "n": 42,
+      "productId": "9407464833249",
+      "title": "Red Anniversary Chocolate Smash Bomb Cake",
+      "originalImage": "assets/products/efa2823fa97a4e9c1320.png",
+      "selected": null,
+      "candidates": [],
+      "status": "needs-search",
+      "reviewNote": "No Pinterest match preserving the red anniversary bomb-shaped chocolate shell."
+    },
+    {
+      "n": 43,
+      "productId": "9407449923809",
+      "title": "Unicorn themed Cakesicles",
+      "originalImage": "assets/products/16642dae89d6d3029af1.jpg",
+      "selected": {
+        "sourceUrl": "https://www.pinterest.com/pin/85498092915547717/",
+        "imageUrl": "https://i.pinimg.com/736x/9c/aa/07/9caa0727844cacc4fe291215fecb5ccd.jpg",
+        "description": "A set of unicorn-themed cakesicles sits arranged on a white surface, each coated in smooth white chocolate. Pastel swirls of pink, purple, yellow, and blue form the unicorns’ manes, while metallic gold horns and tiny fondant ears add a magical touch. Delicate black icing creates closed eyes and subtle nostrils, giving each treat a peaceful, dreamy expression."
+      },
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/85498092915547717/",
+          "imageUrl": "https://i.pinimg.com/736x/9c/aa/07/9caa0727844cacc4fe291215fecb5ccd.jpg",
+          "description": "A set of unicorn-themed cakesicles sits arranged on a white surface, each coated in smooth white chocolate. Pastel swirls of pink, purple, yellow, and blue form the unicorns’ manes, while metallic gold horns and tiny fondant ears add a magical touch. Delicate black icing creates closed eyes and subtle nostrils, giving each treat a peaceful, dreamy expression."
+        }
+      ],
+      "status": "applied",
+      "localImage": "assets/products/matches/batch-001-pinterest/9407449923809-0605e3ee86.jpg",
+      "sha256": "a4335f21adb91ea5e9b449b4213726077d043abdbb584dafb3955fa6e8d5b5c0",
+      "visualReview": {
+        "verified": true,
+        "tierCount": null,
+        "shape": "unicorn cakesicles",
+        "notes": "White cakesicles with unicorn horns, eyes and pastel manes."
+      },
+      "reviewNote": "White cakesicles with unicorn horns, eyes and pastel manes."
+    },
+    {
+      "n": 44,
+      "productId": "9404192424161",
+      "title": "Stitch Bento Cake & Cupcakes",
+      "originalImage": "assets/products/d7740ece492717440a7f.jpg",
+      "candidates": [
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/lilo-stitch-themed-bento-box-in-2025--71283606601785246/",
+          "imageUrl": "https://i.pinimg.com/736x/b1/a1/99/b1a1998a051607a2996b74fc2f4095d4.jpg",
+          "description": "A pastel purple and teal birthday cake personalized with the name “NANDI,” a pink “Happy Birthday” plaque, and the number “11” is showcased alongside five coordinating cupcakes. The cupcakes feature swirled frosting, edible flowers, pearls, and character toppers of Stitch enjoying treats. All items are neatly arranged in a white box, ready for a child’s birthday celebration.",
+          "businessNameVisible": true
+        }
+      ],
+      "status": "needs-better-match",
+      "reviewNote": "Visible third-party bakery name, logo or photo credit in the full-size image. Replacement remains pending."
+    },
+    {
+      "n": 45,
+      "productId": "9404190130401",
+      "title": "Minecraft Number Shape Cake",
+      "originalImage": "assets/products/afe4b95f5c8edd96cfe0.jpg",
+      "selected": {
+        "sourceUrl": "https://www.pinterest.com/pin/200199145931681081/",
+        "imageUrl": "https://i.pinimg.com/originals/56/48/2c/56482cc3bf707d37bcb5d971b10d7425.png",
+        "description": "A custom birthday cake molded into the shape of the number eight is lavishly adorned with Minecraft-inspired treats. Bright green and dark chocolate candies, small chocolate bars, and Oreo cookies form a textured base. Pixel-art fondant toppers depict iconic Minecraft elements: a pig face, a creeper face, Steve’s head, and a TNT block labeled “TNT.”"
+      },
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/200199145931681081/",
+          "imageUrl": "https://i.pinimg.com/originals/56/48/2c/56482cc3bf707d37bcb5d971b10d7425.png",
+          "description": "A custom birthday cake molded into the shape of the number eight is lavishly adorned with Minecraft-inspired treats. Bright green and dark chocolate candies, small chocolate bars, and Oreo cookies form a textured base. Pixel-art fondant toppers depict iconic Minecraft elements: a pig face, a creeper face, Steve’s head, and a TNT block labeled “TNT.”"
+        },
+        {
+          "sourceUrl": "https://br.pinterest.com/bclub1632/bolo-8/",
+          "imageUrl": "https://i.pinimg.com/474x/2f/9a/d4/2f9ad4372f7c7b0339d427ff515846f9.jpg",
+          "description": "A vibrant two-tiered cake shaped as the number eight showcases alternating green frosting squares and red accents. The top tier is adorned with red and green star toppers, a Minecraft Steve figurine, and a block prop resembling in-game elements. The name \"JONAH\" appears in bold red fondant letters on the lower tier, tying the design to the birthday celebrant."
+        },
+        {
+          "sourceUrl": "https://au.pinterest.com/pin/annalias-birthday--12807180182941368/",
+          "imageUrl": "https://i.pinimg.com/736x/e6/de/6a/e6de6ab7a7d20a6e69d6db0289da35e7.jpg",
+          "description": "A three-tiered cake styled after Minecraft terrain features green buttercream grass and fondant block patterns on each level. Assembled Frugo.co.nz figurines—such as creepers, pigs, skeletons, and other blocky characters—are placed around the tiers, creating a playful game-inspired scene. A glittery blue number 8 candle crowns the top tier, celebrating an eighth birthday."
+        },
+        {
+          "sourceUrl": "https://ar.pinterest.com/pin/16466354877485671/",
+          "imageUrl": "https://i.pinimg.com/564x/36/c6/a3/36c6a3774bf063e4b277080e941405e9.jpg",
+          "description": "A square, one-tier cake replicates the iconic grass-and-dirt block pattern from Minecraft, using alternating green fondant squares on top and brown tones on the sides. Black fondant letters spell out “ALEX” on the top surface and “MINECRAFT” along one side, while the cake board reads “Happy 8th Birthday.”"
+        }
+      ],
+      "status": "applied",
+      "localImage": "assets/products/matches/batch-001-pinterest/9404190130401-6d7f6334e9.png",
+      "sha256": "a3d8447b0886b1efbf9f0b1ff67c7740791447bc87000be7862a18455565fd0f",
+      "visualReview": {
+        "verified": true,
+        "tierCount": 1,
+        "shape": "number eight",
+        "notes": "One number-eight cake with green Minecraft decorations."
+      },
+      "reviewNote": "One number-eight cake with green Minecraft decorations."
+    },
+    {
+      "n": 46,
+      "productId": "9404183511265",
+      "title": "Roblox Pink Cake",
+      "originalImage": "assets/products/2cc137d4e96a04cfa944.jpg",
+      "selected": {
+        "sourceUrl": "https://www.pinterest.com/pin/612559986851221043/",
+        "imageUrl": "https://i.pinimg.com/originals/6b/bd/76/6bbd7696638851bcbc85b0f78c0b4ffc.jpg",
+        "description": "A pastel pink and white two-tiered cake celebrates an eighth birthday with a Roblox theme. The top tier is adorned with marshmallows, chocolate squares, and pink candy swirls, while three Roblox character toppers stand beside a bold sign proclaiming “FREYA IS 8.” The front of the cake features the iconic Roblox logo in matching pink and white tones, tying the design together for a playful and festive party centerpiece."
+      },
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/612559986851221043/",
+          "imageUrl": "https://i.pinimg.com/originals/6b/bd/76/6bbd7696638851bcbc85b0f78c0b4ffc.jpg",
+          "description": "A pastel pink and white two-tiered cake celebrates an eighth birthday with a Roblox theme. The top tier is adorned with marshmallows, chocolate squares, and pink candy swirls, while three Roblox character toppers stand beside a bold sign proclaiming “FREYA IS 8.” The front of the cake features the iconic Roblox logo in matching pink and white tones, tying the design together for a playful and festive party centerpiece."
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/vivianple/roblox/",
+          "imageUrl": "https://i.pinimg.com/originals/14/6e/4e/146e4efe71ca67e0676a8e2c7243d0dc.jpg",
+          "description": "A pastel pink, two-tiered cake serves as the centerpiece for an eighth birthday celebration. The smooth frosting is adorned with tiny sugar pearls and delicate flower accents. On top, a custom banner spells out \"Janice,\" accompanied by a large number \"8\" and cutouts of smiling Roblox avatars in various poses."
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/612559986851221043/",
+          "imageUrl": "https://i.pinimg.com/originals/6b/bd/76/6bbd7696638851bcbc85b0f78c0b4ffc.jpg",
+          "description": "A pastel pink and white two-tiered cake celebrates an eighth birthday with a Roblox theme. The top tier is adorned with marshmallows, chocolate squares, and pink candy swirls, while three Roblox character toppers stand beside a bold sign proclaiming “FREYA IS 8.” The front of the cake features the iconic Roblox logo in matching pink and white tones, tying the design together for a playful and festive party centerpiece."
+        }
+      ],
+      "status": "applied",
+      "localImage": "assets/products/matches/batch-001-pinterest/9404183511265-39afb1a155.jpg",
+      "sha256": "3777fb0aa50d79bf622efbeb9859998050dbbccc2e87b4c1e584f78b86f09647",
+      "visualReview": {
+        "verified": true,
+        "tierCount": 1,
+        "shape": "round",
+        "notes": "One pink cylindrical cake with Roblox girl characters."
+      },
+      "reviewNote": "One pink cylindrical cake with Roblox girl characters."
+    },
+    {
+      "n": 47,
+      "productId": "9403774435553",
+      "title": "LOL Cupcakes",
+      "originalImage": "assets/products/2775af2cc7e5fa6f67cd.jpg",
+      "selected": {
+        "sourceUrl": "https://www.pinterest.com/pin/lol-surprise--86061042871482598/",
+        "imageUrl": "https://i.pinimg.com/originals/53/d4/7b/53d47b78679f5541429f49f7ad65cad2.jpg",
+        "description": "A neat white box reveals a dozen vanilla cupcakes, each crowned with a swirl of pink and blue frosting. Every cupcake is adorned with a round topper showcasing different LOL Surprise doll characters and the brand’s logo, adding a playful touch. The arrangement on a table hints at a party or celebratory event, with the vibrant colors and themed decorations creating a cheerful mood."
+      },
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/lol-surprise--86061042871482598/",
+          "imageUrl": "https://i.pinimg.com/originals/53/d4/7b/53d47b78679f5541429f49f7ad65cad2.jpg",
+          "description": "A neat white box reveals a dozen vanilla cupcakes, each crowned with a swirl of pink and blue frosting. Every cupcake is adorned with a round topper showcasing different LOL Surprise doll characters and the brand’s logo, adding a playful touch. The arrangement on a table hints at a party or celebratory event, with the vibrant colors and themed decorations creating a cheerful mood."
+        }
+      ],
+      "status": "applied",
+      "localImage": "assets/products/matches/batch-001-pinterest/9403774435553-d9cc8539db.jpg",
+      "sha256": "df2f16ae2300033a278cac993780d7b16069256da5491e4af9ae8bf0eac2459b",
+      "visualReview": {
+        "verified": true,
+        "tierCount": null,
+        "shape": "cupcakes",
+        "notes": "Cupcakes with LOL character and logo toppers."
+      },
+      "reviewNote": "Cupcakes with LOL character and logo toppers."
+    },
+    {
+      "n": 48,
+      "productId": "9403767029985",
+      "title": "Minecraft Cake",
+      "originalImage": "assets/products/2f4b288105284ca06150.jpg",
+      "selected": {
+        "sourceUrl": "https://www.pinterest.com/pin/632544710164303926/",
+        "imageUrl": "https://i.pinimg.com/564x/3d/e1/1d/3de11de6941bd4fa22d8431fd8a2f49a.jpg",
+        "description": "A green fondant-covered, single-tier cake features pixelated brown and green squares around its sides, recreating the iconic Minecraft terrain. The top is adorned with fondant figures of Steve, a Creeper, a pig, and two TNT blocks, adding playful detail for fans of the game. The cake rests on a white board with \"DANIEL\" spelled out in gray letters, indicating a personalized birthday treat."
+      },
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/632544710164303926/",
+          "imageUrl": "https://i.pinimg.com/564x/3d/e1/1d/3de11de6941bd4fa22d8431fd8a2f49a.jpg",
+          "description": "A green fondant-covered, single-tier cake features pixelated brown and green squares around its sides, recreating the iconic Minecraft terrain. The top is adorned with fondant figures of Steve, a Creeper, a pig, and two TNT blocks, adding playful detail for fans of the game. The cake rests on a white board with \"DANIEL\" spelled out in gray letters, indicating a personalized birthday treat."
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/cakesdecor/minecraft-cakes/",
+          "imageUrl": "https://i.pinimg.com/originals/dc/da/de/dcdade3a3afc01abec795835717d0d3e.jpg",
+          "description": "A vibrant green birthday cake styled after the popular video game Minecraft features detailed fondant figures and pixelated decorations. The top showcases Steve, a Creeper, a pig, a cauldron, and a blocky sword, all crafted to resemble in-game characters and items. The cake’s side spells out “MINECRAFT” in bold block letters, while a fondant banner at the base reads “happy 10th birthday Frank.”"
+        },
+        {
+          "sourceUrl": "https://ca.pinterest.com/pin/minecraft-cake-with-steve-pig-and-creeper-by-razzberry-cakes--321233385906958890/",
+          "imageUrl": "https://i.pinimg.com/originals/5b/7b/c5/5b7bc5518eb2657f3cd39905eb897ca1.jpg",
+          "description": "A custom cake by Razzberry Cakes captures the pixelated world of Minecraft with vibrant green frosting piped to look like grass and alternating square panels of green and brown fondant around the sides. The top tier showcases three figures: Steve holding a tool, a pink pig, and a green creeper, all positioned on the grassy surface. The name “MARCO” appears in orange letters across the top, tying the design to a personalized celebration."
+        }
+      ],
+      "status": "applied",
+      "localImage": "assets/products/matches/batch-001-pinterest/9403767029985-85b8cff3fa.jpg",
+      "sha256": "7a4ba33783724eb1f92f422099f29ba6718d0b49d28e2d3658ab7ea2785031df",
+      "visualReview": {
+        "verified": true,
+        "tierCount": 1,
+        "shape": "round",
+        "notes": "One round green Minecraft cake with block-pattern sides and character figures."
+      },
+      "reviewNote": "One round green Minecraft cake with block-pattern sides and character figures."
+    },
+    {
+      "n": 49,
+      "productId": "9402462044385",
+      "title": "Purple Butterfly Cakepops",
+      "originalImage": "assets/products/f14c6d0b1c2be5432cc5.png",
+      "selected": {
+        "sourceUrl": "https://www.pinterest.com/pin/purple-floral-cakepops-cakepops-floral--622270873487139270/",
+        "imageUrl": "https://i.pinimg.com/736x/45/c6/94/45c6948b97153f167630444b91b5a728.jpg",
+        "description": "A set of elegantly decorated cake pops in shades of purple and white is displayed on a glass surface. Each pop is adorned with intricate icing details such as flowers, butterflies, drizzles, and sugar pearls, creating a cohesive floral theme. The pastel hues and delicate embellishments suggest these treats are designed for a refined celebration or special occasion."
+      },
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/purple-floral-cakepops-cakepops-floral--622270873487139270/",
+          "imageUrl": "https://i.pinimg.com/736x/45/c6/94/45c6948b97153f167630444b91b5a728.jpg",
+          "description": "A set of elegantly decorated cake pops in shades of purple and white is displayed on a glass surface. Each pop is adorned with intricate icing details such as flowers, butterflies, drizzles, and sugar pearls, creating a cohesive floral theme. The pastel hues and delicate embellishments suggest these treats are designed for a refined celebration or special occasion."
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/butterfly-birthday-theme-in-2025--1125968711370418/",
+          "imageUrl": "https://i.pinimg.com/originals/cd/1a/b4/cd1ab4ed084031ff65a21163e0690ee2.jpg",
+          "description": "A collection of twelve lavender cake pops, each adorned with a delicate, gold-edged butterfly, is neatly arranged on a white stand. The pops feature subtle horizontal ridges and a light shimmer of edible glitter, enhancing their whimsical appearance."
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/purple-butterfly-cake-pops--14144186321271604/",
+          "imageUrl": "https://i.pinimg.com/originals/3f/aa/99/3faa99a7e7b345a8ecdcfe58fb92153f.jpg",
+          "description": "A set of pastel purple cake pops stands upright on white sticks, each coated in smooth purple icing and dusted with matching glitter. Delicate white butterfly decorations perch atop each pop, adding a whimsical touch. The cake pops are presented on a bed of shredded white paper, enhancing their elegant and festive appearance."
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/pink-and-purple-butterfly-cake-pops--3377768466265135/",
+          "imageUrl": "https://i.pinimg.com/736x/d6/75/1e/d6751e237bd07ce2c3b150677452f47d.jpg",
+          "description": "A white bakery box reveals a dozen cake pops dipped in soft pink and lavender coatings, each topped with intricately molded butterfly decorations in contrasting pastel shades. The treats are nestled on a cushion of mini marshmallows, creating a playful and inviting dessert arrangement."
+        }
+      ],
+      "status": "applied",
+      "localImage": "assets/products/matches/batch-001-pinterest/9402462044385-d07784f691.jpg",
+      "sha256": "bbc664e26ef12dfc33c728294cb87dab20f0a3714d298c0d4d4a7ad1927f068c",
+      "visualReview": {
+        "verified": true,
+        "tierCount": null,
+        "shape": "cake pops",
+        "notes": "Purple cake pops with flowers and butterflies."
+      },
+      "reviewNote": "Purple cake pops with flowers and butterflies."
+    },
+    {
+      "n": 50,
+      "productId": "9401676988641",
+      "title": "Unicorn Cakepops",
+      "originalImage": "assets/products/bf0876e42126b0f724fc.png",
+      "selected": {
+        "sourceUrl": "https://www.pinterest.com/pin/776941373192863086/",
+        "imageUrl": "https://i.pinimg.com/736x/3a/1b/70/3a1b704560ea71f8fb08102f70728ec9.jpg",
+        "description": "Unicorn cake pops with pastel flowers, closed eyes and horns."
+      },
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/776941373192863086/",
+          "imageUrl": "https://i.pinimg.com/736x/3a/1b/70/3a1b704560ea71f8fb08102f70728ec9.jpg",
+          "description": "Unicorn cake pops with pastel flowers, closed eyes and horns."
+        }
+      ],
+      "status": "applied",
+      "localImage": "assets/products/matches/batch-001-pinterest/9401676988641-ede633af3e.jpg",
+      "sha256": "bc7d004ec31779cf7b0c8745b4a85ed552e73a4097bcae0f2d6e3538407d9506",
+      "visualReview": {
+        "verified": true,
+        "tierCount": null,
+        "shape": "unicorn cake pops",
+        "notes": "White unicorn cake pops with gold horns and pastel flowers."
+      },
+      "reviewNote": "White unicorn cake pops with gold horns and pastel flowers."
+    }
+  ],
+  "summary": {
+    "reviewed": 50,
+    "replaced": 23,
+    "pending": 27
+  }
+}

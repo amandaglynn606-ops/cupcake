@@ -1,0 +1,331 @@
+{
+  "rejected": [
+    {
+      "n": 1,
+      "productId": "8957439181025",
+      "batch": 1,
+      "revision": 2,
+      "title": "Pink & White Birthday Cake with Ribbon Bows",
+      "originalImage": "assets/products/8957439181025.jpg",
+      "image": "assets/products/matches/batch-001-pinterest/8957439181025-0f7ed06850.jpg",
+      "sourceUrl": "https://www.pinterest.com/pin/56858014039168409/",
+      "visualReview": {
+        "verified": true,
+        "tierCount": 1,
+        "shape": "round",
+        "notes": "White cake, pink ribbon bows; one cylindrical tier."
+      },
+      "reason": "Visible third-party bakery name, logo or photo credit in the full-size image."
+    },
+    {
+      "n": 3,
+      "productId": "8961075151073",
+      "batch": 1,
+      "revision": 2,
+      "title": "Pink Crown Lambeth Birthday Cake",
+      "originalImage": "assets/products/8961075151073.jpg",
+      "image": "assets/products/matches/batch-001-pinterest/8961075151073-acb5c1aadf.jpg",
+      "sourceUrl": "https://in.pinterest.com/pin/c-y-n-a-m-o-n-c-a-k-e-m-o-r-e-on-instagram-queen-lambeth-cake-3-tortlambeth-lambethcake-queencake-in-2025--405324035232510746/",
+      "visualReview": {
+        "verified": true,
+        "tierCount": 1,
+        "shape": "round",
+        "notes": "One pink cylindrical tier with Lambeth piping and a crown."
+      },
+      "reason": "Visible third-party bakery name, logo or photo credit in the full-size image."
+    },
+    {
+      "n": 7,
+      "productId": "8957376921825",
+      "batch": 1,
+      "revision": 2,
+      "title": "White & Black Bento Birthday Cake with Ribbon Bows",
+      "originalImage": "assets/products/8957376921825.jpg",
+      "image": "assets/products/matches/batch-001-pinterest/8957376921825-c05c56e42c.jpg",
+      "sourceUrl": "https://www.pinterest.com/pin/158259374401224212/",
+      "visualReview": {
+        "verified": true,
+        "tierCount": 1,
+        "shape": "round",
+        "notes": "One small white bento cake with black ribbon bows."
+      },
+      "reason": "Visible third-party bakery name, logo or photo credit in the full-size image."
+    },
+    {
+      "n": 10,
+      "productId": "9442927575265",
+      "batch": 1,
+      "revision": 2,
+      "title": "Round Raspberries Cake",
+      "originalImage": "assets/products/9442927575265.jpg",
+      "image": "assets/products/matches/batch-001-pinterest/9442927575265-00bd9b45c3.jpg",
+      "sourceUrl": "https://it.pinterest.com/elisarematore/torte-di-compleanno-per-donna/",
+      "visualReview": {
+        "verified": true,
+        "tierCount": 1,
+        "shape": "round",
+        "notes": "One round raspberry-topped cake with white ribbons and tall candles."
+      },
+      "reason": "Visible third-party bakery name, logo or photo credit in the full-size image."
+    },
+    {
+      "n": 28,
+      "productId": "9408976945377",
+      "batch": 1,
+      "revision": 2,
+      "title": "Newborn Baby Bear Cake Pops",
+      "originalImage": "assets/products/80d6fd7e9d340e131955.jpg",
+      "image": "assets/products/matches/batch-001-pinterest/9408976945377-1524f6e9bc.jpg",
+      "sourceUrl": "https://www.pinterest.com/pin/75716837460834682/",
+      "visualReview": {
+        "verified": true,
+        "tierCount": null,
+        "shape": "bear cake pops",
+        "notes": "Bear-shaped cake pops with pink bows."
+      },
+      "reason": "Visible third-party bakery name, logo or photo credit in the full-size image."
+    },
+    {
+      "n": 44,
+      "productId": "9404192424161",
+      "batch": 1,
+      "revision": 2,
+      "title": "Stitch Bento Cake & Cupcakes",
+      "originalImage": "assets/products/d7740ece492717440a7f.jpg",
+      "image": "assets/products/matches/batch-001-pinterest/9404192424161-447f56ed85.jpg",
+      "sourceUrl": "https://in.pinterest.com/pin/lilo-stitch-themed-bento-box-in-2025--71283606601785246/",
+      "visualReview": {
+        "verified": true,
+        "tierCount": 1,
+        "shape": "round cake and cupcakes",
+        "notes": "One round Stitch bento cake with coordinating character cupcakes."
+      },
+      "reason": "Visible third-party bakery name, logo or photo credit in the full-size image."
+    },
+    {
+      "n": 53,
+      "productId": "9401237209313",
+      "batch": 2,
+      "title": "Elegant Barbie themed Cakepops",
+      "originalImage": "assets/products/a77508849f4ca5ec4cd1.jpg",
+      "image": "assets/products/matches/batch-002-pinterest/9401237209313-d5fab45f4a82.jpg",
+      "sourceUrl": "https://www.pinterest.com/pin/barbie-cake-pops-with-pink-frosting--3377768467310800/",
+      "visualReview": {
+        "verified": true,
+        "tierCount": null,
+        "shape": "cake pops",
+        "notes": "Pink round cake pops with pink Barbie silhouette toppers."
+      },
+      "reason": "Visible third-party bakery name, logo or photo credit in the full-size image."
+    },
+    {
+      "n": 80,
+      "productId": "9401190056161",
+      "batch": 2,
+      "title": "Baketball themed Cakepops",
+      "originalImage": "assets/products/9433e673758b795ecf36.png",
+      "image": "assets/products/matches/batch-002-pinterest/9401190056161-42fc97e85cbf.jpg",
+      "sourceUrl": "https://www.pinterest.com/pin/392939136231249017/",
+      "visualReview": {
+        "verified": true,
+        "tierCount": null,
+        "shape": "cake pops",
+        "notes": "Orange spherical basketball cake pops with black seams."
+      },
+      "reason": "Visible third-party bakery name, logo or photo credit in the full-size image."
+    },
+    {
+      "n": 85,
+      "productId": "9399925309665",
+      "batch": 2,
+      "title": "Football themed Cakepops",
+      "originalImage": "assets/products/77187e330a6f2be0fdfb.jpg",
+      "image": "assets/products/matches/batch-002-pinterest/9399925309665-c90556f8d88c.jpg",
+      "sourceUrl": "https://www.pinterest.com/pin/soccer-cake-pops--301459768788328109/",
+      "visualReview": {
+        "verified": true,
+        "tierCount": null,
+        "shape": "cake pops",
+        "notes": "Black and white spherical soccer-ball cake pops."
+      },
+      "reason": "Visible third-party bakery name, logo or photo credit in the full-size image."
+    },
+    {
+      "n": 95,
+      "productId": "9399832314081",
+      "batch": 2,
+      "title": "My First Baby Tooth Cake",
+      "originalImage": "assets/products/7056b26ae3c01f00ffa5.jpg",
+      "image": "assets/products/matches/batch-002-pinterest/9399832314081-e6c9e23f7abf.jpg",
+      "sourceUrl": "https://www.pinterest.com/pin/cakenest-on-instagram-my-first-tooth-cake-by-ladanafshanii-dm-for-queries-and-orders-delivering-pan-india-follow-cakenestin--532198880994226509/",
+      "visualReview": {
+        "verified": true,
+        "tierCount": 1,
+        "shape": "tooth",
+        "notes": "One upright white tooth-shaped cake with a smiling face."
+      },
+      "reason": "Visible third-party bakery name, logo or photo credit in the full-size image."
+    },
+    {
+      "n": 98,
+      "productId": "9398477979873",
+      "batch": 2,
+      "title": "Birthday Cake & Pink Roses in Acrylic Gift Box with Balloons",
+      "originalImage": "assets/products/640baa5c1c90cce3a932.jpg",
+      "image": "assets/products/matches/batch-002-pinterest/9398477979873-d35114990ebe.jpg",
+      "sourceUrl": "https://www.pinterest.com/pin/cake-packaging-box-with-ribbon--774124928893928/",
+      "visualReview": {
+        "verified": true,
+        "tierCount": 1,
+        "shape": "round cake in gift box",
+        "notes": "One round cake in a clear gift box alongside pink roses and a balloon."
+      },
+      "reason": "Visible third-party bakery name, logo or photo credit in the full-size image."
+    },
+    {
+      "n": 110,
+      "productId": "9380722573537",
+      "batch": 3,
+      "title": "Key to my Heart' Cake",
+      "originalImage": "assets/products/5b0b17c4f584b7aa0780.jpg",
+      "image": "assets/products/matches/batch-003-pinterest/9380722573537-56c0405bab41.jpg",
+      "sourceUrl": "https://www.pinterest.com/kajallmogimii/love-cake/",
+      "visualReview": {
+        "verified": true,
+        "tierCount": 1,
+        "shape": "standing heart",
+        "notes": "One standing heart cake with a gold lock, key and side flower."
+      },
+      "reason": "Visible third-party bakery name, logo or photo credit in the full-size image."
+    },
+    {
+      "n": 139,
+      "productId": "9108674019553",
+      "batch": 3,
+      "title": "Diwali Elephant Cake",
+      "originalImage": "assets/products/92b92a0743605e0e844e.jpg",
+      "image": "assets/products/matches/batch-003-pinterest/9108674019553-fd2469f86907.jpg",
+      "sourceUrl": "https://www.pinterest.com/pin/indian-cake--264586546842736670/",
+      "visualReview": {
+        "verified": true,
+        "tierCount": 1,
+        "shape": "round",
+        "notes": "One round orange Diwali cake with an elephant-headed figure."
+      },
+      "reason": "Visible third-party bakery name, logo or photo credit in the full-size image."
+    },
+    {
+      "n": 147,
+      "productId": "9098142023905",
+      "batch": 3,
+      "title": "Pastel Colors Birthday Letter Cake",
+      "originalImage": "assets/products/fd18097088a54edb3aac.jpg",
+      "image": "assets/products/matches/batch-003-pinterest/9098142023905-0c4d4c9fd18c.jpg",
+      "sourceUrl": "https://www.pinterest.com/pin/29554941296921474/",
+      "visualReview": {
+        "verified": true,
+        "tierCount": 1,
+        "shape": "letter",
+        "notes": "Letter-shaped cake with pastel blue, pink and cream decorations."
+      },
+      "reason": "Visible third-party bakery name, logo or photo credit in the full-size image."
+    },
+    {
+      "n": 148,
+      "productId": "9093070586081",
+      "batch": 3,
+      "title": "White & Gold Photo Cake",
+      "originalImage": "assets/products/6e2b415c450e7f6aa8ed.png",
+      "image": "assets/products/matches/batch-003-pinterest/9093070586081-55f43b828556.jpg",
+      "sourceUrl": "https://br.pinterest.com/lenirveloso3/bolos-de-noivado/",
+      "visualReview": {
+        "verified": true,
+        "tierCount": 1,
+        "shape": "round",
+        "notes": "One round white cake with gold flecks and photo toppers."
+      },
+      "reason": "Visible third-party bakery name, logo or photo credit in the full-size image."
+    },
+    {
+      "n": 150,
+      "productId": "9093036638433",
+      "batch": 3,
+      "title": "Photo Banner Cake",
+      "originalImage": "assets/products/9edb269e8d1d58b53b0d.png",
+      "image": "assets/products/matches/batch-003-pinterest/9093036638433-a9105b74f653.jpg",
+      "sourceUrl": "https://in.pinterest.com/pin/cake-in-2025--7459155629101239/",
+      "visualReview": {
+        "verified": true,
+        "tierCount": 1,
+        "shape": "round",
+        "notes": "One round pastel cake with a hanging photo banner."
+      },
+      "reason": "Visible third-party bakery name, logo or photo credit in the full-size image."
+    },
+    {
+      "n": 170,
+      "productId": "9088842957025",
+      "batch": 4,
+      "title": "Green & Rose Gold Butterflies Cake",
+      "originalImage": "assets/products/5cc949f45036a9fca6fe.jpg",
+      "image": "assets/products/matches/batch-004-pinterest/9088842957025-be47833a4fda.jpg",
+      "sourceUrl": "https://br.pinterest.com/pin/bolo-verde-e-topo-com-flor-e-borboletas--30610472461401373/",
+      "visualReview": {
+        "verified": true,
+        "tierCount": 1,
+        "shape": "round",
+        "notes": "One green round cake with pink roses and metallic butterflies."
+      },
+      "reason": "Visible third-party bakery name, logo or photo credit in the full-size image."
+    },
+    {
+      "n": 179,
+      "productId": "9080699715809",
+      "batch": 4,
+      "title": "First Communion Cross Cookies",
+      "originalImage": "assets/products/62cedf814c3195c71cc2.jpg",
+      "image": "assets/products/matches/batch-004-pinterest/9080699715809-659786987ee8.jpg",
+      "sourceUrl": "https://www.pinterest.com/pin/4011087155341852/",
+      "visualReview": {
+        "verified": true,
+        "tierCount": null,
+        "shape": "cross cookies",
+        "notes": "White and ivory cross cookies decorated with small flowers."
+      },
+      "reason": "Visible third-party bakery name, logo or photo credit in the full-size image."
+    },
+    {
+      "n": 182,
+      "productId": "9080629723361",
+      "batch": 4,
+      "title": "White Dove Baptism Cake",
+      "originalImage": "assets/products/8de4a7522fd94d47d2a7.jpg",
+      "image": "assets/products/matches/batch-004-pinterest/9080629723361-66bc234b0fd6.jpg",
+      "sourceUrl": "https://www.pinterest.com/pin/batizado-beni--3096293489927978/",
+      "visualReview": {
+        "verified": true,
+        "tierCount": 1,
+        "shape": "round",
+        "notes": "One white and green round baptism cake with a white dove topper."
+      },
+      "reason": "Visible third-party bakery name, logo or photo credit in the full-size image."
+    },
+    {
+      "n": 183,
+      "productId": "9080618713313",
+      "batch": 4,
+      "title": "Floral Baptism Cake",
+      "originalImage": "assets/products/1fe31d06bc2e2199dd68.jpg",
+      "image": "assets/products/matches/batch-004-pinterest/9080618713313-17e8e966cad8.jpg",
+      "sourceUrl": "https://www.pinterest.com/pin/351912462751653/",
+      "visualReview": {
+        "verified": true,
+        "tierCount": 1,
+        "shape": "round",
+        "notes": "One tall white round cake with pink flowers and a gold cross."
+      },
+      "reason": "Visible third-party bakery name, logo or photo credit in the full-size image."
+    }
+  ],
+  "reviewedAt": "2026-09-12T13:12:03.677Z"
+}

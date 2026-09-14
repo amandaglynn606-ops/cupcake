@@ -1,0 +1,106 @@
+{
+  "empty": "Skip to content\nOur physical shop is at City Walk. We provide delivery service to all Emirates. Contact us on info@theperfectgift.ae\n Search\nAccount\nCart \nHome Birthday Baby Gifts Cake  Balloons  Flowers  Chocolate  Gift Basket Gifts  Venue Decor  Other \nShopping cart\n\nYour cart is currently empty.\n\nSAME DAY DELIVERY\nYOUR NEAREST STORE\nUNIQUE GIFTS\nWRAPPED WITH LOVE\nSTORE LOCATION & TIMING\n\nCity Walk 2, Next Canadian University Dubai, Opposite Rolce Royce Showroom\n\nFree underground Parking, for 1 and half hours. Closest parking red zone A11, Service lift 20\n\nOpen all week 10 am to 10 pm\n\ninfo@theperfectgift.ae\n\n   \nQuick links\nAbout Us\nShipping & Delivery Policy\nRefund & Cancellation Policy\nSubstitution Policy\nPrivacy Policy\nTerms & Conditions\nEdible Items Policy\nFrequently Asked Questions (FAQ)\nContact Us\nJob Opportunities\nNewsletter\n\nSign up for exclusive offers, new collection, latest new and more.\n\nSIGN UP\nBest Gift Option in Dubai\n\nVoted as the Best Options for Gift Delivery in Dubai by Trusted Gift Reviews: https://www.trustedgiftreviews.com/best-gift-delivery-dubai/\n\n   \n© 2026 Dot Perfect Gift Trading LLC. License number 1116953. All Rights Reserved.\n English",
+  "text": "Shopping cart\nProduct\nPrice\nQuantity\nTotal\nPink & White Birthday Cake with Ribbon Bows\nChocolate / Swiss chocolate\nAED 350.00\n  \nRemove \nAED 350.00\n\nGift Message *\n0/200\n\nDisplay Sender Name in Gift Message *\nselect\nDisplay Sender Name or as you wrote in Gift Message\nDont Display Sender Name. Keep Anonymous\n\nSpecial Instructions (changes required in gift, delivery timeframe, etc…)\n\nDelivery / Pickup Date *\n\nDelivery Time (if pickup, anytime between 10am to 10 pm) *\nselect\nBetween 10 am to 7 pm\n\nDeliver Today: must place order before 12 pm UAE time Excluding Cake, cookies, cupcake & personalized gifts like Canvas, Engraved, Embroidered Gift 12 *\nselect\nYes, Deliver today [+AED 100]\nNo, dont deliver today - deliver as specified on Calendar\n\nSame day delivery terms *\nselect\nI understand that cake, cupcake, cookies, embroidery gift & engraved gifts cannot be delivered on same day as they need 24-48 hrs preparation time\n\nIf you are facing any technical difficulties & unable to checkout please whatsapp +971566447288 for assistance. This number is only for technical support and will not be able to send photos of gifts or provide status of order. You will be updated by email on delivery status.\n\nSubtotal: AED 350.00\nTax included. Shipping calculated at checkout.\nContinue shopping",
+  "fields": [
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "updates[]",
+      "id": "updates_1",
+      "placeholder": "",
+      "text": "",
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "type": "textarea",
+      "name": "attributes[Gift Message]",
+      "id": "attribute_696",
+      "placeholder": "",
+      "text": "",
+      "required": true
+    },
+    {
+      "tag": "SELECT",
+      "type": "select-one",
+      "name": "attributes[Display Sender Name in Gift Message]",
+      "id": "attribute_700",
+      "text": [
+        "select",
+        "Display Sender Name or as you wrote in Gift Message",
+        "Dont Display Sender Name. Keep Anonymous"
+      ],
+      "required": true
+    },
+    {
+      "tag": "TEXTAREA",
+      "type": "textarea",
+      "name": "attributes[Special Instructions (changes required in gift, delivery timeframe, etc…)]",
+      "id": "attribute_697",
+      "placeholder": "",
+      "text": "",
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "attributes[Delivery / Pickup Date ]",
+      "id": "attribute_695",
+      "placeholder": "",
+      "text": "",
+      "required": true
+    },
+    {
+      "tag": "SELECT",
+      "type": "select-one",
+      "name": "attributes[Delivery Time (if pickup, anytime between 10am to 10 pm)]",
+      "id": "attribute_699",
+      "text": [
+        "select",
+        "Between 10 am to 7 pm"
+      ],
+      "required": true
+    },
+    {
+      "tag": "SELECT",
+      "type": "select-one",
+      "name": "attributes[Deliver Today: must place order before 12 pm UAE time Excluding Cake, cookies, cupcake & personalized gifts like Canvas, Engraved, Embroidered Gift 12]",
+      "id": "attribute_702",
+      "text": [
+        "select",
+        "Yes, Deliver today [+AED 100]",
+        "No, dont deliver today - deliver as specified on Calendar"
+      ],
+      "required": true
+    },
+    {
+      "tag": "SELECT",
+      "type": "select-one",
+      "name": "attributes[Same day delivery terms]",
+      "id": "attribute_1193",
+      "text": [
+        "select",
+        "I understand that cake, cupcake, cookies, embroidery gift & engraved gifts cannot be delivered on same day as they need 24-48 hrs preparation time"
+      ],
+      "required": true
+    },
+    {
+      "tag": "INPUT",
+      "type": "submit",
+      "name": "update",
+      "id": "",
+      "placeholder": "",
+      "text": "",
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "type": "submit",
+      "name": "checkout",
+      "id": "update-cart",
+      "placeholder": "",
+      "text": "",
+      "required": false
+    }
+  ]
+}

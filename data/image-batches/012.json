@@ -1,0 +1,407 @@
+{
+  "batch": 12,
+  "size": 50,
+  "sourcePreference": "Pinterest",
+  "records": [
+    {
+      "n": 551,
+      "productId": "8028660990177",
+      "title": "Blue & White Wedding Cake",
+      "originalImage": "assets/products/ca414e13dafbe5338032.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 552,
+      "productId": "8028660924641",
+      "title": "Two Tiered Cake with Roses",
+      "originalImage": "assets/products/7a032cb1e559cc6ba833.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 553,
+      "productId": "8028660826337",
+      "title": "Royal Wedding Cake",
+      "originalImage": "assets/products/fc309258a0051d8ddf66.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 554,
+      "productId": "8028660760801",
+      "title": "Luxury Wedding Cake",
+      "originalImage": "assets/products/70a1086f80d2abbef410.png",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 555,
+      "productId": "8028660695265",
+      "title": "Elegant Two Tier Wedding Dress Cake",
+      "originalImage": "assets/products/99ad277b104807cf248a.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 556,
+      "productId": "8028660596961",
+      "title": "White & Peach Floral Wedding Cake",
+      "originalImage": "assets/products/31bfc262720268668133.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 557,
+      "productId": "8028660564193",
+      "title": "Floral White 3 Tiered Cake",
+      "originalImage": "assets/products/514067ef1f34e8ac7da0.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 558,
+      "productId": "8028660531425",
+      "title": "Elegant Two Tier White Wedding Cake",
+      "originalImage": "assets/products/ff07f0741c71a7fba105.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 559,
+      "productId": "8028660498657",
+      "title": "Classy Wedding Cake",
+      "originalImage": "assets/products/8ec7a330d43d0cc842ce.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 560,
+      "productId": "8028660433121",
+      "title": "Three Tiered White Wedding Cake with Roses",
+      "originalImage": "assets/products/b49f4ab35885af9b92d0.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 561,
+      "productId": "8028660367585",
+      "title": "Three Tiered White Wedding Floral Cake",
+      "originalImage": "assets/products/2372d11a9f9ad1d843a2.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 562,
+      "productId": "8028660302049",
+      "title": "Pearl beads & Lace Wedding Cake",
+      "originalImage": "assets/products/733aece8b22b2430105a.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 563,
+      "productId": "8028660236513",
+      "title": "Two Tiered Mixed Berries Cake",
+      "originalImage": "assets/products/6831d4abfb1d26d78269.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 564,
+      "productId": "8028660203745",
+      "title": "Four Tiered White & Blush Wedding Floral Cake",
+      "originalImage": "assets/products/612322237b42b4a61e15.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 565,
+      "productId": "8028660170977",
+      "title": "Three Tiered White & Gold Wedding Cake with Gypsophila",
+      "originalImage": "assets/products/5873c634b28d6c221caf.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 566,
+      "productId": "8028660105441",
+      "title": "White & Silver Cake with Roses",
+      "originalImage": "assets/products/03addc5e3d760deeadf1.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 567,
+      "productId": "8028660039905",
+      "title": "Two Tiered White Wedding Cake with White Roses",
+      "originalImage": "assets/products/ce9877c07e0f4d22f777.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 568,
+      "productId": "8028659941601",
+      "title": "Two Tiered White Wedding Cake with Blush Roses",
+      "originalImage": "assets/products/3e8340c424bc1a5ae6df.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 569,
+      "productId": "8028659876065",
+      "title": "ONE Birthday Cake",
+      "originalImage": "assets/products/cc14ae5eb2eab93f716e.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 570,
+      "productId": "8028659810529",
+      "title": "Chocolate Swirls Birthday Cake",
+      "originalImage": "assets/products/ecadaeaa4564500e902e.png",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 571,
+      "productId": "8028659744993",
+      "title": "Half / Half Birthday Cake",
+      "originalImage": "assets/products/d045d5faa699c6ea724d.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 572,
+      "productId": "8028659679457",
+      "title": "Ultimate Pink Candy Birthday Cake",
+      "originalImage": "assets/products/e3dee531733c9d32ebb3.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 573,
+      "productId": "8028659646689",
+      "title": "Pink Crystals Birthday Cake",
+      "originalImage": "assets/products/68bd2e7f0a7ade4220bf.png",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 574,
+      "productId": "8028659613921",
+      "title": "Pink Bow Cake",
+      "originalImage": "assets/products/4264103163817cb34306.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 575,
+      "productId": "8028659581153",
+      "title": "Blue Elegant Cake",
+      "originalImage": "assets/products/5e600f348e1865bef7d0.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 576,
+      "productId": "8028656992481",
+      "title": "Letter Shape with Graduation Cap Cake",
+      "originalImage": "assets/products/4d103f5105550794f634.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 577,
+      "productId": "8028656959713",
+      "title": "Pink Elegant Graduation Cake",
+      "originalImage": "assets/products/7982b71286fb14325290.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 578,
+      "productId": "8028656926945",
+      "title": "Marble Graduation Cake",
+      "originalImage": "assets/products/b0d343526b7cdf0d4c7f.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 579,
+      "productId": "8028656894177",
+      "title": "Blue & Gold Graduation Cake",
+      "originalImage": "assets/products/2e0b90cac7859b68e11e.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 580,
+      "productId": "8028656861409",
+      "title": "Congratulations Grad' Cake",
+      "originalImage": "assets/products/0db4ed587f116bc72ad9.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 581,
+      "productId": "8028656795873",
+      "title": "Graduation Cap & Books Cake",
+      "originalImage": "assets/products/1f37a0549a63a1fa8b09.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 582,
+      "productId": "8028656763105",
+      "title": "Elegant Graduation Cake",
+      "originalImage": "assets/products/4d7e814011e2a02d2439.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 583,
+      "productId": "8028656730337",
+      "title": "B&W Graduation Cake",
+      "originalImage": "assets/products/a7983d170e6eb2d12604.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 584,
+      "productId": "8028656664801",
+      "title": "Navy Blue Graduation Cake",
+      "originalImage": "assets/products/6c517a012b1f6fe7096c.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 585,
+      "productId": "8028656632033",
+      "title": "Gold & White Graduation Cake",
+      "originalImage": "assets/products/bb19085312e6255431d7.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 586,
+      "productId": "8028656599265",
+      "title": "Graduation Cap & Books Cake",
+      "originalImage": "assets/products/09eb10b2121e5cbd615d.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 587,
+      "productId": "8028656566497",
+      "title": "Pink Graduation Cake",
+      "originalImage": "assets/products/739eae939c1444658a9c.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 588,
+      "productId": "8028656533729",
+      "title": "White Graduation Cake",
+      "originalImage": "assets/products/248fc6ac4360320e6c54.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 589,
+      "productId": "8028656500961",
+      "title": "Man's Watch Cake",
+      "originalImage": "assets/products/5acdb2b9d70eff943bdd.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 590,
+      "productId": "8028656468193",
+      "title": "Shades of Blue Birthday Cake",
+      "originalImage": "assets/products/ae170c4096be3ffb43f1.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 591,
+      "productId": "8028656435425",
+      "title": "Moustache Grey Cake",
+      "originalImage": "assets/products/1e0f0b462e8f6fb0c7a9.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 592,
+      "productId": "8028656402657",
+      "title": "Dollars Bills Black Cake",
+      "originalImage": "assets/products/3f9ec7e617a2d3e1b74c.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 593,
+      "productId": "8028656337121",
+      "title": "Rose Gold Two Tiered Cake",
+      "originalImage": "assets/products/1e816c7fb6164978af00.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 594,
+      "productId": "8028656304353",
+      "title": "Two Tiered Purple & White Cake",
+      "originalImage": "assets/products/0bee76d756156ed7ac52.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 595,
+      "productId": "8028656238817",
+      "title": "Gold & Royal Green Three Tiered Cake",
+      "originalImage": "assets/products/73fce3d3a1f4d476ed12.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 596,
+      "productId": "8028656206049",
+      "title": "Grey & White Two Tiered Cake",
+      "originalImage": "assets/products/877139f2f244236e99a6.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 597,
+      "productId": "8028656140513",
+      "title": "Letter initial Two Tiered Cake",
+      "originalImage": "assets/products/3220b186c48dc1fd0f86.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 598,
+      "productId": "8028656107745",
+      "title": "Peachy Pink Four Tiered Cake",
+      "originalImage": "assets/products/976914354be988681e57.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 599,
+      "productId": "8028656042209",
+      "title": "Royal Orchids & Gold 5 Tier Wedding Cake",
+      "originalImage": "assets/products/82095fd5f88abd4e439c.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 600,
+      "productId": "8028656009441",
+      "title": "Brown & Beige Two Tiered Cake",
+      "originalImage": "assets/products/b06f4cb57fe61d127ea6.jpg",
+      "status": "needs-search",
+      "candidates": []
+    }
+  ]
+}

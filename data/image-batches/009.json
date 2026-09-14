@@ -1,0 +1,1663 @@
+{
+  "batch": 9,
+  "size": 50,
+  "sourcePreference": "Pinterest",
+  "records": [
+    {
+      "n": 401,
+      "productId": "8287035130081",
+      "title": "Ramadan / Eid Cookies & Cakesicles",
+      "originalImage": "assets/products/c1e6f2eaea79ed91b8fa.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://uk.pinterest.com/pin/eid-cookies--21321798223324777/",
+          "description": "Ramadhan cookies | Ramadan sweets, Eid cupcakes, Ramadan desserts (https://uk.pinterest.com/pin/eid-cookies--21321798223324777/)",
+          "imageUrl": "https://i.pinimg.com/736x/7b/9c/f4/7b9cf4b7c91c8ed1a058f32eefc8694a.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8287035130081-e1878b1c8466.jpg",
+          "sha256": "e1878b1c84660b62e84d65a8a6adf45565c14ed4ffd3ec19a8418eb5f10a119b"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/global-sweets--208854501446669986/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/15/81/e4/1581e4251f39fc25f125dd7448858e49.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8287035130081-a63c9ae4f869.jpg",
+          "sha256": "a63c9ae4f8694ebc2357fb967b3f9d5d76f19eea85d11df9a9ff909e24b7b5ee"
+        },
+        {
+          "sourceUrl": "https://uk.pinterest.com/pin/eid-cookies-ramadan-holiday-party-cookies-dessert-easter--520799144424430900/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/e5/8c/33/e58c334b34356feb731ef8fba63258c6.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8287035130081-b1d9e10d5011.jpg",
+          "sha256": "b1d9e10d5011a8b6cdd7523239510d1166b97f3387b634514808fbc1ebd31c6f"
+        }
+      ],
+      "searchQuery": "site:pinterest.com/pin/ Ramadan / Eid Cookies & Cakesicles"
+    },
+    {
+      "n": 402,
+      "productId": "8287035064545",
+      "title": "Ramadan Mubarak Cupcakes",
+      "originalImage": "assets/products/7d5033016f40e2bd92a4.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://uk.pinterest.com/pin/pretty-ramadan-mubarak-cupcakes--378232068678528562/",
+          "description": "Pretty Ramadan Mubarak Cupcakes (https://uk.pinterest.com/pin/pretty-ramadan-mubarak-cupcakes--378232068678528562/)",
+          "imageUrl": "https://i.pinimg.com/736x/34/34/6a/34346a12d1c53a563657d5b5e5603144.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8287035064545-e2785613f39f.jpg",
+          "sha256": "e2785613f39f948e40fe02ae5612ec0372156244f282860337ec44deebe457f6"
+        },
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/ramadan-cupcakes--394557617325182828/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/16/0b/08/160b0824ba9345a983a0800241b73c32.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8287035064545-6ae0b84fc46b.jpg",
+          "sha256": "6ae0b84fc46b4bab9f03aeb8e1b2d9ab125be3059b5fa843fca8d9f0b38594a4"
+        },
+        {
+          "sourceUrl": "https://au.pinterest.com/pin/ramadan-mubarak-round-acrylic-cupcake-topper-pack-of-10--915215955515931392/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/53/3a/bf/533abff590a0438bf25841c389b905b6.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8287035064545-80ec8b0019e4.jpg",
+          "sha256": "80ec8b0019e43b7c923a347fd3f940c7087cd52eac4ac3fb3803305515f881b6"
+        }
+      ],
+      "searchQuery": "site:pinterest.com/pin/ Ramadan Mubarak Cupcakes"
+    },
+    {
+      "n": 403,
+      "productId": "8275160072417",
+      "title": "Eid Crescent & Star  Shape Cake",
+      "originalImage": "assets/products/7d8fca3c1ce26d50f1b9.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/first-trip-around-the-sun--500321839862578632/",
+          "description": "Crescent Moon & Star Cake: Perfect for Ramadan & Eid in 2025 | Star cakes, Cake, Eid cake (https://www.pinterest.com/pin/first-trip-around-the-sun--500321839862578632/)",
+          "imageUrl": "https://i.pinimg.com/736x/ed/9e/67/ed9e67dfe572074ad6a45a236cd73451.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8275160072417-a8ef73f83260.jpg",
+          "sha256": "a8ef73f8326008b5fec9b639e2abfac77bf4c1cf058345453260c8f3ae42b5a8"
+        },
+        {
+          "sourceUrl": "https://ca.pinterest.com/pin/crescent-star-cake-perfect-for-eid-or-ramadan-parties--292030357096137381/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/07/d5/8b/07d58bb6a7592ec5fb03bec23fe84b87.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8275160072417-9c7d5956a1f2.jpg",
+          "sha256": "9c7d5956a1f21882ce86f5e0a80d2a20701b02cdcb4edb894057549db87ad390"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/eid-mubarak-greeting-card-with-crescent-and-star--8303580555263950/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/77/45/7c/77457c065f653deca471683e752d3e1c.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8275160072417-49acc618975f.jpg",
+          "sha256": "49acc618975f0aa8982f99d2fd6f97016e641d57ddd5e07a9454f10a610b679a"
+        }
+      ],
+      "searchQuery": "site:pinterest.com/pin/ Eid Crescent & Star  Shape Cake"
+    },
+    {
+      "n": 404,
+      "productId": "8275157352673",
+      "title": "Eid letter Shape Cake",
+      "originalImage": "assets/products/299a7d57d683fad33779.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://jp.pinterest.com/pin/an-easter-letter-cake-in-the-shape-of-an-e-made-from-victoria-sponge-spread-with-jam-and-buttercream--141863457001834600/",
+          "description": "An Easter Letter cake in the shape of an E. Made from Victoria sponge spread with jam and buttercream icing and topped with Easter … | Alfabe pasta, Pastalar, Tatlı (https://jp.pinterest.com/pin/an-easter-letter-cake-in-the-shape-of-an-e-made-from-victoria-sponge-spread-with-jam-and-buttercream--141863457001834600/)",
+          "imageUrl": "https://i.pinimg.com/736x/a0/0e/f9/a00ef9857c3f6e9d48632899b0c284a0.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8275157352673-a0015c50f301.jpg",
+          "sha256": "a0015c50f301dd52f05e84415648b3ad8bfc7a68c3644324bfc31685b508f46d"
+        },
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/a-lettershaped-cake-for-your-special-day--870179959225853402/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/e5/86/bb/e586bb65a3ee706db3910beb04505a3f.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8275157352673-b5f20af62925.jpg",
+          "sha256": "b5f20af629251ce82d43bab5529f2c844b7fdf4f4f2b51a14acb9a88aea74ab6"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/eid-cake-with-fondant-decoration--437130707587122347/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/8b/46/dd/8b46dd0ee47f31682d19c94ec3d29630.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8275157352673-041a6ea3360f.jpg",
+          "sha256": "041a6ea3360f2a6141d3b497d3aee3b266bc30dcc5df6d0d12dd5121eeabc5fa"
+        }
+      ],
+      "searchQuery": "site:pinterest.com/pin/ Eid letter Shape Cake"
+    },
+    {
+      "n": 405,
+      "productId": "8275150831841",
+      "title": "Umrah Mubarak Floral Cake",
+      "originalImage": "assets/products/f6b231302a94d86b2def.jpg",
+      "status": "applied",
+      "candidates": [
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/umrah-mubaraks-are-on-the-way-celebrate-the-return-of-your-lived-ones-with-our-custom-cakes-abumobakers-umrahmubarak-in-2025--787848528606503358/",
+          "description": "Umrah Mubaraks are on the way ✨✨ Celebrate the return of your lived ones with our custom cakes 💕💕  #abumobakers #umrahmubarak… in 2025 | Cake, Custom cakes, Umrah mubarak (https://in.pinterest.com/pin/umrah-mubaraks-are-on-the-way-celebrate-the-return-of-your-lived-ones-with-our-custom-cakes-abumobakers-umrahmubarak-in-2025--787848528606503358/)",
+          "imageUrl": "https://i.pinimg.com/736x/71/73/2b/71732b84e697460989919755d6bc8793.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8275150831841-a498c08abc01.jpg",
+          "sha256": "a498c08abc019384c69208b1e909438f1d7c51c1251aafd924442c6481adc920"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/cake-for-umrah-mubarak-cake-aesthetic-foryou-fyp-instagram--1012254453746052543/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/35/80/f8/3580f80373a1dc15846eb1dc02f09f5f.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8275150831841-d183a015d08f.jpg",
+          "sha256": "d183a015d08fa09a096d4fad3dcc507bbe89ada35422c49f63d97464698d5dc0"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/590675307412205561/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/19/ce/93/19ce935fe314dd310e684f72e2d6c3e6.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8275150831841-5f91e4e95c24.jpg",
+          "sha256": "5f91e4e95c24aed060ecb83b063ea8de07f6c1520b9d3bf518f8963b24552597"
+        }
+      ],
+      "searchQuery": "site:pinterest.com/pin/ Umrah Mubarak Floral Cake",
+      "selected": {
+        "sourceUrl": "https://www.pinterest.com/pin/590675307412205561/",
+        "description": "",
+        "imageUrl": "https://i.pinimg.com/736x/19/ce/93/19ce935fe314dd310e684f72e2d6c3e6.jpg",
+        "localImage": "assets/products/matches/batch-009-pinterest/8275150831841-5f91e4e95c24.jpg",
+        "sha256": "5f91e4e95c24aed060ecb83b063ea8de07f6c1520b9d3bf518f8963b24552597"
+      },
+      "localImage": "assets/products/matches/batch-009-pinterest/8275150831841-5f91e4e95c24.jpg",
+      "sha256": "5f91e4e95c24aed060ecb83b063ea8de07f6c1520b9d3bf518f8963b24552597",
+      "visualReview": {
+        "verified": true,
+        "tierCount": 1,
+        "shape": "round",
+        "notes": "One ivory floral Umrah cake with white flowers and gold details."
+      },
+      "reviewNote": "One ivory floral Umrah cake with white flowers and gold details."
+    },
+    {
+      "n": 406,
+      "productId": "8275133628641",
+      "title": "Umrah Mubarak Cake",
+      "originalImage": "assets/products/154e6b4eb558f7c74971.jpg",
+      "status": "applied",
+      "candidates": [
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/umrah-mubaraks-are-on-the-way-celebrate-the-return-of-your-lived-ones-with-our-custom-cakes-abumobakers-umrahmubarak-in-2025--787848528606503358/",
+          "description": "Umrah Mubaraks are on the way ✨✨ Celebrate the return of your lived ones with our custom cakes 💕💕  #abumobakers #umrahmubarak… in 2025 | Cake, Custom cakes, Umrah mubarak (https://in.pinterest.com/pin/umrah-mubaraks-are-on-the-way-celebrate-the-return-of-your-lived-ones-with-our-custom-cakes-abumobakers-umrahmubarak-in-2025--787848528606503358/)",
+          "imageUrl": "https://i.pinimg.com/736x/71/73/2b/71732b84e697460989919755d6bc8793.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8275133628641-a498c08abc01.jpg",
+          "sha256": "a498c08abc019384c69208b1e909438f1d7c51c1251aafd924442c6481adc920"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/cake-for-umrah-mubarak-cake-aesthetic-foryou-fyp-instagram--1012254453746052543/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/35/80/f8/3580f80373a1dc15846eb1dc02f09f5f.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8275133628641-d183a015d08f.jpg",
+          "sha256": "d183a015d08fa09a096d4fad3dcc507bbe89ada35422c49f63d97464698d5dc0"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/590675307412205561/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/19/ce/93/19ce935fe314dd310e684f72e2d6c3e6.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8275133628641-5f91e4e95c24.jpg",
+          "sha256": "5f91e4e95c24aed060ecb83b063ea8de07f6c1520b9d3bf518f8963b24552597"
+        }
+      ],
+      "searchQuery": "site:pinterest.com/pin/ Umrah Mubarak Cake",
+      "selected": {
+        "sourceUrl": "https://www.pinterest.com/pin/cake-for-umrah-mubarak-cake-aesthetic-foryou-fyp-instagram--1012254453746052543/",
+        "description": "",
+        "imageUrl": "https://i.pinimg.com/736x/35/80/f8/3580f80373a1dc15846eb1dc02f09f5f.jpg",
+        "localImage": "assets/products/matches/batch-009-pinterest/8275133628641-d183a015d08f.jpg",
+        "sha256": "d183a015d08fa09a096d4fad3dcc507bbe89ada35422c49f63d97464698d5dc0"
+      },
+      "localImage": "assets/products/matches/batch-009-pinterest/8275133628641-d183a015d08f.jpg",
+      "sha256": "d183a015d08fa09a096d4fad3dcc507bbe89ada35422c49f63d97464698d5dc0",
+      "visualReview": {
+        "verified": true,
+        "tierCount": 1,
+        "shape": "round",
+        "notes": "One white Umrah cake with piped rose decoration."
+      },
+      "reviewNote": "One white Umrah cake with piped rose decoration."
+    },
+    {
+      "n": 407,
+      "productId": "8275130548449",
+      "title": "Holy Ramadan & Eid Cake",
+      "originalImage": "assets/products/1a786a4ee46becf878c0.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://ca.pinterest.com/pin/kaaba-themed-cake-for-ramadan-and-eid-celebrations--37999190585250791/",
+          "description": "Kaaba Themed Cake for Ramadan and Eid Celebrations (https://ca.pinterest.com/pin/kaaba-themed-cake-for-ramadan-and-eid-celebrations--37999190585250791/)",
+          "imageUrl": "https://i.pinimg.com/736x/bf/dc/04/bfdc04d5f691facaec694a82e9e0b34d.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8275130548449-c14eea79edef.jpg",
+          "sha256": "c14eea79edef763043fa8e32f73706c2943b5151794bcb69bd3a805cf8186646"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/first-trip-around-the-sun--500321839862578632/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/ed/9e/67/ed9e67dfe572074ad6a45a236cd73451.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8275130548449-a8ef73f83260.jpg",
+          "sha256": "a8ef73f8326008b5fec9b639e2abfac77bf4c1cf058345453260c8f3ae42b5a8"
+        },
+        {
+          "sourceUrl": "https://au.pinterest.com/pin/154811305928446320/",
+          "description": "",
+          "error": "locator.getAttribute: Timeout 5000ms exceeded."
+        }
+      ],
+      "searchQuery": "site:pinterest.com/pin/ Holy Ramadan & Eid Cake"
+    },
+    {
+      "n": 408,
+      "productId": "8275129368801",
+      "title": "Holy Ramadan Cake",
+      "originalImage": "assets/products/9b9ee24576a310294342.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/ramadan-cake--404127766532958060/",
+          "description": "Ramadan Cake | Kue Bertema (https://www.pinterest.com/pin/ramadan-cake--404127766532958060/)",
+          "imageUrl": "https://i.pinimg.com/736x/08/8b/b7/088bb7ec16ecba88a1ebdb87d008b088.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8275129368801-53a57ee1c644.jpg",
+          "sha256": "53a57ee1c6441f3882f51209851532eca833223783d31f6dc2a01312f6deee1b"
+        },
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/ramadan-cake-ideas-simple-yet-elegant-designs-for-a-sweet-celebration-in-2025--891642426228596045/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/2b/3d/74/2b3d74fa9b765221f91153fd84282bf3.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8275129368801-a109fc1448a8.jpg",
+          "sha256": "a109fc1448a8d830d009d5635110f85095ed796f7e7156287e6a0eb1c3b9e2c1"
+        },
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/ramadan-celebrate-the-holy-month-with-delicious-chocolate-cake--1042020432528334188/",
+          "description": "",
+          "error": "locator.getAttribute: Timeout 5000ms exceeded."
+        }
+      ],
+      "searchQuery": "site:pinterest.com/pin/ Holy Ramadan Cake"
+    },
+    {
+      "n": 409,
+      "productId": "8275127697633",
+      "title": "Ramadan Islamic Door Cake",
+      "originalImage": "assets/products/47d551a118b69f0ff59f.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/ramadan-door-decor--669277194636271311/",
+          "description": "Pin by IZy Craft on Ramadan door decor | Door decorations, Ramadan kareem, Lettering (https://in.pinterest.com/pin/ramadan-door-decor--669277194636271311/)",
+          "imageUrl": "https://i.pinimg.com/736x/be/cf/d0/becfd0cff83dee1f1392d0d9b70edece.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8275127697633-e5bf6b04cdcd.jpg",
+          "sha256": "e5bf6b04cdcd3107bf11387a3942faef46e0198a39ece08c385cc7e3c98a3930"
+        },
+        {
+          "sourceUrl": "https://dk.pinterest.com/pin/601089881557600553/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/97/1d/ef/971def441db87901b7fdd131eea95fa0.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8275127697633-cb22d48ed6f8.jpg",
+          "sha256": "cb22d48ed6f8a5ea1d024df40684a92f4bf94d21fbcc133aa55b3b1fe07adde2"
+        },
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/ramadan-islamic-arch-frame-with-ornament-muslim-traditional-door-illustration-for-wedding-invitati--699395017164924173/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/aa/a8/5a/aaa85a5aff40fc5f0209f5ec27398ee7.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8275127697633-7971de6be069.jpg",
+          "sha256": "7971de6be069868ae14799863f87e0eb0bbfcc957de0a7043a058165b33ea94b"
+        }
+      ],
+      "searchQuery": "site:pinterest.com/pin/ Ramadan Islamic Door Cake"
+    },
+    {
+      "n": 410,
+      "productId": "8275126092001",
+      "title": "Ramadan / Eid Islamic Door Cake",
+      "originalImage": "assets/products/765bed82fffd8142152e.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/ramadan-mubarak-door-cover-for-eid-alfitr-celebrations-in-2025--1101059808945185893/",
+          "description": "Ramadan Mubarak Door Cover for Eid Al-Fitr Celebrations in 2025 | Eid decoration, Eid mubarak decoration, Ramadan (https://in.pinterest.com/pin/ramadan-mubarak-door-cover-for-eid-alfitr-celebrations-in-2025--1101059808945185893/)",
+          "imageUrl": "https://i.pinimg.com/736x/93/91/8e/93918e1732db1c3480e835ad7a79c4c8.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8275126092001-ffd84d6c1d0c.jpg",
+          "sha256": "ffd84d6c1d0c7919058b1b79384ab221ee7beee99077bb1bfb3f63b68afb8cbe"
+        },
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/4600849303418083840/",
+          "description": "",
+          "error": "locator.getAttribute: Timeout 5000ms exceeded."
+        },
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/ramadan-mubarak-eid-porch-banner-easy-islamic-front-door-decor-in-2025--1101059808959356541/",
+          "description": "",
+          "error": "page.goto: net::ERR_CONNECTION_RESET at https://in.pinterest.com/pin/ramadan-mubarak-eid-porch-banner-easy-islamic-front-door-decor-in-2025--1101059808959356541/"
+        }
+      ],
+      "searchQuery": "site:pinterest.com/pin/ Ramadan / Eid Islamic Door Cake"
+    },
+    {
+      "n": 411,
+      "productId": "8275121799393",
+      "title": "Ramadan Black Mosque Shape Cake",
+      "originalImage": "assets/products/eee793c212c60782f14c.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://tr.pinterest.com/pin/4609223190457721088/",
+          "description": "زينة كعكة رمضان مبارك، تصميم مسجد من الورق الأسود، أدوات تزيين الحلوى، أدوات الخبز للحلويات، الكعك الصغير، الكب كيك لموسم رمضان الكريم, 2025 (https://tr.pinterest.com/pin/4609223190457721088/)",
+          "imageUrl": "https://i.pinimg.com/736x/13/e6/02/13e60283b9f406dbaf9464e06b81d256.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8275121799393-a7c30dc2031b.jpg",
+          "sha256": "a7c30dc2031b16481f77e429a36722bbcefde201dee5f0943a51ad4aec63ad0d"
+        },
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/ramadan-mosque-cookies--523050944205316784/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/cd/87/c5/cd87c5004f5506dc7e55ac81d1e0cf3f.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8275121799393-cd6f7801224d.jpg",
+          "sha256": "cd6f7801224d2d3b0ce176832a997ce9fc4aa8cd1aa36139158094f7d2e00e23"
+        },
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/12pcs-acrylic-cupcake-toppers-for-ramadan-elegant-reflective-finish-featuring-mosque-and-designs-in-2025--4608308451666073600/",
+          "description": "",
+          "error": "locator.getAttribute: Timeout 5000ms exceeded."
+        }
+      ],
+      "searchQuery": "site:pinterest.com/pin/ Ramadan Black Mosque Shape Cake"
+    },
+    {
+      "n": 412,
+      "productId": "8275115999457",
+      "title": "Ramadan Eid Cake",
+      "originalImage": "assets/products/87d5686c60c87d13a63d.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://au.pinterest.com/pin/ramadaneid-cupcakes--26529085295894943/",
+          "description": "Pin by Faraht Saddique on Ramadan/eid cupcakes | Eid cupcakes, Ramadan sweets, Eid cake (https://au.pinterest.com/pin/ramadaneid-cupcakes--26529085295894943/)",
+          "error": "locator.getAttribute: Timeout 5000ms exceeded."
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/first-trip-around-the-sun--500321839862578632/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/ed/9e/67/ed9e67dfe572074ad6a45a236cd73451.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8275115999457-a8ef73f83260.jpg",
+          "sha256": "a8ef73f8326008b5fec9b639e2abfac77bf4c1cf058345453260c8f3ae42b5a8"
+        },
+        {
+          "sourceUrl": "https://ca.pinterest.com/pin/kaaba-themed-cake-for-ramadan-and-eid-celebrations--37999190585250791/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/bf/dc/04/bfdc04d5f691facaec694a82e9e0b34d.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8275115999457-c14eea79edef.jpg",
+          "sha256": "c14eea79edef763043fa8e32f73706c2943b5151794bcb69bd3a805cf8186646"
+        }
+      ],
+      "searchQuery": "site:pinterest.com/pin/ Ramadan Eid Cake"
+    },
+    {
+      "n": 413,
+      "productId": "8275111510241",
+      "title": "Ramadan Mosque Shape Cake",
+      "originalImage": "assets/products/a5d0136ebca9b1816184.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/12pcs-acrylic-cupcake-toppers-for-ramadan-elegant-reflective-finish-featuring-mosque-and-designs-in-2025--4608308451666073600/",
+          "description": "12pcs Acrylic Cupcake Toppers For Ramadan - Elegant Reflective Finish, Featuring Mosque And Designs… in 2025 | Cake decorating supplies, Ramadan celebration, Party supplies (https://in.pinterest.com/pin/12pcs-acrylic-cupcake-toppers-for-ramadan-elegant-reflective-finish-featuring-mosque-and-designs-in-2025--4608308451666073600/)",
+          "error": "page.goto: net::ERR_CONNECTION_RESET at https://in.pinterest.com/pin/12pcs-acrylic-cupcake-toppers-for-ramadan-elegant-reflective-finish-featuring-mosque-and-designs-in-2025--4608308451666073600/"
+        },
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/ramadan-mosque-cookies--523050944205316784/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/cd/87/c5/cd87c5004f5506dc7e55ac81d1e0cf3f.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8275111510241-cd6f7801224d.jpg",
+          "sha256": "cd6f7801224d2d3b0ce176832a997ce9fc4aa8cd1aa36139158094f7d2e00e23"
+        },
+        {
+          "sourceUrl": "https://uk.pinterest.com/pin/a-cake-shaped-like-the-dian-almahri-mosque--347269821262672566/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/c8/8f/6f/c88f6fbbd22178f9947b0bfc808133a3.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8275111510241-e66ee9fc558a.jpg",
+          "sha256": "e66ee9fc558a3cc1e9ff10578eda6564cdc88b62a49a5e7868d9b08c0c5963c2"
+        }
+      ],
+      "searchQuery": "site:pinterest.com/pin/ Ramadan Mosque Shape Cake"
+    },
+    {
+      "n": 414,
+      "productId": "8275108036833",
+      "title": "Ramadan Kareem Cake",
+      "originalImage": "assets/products/1ad9fa394c9343c5437d.jpg",
+      "status": "applied",
+      "candidates": [
+        {
+          "sourceUrl": "https://tr.pinterest.com/pin/ramadan-kareem--893823857303615224/",
+          "description": "Ramadan Kareem Cake | Delicious Dessert Recipe (https://tr.pinterest.com/pin/ramadan-kareem--893823857303615224/)",
+          "imageUrl": "https://i.pinimg.com/736x/84/99/4e/84994e221945937f7db84a675d341cc4.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8275108036833-5d5a81f7253d.jpg",
+          "sha256": "5d5a81f7253d1533b00558ef461f3c73114b5bf6c07de24631688f487ee9c6fd"
+        },
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/ramadan-kareem-cake-with-arabic-writing-and-gold-crescent-decoration--603904631319039156/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/58/9e/11/589e1176f473dcbc7ef7285c8a14a691.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8275108036833-c1f0adbc691a.jpg",
+          "sha256": "c1f0adbc691a70d17be7b8ca56609002a5df871cf84ed3795041f586fbf64cce"
+        },
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/714031715904673505/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/51/33/81/513381618aff81f21fea8b3506a7d9c3.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8275108036833-d6c200d01227.jpg",
+          "sha256": "d6c200d0122716356df43e5d44cf607ada872ecfee9277c944e3f4106449dfd9"
+        }
+      ],
+      "searchQuery": "site:pinterest.com/pin/ Ramadan Kareem Cake",
+      "selected": {
+        "sourceUrl": "https://in.pinterest.com/pin/ramadan-kareem-cake-with-arabic-writing-and-gold-crescent-decoration--603904631319039156/",
+        "description": "",
+        "imageUrl": "https://i.pinimg.com/736x/58/9e/11/589e1176f473dcbc7ef7285c8a14a691.jpg",
+        "localImage": "assets/products/matches/batch-009-pinterest/8275108036833-c1f0adbc691a.jpg",
+        "sha256": "c1f0adbc691a70d17be7b8ca56609002a5df871cf84ed3795041f586fbf64cce"
+      },
+      "localImage": "assets/products/matches/batch-009-pinterest/8275108036833-c1f0adbc691a.jpg",
+      "sha256": "c1f0adbc691a70d17be7b8ca56609002a5df871cf84ed3795041f586fbf64cce",
+      "visualReview": {
+        "verified": true,
+        "tierCount": 1,
+        "shape": "round",
+        "notes": "One round Ramadan cake with a crescent and mosque topper."
+      },
+      "reviewNote": "One round Ramadan cake with a crescent and mosque topper."
+    },
+    {
+      "n": 415,
+      "productId": "8275101188321",
+      "title": "Ramadan Karim Crescent Cake",
+      "originalImage": "assets/products/844c3c67681ec69fd16a.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/ramadan-kareem-cake-with-arabic-writing-and-gold-crescent-decoration--603904631319039156/",
+          "description": "Ramadan Kareem Cake with Arabic Writing and Gold Crescent Decoration (https://in.pinterest.com/pin/ramadan-kareem-cake-with-arabic-writing-and-gold-crescent-decoration--603904631319039156/)",
+          "imageUrl": "https://i.pinimg.com/736x/58/9e/11/589e1176f473dcbc7ef7285c8a14a691.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8275101188321-c1f0adbc691a.jpg",
+          "sha256": "c1f0adbc691a70d17be7b8ca56609002a5df871cf84ed3795041f586fbf64cce"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/first-trip-around-the-sun--500321839862578632/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/ed/9e/67/ed9e67dfe572074ad6a45a236cd73451.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8275101188321-a8ef73f83260.jpg",
+          "sha256": "a8ef73f8326008b5fec9b639e2abfac77bf4c1cf058345453260c8f3ae42b5a8"
+        },
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/ramadan-themed-cake-with-buttercream-crescent--179299628902952352/",
+          "description": "",
+          "error": "page.goto: net::ERR_CONNECTION_RESET at https://in.pinterest.com/pin/ramadan-themed-cake-with-buttercream-crescent--179299628902952352/"
+        }
+      ],
+      "searchQuery": "site:pinterest.com/pin/ Ramadan Karim Crescent Cake"
+    },
+    {
+      "n": 416,
+      "productId": "8267290869985",
+      "title": "Corporate Branded Macaron Box Giveaway - 4 pieces",
+      "originalImage": "assets/products/cf3f84560924ab209b39.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/4592334749715613696/",
+          "description": "Macaron Plastic Box With Sleeve For 4pcs Macarons Makaron 马卡龙 in 2025 | Macarons, Stationery gift, Bubble wrap (https://in.pinterest.com/pin/4592334749715613696/)",
+          "error": "page.goto: net::ERR_CONNECTION_RESET at https://in.pinterest.com/pin/4592334749715613696/"
+        },
+        {
+          "sourceUrl": "https://fr.pinterest.com/pin/emballageboite-de-macaron--1014576622297924944/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/7c/36/cc/7c36cce6119e7f5c6628d13b6a99c649.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8267290869985-2da02c7ca84c.jpg",
+          "sha256": "2da02c7ca84c6d090828337cab644b466397da650d371227b395ccf72a0ac86e"
+        },
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/macaron-box-drawer-with-window-chocolate-cookies-packaging-macaron-boxsmall-toruru-in-2025--4599582680655311360/",
+          "description": "",
+          "error": "page.goto: net::ERR_CONNECTION_RESET at https://in.pinterest.com/pin/macaron-box-drawer-with-window-chocolate-cookies-packaging-macaron-boxsmall-toruru-in-2025--4599582680655311360/"
+        }
+      ],
+      "searchQuery": "site:pinterest.com/pin/ Macaron Box "
+    },
+    {
+      "n": 417,
+      "productId": "8267281662177",
+      "title": "Corporate logo Macaron Acrylic Box Giveaway - 4 pieces",
+      "originalImage": "assets/products/ae792dd8809b839f7813.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/ver1-ver3-67-macaron-v1-v3-labubu-nel-2025--4601482649973967360/",
+          "description": "(แขวนห้อย/แบบแขวน) กล่องอะคริลิคใส่โชว์โมเดล มาการอง ลาบูบู้ ver1 ver3 แบบ6-7ตัว อคริลิคใส ( Macaron V1 V3 Labubu ) in 2025 | Art toy, Acrylic box, Storage boxes (https://in.pinterest.com/pin/ver1-ver3-67-macaron-v1-v3-labubu-nel-2025--4601482649973967360/)",
+          "imageUrl": "https://i.pinimg.com/736x/3c/39/6b/3c396b8968c294eb954e5aab3f23c299.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8267281662177-9f88291259cc.jpg",
+          "sha256": "9f88291259cc309f36022dc902e40ddca32ed20e9b17a1bd1126aaae6bef83b3"
+        },
+        {
+          "sourceUrl": "https://id.pinterest.com/pin/4590856990737716224/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/c8/73/25/c87325ad9440659e99ff3747db681c86.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8267281662177-8e5b8ce94488.jpg",
+          "sha256": "8e5b8ce9448815548299b50d2fc86d262d8d6ad32b67ba8282c28c7387f5982e"
+        },
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/4592334749715613696/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/0a/35/17/0a3517d3d7baa75c590c5717a65de88b.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8267281662177-d648271530b7.jpg",
+          "sha256": "d648271530b79ef7d98c866ea376c520451d74e9dd1a841cc9655d63ff92e2e6"
+        }
+      ],
+      "searchQuery": "site:pinterest.com/pin/ Macaron Acrylic Box "
+    },
+    {
+      "n": 418,
+      "productId": "8267279925473",
+      "title": "Corporate logo Macaron Box Giveaway - 3 pieces",
+      "originalImage": "assets/products/1c4a8dead9d8705317d7.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/4592334749715613696/",
+          "description": "Macaron Plastic Box With Sleeve For 4pcs Macarons Makaron 马卡龙 in 2025 | Macarons, Stationery gift, Bubble wrap (https://in.pinterest.com/pin/4592334749715613696/)",
+          "imageUrl": "https://i.pinimg.com/736x/0a/35/17/0a3517d3d7baa75c590c5717a65de88b.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8267279925473-d648271530b7.jpg",
+          "sha256": "d648271530b79ef7d98c866ea376c520451d74e9dd1a841cc9655d63ff92e2e6"
+        },
+        {
+          "sourceUrl": "https://fr.pinterest.com/pin/emballageboite-de-macaron--1014576622297924944/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/7c/36/cc/7c36cce6119e7f5c6628d13b6a99c649.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8267279925473-2da02c7ca84c.jpg",
+          "sha256": "2da02c7ca84c6d090828337cab644b466397da650d371227b395ccf72a0ac86e"
+        },
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/macaron-box-drawer-with-window-chocolate-cookies-packaging-macaron-boxsmall-toruru-in-2025--4599582680655311360/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/e9/2d/32/e92d32533a0b274b4048e4dec327b21d.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8267279925473-baa891a78bb7.jpg",
+          "sha256": "baa891a78bb77ef5b2a6a5897fbefc3adf3ec48b01caa002c30ec83c6e6538a1"
+        }
+      ],
+      "searchQuery": "site:pinterest.com/pin/ Macaron Box "
+    },
+    {
+      "n": 419,
+      "productId": "8267275993313",
+      "title": "Corporate logo Macaron Acrylic Box Giveaway - 2 pieces",
+      "originalImage": "assets/products/c3fdd267bc07990d7eeb.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/ver1-ver3-67-macaron-v1-v3-labubu-nel-2025--4601482649973967360/",
+          "description": "(แขวนห้อย/แบบแขวน) กล่องอะคริลิคใส่โชว์โมเดล มาการอง ลาบูบู้ ver1 ver3 แบบ6-7ตัว อคริลิคใส ( Macaron V1 V3 Labubu ) in 2025 | Art toy, Acrylic box, Storage boxes (https://in.pinterest.com/pin/ver1-ver3-67-macaron-v1-v3-labubu-nel-2025--4601482649973967360/)",
+          "imageUrl": "https://i.pinimg.com/736x/3c/39/6b/3c396b8968c294eb954e5aab3f23c299.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8267275993313-9f88291259cc.jpg",
+          "sha256": "9f88291259cc309f36022dc902e40ddca32ed20e9b17a1bd1126aaae6bef83b3"
+        },
+        {
+          "sourceUrl": "https://id.pinterest.com/pin/4590856990737716224/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/c8/73/25/c87325ad9440659e99ff3747db681c86.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8267275993313-8e5b8ce94488.jpg",
+          "sha256": "8e5b8ce9448815548299b50d2fc86d262d8d6ad32b67ba8282c28c7387f5982e"
+        },
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/4592334749715613696/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/0a/35/17/0a3517d3d7baa75c590c5717a65de88b.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8267275993313-d648271530b7.jpg",
+          "sha256": "d648271530b79ef7d98c866ea376c520451d74e9dd1a841cc9655d63ff92e2e6"
+        }
+      ],
+      "searchQuery": "site:pinterest.com/pin/ Macaron Acrylic Box "
+    },
+    {
+      "n": 420,
+      "productId": "8267264131297",
+      "title": "Corporate logo Macaron Acrylic Box Giveaway - 1 pieces",
+      "originalImage": "assets/products/702ad38538e2ceb69073.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/ver1-ver3-67-macaron-v1-v3-labubu-nel-2025--4601482649973967360/",
+          "description": "(แขวนห้อย/แบบแขวน) กล่องอะคริลิคใส่โชว์โมเดล มาการอง ลาบูบู้ ver1 ver3 แบบ6-7ตัว อคริลิคใส ( Macaron V1 V3 Labubu ) in 2025 | Art toy, Acrylic box, Storage boxes (https://in.pinterest.com/pin/ver1-ver3-67-macaron-v1-v3-labubu-nel-2025--4601482649973967360/)",
+          "imageUrl": "https://i.pinimg.com/736x/3c/39/6b/3c396b8968c294eb954e5aab3f23c299.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8267264131297-9f88291259cc.jpg",
+          "sha256": "9f88291259cc309f36022dc902e40ddca32ed20e9b17a1bd1126aaae6bef83b3"
+        },
+        {
+          "sourceUrl": "https://id.pinterest.com/pin/4590856990737716224/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/c8/73/25/c87325ad9440659e99ff3747db681c86.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8267264131297-8e5b8ce94488.jpg",
+          "sha256": "8e5b8ce9448815548299b50d2fc86d262d8d6ad32b67ba8282c28c7387f5982e"
+        },
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/4592334749715613696/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/0a/35/17/0a3517d3d7baa75c590c5717a65de88b.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8267264131297-d648271530b7.jpg",
+          "sha256": "d648271530b79ef7d98c866ea376c520451d74e9dd1a841cc9655d63ff92e2e6"
+        }
+      ],
+      "searchQuery": "site:pinterest.com/pin/ Macaron Acrylic Box "
+    },
+    {
+      "n": 421,
+      "productId": "8242847056097",
+      "title": "Kisses & Lips Cake",
+      "originalImage": "assets/products/1b450e93aa7efa3f6e6a.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://it.pinterest.com/pin/for-the-sake-of-cakes--381398662163549134/",
+          "description": "Kiss on the Lips Cake (https://it.pinterest.com/pin/for-the-sake-of-cakes--381398662163549134/)",
+          "imageUrl": "https://i.pinimg.com/736x/a6/f9/3c/a6f93cbe1d053ff5d10bc7a470358840.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8242847056097-e862ff8a45c7.jpg",
+          "sha256": "e862ff8a45c704edc35f21d722813496ef8a178390999875c7388d55d5d4ae4c"
+        },
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/1077486279599393085/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/a2/a2/47/a2a2478a860832c697b852b2c5d84f05.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8242847056097-9ef6cd19f767.jpg",
+          "sha256": "9ef6cd19f767203021b4b4693134ebaa63815fe12da99610e2db606d7f421d30"
+        },
+        {
+          "sourceUrl": "https://ca.pinterest.com/pin/kissy-lips-cake--358669557798605961/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/01/ce/49/01ce4983f09ba52374144cb14130e51b.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8242847056097-c9e46175b14e.jpg",
+          "sha256": "c9e46175b14ed14cc5efab3a9559e9d2528776d5cb48a5530fc839c623d6d33b"
+        }
+      ],
+      "searchQuery": "site:pinterest.com/pin/ Kisses & Lips Cake"
+    },
+    {
+      "n": 422,
+      "productId": "8242838372577",
+      "title": "Heart Ladder Cake",
+      "originalImage": "assets/products/41067f39a4e4c6fa95a3.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://uk.pinterest.com/pin/hearts-on-heart-cake--362891682488768369/",
+          "description": "Hearts on Heart Cake | Heart cake, Tiered cakes, How to stack cakes (https://uk.pinterest.com/pin/hearts-on-heart-cake--362891682488768369/)",
+          "imageUrl": "https://i.pinimg.com/736x/e8/f5/11/e8f511db2df9458d615ab047182c61b1.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8242838372577-6b3f6cf77cd5.jpg",
+          "sha256": "6b3f6cf77cd558de6172b46b198653120b1ddae074f1da565e208413d122fdb4"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/pink-and-gold-heart-shaped-cake--30751209949704646/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/82/ea/8d/82ea8d29e8417e68bb42728ac5dd4c39.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8242838372577-eb329dfffdbb.jpg",
+          "sha256": "eb329dfffdbbb99be220d3b66ef69632fadd7c1acd504cf486ea7c0333cff536"
+        },
+        {
+          "sourceUrl": "https://uk.pinterest.com/pin/claret-burgundy-heart-4-tier-cake--486529565971540501/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/59/04/84/590484893edc4afb90ce637224651217.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8242838372577-4ae8a92cdbf7.jpg",
+          "sha256": "4ae8a92cdbf73a906838544a6cae7d2be322140a01ec07e92fd653b503a23dad"
+        }
+      ],
+      "searchQuery": "site:pinterest.com/pin/ Heart Ladder Cake"
+    },
+    {
+      "n": 423,
+      "productId": "8242831032545",
+      "title": "Love Hearts Cake",
+      "originalImage": "assets/products/909135779515ee12105f.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://uk.pinterest.com/pin/love-hearts-cake--143411569374731046/",
+          "description": "Love Hearts Cake (https://uk.pinterest.com/pin/love-hearts-cake--143411569374731046/)",
+          "imageUrl": "https://i.pinimg.com/736x/15/75/76/15757608415f599406e7dedd30560458.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8242831032545-fd5ebfa45e48.jpg",
+          "sha256": "fd5ebfa45e4817518813fa7652744e08feb369142d91792fc66d65c622b18aa4"
+        },
+        {
+          "sourceUrl": "https://uk.pinterest.com/pin/love-hearts-thematic-cake--505388389406166882/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/97/37/d2/9737d2fb22c66261d2192780ab2bbddd.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8242831032545-953ffaf1827f.jpg",
+          "sha256": "953ffaf1827feadcd555c0bb7d97347b57954b58f53a0aef7839349507ea0361"
+        },
+        {
+          "sourceUrl": "https://ph.pinterest.com/pin/love-hearts-cake-dessert-decorations-wedding-happy-party-birthday-anniversary-party-cake-decorzozw-in-2025--4599230843308775424/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/93/a5/9c/93a59c28c399718ced1ba01b225be6ba.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8242831032545-efe255a43616.jpg",
+          "sha256": "efe255a43616d16551f7e7636b373436b1e21888b8ec4639a8211df7a319032e"
+        }
+      ],
+      "searchQuery": "site:pinterest.com/pin/ Love Hearts Cake"
+    },
+    {
+      "n": 424,
+      "productId": "8242814419169",
+      "title": "Red 'Love You' Bomb Cake",
+      "originalImage": "assets/products/e00ccc000f500c2e9a22.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/love-you-message-on-white-sweet-cake-cake-decorated-with-red-hearts-for-valentines-day-in-2025--912682680734502519/",
+          "description": "\"Love you\" message on white sweet cake. Cake decorated with red hearts for Valentine's Day. in 2025 | Cake decorating, Valentine day love, Sweet cakes (https://in.pinterest.com/pin/love-you-message-on-white-sweet-cake-cake-decorated-with-red-hearts-for-valentines-day-in-2025--912682680734502519/)",
+          "imageUrl": "https://i.pinimg.com/736x/93/8f/a8/938fa8c07d721dab3cefe8ca182a6675.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8242814419169-3dec9ab608b4.jpg",
+          "sha256": "3dec9ab608b447ee3ca158cdbab2e857ff6c96fd130471ef14c20f8cab688ccd"
+        },
+        {
+          "sourceUrl": "https://au.pinterest.com/pin/heart-shaped-cake-with-love-you-written-in-red-letters--582723639309793222/",
+          "description": "",
+          "imageUrl": "https://s.pinimg.com/images/default_open_graph_1200.png",
+          "error": "Expected Pinterest image"
+        },
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/heart-shaped-cake-with-i-love-you-written-in-red-icing--873979871427524640/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/7d/5f/6c/7d5f6c14da93ea9b0915a68a61d6c95e.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8242814419169-36579ebc9c79.jpg",
+          "sha256": "36579ebc9c79bec7e68a112a135653cdd3ead5b2e6eb2ef1f79af9e0ee8e3ca1"
+        }
+      ],
+      "searchQuery": "site:pinterest.com/pin/ Red 'Love You' Bomb Cake"
+    },
+    {
+      "n": 425,
+      "productId": "8242794692833",
+      "title": "Red Choco-Smash Heart Cake with Cake Pops",
+      "originalImage": "assets/products/2efb9c0ef9d7c4c8eae1.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://uk.pinterest.com/pin/red-heart-cake-pops-tap-to-personalize-and-get-yours-cakepops-heart-red-valentine-valentine39s-valent--806988827064379764/",
+          "description": "Red Heart Cake Pops - tap to personalize and get yours #CakePops #heart, #red #valentine, #valentine&39;s, #valent… | Heart cake pops, Valentine cake pop, Cake pops (https://uk.pinterest.com/pin/red-heart-cake-pops-tap-to-personalize-and-get-yours-cakepops-heart-red-valentine-valentine39s-valent--806988827064379764/)",
+          "imageUrl": "https://i.pinimg.com/736x/a8/f6/ea/a8f6ea3791dd58d09a59a59fb93cbbdf.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8242794692833-041610a2bfe0.jpg",
+          "sha256": "041610a2bfe0aa2332cc46f74b4f88e1bd5f5b80ca765242d72472b4e8e95b42"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/chocolate-fudge-cake-pops-red-and-gold-cake-pops-love-romance-red-cake-pop-edible-art-candy-b--400538960595732381/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/85/91/2a/85912a9df965623cf1863ff7dc7f3670.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8242794692833-ce467cf8a6b6.jpg",
+          "sha256": "ce467cf8a6b6fad5a25c43e5581122de675b75d81b49630067b32f517b0517e6"
+        },
+        {
+          "sourceUrl": "https://au.pinterest.com/pin/heart-cake-pops--548876273311535922/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/19/9b/da/199bdac862aa8e763777be1940cc036d.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8242794692833-31dc0edcb5cd.jpg",
+          "sha256": "31dc0edcb5cd9f598e8ca2eb0f3ce999122c535da4144caf978fbc62b5583fe0"
+        }
+      ],
+      "searchQuery": "site:pinterest.com/pin/ Red Choco-Smash Heart Cake with Cake Pops"
+    },
+    {
+      "n": 426,
+      "productId": "8242780111073",
+      "title": "Will you be my Valentine' Choco-Smash Heart Cake with Dipped Strawberries",
+      "originalImage": "assets/products/8009de1a8b5dd7e11df5.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://mx.pinterest.com/pin/valentines-heart-shaped-cake-with-strawberries-and-milk--964685182661122925/",
+          "description": "Valentine's Heart Shaped Cake with Strawberries and Milk (https://mx.pinterest.com/pin/valentines-heart-shaped-cake-with-strawberries-and-milk--964685182661122925/)",
+          "error": "locator.getAttribute: Timeout 5000ms exceeded."
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/what-a-darling-way-to-decorate-heart-shaped-cookies-chocolatedipped-strawberries--498632989968923628/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/ad/f2/26/adf226094507dd0d15c921c764dc111b.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8242780111073-95a45fd7280c.jpg",
+          "sha256": "95a45fd7280c344bfd48b2e023712ee70c15e47f52ffa3ed1723941174e19c45"
+        },
+        {
+          "sourceUrl": "https://uk.pinterest.com/pin/breakable-chocolate-heart-tutorial-smash-heart-how-to-dip-strawberries--389350330294395803/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/f7/3a/4c/f73a4c73a1fde404ca4ce746b5a316ed.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8242780111073-5fb14151bc52.jpg",
+          "sha256": "5fb14151bc52dfdd074e45eac532bd028eec5b2441ef7283f6ff6f863006917f"
+        }
+      ],
+      "searchQuery": "site:pinterest.com/pin/ Will you be my Valentine' Choco-Smash Heart Cake with Dipped Strawberries"
+    },
+    {
+      "n": 427,
+      "productId": "8242774540513",
+      "title": "I LOVE YOU Choco-Smash Heart Cake with Dipped Strawberries",
+      "originalImage": "assets/products/dc3072c0ca11875b2e83.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://br.pinterest.com/pin/56506170343197483/",
+          "description": "Chocolate heart cake with strawberries (https://br.pinterest.com/pin/56506170343197483/)",
+          "imageUrl": "https://i.pinimg.com/736x/0e/7b/5f/0e7b5f9f94904303378d34895aa59401.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8242774540513-db4b529c6234.jpg",
+          "sha256": "db4b529c6234aeb676fd2da84f05eba0df232ae0f758e9ac4aecfcefb71d82d8"
+        },
+        {
+          "sourceUrl": "https://ca.pinterest.com/pin/chocolate-smash-heart-in-2023--767019380306533401/",
+          "description": "",
+          "error": "locator.getAttribute: Timeout 5000ms exceeded."
+        },
+        {
+          "sourceUrl": "https://uk.pinterest.com/pin/heart-shaped-cake-with-chocolate-covered-strawberries--838514024370742953/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/fd/4a/ab/fd4aab43e5a7e8b8b0f6cf6c787ff413.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8242774540513-3fbe79343da0.jpg",
+          "sha256": "3fbe79343da08551ed8834e5048d164c10cee63437063b62f9e840aaa6103676"
+        }
+      ],
+      "searchQuery": "site:pinterest.com/pin/ I LOVE YOU Choco-Smash Heart Cake with Dipped Strawberries"
+    },
+    {
+      "n": 428,
+      "productId": "8242768838881",
+      "title": "Heart cake with Pink Roses",
+      "originalImage": "assets/products/aa8c1ad6e35971d6ee54.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://es.pinterest.com/pin/corazon-de-rosas--459930180674476381/",
+          "description": "Corazon de Rosas - Heart Shaped Cake with Pink Roses (https://es.pinterest.com/pin/corazon-de-rosas--459930180674476381/)",
+          "imageUrl": "https://i.pinimg.com/736x/e6/d2/6b/e6d26b7c57d4b7076cbd735f8773d871.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8242768838881-efc7a0a3954c.jpg",
+          "sha256": "efc7a0a3954c0d4178e88f39f8fbb3521b50617344ff0ca0f914255f22d6a15e"
+        },
+        {
+          "sourceUrl": "https://br.pinterest.com/pin/tbt-feito-com-amor-bolo-em-chantininho-para-donnalu_-chantininho-bologourmet-boloartesanal-cakelovers-abrigadeirin--87468417750174010/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/b4/29/62/b4296230eb0976f2d3c681d4ccbe7399.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8242768838881-f4f1af7d6f97.jpg",
+          "sha256": "f4f1af7d6f97684ccae0f41094f010c961a6dd1d41fb65d05e0c92a14497d476"
+        },
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/heart-shaped-cake-with-pink-roses--113012271893259952/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/b8/e3/4e/b8e34ef90ccfff2a349a39b4a52dd5dc.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8242768838881-bdbda5db6748.jpg",
+          "sha256": "bdbda5db6748166d2b6f46cc1c3cba83b91b9918c369190a7cf380e57975cf05"
+        }
+      ],
+      "searchQuery": "site:pinterest.com/pin/ Heart cake with Pink Roses"
+    },
+    {
+      "n": 429,
+      "productId": "8242755698913",
+      "title": "Heart cake with Butterflies",
+      "originalImage": "assets/products/8f9fbb3547e7e1cf40e5.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://ca.pinterest.com/pin/j-e-n-this-is-my-favourite-style-of-heart-cake-it-has-everything-bows-flowers-butterflies-sprinkles-i-love-l-video-in-2024--969259151048867687/",
+          "description": "💖🌸 J E N 🌸💖 This is my favourite style of heart cake! It has everything, bows, flowers, butterflies, sprinkles! I lov… [Video] | Butterfly cakes, Bow cakes, Heart cakes (https://ca.pinterest.com/pin/j-e-n-this-is-my-favourite-style-of-heart-cake-it-has-everything-bows-flowers-butterflies-sprinkles-i-love-l-video-in-2024--969259151048867687/)",
+          "imageUrl": "https://i.pinimg.com/736x/df/7b/8c/df7b8ce9cd9b5ff6a9c911251349533a.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8242755698913-9970ee937397.jpg",
+          "sha256": "9970ee937397ad7928aa0e86960f5e3bc6024966510355e9d4d9b88c2bcafaf0"
+        },
+        {
+          "sourceUrl": "https://mx.pinterest.com/pin/1134696068605032095/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/96/38/a6/9638a6d00c1fa984836b6f3975210363.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8242755698913-50a1c5643071.jpg",
+          "sha256": "50a1c56430718ca045fedbdcd8ec368ee7acbef0f1bb7b17e569d45f707b7248"
+        },
+        {
+          "sourceUrl": "https://dk.pinterest.com/pin/first-heartshaped-cake-with-butterflies--293719206918406850/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/22/0e/c5/220ec531493800093486aeb122891270.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8242755698913-99731e34564d.jpg",
+          "sha256": "99731e34564dcc0f45dacb59ece46cde90ab3563cc2da96735f440976fe9bd8d"
+        }
+      ],
+      "searchQuery": "site:pinterest.com/pin/ Heart cake with Butterflies"
+    },
+    {
+      "n": 430,
+      "productId": "8242742755553",
+      "title": "Valentine's Day Swirls Cupcakes",
+      "originalImage": "assets/products/53515eba9105d31dcb65.jpg",
+      "status": "applied",
+      "candidates": [
+        {
+          "sourceUrl": "https://uk.pinterest.com/pin/valentines-day-cupcakes--8655424258283800/",
+          "description": "Valentine's Day Cupcakes- I cannot figure out how to make this swirl. | Valentines baking, Valentine day cupcakes, Valentines cupcakes (https://uk.pinterest.com/pin/valentines-day-cupcakes--8655424258283800/)",
+          "imageUrl": "https://i.pinimg.com/736x/f0/ac/70/f0ac70e82b3da77d80f252d9d8a097df.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8242742755553-fbeff77cdd62.jpg",
+          "sha256": "fbeff77cdd62077086a2ec454122af96495672e682b09177771df91a6ba46820"
+        },
+        {
+          "sourceUrl": "https://au.pinterest.com/pin/valentines-day-cupcakes--336995984625280943/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/f0/c9/24/f0c924d13c3fb69de936ae2079f62827.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8242742755553-ac6d0ece51d6.jpg",
+          "sha256": "ac6d0ece51d6441cc55c02937a5fbd2076220a6e54a8d4fb2d6a4850c4c495f8"
+        },
+        {
+          "sourceUrl": "https://au.pinterest.com/pin/valentines-day-chocolate-cupcakes-with-buttercream-swirls--52987733088071506/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/0d/56/23/0d5623f2c13011f9ead85398f728a08a.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8242742755553-133a57bba6d9.jpg",
+          "sha256": "133a57bba6d98b666c7af5213e2d596237402eb63cc0cf50e87175b4a68db229"
+        }
+      ],
+      "searchQuery": "site:pinterest.com/pin/ Valentine's Day Swirls Cupcakes",
+      "selected": {
+        "sourceUrl": "https://uk.pinterest.com/pin/valentines-day-cupcakes--8655424258283800/",
+        "description": "Valentine's Day Cupcakes- I cannot figure out how to make this swirl. | Valentines baking, Valentine day cupcakes, Valentines cupcakes (https://uk.pinterest.com/pin/valentines-day-cupcakes--8655424258283800/)",
+        "imageUrl": "https://i.pinimg.com/736x/f0/ac/70/f0ac70e82b3da77d80f252d9d8a097df.jpg",
+        "localImage": "assets/products/matches/batch-009-pinterest/8242742755553-fbeff77cdd62.jpg",
+        "sha256": "fbeff77cdd62077086a2ec454122af96495672e682b09177771df91a6ba46820"
+      },
+      "localImage": "assets/products/matches/batch-009-pinterest/8242742755553-fbeff77cdd62.jpg",
+      "sha256": "fbeff77cdd62077086a2ec454122af96495672e682b09177771df91a6ba46820",
+      "visualReview": {
+        "verified": true,
+        "tierCount": null,
+        "shape": "cupcakes",
+        "notes": "Chocolate swirled cupcakes with red heart decorations."
+      },
+      "reviewNote": "Chocolate swirled cupcakes with red heart decorations."
+    },
+    {
+      "n": 431,
+      "productId": "8242730533089",
+      "title": "Valentine's Day Cupcakes",
+      "originalImage": "assets/products/944cf7ecd29226c4fda6.jpg",
+      "status": "applied",
+      "candidates": [
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/valentines-day-cupcakes-youll-love-and-that-will-satisfy-your-sweet-tooth-easy-valentines-day-cupcake-re--645562927856780775/",
+          "description": "Valentine's Day Cupcakes you'll love and that will satisfy your sweet tooth. Easy Valentine's Day cupcake re… | Valentine day cupcakes, Simple valentine, Valentines (https://in.pinterest.com/pin/valentines-day-cupcakes-youll-love-and-that-will-satisfy-your-sweet-tooth-easy-valentines-day-cupcake-re--645562927856780775/)",
+          "imageUrl": "https://i.pinimg.com/736x/c1/f8/50/c1f850796388deeaaac1a7c2da1388ba.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8242730533089-ba959b0c09f3.jpg",
+          "sha256": "ba959b0c09f3610d625f862306688bf939d64f3c27a03cb3ac768949035ccc49"
+        },
+        {
+          "sourceUrl": "https://uk.pinterest.com/pin/valentines-day-cupcakes--8655424258283800/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/f0/ac/70/f0ac70e82b3da77d80f252d9d8a097df.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8242730533089-fbeff77cdd62.jpg",
+          "sha256": "fbeff77cdd62077086a2ec454122af96495672e682b09177771df91a6ba46820"
+        },
+        {
+          "sourceUrl": "https://ca.pinterest.com/pin/valentines-day-cupcakes--294634000594198533/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/4c/0d/02/4c0d02e8febe0f8e60d5c54bcdcbc1be.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8242730533089-1f61baf11aaf.jpg",
+          "sha256": "1f61baf11aafbc005adea33b026d30151ef901e9fd3b3d1c0ac16bb9d6094f0f"
+        }
+      ],
+      "searchQuery": "site:pinterest.com/pin/ Valentine's Day Cupcakes",
+      "selected": {
+        "sourceUrl": "https://ca.pinterest.com/pin/valentines-day-cupcakes--294634000594198533/",
+        "description": "",
+        "imageUrl": "https://i.pinimg.com/736x/4c/0d/02/4c0d02e8febe0f8e60d5c54bcdcbc1be.jpg",
+        "localImage": "assets/products/matches/batch-009-pinterest/8242730533089-1f61baf11aaf.jpg",
+        "sha256": "1f61baf11aafbc005adea33b026d30151ef901e9fd3b3d1c0ac16bb9d6094f0f"
+      },
+      "localImage": "assets/products/matches/batch-009-pinterest/8242730533089-1f61baf11aaf.jpg",
+      "sha256": "1f61baf11aafbc005adea33b026d30151ef901e9fd3b3d1c0ac16bb9d6094f0f",
+      "visualReview": {
+        "verified": true,
+        "tierCount": null,
+        "shape": "cupcakes",
+        "notes": "Pink Valentine cupcakes with heart-shaped love sweets."
+      },
+      "reviewNote": "Pink Valentine cupcakes with heart-shaped love sweets."
+    },
+    {
+      "n": 432,
+      "productId": "8241046225121",
+      "title": "Elegantly Piped Heart Shaped Cake",
+      "originalImage": "assets/products/9b368e8bc8bca69c7c17.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://ca.pinterest.com/pin/908953137911430168/",
+          "description": "This heart-shaped cake with delicate piping and mini heart accents is the perfect way to mark a special milestone. 💕🎂",
+          "imageUrl": "https://i.pinimg.com/736x/fb/83/f8/fb83f8f9c83fe49c6925f2f7cc02b7f0.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8241046225121-56ab7ae34b2b.jpg",
+          "sha256": "56ab7ae34b2b647d0f0e54de681ab8b48f943d2f9d55e15cbe8e8ed17a9e3c0a"
+        },
+        {
+          "sourceUrl": "https://uk.pinterest.com/pin/this-heartshaped-cake-with-vintage-piping-dramatic-black-ribbons-and-a-touch-of-luxury-is-perfect-fo-in-2025--1040753795146196525/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/5b/5f/d3/5b5fd3a8be9e1c90f5a427e36017dced.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8241046225121-acd1c95e2b87.jpg",
+          "sha256": "acd1c95e2b8797f4b9203aac72a76c161095df82e1bb648ad4340860168dcb9c"
+        },
+        {
+          "sourceUrl": "https://uk.pinterest.com/pin/this-heartshaped-cake-with-vintage-piping-dramatic-black-ribbons-and-a-touch-of-luxury-is-perfect-f-in-2025--1040753795146196525/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/5b/5f/d3/5b5fd3a8be9e1c90f5a427e36017dced.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8241046225121-acd1c95e2b87.jpg",
+          "sha256": "acd1c95e2b8797f4b9203aac72a76c161095df82e1bb648ad4340860168dcb9c"
+        }
+      ],
+      "searchQuery": "site:pinterest.com/pin/ Piped Heart Shaped Cake"
+    },
+    {
+      "n": 433,
+      "productId": "8241043177697",
+      "title": "Valentine's Day Love Letter Cake",
+      "originalImage": "assets/products/2134e8d0277d3a5155d4.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://uk.pinterest.com/pin/valentines-day-cake--492581277974192913/",
+          "description": "Valentine's Day Cake | Heart Shaped Cake with Love (https://uk.pinterest.com/pin/valentines-day-cake--492581277974192913/)",
+          "imageUrl": "https://i.pinimg.com/736x/00/df/45/00df45104e72734c13d6a38d52865f72.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8241043177697-63c17b5ccc19.jpg",
+          "sha256": "63c17b5ccc1982f8cc3952a6ce97c2ba690a47baed855ecb533095e2eb5d382c"
+        },
+        {
+          "sourceUrl": "https://ca.pinterest.com/pin/valentines-day-custom-cake-for-your-sweetheart--276127020892946447/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/86/c7/a7/86c7a7ea707bcf33d3b5eabd65c52b3d.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8241043177697-a4f00d9a67b0.jpg",
+          "sha256": "a4f00d9a67b067d63a76043335a5ec12dcf33c8ed2bdc7d829c2fbc8e174004e"
+        },
+        {
+          "sourceUrl": "https://uk.pinterest.com/pin/valentines-day-heart-shaped-cake-with-i-love-you-message--360288038912926978/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/d2/25/e5/d225e5d591fd8c2ce2e93c5741edc2ae.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8241043177697-a70bafa98959.jpg",
+          "sha256": "a70bafa989599c1933d8e60cccf170c27757c38663a47de7c7fee0c6fd6985c9"
+        }
+      ],
+      "searchQuery": "site:pinterest.com/pin/ Valentine's Day Love Letter Cake"
+    },
+    {
+      "n": 434,
+      "productId": "8241039409377",
+      "title": "Red Heart Shaped Cake",
+      "originalImage": "assets/products/2cce25e65a443ca933c8.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/heart-shaped-cake-in-bloom-bakery--787848528584876896/",
+          "description": "Heart Shaped Red Velvet Cake - Perfect for Valentine's Day (https://www.pinterest.com/pin/heart-shaped-cake-in-bloom-bakery--787848528584876896/)",
+          "imageUrl": "https://i.pinimg.com/736x/07/21/8c/07218c515eef5d94cafa35a294153018.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8241039409377-8e6d1224dcc5.jpg",
+          "sha256": "8e6d1224dcc58ec6c4e6c6401f1acdd3f172153675efc3a704023dc25249c5fc"
+        },
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/heart-shaped-cake-with-red-hearts--480548222741433996/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/0b/65/79/0b65796d84f6fda9c0e0b115a1e0fec4.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8241039409377-50920ed08668.jpg",
+          "sha256": "50920ed08668cfb5ad7a2bf143689448aaa309b136a6fa01a141a3368c034268"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/romantic-heartshaped-cake-with-elegant-red-rose-design-in-2025--241716704994530323/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/d1/79/50/d17950eff48b7215bb849092d8ce724a.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8241039409377-ed3396e967dc.jpg",
+          "sha256": "ed3396e967dc3f6cd1d217847f400fafa6e6ff71eef2c24580ef8b355c6114a3"
+        }
+      ],
+      "searchQuery": "site:pinterest.com/pin/ Red Heart Shaped Cake"
+    },
+    {
+      "n": 435,
+      "productId": "8241037607137",
+      "title": "Red Heartbeats Berries Cake",
+      "originalImage": "assets/products/2935047eb8ce791769ae.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://au.pinterest.com/pin/fresh-berry-cake-1256-pax-in-2025--893401644860566605/",
+          "description": "Fresh Berry Cake HEART | Fresh berries cake, Fresh raspberry cake, Berry cake (https://au.pinterest.com/pin/fresh-berry-cake-1256-pax-in-2025--893401644860566605/)",
+          "error": "locator.getAttribute: Timeout 5000ms exceeded."
+        },
+        {
+          "sourceUrl": "https://uk.pinterest.com/pin/731131320790420898/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/ea/2d/c1/ea2dc10edaf986e3cfcbe721eff0f16d.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8241037607137-d7cba3a412f8.jpg",
+          "sha256": "d7cba3a412f80bf7227eb75e86cca705d4ab0a1ddf245471658f97657ac0a434"
+        },
+        {
+          "sourceUrl": "https://kr.pinterest.com/pin/777011742005812273/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/4a/98/5e/4a985ea84f39704a5d63905559b7f93e.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8241037607137-52848f7acae0.jpg",
+          "sha256": "52848f7acae0c23f0aa5f33bac6f12108614885d3e573d3071fa2f7f0af91760"
+        }
+      ],
+      "searchQuery": "site:pinterest.com/pin/ Red Heartbeats Berries Cake"
+    },
+    {
+      "n": 436,
+      "productId": "8235580031201",
+      "title": "Corporate logo Chocolate Gift Boxes Giveaway",
+      "originalImage": "assets/products/8ea562b6f689210d0445.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/want-to-see-what-is-inside-swipe-special-double-layer-chocolate-gift-box-customisation-available-for-or-in-2025--757519599862674884/",
+          "description": "Want to see what is inside..?",
+          "imageUrl": "https://i.pinimg.com/736x/84/91/53/849153e75549fdab3c0b0b0d48995f5c.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8235580031201-69c64d00abbd.jpg",
+          "sha256": "69c64d00abbd0f85d2bd69559d6daa732c4cfa792f9ab23509a33808d0b68d00"
+        },
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/2pcs-candy-chocolate-gift-boxes-with-design-paper-construction-ideal-for-festive-gifts-festive-gift-in-2025--4596064248878620672/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/61/9f/d4/619fd4abe61cbeece232e8757d2768b8.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8235580031201-a1d34fcaafcb.jpg",
+          "sha256": "a1d34fcaafcb332e3ecbd8f09523244272da0c055b5595e2763aafa1990952f9"
+        },
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/chocolate-gift-box-basic-box-in-2025--4599653078060148736/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/42/5c/91/425c91ed41c019ea1de961480b26d8f9.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8235580031201-d67e88fb4b59.jpg",
+          "sha256": "d67e88fb4b59e9d96293244caf27bd2ca428a9696d7d15d88f268e9ed32d97f1"
+        }
+      ],
+      "searchQuery": "site:pinterest.com/pin/ Chocolate Gift Boxes "
+    },
+    {
+      "n": 437,
+      "productId": "8235574558945",
+      "title": "Corporate Logo Cookies",
+      "originalImage": "assets/products/907f16a588acc70d1ea2.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://ca.pinterest.com/pin/dessertcakes-things-see-cookiesbarssee-fruit-breakfast-or-brunch-for-crispscrumbles-etcseethebusybakercagreat-site-for-baking-n--93801604730437260/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/fb/03/a1/fb03a168434011afa989d8e95a1ef808.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8235574558945-231969edf8eb.jpg",
+          "sha256": "231969edf8eba9623ef74a36df60a75c6d59280670c304252ebe3047130b4f2b"
+        },
+        {
+          "sourceUrl": "https://au.pinterest.com/pin/site-1-art-of-living--665266176187360760/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/14/c3/74/14c374bf051987c959f74c6a0877e353.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8235574558945-c919ce3294a9.jpg",
+          "sha256": "c919ce3294a9e7645b886d0242d966a23f7e67f93a603350669923cbb3692e8b"
+        },
+        {
+          "sourceUrl": "https://au.pinterest.com/pin/chocolate-chip-cookies-baking-cooking-dessert-snack-pin-used-from-pinterest--54887689203870452/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/04/8d/43/048d438b6a74bfb845286427ddea5d43.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8235574558945-6ae0d7fc0674.jpg",
+          "sha256": "6ae0d7fc0674af8316abb96fe374ad66aaaa64e25970c5e300446e2adef52ede"
+        }
+      ],
+      "searchQuery": "site:pinterest.com/pin/ Cookies"
+    },
+    {
+      "n": 438,
+      "productId": "8233006334177",
+      "title": "Pink Barbie Crown Cake",
+      "originalImage": "assets/products/52806382810d46866fb7.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/edible-creations-pink-barbie-car-cake-check-us-out-on-face-book-edible-creations-or-email-us-ediblecreationshotmail--168885054748788707/",
+          "description": "Pink Barbie Car Cake by Edible Creations (https://www.pinterest.com/pin/edible-creations-pink-barbie-car-cake-check-us-out-on-face-book-edible-creations-or-email-us-ediblecreationshotmail--168885054748788707/)",
+          "imageUrl": "https://i.pinimg.com/736x/8c/43/8f/8c438f4121eaed1575c2d4a42cb0b6af.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8233006334177-4516603e1fc0.jpg",
+          "sha256": "4516603e1fc0912e6ebed84945f0d1c6f278745e6c0201211fb9f5ddf8d64ed7"
+        },
+        {
+          "sourceUrl": "https://ph.pinterest.com/pin/barbie-theme-cake-barbiecake-pink-pinktheme-in-2025--346988346310185150/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/cc/97/25/cc9725c53c1718648323a0e2f8912c9b.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8233006334177-12f9da4b5752.jpg",
+          "sha256": "12f9da4b5752ce75c4c277cd46ae607234eeab419c8b018344cf411ccab3a367"
+        },
+        {
+          "sourceUrl": "https://mx.pinterest.com/pin/barbie-cake-pink--427349452161285822/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/ff/35/49/ff35496139ad8fef7e8139bb0f346dc0.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8233006334177-c7a846e4a7c0.jpg",
+          "sha256": "c7a846e4a7c0774c706e4b33cd2b9d816e455cfe8211cfff8672abcefae7402d"
+        }
+      ],
+      "searchQuery": "site:pinterest.com/pin/ Pink Barbie Crown Cake"
+    },
+    {
+      "n": 439,
+      "productId": "8233001812193",
+      "title": "Pink Hearts Cake",
+      "originalImage": "assets/products/d338497850978881c94b.png",
+      "status": "applied",
+      "candidates": [
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/pink-hearts-cake-in-2025--743797694742985269/",
+          "description": "pink hearts cake💋 in 2025 | Heart cake, Cake, Pink heart (https://in.pinterest.com/pin/pink-hearts-cake-in-2025--743797694742985269/)",
+          "imageUrl": "https://i.pinimg.com/736x/d5/4c/bc/d54cbc3c408f821bc1026887bf2b4351.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8233001812193-0d85b946f906.jpg",
+          "sha256": "0d85b946f906f7e442ca1fb1c312e9588ec3d956e45c5e0e1c0e65690f22e745"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/pink-heart-shaped-cake--1407443628151632/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/5a/2e/f6/5a2ef6fd43e71a6e4b160a5b5cf415b6.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8233001812193-cde1c56cb4bb.jpg",
+          "sha256": "cde1c56cb4bb88f9f92ccb75a29947534f76e37f91677abd0f361c2953f59977"
+        },
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/pink-hearts-cake-in-2024--510877151498836150/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/2e/26/07/2e2607601f2f4fc0bbf3c2e7869d8ec2.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8233001812193-b5ec23ffc7f6.jpg",
+          "sha256": "b5ec23ffc7f6ce2c9673bf56596b7d3ba5fb6ca6d996a9cfe67461c7f29e9179"
+        }
+      ],
+      "searchQuery": "site:pinterest.com/pin/ Pink Hearts Cake",
+      "selected": {
+        "sourceUrl": "https://in.pinterest.com/pin/pink-hearts-cake-in-2025--743797694742985269/",
+        "description": "pink hearts cake💋 in 2025 | Heart cake, Cake, Pink heart (https://in.pinterest.com/pin/pink-hearts-cake-in-2025--743797694742985269/)",
+        "imageUrl": "https://i.pinimg.com/736x/d5/4c/bc/d54cbc3c408f821bc1026887bf2b4351.jpg",
+        "localImage": "assets/products/matches/batch-009-pinterest/8233001812193-0d85b946f906.jpg",
+        "sha256": "0d85b946f906f7e442ca1fb1c312e9588ec3d956e45c5e0e1c0e65690f22e745"
+      },
+      "localImage": "assets/products/matches/batch-009-pinterest/8233001812193-0d85b946f906.jpg",
+      "sha256": "0d85b946f906f7e442ca1fb1c312e9588ec3d956e45c5e0e1c0e65690f22e745",
+      "visualReview": {
+        "verified": true,
+        "tierCount": 1,
+        "shape": "round",
+        "notes": "One pale pink round cake with pink heart decorations."
+      },
+      "reviewNote": "One pale pink round cake with pink heart decorations."
+    },
+    {
+      "n": 440,
+      "productId": "8232991391969",
+      "title": "Pink Bomb Cake with hearts",
+      "originalImage": "assets/products/945708e357e18ef8b863.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://uk.pinterest.com/pin/pink-cake-with-hearts--518265869591195348/",
+          "description": "Pink Cake with Hearts (https://uk.pinterest.com/pin/pink-cake-with-hearts--518265869591195348/)",
+          "imageUrl": "https://i.pinimg.com/736x/a0/d6/c7/a0d6c716ff5575a5317f955bce0a0e13.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8232991391969-285361df1fc0.jpg",
+          "sha256": "285361df1fc0ac73122dcd944fc3ca05eef211f28555d07724bcbccaf4c6fd5f"
+        },
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/pink-cake-with-hearts--521362094336250194/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/c2/f4/ad/c2f4add291f6bc133a7a2d638460e819.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8232991391969-8ffba0a9d734.jpg",
+          "sha256": "8ffba0a9d734ab474c03bbdc7be421be50fd30bd2f662942eec26fbf367917e5"
+        },
+        {
+          "sourceUrl": "https://uk.pinterest.com/pin/valentines-day-cake-with-pink-frosting-and-hearts--364439794854117502/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/e4/d9/d9/e4d9d94e02c03c107acd2763dabb1ea4.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8232991391969-4654dde53a88.jpg",
+          "sha256": "4654dde53a88a03c5817c2de40fa756fac80a74322359ceeaaca374d58806a7f"
+        }
+      ],
+      "searchQuery": "site:pinterest.com/pin/ Pink Bomb Cake with hearts"
+    },
+    {
+      "n": 441,
+      "productId": "8232989360353",
+      "title": "Pink& Green Heart Shaped butterfly Cake",
+      "originalImage": "assets/products/a49e89a9ca400f5d9878.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/338684834502644073/",
+          "description": "Forever That Girl Butterfly Heart Shaped Cake | Butterfly birthday cakes, Cute birthday cakes, 21st birthday cakes (https://www.pinterest.com/pin/338684834502644073/)",
+          "imageUrl": "https://i.pinimg.com/736x/f9/27/c2/f927c2f734947ddc025cbd77cf770980.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8232989360353-2c5f02b657fe.jpg",
+          "sha256": "2c5f02b657feb01f4d4e73f44cf0b017ee9d841c6c9a95b014c2af7008e06f9c"
+        },
+        {
+          "sourceUrl": "https://uk.pinterest.com/pin/heart-shaped-cake-with-pink-and-green-frosting--458945018259300646/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/78/5c/b4/785cb4fbe21250fce4e32892ab36ecc2.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8232989360353-e084210376e4.jpg",
+          "sha256": "e084210376e4a4ffa049b9c0dc08942e0164f42de5a77c7bcf220c994b3e1620"
+        },
+        {
+          "sourceUrl": "https://au.pinterest.com/pin/heart-shaped-cake-with-pink-and-green-frosting--596304806918966687/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/be/6a/13/be6a13358aa80f8de6b0470358a1f91e.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8232989360353-33d4e76d481c.jpg",
+          "sha256": "33d4e76d481c14b6043d91af4dcbb11f6d47bdeb76cd0a1d2a4419461ef747db"
+        }
+      ],
+      "searchQuery": "site:pinterest.com/pin/ Pink& Green Heart Shaped butterfly Cake"
+    },
+    {
+      "n": 442,
+      "productId": "8232864252129",
+      "title": "Bunny Bomb Cake with butterfly & flowers",
+      "originalImage": "assets/products/c43534ed2ab28ab46427.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://au.pinterest.com/pin/easter-cake-with-bunny-and-flowers--424182858669906283/",
+          "description": "Easter Cake with Bunny and Flowers (https://au.pinterest.com/pin/easter-cake-with-bunny-and-flowers--424182858669906283/)",
+          "imageUrl": "https://i.pinimg.com/736x/8a/d3/6b/8ad36bc93ea829ed776eb5e28e12991e.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8232864252129-0705d83df325.jpg",
+          "sha256": "0705d83df325e27772de3ad4bd9d3309b12ba2ff831e7a353cd8d5d79d360621"
+        },
+        {
+          "sourceUrl": "https://uk.pinterest.com/pin/springeaster-cake-with-buttercream-flowers-and-bunny--627196685598407292/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/d0/62/4a/d0624a491b4d0ecc4a94ff1af7c2bb2c.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8232864252129-4030cfbbdaba.jpg",
+          "sha256": "4030cfbbdaba56a59ed887e14c387e3afd0c73a29f831c56f9d7f0b71d8626e3"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/ombr-airbrushed-purple-and-pink-cascading-butterfly-cake-with-fresh-flower-topper--362962051199387327/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/d3/ee/c5/d3eec5d45c7fdaa1e8827fc594e33706.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8232864252129-c0784a1ab00c.jpg",
+          "sha256": "c0784a1ab00c98bbecd5b20f5aa44f44157b9ca5f29c42ac87a790fba9c29119"
+        }
+      ],
+      "searchQuery": "site:pinterest.com/pin/ Bunny Bomb Cake with butterfly & flowers"
+    },
+    {
+      "n": 443,
+      "productId": "8232863924449",
+      "title": "Elegantly Piped butterfly Cake",
+      "originalImage": "assets/products/65245d6e2f9e43e16b0f.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://uk.pinterest.com/pin/sarah-arnold-on-instagram-butterfly-cake-hack-so-so-easy-to-recreate-the-perfect-way-to-create-a-beautiful-butterfly-shape-by-simply-using-round-cake-la-in-2025--17732992277741438/",
+          "description": "Sarah Arnold on Instagram: \"Butterfly cake hack 🦋 So so easy to recreate 🥳 The perfect way to create a beautiful butterfly shape by simply using round cake la… in 2025 | Butterfly birthday cakes, Butterfly cakes, Easy cakes for kids (https://uk.pinterest.com/pin/sarah-arnold-on-instagram-butterfly-cake-hack-so-so-easy-to-recreate-the-perfect-way-to-create-a-beautiful-butterfly-shape-by-simply-using-round-cake-la-in-2025--17732992277741438/)",
+          "imageUrl": "https://i.pinimg.com/736x/8d/52/ae/8d52ae4cd18523000edec63543dca5cc.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8232863924449-2a562f0b52b0.jpg",
+          "sha256": "2a562f0b52b03460c1c93b572295380386c1aa1e45fdab347cda0bbd94f2e0de"
+        },
+        {
+          "sourceUrl": "https://it.pinterest.com/pin/1045538869759976532/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/49/b8/8e/49b88e00763d94240a5aa5a4a705e6fd.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8232863924449-723d42279285.jpg",
+          "sha256": "723d422792852aa7b195154d8c087f0531e42e6e573ac150978af7eaa91c4f79"
+        },
+        {
+          "sourceUrl": "https://ph.pinterest.com/pin/gradient-pink-butterfly-cake--1018306165726641276/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/d0/2e/6b/d02e6b331336282229f4cfbcc7038219.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8232863924449-30cc98881705.jpg",
+          "sha256": "30cc9888170557dd97ab67b9873c1d0f3e06a343a6145847dac4820d50131a67"
+        }
+      ],
+      "searchQuery": "site:pinterest.com/pin/ Piped butterfly Cake"
+    },
+    {
+      "n": 444,
+      "productId": "8232863629537",
+      "title": "Elegantly Piped Heart Shaped butterfly Cake",
+      "originalImage": "assets/products/f3d92de1e394bfc78818.jpg",
+      "status": "applied",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/338684834502644073/",
+          "description": "Forever That Girl Butterfly Heart Shaped Cake | Butterfly birthday cakes, Cute birthday cakes, 21st birthday cakes (https://www.pinterest.com/pin/338684834502644073/)",
+          "imageUrl": "https://i.pinimg.com/736x/f9/27/c2/f927c2f734947ddc025cbd77cf770980.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8232863629537-2c5f02b657fe.jpg",
+          "sha256": "2c5f02b657feb01f4d4e73f44cf0b017ee9d841c6c9a95b014c2af7008e06f9c"
+        },
+        {
+          "sourceUrl": "https://uk.pinterest.com/pin/510666045237717067/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/65/59/d8/6559d871f177901488d726fc51603289.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8232863629537-1c797d9d5392.jpg",
+          "sha256": "1c797d9d53923fc4426aaa26d6a039eed08c80669a16f09a55047d3a8b68be67"
+        },
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/heart-shaped-butterfly-cake-for-abirs-birthday--588423507555203601/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/68/67/46/686746026cbb700afa285ef70461de6b.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8232863629537-8c3512d25083.jpg",
+          "sha256": "8c3512d25083eb0d28d45badef82e8d91a1f4adee1a91f4c5c4bfb6a4456b08e"
+        }
+      ],
+      "searchQuery": "site:pinterest.com/pin/ Piped Heart Shaped butterfly Cake",
+      "selected": {
+        "sourceUrl": "https://www.pinterest.com/pin/338684834502644073/",
+        "description": "Forever That Girl Butterfly Heart Shaped Cake | Butterfly birthday cakes, Cute birthday cakes, 21st birthday cakes (https://www.pinterest.com/pin/338684834502644073/)",
+        "imageUrl": "https://i.pinimg.com/736x/f9/27/c2/f927c2f734947ddc025cbd77cf770980.jpg",
+        "localImage": "assets/products/matches/batch-009-pinterest/8232863629537-2c5f02b657fe.jpg",
+        "sha256": "2c5f02b657feb01f4d4e73f44cf0b017ee9d841c6c9a95b014c2af7008e06f9c"
+      },
+      "localImage": "assets/products/matches/batch-009-pinterest/8232863629537-2c5f02b657fe.jpg",
+      "sha256": "2c5f02b657feb01f4d4e73f44cf0b017ee9d841c6c9a95b014c2af7008e06f9c",
+      "visualReview": {
+        "verified": true,
+        "tierCount": 1,
+        "shape": "heart",
+        "notes": "One pink piped heart cake with butterflies."
+      },
+      "reviewNote": "One pink piped heart cake with butterflies."
+    },
+    {
+      "n": 445,
+      "productId": "8232862646497",
+      "title": "Red Heart Cake",
+      "originalImage": "assets/products/243a9b0e640c1648a416.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://ca.pinterest.com/pin/cakes-by-amy-on-instagram-a-simple-yet-classy-red-heart-cake-valentinecake-redcake-heartcake-valentines-birthday-birthdaycake-modlezakolace-in-2025--676525175311498686/",
+          "description": "Cakes by Amy 🇷🇸 on Instagram: \"A simple yet classy red heart cake ♥️♥️♥️ #valentinecake #redcake #heartcake #valentines #birthday #birthdaycake #modlezakolace… | Graduation cakes, Cake designs, Cake decorating techniques (https://ca.pinterest.com/pin/cakes-by-amy-on-instagram-a-simple-yet-classy-red-heart-cake-valentinecake-redcake-heartcake-valentines-birthday-birthdaycake-modlezakolace-in-2025--676525175311498686/)",
+          "imageUrl": "https://i.pinimg.com/736x/6f/09/95/6f0995f8e3071dbb309b0fc40f0ab265.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8232862646497-2ea8a1bbddd7.jpg",
+          "sha256": "2ea8a1bbddd7d6a2f7089bbb575de1da46ffbaee345b59424be7c27082738c85"
+        },
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/heart-shaped-cake-with-red-hearts--480548222741433996/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/0b/65/79/0b65796d84f6fda9c0e0b115a1e0fec4.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8232862646497-50920ed08668.jpg",
+          "sha256": "50920ed08668cfb5ad7a2bf143689448aaa309b136a6fa01a141a3368c034268"
+        },
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/384072674475527005/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/aa/28/0b/aa280b26030f174d00ae2a646046bf7e.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8232862646497-54a93bbc2e0d.jpg",
+          "sha256": "54a93bbc2e0d77124e1d3463f8842920dccb2e121a8739e4fe481703275a53b9"
+        }
+      ],
+      "searchQuery": "site:pinterest.com/pin/ Red Heart Cake"
+    },
+    {
+      "n": 446,
+      "productId": "8174522433761",
+      "title": "White Bomb Cake with Crystals",
+      "originalImage": "assets/products/c577f898e7e6d57444c6.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://uk.pinterest.com/pin/182044009924347987/",
+          "description": "It doesn't get more classic than an all-white wedding cake covered in sugar pearls and crystals! 🎀 Head to … | Wedding cakes, All white wedding, White wedding cake (https://uk.pinterest.com/pin/182044009924347987/)",
+          "imageUrl": "https://i.pinimg.com/736x/24/a9/d6/24a9d6cff4b9c631dcb6fb17c95d4c8c.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8174522433761-34628018e77f.jpg",
+          "sha256": "34628018e77f5c997f34c997458f10b9e12e8ee95ccb58e178d418584d06f908"
+        },
+        {
+          "sourceUrl": "https://ph.pinterest.com/pin/my-first-cake-of-2017-a-white-chandelier-cake-6ft-with-all-the-bling-glitz-and-crystals-for-a-coupl-in-2025--488148047394160757/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/ca/5e/38/ca5e38cc190be876467214fea3b91d4b.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8174522433761-42d8a26c9455.jpg",
+          "sha256": "42d8a26c9455cde007baf952cc11fbfdd6c727864e471a39c565c5c9a738a512"
+        },
+        {
+          "sourceUrl": "https://ca.pinterest.com/pin/square-white-cake-with-crystals-and-flowers-make-black-icing-white-instead--324892560590738138/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/85/1f/39/851f39b0bd87262fa2b3d115885dafd4.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8174522433761-f957d362285d.jpg",
+          "sha256": "f957d362285d41a1df2f0000dd090b17cbc117a8b97d42f5c99d051a5d563d1d"
+        }
+      ],
+      "searchQuery": "site:pinterest.com/pin/ White Bomb Cake with Crystals"
+    },
+    {
+      "n": 447,
+      "productId": "8103212318945",
+      "title": "Pink Choco-Smash Heart Cake with white Roses",
+      "originalImage": "assets/products/a98c3679735e59be0e29.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://dk.pinterest.com/pin/heartshaped-cake-with-pink-and-white-roses--290411875974804961/",
+          "description": "Heart-Shaped Cake with Pink and White Roses (https://dk.pinterest.com/pin/heartshaped-cake-with-pink-and-white-roses--290411875974804961/)",
+          "imageUrl": "https://i.pinimg.com/736x/ce/01/f5/ce01f5b4d738a9fc57b9be89fe946022.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8103212318945-ac45474071e8.jpg",
+          "sha256": "ac45474071e83ff288ad5d0a717fb2a404d49397f53d04f3fb05c17332ed0529"
+        },
+        {
+          "sourceUrl": "https://ph.pinterest.com/pin/heart-shaped-cake-with-pink-and-white-roses--675399275369049277/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/93/77/48/937748a15ddf262d7b8235d532f7413f.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8103212318945-1d0adaad5020.jpg",
+          "sha256": "1d0adaad502054548e49848b472fcdeec8cbe7f354575144cc4a73dba0fbcb85"
+        },
+        {
+          "sourceUrl": "https://ca.pinterest.com/pin/chocolate-smash-cake--968344357348311129/",
+          "description": "",
+          "imageUrl": "https://s.pinimg.com/images/default_open_graph_1200.png",
+          "error": "Expected Pinterest image"
+        }
+      ],
+      "searchQuery": "site:pinterest.com/pin/ Pink Choco-Smash Heart Cake with white Roses"
+    },
+    {
+      "n": 448,
+      "productId": "8093490708705",
+      "title": "Breast Cancer Pink Ribbon Cake",
+      "originalImage": "assets/products/1709d6ca6cbff2aa283a.jpg",
+      "status": "applied",
+      "candidates": [
+        {
+          "sourceUrl": "https://uk.pinterest.com/pin/pink-ribbon-cookies-for-breast-cancer-fundraiser--281123201717729320/",
+          "description": "Pink Ribbon Cookies for Breast Cancer Fundraiser (https://uk.pinterest.com/pin/pink-ribbon-cookies-for-breast-cancer-fundraiser--281123201717729320/)",
+          "imageUrl": "https://i.pinimg.com/736x/d7/26/23/d72623ac56b57f2c57f47046aa0fefcb.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8093490708705-ffdd0fce44d8.jpg",
+          "sha256": "ffdd0fce44d8a01947b62fa2f0c77eabba662a38044745339ea83bed664e2c2b"
+        },
+        {
+          "sourceUrl": "https://au.pinterest.com/pin/pink-ombre-cake-to-celebrate-beating-breast-cancer--28077197667104445/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/27/bb/31/27bb316b3ad70d8c01ff65047f6be02a.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8093490708705-8e5c47de03e6.jpg",
+          "sha256": "8e5c47de03e6720ad6ea0787a1ffab540971b1a6ced86f64a6f15a81ba552515"
+        },
+        {
+          "sourceUrl": "https://uk.pinterest.com/pin/pink-ribbon-cake--428053139563696967/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/90/7f/21/907f21ee4404a109ffe54a9351a97c04.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8093490708705-9dbe653a5631.jpg",
+          "sha256": "9dbe653a5631a904ad514e71591ea4a5726aec54220e452c46de680959443983"
+        }
+      ],
+      "searchQuery": "site:pinterest.com/pin/ Breast Cancer Pink Ribbon Cake",
+      "selected": {
+        "sourceUrl": "https://uk.pinterest.com/pin/pink-ribbon-cake--428053139563696967/",
+        "description": "",
+        "imageUrl": "https://i.pinimg.com/736x/90/7f/21/907f21ee4404a109ffe54a9351a97c04.jpg",
+        "localImage": "assets/products/matches/batch-009-pinterest/8093490708705-9dbe653a5631.jpg",
+        "sha256": "9dbe653a5631a904ad514e71591ea4a5726aec54220e452c46de680959443983"
+      },
+      "localImage": "assets/products/matches/batch-009-pinterest/8093490708705-9dbe653a5631.jpg",
+      "sha256": "9dbe653a5631a904ad514e71591ea4a5726aec54220e452c46de680959443983",
+      "visualReview": {
+        "verified": true,
+        "tierCount": 1,
+        "shape": "rectangular",
+        "notes": "One white and pink rectangular cake with an awareness ribbon."
+      },
+      "reviewNote": "One white and pink rectangular cake with an awareness ribbon."
+    },
+    {
+      "n": 449,
+      "productId": "8093490675937",
+      "title": "Breast Cancer Pink Ribbon Shaped Cake",
+      "originalImage": "assets/products/b3398f4381c50776db4b.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://uk.pinterest.com/pin/pink-ribbon-cookies-for-breast-cancer-fundraiser--281123201717729320/",
+          "description": "Pink Ribbon Cookies for Breast Cancer Fundraiser (https://uk.pinterest.com/pin/pink-ribbon-cookies-for-breast-cancer-fundraiser--281123201717729320/)",
+          "imageUrl": "https://i.pinimg.com/736x/d7/26/23/d72623ac56b57f2c57f47046aa0fefcb.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8093490675937-ffdd0fce44d8.jpg",
+          "sha256": "ffdd0fce44d8a01947b62fa2f0c77eabba662a38044745339ea83bed664e2c2b"
+        },
+        {
+          "sourceUrl": "https://au.pinterest.com/pin/pink-ombre-cake-to-celebrate-beating-breast-cancer--28077197667104445/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/27/bb/31/27bb316b3ad70d8c01ff65047f6be02a.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8093490675937-8e5c47de03e6.jpg",
+          "sha256": "8e5c47de03e6720ad6ea0787a1ffab540971b1a6ced86f64a6f15a81ba552515"
+        },
+        {
+          "sourceUrl": "https://de.pinterest.com/pin/9007268002089425/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/19/01/e0/1901e0fa50d8a723e6cc586e82b66e2b.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8093490675937-ee21d04fffa2.jpg",
+          "sha256": "ee21d04fffa268ad7252dde13b5ec601ce4ab568538b803ddf65cfe73ec81845"
+        }
+      ],
+      "searchQuery": "site:pinterest.com/pin/ Breast Cancer Pink Ribbon Shaped Cake"
+    },
+    {
+      "n": 450,
+      "productId": "8093490610401",
+      "title": "50 Breast Cancer Pink Ribbon Shaped Cupcakes",
+      "originalImage": "assets/products/76cd4712fcacb96e7bb5.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://ca.pinterest.com/pin/emma-mcmillan-on-instagram-pink-ribbon-cupcakes-paigeblin-pinkribboncupcakes-pinkcupcakes-cancercouncil-cupcakesofinstagram-lovemakingcupcak--907967974866352524/",
+          "description": "Pink Ribbon Cupcakes: Support Cancer Awareness (https://ca.pinterest.com/pin/emma-mcmillan-on-instagram-pink-ribbon-cupcakes-paigeblin-pinkribboncupcakes-pinkcupcakes-cancercouncil-cupcakesofinstagram-lovemakingcupcak--907967974866352524/)",
+          "imageUrl": "https://i.pinimg.com/736x/07/4f/08/074f0873bc8f13310782c8fe2e256c11.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8093490610401-ed1932d8d550.jpg",
+          "sha256": "ed1932d8d55044e65c192a7dae4f89be9c8106a722ee928951621f46de6b87b4"
+        },
+        {
+          "sourceUrl": "https://uk.pinterest.com/pin/pink-ribbon-cookies-for-breast-cancer-fundraiser--281123201717729320/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/d7/26/23/d72623ac56b57f2c57f47046aa0fefcb.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8093490610401-ffdd0fce44d8.jpg",
+          "sha256": "ffdd0fce44d8a01947b62fa2f0c77eabba662a38044745339ea83bed664e2c2b"
+        },
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/pink-ribbon-cupcakes-with-bows--82401868155778947/",
+          "description": "",
+          "imageUrl": "https://i.pinimg.com/736x/4b/58/d9/4b58d95a5b80ae1588135ee0d453f1e5.jpg",
+          "localImage": "assets/products/matches/batch-009-pinterest/8093490610401-1000c652fa4f.jpg",
+          "sha256": "1000c652fa4f6b5ce90aa14e7342cac101c1d8ebbef91ce01d3a49e0a4c99dfd"
+        }
+      ],
+      "searchQuery": "site:pinterest.com/pin/ 50 Breast Cancer Pink Ribbon Shaped Cupcakes"
+    }
+  ],
+  "reviewedAt": "2026-09-12T14:36:04.900Z",
+  "summary": {
+    "reviewed": 50,
+    "replaced": 8,
+    "pending": 42
+  }
+}

@@ -1,0 +1,407 @@
+{
+  "batch": 16,
+  "size": 50,
+  "sourcePreference": "Pinterest",
+  "records": [
+    {
+      "n": 751,
+      "productId": "7995900133601",
+      "title": "50 Shades of Pink' Swiss Chocolate-Dipped Strawberries",
+      "originalImage": "assets/products/28048de64d1031ff2a8d.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 752,
+      "productId": "7995900100833",
+      "title": "Blush Swiss Chocolate-Dipped Strawberries",
+      "originalImage": "assets/products/eee57b2e1ac9fd639b45.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 753,
+      "productId": "7995899871457",
+      "title": "Floral Heart Pink Cake",
+      "originalImage": "assets/products/25b7a313a754763f71c8.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 754,
+      "productId": "7995899707617",
+      "title": "Blue Heart Tart Cake",
+      "originalImage": "assets/products/41ff513372f5b44ab95d.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 755,
+      "productId": "7995899674849",
+      "title": "Macaron, Kinder & Berries Cake",
+      "originalImage": "assets/products/74026d11d52f19d0a285.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 756,
+      "productId": "7995899609313",
+      "title": "Round Berries Cake",
+      "originalImage": "assets/products/2fec97e83613a63a1380.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 757,
+      "productId": "7995899576545",
+      "title": "Pink Round Berries Layered Cake",
+      "originalImage": "assets/products/94bc81aa688a8835f60d.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 758,
+      "productId": "7995899543777",
+      "title": "Round Chocolate Layered Cake",
+      "originalImage": "assets/products/7be87943d715627d40e2.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 759,
+      "productId": "7995899511009",
+      "title": "Chocolate Number / Age Cake - 1.5kg",
+      "originalImage": "assets/products/b3881809d7fe9a66ac36.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 760,
+      "productId": "7995899478241",
+      "title": "Blue Number / Age Cake - 1.5kg",
+      "originalImage": "assets/products/69cfb2026e5a7149a532.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 761,
+      "productId": "7995899412705",
+      "title": "Colorful Cartoon Cake",
+      "originalImage": "assets/products/43bc526419b5630c7635.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 762,
+      "productId": "7995899379937",
+      "title": "Black Bomb Cake",
+      "originalImage": "assets/products/67729fbbcfd348358369.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 763,
+      "productId": "7995899314401",
+      "title": "Swiss Chocolate Black Forest Cake with Gold Cherries",
+      "originalImage": "assets/products/84e7b50da11b15733557.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 764,
+      "productId": "7995899281633",
+      "title": "Red Velvet Cupcakes",
+      "originalImage": "assets/products/b06aa3f4a9aff724be6d.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 765,
+      "productId": "7995899248865",
+      "title": "Red Current Cupcakes",
+      "originalImage": "assets/products/4a80b3130ff1ac5982a6.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 766,
+      "productId": "7995899183329",
+      "title": "Cupcakes with Cherries",
+      "originalImage": "assets/products/cb9408e6ab046854a608.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 767,
+      "productId": "7995899150561",
+      "title": "Green Berries Cupcakes",
+      "originalImage": "assets/products/3279ff34ed1f0ba8d677.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 768,
+      "productId": "7995899085025",
+      "title": "Pink & Purple Cupcakes",
+      "originalImage": "assets/products/af8e399b59f1667b2ea7.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 769,
+      "productId": "7995899052257",
+      "title": "Blue Cupcakes with Berries",
+      "originalImage": "assets/products/d7178db680d95ecf27e6.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 770,
+      "productId": "7995899019489",
+      "title": "Leibniz & Blue Berries Cupcakes",
+      "originalImage": "assets/products/2ae37e6683e0e293f002.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 771,
+      "productId": "7995898986721",
+      "title": "Blue Berries Cupcakes",
+      "originalImage": "assets/products/e7df0ce26870031fdf31.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 772,
+      "productId": "7995898921185",
+      "title": "Berries & Chocolate Cupcakes",
+      "originalImage": "assets/products/f0e8bfdda24121c15b16.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 773,
+      "productId": "7995898888417",
+      "title": "Red Cupcakes with Berries",
+      "originalImage": "assets/products/bb7e7041a2776bffd3e1.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 774,
+      "productId": "7995898855649",
+      "title": "Pink Birthday Cupcakes",
+      "originalImage": "assets/products/4646ae3a73f4bb5c5dfe.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 775,
+      "productId": "7995898822881",
+      "title": "Dipped Strawberry Cupcakes",
+      "originalImage": "assets/products/d11179ea73a6915e5d3a.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 776,
+      "productId": "7995898790113",
+      "title": "Chocolate Dream Cupcakes",
+      "originalImage": "assets/products/46091b95dd3d2cfad0e0.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 777,
+      "productId": "7995898724577",
+      "title": "Godiva Truffles & Pralines Cupcakes",
+      "originalImage": "assets/products/48b10f3d701ccb49a7b1.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 778,
+      "productId": "7995898659041",
+      "title": "Red Valentine Cupcakes",
+      "originalImage": "assets/products/30c29a860a7a011937fc.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 779,
+      "productId": "7995898626273",
+      "title": "Pink Butterfly Birthday Cupcakes",
+      "originalImage": "assets/products/2dd2bf79063f1ce6cf48.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 780,
+      "productId": "7995898527969",
+      "title": "Elegant Mermaid Cake",
+      "originalImage": "assets/products/370a7aba1678feeedae0.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 781,
+      "productId": "7995898495201",
+      "title": "Elegant Teddy Cake",
+      "originalImage": "assets/products/fde47ae28103af153ae8.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 782,
+      "productId": "7995898462433",
+      "title": "Minnie Mouse Pink Cake",
+      "originalImage": "assets/products/54f03d5d778f27e50cf0.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 783,
+      "productId": "7995898396897",
+      "title": "Teddy Balloons Cake",
+      "originalImage": "assets/products/b18a7fd56ee9e42b6b4d.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 784,
+      "productId": "7995898364129",
+      "title": "Pink Teddy Cake",
+      "originalImage": "assets/products/f6360f67c1200414d646.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 785,
+      "productId": "7995898331361",
+      "title": "Pink Bunny Rainbow Cake",
+      "originalImage": "assets/products/71c2ff0bec8e8ad109a1.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 786,
+      "productId": "7995898298593",
+      "title": "Roses Floral Cake",
+      "originalImage": "assets/products/b2943676eabd810c5e39.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 787,
+      "productId": "7995898265825",
+      "title": "Cartoon Cake",
+      "originalImage": "assets/products/397e020a0f474e941fd7.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 788,
+      "productId": "7995898233057",
+      "title": "Pastel Colors Flower Cake",
+      "originalImage": "assets/products/6b0a4206d16d6900b22b.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 789,
+      "productId": "7995898200289",
+      "title": "Pink Butterflies & Daisies Cake",
+      "originalImage": "assets/products/fae6d0a16768fae10716.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 790,
+      "productId": "7995898167521",
+      "title": "Elegantly Piped Heart Shaped Cake",
+      "originalImage": "assets/products/c80c109e7565b2d6bcaa.png",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 791,
+      "productId": "7995898134753",
+      "title": "Creamy Floral Cake",
+      "originalImage": "assets/products/f1e5031546510b7635f3.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 792,
+      "productId": "7995898101985",
+      "title": "Creamy Flower Pot Cake",
+      "originalImage": "assets/products/00eac67d78fc75961f7c.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 793,
+      "productId": "6541308952765",
+      "title": "Easter Bunny Butt Cupcakes",
+      "originalImage": "assets/products/b4b08f47fa7a304091b3.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 794,
+      "productId": "6541308231869",
+      "title": "Easter Nest Cupcakes",
+      "originalImage": "assets/products/9ca54726373674bbb02e.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 795,
+      "productId": "6541648756925",
+      "title": "Ultimate Chocolate Dipped Cones, Berries & Pretzels",
+      "originalImage": "assets/products/c36c26176cba49879a18.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 796,
+      "productId": "6541544128701",
+      "title": "Sunshine & Beach Ball Cakes Pops",
+      "originalImage": "assets/products/82f0c92563b78955fd60.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 797,
+      "productId": "6541542031549",
+      "title": "Sprinkle Drizzle Cake Pops",
+      "originalImage": "assets/products/54a50c6d38b9b8b4026f.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 798,
+      "productId": "6541541671101",
+      "title": "Sprinkle Ice-cream Shape Cake Pops",
+      "originalImage": "assets/products/d9329bd60ef4dcb4f4d9.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 799,
+      "productId": "6541357777085",
+      "title": "Strawberry Dipped Cupcakes",
+      "originalImage": "assets/products/a0f66fbdd0e72d36dd2e.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 800,
+      "productId": "7518726226145",
+      "title": "Rose Gold Chocolate-Dipped Strawberries",
+      "originalImage": "assets/products/734c3df38f5472d0562d.jpg",
+      "status": "needs-search",
+      "candidates": []
+    }
+  ]
+}

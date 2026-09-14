@@ -1,0 +1,407 @@
+{
+  "batch": 21,
+  "size": 50,
+  "sourcePreference": "Pinterest",
+  "records": [
+    {
+      "n": 1001,
+      "productId": "6541632503997",
+      "title": "Fresh Berries with Golden Crown Chocolate Cake",
+      "originalImage": "assets/products/ccc8dbb2324eba8c2e17.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 1002,
+      "productId": "6541632176317",
+      "title": "Fresh Berries and Strawberry Cake",
+      "originalImage": "assets/products/80feaf273e71dea0043f.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 1003,
+      "productId": "6541631619261",
+      "title": "Disney Princess Cake",
+      "originalImage": "assets/products/dbe72a8a30bbda100d1b.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 1004,
+      "productId": "6541630472381",
+      "title": "Doctor Cake with Equipments",
+      "originalImage": "assets/products/5bb7c13db82b473105e6.png",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 1005,
+      "productId": "6541629128893",
+      "title": "Happy Birthday Curly Wave Sponge Cake",
+      "originalImage": "assets/products/2cc17a8b39b1c60365e7.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 1006,
+      "productId": "6541616185533",
+      "title": "Graduation Cake",
+      "originalImage": "assets/products/ffdf7f921a357501de27.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 1007,
+      "productId": "6541541015741",
+      "title": "Gold Drip Cake with Peonies",
+      "originalImage": "assets/products/4dbfed67780ea2b30967.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 1008,
+      "productId": "6541539279037",
+      "title": "Disney-Themed Cake",
+      "originalImage": "assets/products/9bb6f71301d56202306b.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 1009,
+      "productId": "6541538197693",
+      "title": "Eleganza Pink & Gold Cake with Crown",
+      "originalImage": "assets/products/11db96a0570ffb62726a.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 1010,
+      "productId": "6541527482557",
+      "title": "Customized Number Cake with Berries",
+      "originalImage": "assets/products/073a8f1644a8fcd1c7da.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 1011,
+      "productId": "6541629882557",
+      "title": "Chocolate Creamy Cake with Balloons",
+      "originalImage": "assets/products/51c6c1969ee8e41ca0be.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 1012,
+      "productId": "6541629325501",
+      "title": "Colorful Design Cake with Mini Balloons",
+      "originalImage": "assets/products/43c63888de5d82c26110.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 1013,
+      "productId": "6541541933245",
+      "title": "Chocolate Dreams Cake",
+      "originalImage": "assets/products/b8db0e50e46d7333a4fa.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 1014,
+      "productId": "6541540720829",
+      "title": "Choco-holic Cake",
+      "originalImage": "assets/products/5adb85d5c15958fdf736.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 1015,
+      "productId": "6541540229309",
+      "title": "Birthday Chocolate Berry Cake",
+      "originalImage": "assets/products/791026d79b2e4f78a32a.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 1016,
+      "productId": "6541540065469",
+      "title": "Blue & Grey Teddy Cake",
+      "originalImage": "assets/products/e466dce9e62dea01cea0.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 1017,
+      "productId": "6541539737789",
+      "title": "Blueberries Cube Design Cake",
+      "originalImage": "assets/products/4e017677467668ef0377.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 1018,
+      "productId": "6541539344573",
+      "title": "Chocolate Berry Delight Cake",
+      "originalImage": "assets/products/a3a6d2202ab3b8204aa0.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 1019,
+      "productId": "6541538918589",
+      "title": "Chocolate Berry Heaven Cake",
+      "originalImage": "assets/products/2d20be734e784c8b8b7c.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 1020,
+      "productId": "6541537870013",
+      "title": "Chocolate Berry Sponge Cake",
+      "originalImage": "assets/products/cf91c37c3bcac5991c8d.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 1021,
+      "productId": "6541409157309",
+      "title": "Blooming Roses Cupcake Bouquet",
+      "originalImage": "assets/products/9ef5dc8a83f7c21969ca.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 1022,
+      "productId": "6541335003325",
+      "title": "Flag Cookies in a Gift Box",
+      "originalImage": "assets/products/cd1174d352c8ee07a0df.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 1023,
+      "productId": "6541350600893",
+      "title": "Ferrero Rocher Cupcakes",
+      "originalImage": "assets/products/652eac487523885b1b35.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 1024,
+      "productId": "6541350273213",
+      "title": "Lindt Cupcakes",
+      "originalImage": "assets/products/283dc5402e0390d0805f.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 1025,
+      "productId": "6541349191869",
+      "title": "Chocolate Cupcakes",
+      "originalImage": "assets/products/c830960f19dfa0c6f440.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 1026,
+      "productId": "6541549764797",
+      "title": "Personalized Acrylic Surprise Box with Cake",
+      "originalImage": "assets/products/17a8a021b137886597a7.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 1027,
+      "productId": "6541518962877",
+      "title": "Personalized Acrylic Magic Box with Roses & Cake",
+      "originalImage": "assets/products/54611344045530c5260d.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 1028,
+      "productId": "6541423345853",
+      "title": "Colorful Rainbow Cake",
+      "originalImage": "assets/products/eba0e5580092f94dfe7f.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 1029,
+      "productId": "6541560414397",
+      "title": "Acrylic Gift Box With Golden Cake And Peonies",
+      "originalImage": "assets/products/8bde7bd129281b3c1672.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 1030,
+      "productId": "7477676835041",
+      "title": "Wooden Numbers Cake Topper",
+      "originalImage": "assets/products/950d4646e34093906566.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 1031,
+      "productId": "7457363820769",
+      "title": "Congratulations in Gold or Black Acrylic Topper",
+      "originalImage": "assets/products/4d02c32cd30f6c33bf40.png",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 1032,
+      "productId": "7457357398241",
+      "title": "ONE with blue Crown Gold Acrylic Topper",
+      "originalImage": "assets/products/96fd459a276661291279.png",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 1033,
+      "productId": "7457356251361",
+      "title": "ONE with pink Crown Gold Acrylic Topper",
+      "originalImage": "assets/products/6c214440b066f03f8512.png",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 1034,
+      "productId": "7457352679649",
+      "title": "Happy Valentine Gold Acrylic Topper",
+      "originalImage": "assets/products/50bc30c076d978f7d7af.png",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 1035,
+      "productId": "7457349730529",
+      "title": "Silver Glitter Star Birthday Acrylic Topper",
+      "originalImage": "assets/products/f0040e6d501f3237a01d.png",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 1036,
+      "productId": "7456877740257",
+      "title": "Birthday Toppers",
+      "originalImage": "assets/products/4ea8ba268839d886f194.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 1037,
+      "productId": "7456868794593",
+      "title": "Colorful Birthday Topper",
+      "originalImage": "assets/products/86727a4bf8b7fc40b33f.png",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 1038,
+      "productId": "7456863813857",
+      "title": "Squares Birthday Gold Acrylic Topper",
+      "originalImage": "assets/products/338a0b1ea55fe769dfe8.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 1039,
+      "productId": "7455547293921",
+      "title": "Colored No 8 Light Topper",
+      "originalImage": "assets/products/2ca2e785c6b33abf0215.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 1040,
+      "productId": "6875572043965",
+      "title": "Colored Birthday Candles",
+      "originalImage": "assets/products/a827b3fd03e12e9b7816.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 1041,
+      "productId": "6875563753661",
+      "title": "Blue Birthday Letter Candles",
+      "originalImage": "assets/products/125664ed1f8fc3b5114e.png",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 1042,
+      "productId": "6875559067837",
+      "title": "Blue & Green Birthday Candles",
+      "originalImage": "assets/products/ab8431bb0d2580b9a547.png",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 1043,
+      "productId": "6573778108605",
+      "title": "Anniversary Acrylic Topper",
+      "originalImage": "assets/products/484ddeefcb02062b84da.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 1044,
+      "productId": "6573762117821",
+      "title": "Birthday Firework Candles",
+      "originalImage": "assets/products/7cafca338463895dc3b8.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 1045,
+      "productId": "6573745406141",
+      "title": "Birthday Rose Gold Acrylic Topper",
+      "originalImage": "assets/products/5bb674af7074841f519a.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 1046,
+      "productId": "6573744652477",
+      "title": "Crown Birthday Gold Acrylic Topper",
+      "originalImage": "assets/products/77ecc8260da519e0e80e.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 1047,
+      "productId": "6573717749949",
+      "title": "Round Birthday Gold Acrylic Topper",
+      "originalImage": "assets/products/eb8d17207dc1f6a742b6.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 1048,
+      "productId": "6541578010813",
+      "title": "Balloons, Cake & Flower Decoration for Yacht - Red & Gold",
+      "originalImage": "assets/products/f0e293c784fda43c62ac.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 1049,
+      "productId": "7457358938337",
+      "title": "Graduation Hat in Gold or Black Acrylic Topper",
+      "originalImage": "assets/products/9ffcc1681fbff40e5c52.png",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 1050,
+      "productId": "8967510851809",
+      "title": "Birthday Blister Sparkler Candles",
+      "originalImage": "assets/products/67fd788d53bc61a49e7b.jpg",
+      "status": "needs-search",
+      "candidates": []
+    }
+  ]
+}

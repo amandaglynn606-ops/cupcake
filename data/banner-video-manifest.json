@@ -1,0 +1,15 @@
+{
+  "page": "/",
+  "source": "Second user-provided download",
+  "source_filename": "elegant-wedding-cake-with-white-frosting-and-flowe-2026-01-22-11-48-52-utc.mov",
+  "files": [
+    "assets/videos/wedding-second-full-frame.mp4",
+    "assets/videos/wedding-second-full-frame-mobile.mp4",
+    "assets/videos/wedding-second-full-frame-poster.webp"
+  ],
+  "source_country": null,
+  "treatment": "Complete second source footage, original timing preserved; offline H.264 encoding, no audio, fast-start MP4. Desktop 1280×720; mobile 854×480.",
+  "framing_limit": "The original second video is a close-up and does not show the complete cake at once. Missing parts cannot be revealed by CSS zooming out.",
+  "controls": "No visible playback controls; continues on hover and focus. Pauses offscreen, on hidden tabs, on Escape, or for reduced-motion and save-data settings.",
+  "presentation": "Full-width banner restored to 650px on desktop; video uses cover at desktop size and a natural 16:9 frame on mobile. A third source video is requested but is not yet present in Downloads."
+}

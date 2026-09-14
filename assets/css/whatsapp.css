@@ -1,0 +1,5 @@
+.whatsapp-float{position:fixed;right:24px;bottom:calc(24px + env(safe-area-inset-bottom,0px));z-index:60;display:grid;place-items:center;width:56px;height:56px;border-radius:50%;background:#502633;color:#fbf7ef;border:1px solid #fbf7ef66;box-shadow:0 4px 18px #50263330;text-decoration:none}
+.whatsapp-float svg{width:29px;height:29px;display:block;fill:currentColor}
+.whatsapp-float:hover{background:#633644;color:#fbf7ef}
+.whatsapp-float:focus-visible{outline:3px solid #502633;outline-offset:4px}
+@media(max-width:760px){.whatsapp-float{right:16px;bottom:calc(16px + env(safe-area-inset-bottom,0px));width:52px;height:52px}body[data-page^="/cakes/"] .whatsapp-float{bottom:calc(96px + env(safe-area-inset-bottom,0px))}}

@@ -1,0 +1,356 @@
+{
+  "reviewedAt": "2026-09-12",
+  "description": "Photo numbers correspond to wedding-source-images.json. Counts record cake tiers; clear or metallic structural separators are described separately.",
+  "designs": [
+    [
+      2,
+      4,
+      "White Petals & Gold Leaves"
+    ],
+    [
+      4,
+      5,
+      "Blush & Gold Garland"
+    ],
+    [
+      5,
+      5,
+      "White Floral Spiral"
+    ],
+    [
+      6,
+      4,
+      "Ivory Rose Cascade"
+    ],
+    [
+      7,
+      5,
+      "Gold & Ivory Rose Wreaths"
+    ],
+    [
+      8,
+      5,
+      "Champagne Petals & Monogram"
+    ],
+    [
+      9,
+      4,
+      "White Florals & Gold Frame",
+      [
+        54
+      ],
+      "Four cake tiers with a gold open-frame separator and soft green leaf accents."
+    ],
+    [
+      10,
+      4,
+      "Monogram & Lace"
+    ],
+    [
+      11,
+      5,
+      "Gold Marble & Florals"
+    ],
+    [
+      12,
+      5,
+      "White Ruffles & Floral Spiral",
+      [
+        49
+      ]
+    ],
+    [
+      13,
+      6,
+      "Champagne & Blush Rose Cascade"
+    ],
+    [
+      14,
+      4,
+      "Lilac Rose Cascade"
+    ],
+    [
+      15,
+      4,
+      "Blush Roses & Initial"
+    ],
+    [
+      16,
+      5,
+      "Ivory Lace & Crystal Separator",
+      [],
+      "Five cake tiers with an additional clear separator, gold bands and white flowers."
+    ],
+    [
+      17,
+      4,
+      "White Texture & Petals"
+    ],
+    [
+      18,
+      4,
+      "Ice Blue & Ivory Roses"
+    ],
+    [
+      19,
+      4,
+      "Champagne Pearl & Floral Lace"
+    ],
+    [
+      20,
+      4,
+      "Rose Marble & Burgundy Blooms"
+    ],
+    [
+      21,
+      3,
+      "White Florals & Clear Separator",
+      [],
+      "Three cake tiers with an additional clear separator filled with sparkling detail."
+    ],
+    [
+      23,
+      3,
+      "Garden Rose Wedding Cake"
+    ],
+    [
+      24,
+      4,
+      "Champagne Shimmer & Floral Bands"
+    ],
+    [
+      25,
+      4,
+      "Blush Petals & Monogram"
+    ],
+    [
+      26,
+      4,
+      "White Roses & Green Vines"
+    ],
+    [
+      28,
+      3,
+      "Magenta Watercolour & Florals"
+    ],
+    [
+      29,
+      4,
+      "Soft Pink Garden Cascade"
+    ],
+    [
+      30,
+      5,
+      "Lilac Double Floral Spiral"
+    ],
+    [
+      31,
+      4,
+      "Pink Peonies & Gold Initials"
+    ],
+    [
+      32,
+      4,
+      "White Floral Wreaths"
+    ],
+    [
+      33,
+      5,
+      "White Floral Appliqué"
+    ],
+    [
+      34,
+      3,
+      "Champagne Floral Cascade",
+      [
+        60
+      ]
+    ],
+    [
+      35,
+      3,
+      "Suspended Gold & Floral Chandelier",
+      [],
+      "Three suspended cake tiers with gold trim and a hanging arrangement of rich pink and purple flowers."
+    ],
+    [
+      36,
+      3,
+      "Cherry Blossom"
+    ],
+    [
+      37,
+      4,
+      "Floating White Marble",
+      [],
+      "Four cake tiers with clear supports, white flowers and a gold monogram."
+    ],
+    [
+      38,
+      3,
+      "White & Gold Cherub"
+    ],
+    [
+      39,
+      3,
+      "White Lace & Blush Flowers"
+    ],
+    [
+      43,
+      3,
+      "Blush Double Floral Cascade"
+    ],
+    [
+      44,
+      3,
+      "Pink Ombré Floral Spiral"
+    ],
+    [
+      45,
+      2,
+      "Burgundy Watercolour & Gold Leaf"
+    ],
+    [
+      46,
+      5,
+      "Ivory Piping & Rose Garden",
+      [
+        65
+      ]
+    ],
+    [
+      48,
+      7,
+      "White & Blush Grand Cascade"
+    ],
+    [
+      52,
+      3,
+      "Emerald Watercolour & Gold"
+    ],
+    [
+      55,
+      4,
+      "Blue Ombré & White Flowers",
+      [
+        64
+      ]
+    ],
+    [
+      58,
+      3,
+      "Blush Rose Monogram",
+      [
+        56,
+        57
+      ]
+    ],
+    [
+      59,
+      5,
+      "Silver Shimmer & White Roses",
+      [],
+      "Five cake tiers with silver separators, a monogram and white rose accents."
+    ],
+    [
+      61,
+      5,
+      "Blush Ruffles & Rose Spiral"
+    ],
+    [
+      62,
+      4,
+      "Champagne & Gold Floral Cascade"
+    ],
+    [
+      63,
+      4,
+      "White Ruffle & Gold Initials"
+    ],
+    [
+      66,
+      4,
+      "Blush Petal Cascade"
+    ],
+    [
+      68,
+      3,
+      "Vintage Roses & Textured Ivory"
+    ],
+    [
+      69,
+      10,
+      "Grand Blush, Gold & Floral Staircase",
+      [
+        80
+      ],
+      "Ten tiers combining round and geometric shapes, gold accents and sweeping blush and white flowers."
+    ],
+    [
+      71,
+      9,
+      "Ivory, Black & Gold Celebration",
+      [],
+      "Nine main cake tiers with gold separators, black and white flowers and coordinating mini cakes."
+    ],
+    [
+      72,
+      6,
+      "Ivory Regal Piping & Roses",
+      [
+        81
+      ]
+    ],
+    [
+      83,
+      3,
+      "Burgundy Wedding Cake",
+      [
+        84
+      ]
+    ],
+    [
+      85,
+      3,
+      "Ivory Wedding Cake",
+      [
+        86
+      ]
+    ],
+    [
+      87,
+      3,
+      "Black Wedding Cake",
+      [
+        88
+      ],
+      "Three black cake tiers with an additional narrow separator and a white floral topper."
+    ],
+    [
+      89,
+      3,
+      "Grey Marble Wedding Cake",
+      [
+        90
+      ]
+    ],
+    [
+      91,
+      3,
+      "Pink Wedding Cake",
+      [
+        92
+      ]
+    ],
+    [
+      93,
+      3,
+      "Navy Blue Wedding Cake",
+      [
+        94,
+        95,
+        96
+      ]
+    ]
+  ]
+}

@@ -1,0 +1,1333 @@
+{
+  "batch": 3,
+  "size": 50,
+  "sourcePreference": "Pinterest",
+  "records": [
+    {
+      "n": 101,
+      "productId": "9398445211873",
+      "title": "Eid Sheep Cakepops",
+      "originalImage": "assets/products/fac48eda9e3af6016f8d.jpg",
+      "status": "needs-better-match",
+      "candidates": [],
+      "query": "Eid Sheep Cakepops Pinterest"
+    },
+    {
+      "n": 102,
+      "productId": "9398411264225",
+      "title": "Eid Sheep Cupcakes",
+      "originalImage": "assets/products/c4794e398ad109b89086.jpg",
+      "status": "needs-better-match",
+      "candidates": [],
+      "query": "Eid Sheep Cupcakes Pinterest"
+    },
+    {
+      "n": 103,
+      "productId": "9398410608865",
+      "title": "Eid Mubarak Sheep Cake",
+      "originalImage": "assets/products/f293afff9cdf00b1fc66.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/333899759852862062/",
+          "imageUrl": "https://i.pinimg.com/originals/b3/c8/47/b3c8476bc1d2647b366742dddd6db43a.jpg",
+          "description": "A pastel-green fondant cake rests on a round wooden board, decorated with a sleeping sheep crafted from white fondant spheres and pink ears. Clusters of grass-like green icing and small pastel flowers are scattered across the top and sides, while brown fondant fence panels encircle the cake’s base. A rectangular fondant plaque inscribed with \"Eid Mubarak\" sits beside the sheep, tying the design to the festive occasion.\n\nThis cake, featured on Pinterest, is designed specifically for Eid al-Adha celebrations. The combination of a meadow-inspired theme, delicate floral accents, and the central sheep figure makes it an ideal centerpiece for holiday gatherings.",
+          "localImage": "assets/products/matches/batch-003-pinterest/9398410608865-3211cf5acf2c.jpg",
+          "sha256": "3211cf5acf2c7f6eb561688d9dc03815398cd5e0e8291e19529bc39f6fe5c35d"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/242138917459789716/",
+          "imageUrl": "https://i.pinimg.com/736x/42/c9/3b/42c93b5979f6b6f0d889fbf9845252eb.jpg",
+          "description": "A square cake is covered in vivid green piped frosting that mimics grass, dotted with tiny red, yellow, and blue fondant flowers. Two black fondant sheep—one reclining atop the cake and another seated at the edge—add a playful touch to the design. A red fondant ribbon around the base bears the white-iced greeting “EID MUBAAARAAK,” tying the theme to the Eid celebration.\n\nThis cake, featured on a Pinterest page titled “Eid Cake with Black Sheep,” is described as a perfect festive dessert. The combination of bright green frosting, whimsical sheep toppers, and colorful floral accents makes it an eye-catching centerpiece for an Eid gathering.",
+          "localImage": "assets/products/matches/batch-003-pinterest/9398410608865-a4cdce390be0.jpg",
+          "sha256": "a4cdce390be047f2a4b9b2b5f634c5b8bd8ac890688eda8eb57af6c81b753286"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/happy-birthday-cake-download-images-free-enamewishes-in-2025--611434086947061076/",
+          "imageUrl": "https://i.pinimg.com/564x/50/e2/1d/50e21d82cdd5aac2c3d3a5d8dd4a52e7.jpg",
+          "description": "A festive cake designed for Eid celebrations features a sheep motif crafted from white buttercream piped to mimic wool. The front showcases a chocolate-covered face with two candy eyes and chocolate ears, creating a playful and inviting look. Centered on the face is the text \"Happy Eid Mubarak any name here,\" highlighting the cake’s customizable greeting option.\n\nThis image is sourced from a Pinterest page offering free downloadable Eid cake images through eNameWishes. The service allows users to easily add personalized names and captions to Eid ul Adha Mubarak cake designs, making it simple to create tailored celebratory messages.",
+          "localImage": "assets/products/matches/batch-003-pinterest/9398410608865-cad22532e6f9.jpg",
+          "sha256": "cad22532e6f9b4a76f9e6a4b465ab68e7300dbba9609171b98f7669b1f3ce127"
+        }
+      ],
+      "query": "Eid Mubarak Sheep Cake Pinterest"
+    },
+    {
+      "n": 104,
+      "productId": "9398409887969",
+      "title": "Eid Mubarak Baby Sheep Cake",
+      "originalImage": "assets/products/47948db2fa372f35b441.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/333899759852862062/",
+          "imageUrl": "https://i.pinimg.com/originals/b3/c8/47/b3c8476bc1d2647b366742dddd6db43a.jpg",
+          "description": "A pastel-green fondant cake rests on a round wooden board, decorated with a sleeping sheep crafted from white fondant spheres and pink ears. Clusters of grass-like green icing and small pastel flowers are scattered across the top and sides, while brown fondant fence panels encircle the cake’s base. A rectangular fondant plaque inscribed with \"Eid Mubarak\" sits beside the sheep, tying the design to the festive occasion.\n\nThis cake, featured on Pinterest, is designed specifically for Eid al-Adha celebrations. The combination of a meadow-inspired theme, delicate floral accents, and the central sheep figure makes it an ideal centerpiece for holiday gatherings.",
+          "localImage": "assets/products/matches/batch-003-pinterest/9398409887969-3211cf5acf2c.jpg",
+          "sha256": "3211cf5acf2c7f6eb561688d9dc03815398cd5e0e8291e19529bc39f6fe5c35d"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/242138917459789716/",
+          "imageUrl": "https://i.pinimg.com/736x/42/c9/3b/42c93b5979f6b6f0d889fbf9845252eb.jpg",
+          "description": "A square cake is covered in vivid green piped frosting that mimics grass, dotted with tiny red, yellow, and blue fondant flowers. Two black fondant sheep—one reclining atop the cake and another seated at the edge—add a playful touch to the design. A red fondant ribbon around the base bears the white-iced greeting “EID MUBAAARAAK,” tying the theme to the Eid celebration.\n\nThis cake, featured on a Pinterest page titled “Eid Cake with Black Sheep,” is described as a perfect festive dessert. The combination of bright green frosting, whimsical sheep toppers, and colorful floral accents makes it an eye-catching centerpiece for an Eid gathering.",
+          "localImage": "assets/products/matches/batch-003-pinterest/9398409887969-a4cdce390be0.jpg",
+          "sha256": "a4cdce390be047f2a4b9b2b5f634c5b8bd8ac890688eda8eb57af6c81b753286"
+        },
+        {
+          "sourceUrl": "https://uk.pinterest.com/pin/eid-ul-adha-cake--111675265749140207/",
+          "imageUrl": "https://i.pinimg.com/736x/bb/70/f4/bb70f4b1b829a6c5f9a6da114f335339.jpg",
+          "description": "A round cake covered in smooth white fondant features a charming sheep figurine crafted from marshmallow-like pieces and fondant. The sheep stands atop the cake, its body textured to resemble wool, while its face and legs are molded in light brown fondant. Below the figure, the Arabic phrase \"عيد مبارك\" is piped in chocolate, extending warm holiday greetings.\n\nThis design appears on a Pinterest page dedicated to Eid ul Adha cake ideas, where it’s praised for its playful yet elegant presentation. The accompanying description suggests sharing the cake with family and friends and includes a recipe for recreating this festive dessert at home.",
+          "localImage": "assets/products/matches/batch-003-pinterest/9398409887969-cf49da378c7c.jpg",
+          "sha256": "cf49da378c7c7ee48c79d5dd35800cf04f4968c78432e4d94eb7eee8640735d3"
+        }
+      ],
+      "query": "Eid Mubarak Baby Sheep Cake Pinterest"
+    },
+    {
+      "n": 105,
+      "productId": "9394715721953",
+      "title": "Ramadan lanterns Cake",
+      "originalImage": "assets/products/0d43e1837e56bbe1e214.jpg",
+      "status": "applied",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/ramadan-kareem-cake-with-moon-and-stars-decoration--25755029113683101/",
+          "imageUrl": "https://i.pinimg.com/736x/e0/d9/51/e0d9516dc20fec8b4206d749a44e22a0.jpg",
+          "description": "An elegant dark green cake rests on a gilded stand adorned with crystal fringe. A large gold crescent moon and mosque silhouette crown the top, while white icing forms hanging lanterns, stars, and a crescent on the cake’s side, each detail accented by tiny gold beads.\n\nPerfect for Ramadan or Eid festivities, this cake combines traditional Islamic symbols with contemporary design. The reflective gold base and intricate decorations make it a striking centerpiece for any celebration.",
+          "localImage": "assets/products/matches/batch-003-pinterest/9394715721953-ccbb9278fbe4.jpg",
+          "sha256": "ccbb9278fbe4eed654456afd644d6898e7fc3f661dffc710daba18abe7ef7fa7"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/352688214539120184/",
+          "imageUrl": "https://i.pinimg.com/736x/5e/3a/34/5e3a346610aed93c71c2172c9cd23fca--ramadan-lantern-decorated-cakes.jpg",
+          "description": "A festive cake designed to resemble a traditional Ramadan lantern features two tiers of brown fondant decorated with gold and white ornamental patterns. The lower tier bears a plaque inscribed with “Ramadan Mubarak,” while the upper tier supports a hexagonal lantern structure with softly glowing purple panels framed by intricate gold piping. Topping the lantern is a pointed roof embellished with gold filigree and a crescent moon motif, creating a celebratory centerpiece for the holy month.\n\nThis creation was shared on Pinterest under the title “Ramadan lantern cake,” discovered by user Rosetta Saada, inviting viewers to explore and save similar festive designs.",
+          "localImage": "assets/products/matches/batch-003-pinterest/9394715721953-2edc5837f0a6.jpg",
+          "sha256": "2edc5837f0a673e9b3ff3a2d3f79b02c4a95889a0d69853c3453e47baae65bb1"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/rimouchh/%D8%A7%D9%84%D9%85%D9%88%D9%84%D8%AF-%D8%A7%D9%84%D9%86%D8%A8%D9%88%D9%8A-%D8%A7%D9%84%D8%B4%D8%B1%D9%8A%D9%81/",
+          "imageUrl": "https://i.pinimg.com/736x/d7/3f/92/d73f925e5a438b5b2dbbb2b51d5ff3eb.jpg",
+          "description": "This elegant two-tiered cake combines deep black fondant with striking gold accents to evoke Islamic architectural silhouettes and festive motifs. The lower tier showcases a skyline of mosque domes and minarets in shimmering gold, while the upper tier is topped with three dripping candles and a circular plaque featuring a crescent moon, hanging lanterns, and Arabic calligraphy reading \"Amianda Cakes.\" Delicate string lights encircle the cake, enhancing its celebratory ambiance.\n\nPerfect for Ramadan or Mawlid al-Nabi celebrations, the cake blends traditional symbols with modern design. The contrast of matte black and metallic gold creates a luxurious feel, and the handcrafted details highlight the artistry of the baker.",
+          "localImage": "assets/products/matches/batch-003-pinterest/9394715721953-329207a4984a.jpg",
+          "sha256": "329207a4984a478042ef97b7c58bfb656b1342e91952d3abeded98e6cdd65ffb"
+        }
+      ],
+      "query": "Ramadan lanterns Cake Pinterest",
+      "selected": {
+        "sourceUrl": "https://www.pinterest.com/pin/ramadan-kareem-cake-with-moon-and-stars-decoration--25755029113683101/",
+        "imageUrl": "https://i.pinimg.com/736x/e0/d9/51/e0d9516dc20fec8b4206d749a44e22a0.jpg",
+        "description": "An elegant dark green cake rests on a gilded stand adorned with crystal fringe. A large gold crescent moon and mosque silhouette crown the top, while white icing forms hanging lanterns, stars, and a crescent on the cake’s side, each detail accented by tiny gold beads.\n\nPerfect for Ramadan or Eid festivities, this cake combines traditional Islamic symbols with contemporary design. The reflective gold base and intricate decorations make it a striking centerpiece for any celebration.",
+        "localImage": "assets/products/matches/batch-003-pinterest/9394715721953-ccbb9278fbe4.jpg",
+        "sha256": "ccbb9278fbe4eed654456afd644d6898e7fc3f661dffc710daba18abe7ef7fa7"
+      },
+      "localImage": "assets/products/matches/batch-003-pinterest/9394715721953-ccbb9278fbe4.jpg",
+      "sha256": "ccbb9278fbe4eed654456afd644d6898e7fc3f661dffc710daba18abe7ef7fa7",
+      "visualReview": {
+        "verified": true,
+        "tierCount": 1,
+        "shape": "round",
+        "notes": "One round cake with hanging lantern outlines and a crescent topper."
+      },
+      "reviewNote": "One round cake with hanging lantern outlines and a crescent topper."
+    },
+    {
+      "n": 106,
+      "productId": "9394713559265",
+      "title": "Crescent & Star Shape Ramadan Cake",
+      "originalImage": "assets/products/3e90754c828b969337ea.png",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/zeze2678/%D8%AA%D9%88%D8%B1%D8%AA%D8%A9-%D8%B1%D9%85%D8%B6%D8%A7%D9%86/",
+          "imageUrl": "https://i.pinimg.com/originals/71/d3/5c/71d35c9086b76a91d1482a32520c53be.jpg",
+          "description": "A two-tiered white fondant cake is decorated with intricate gold and pastel geometric patterns, lantern shapes, and a prominent sugar crescent topper. The top tier features the gold lettering “RAMADAN MUBARAK,” surrounded by star-shaped motifs in green and pink hues. The crescent topper, encrusted with white sugar crystals and edged in gold leaf, crowns the design.\n\nThis festive cake, showcased on a Pinterest board of Ramadan cake ideas, exemplifies elegant dessert styling for the holy month. The textured white and gold cake board complements the ornate decorations, making it a standout centerpiece for Ramadan gatherings.",
+          "localImage": "assets/products/matches/batch-003-pinterest/9394713559265-160a8900815a.jpg",
+          "sha256": "160a8900815ab0dff3c2568930c01f97d3cdaa5daf4eff5dc84569f2105573e1"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/131237776637897510/",
+          "imageUrl": "https://i.pinimg.com/originals/df/00/02/df000285ac7a3fe1b22e337e9f2cb21e.jpg?nii=t",
+          "description": "This elegant two-tiered cake by Tula Sweets features a smooth white top tier dotted with small gold stars and delicate gold leaf accents. The bottom tier displays a brushed gray and black pattern, creating a modern contrast against the pristine white frosting.\n\nA striking navy and gold crescent moon topper crowns the cake, showcasing mosque silhouettes and hanging stars, along with the Arabic phrase \"رمضان كريم\". The Tula Sweets logo and contact information are subtly placed above the topper, emphasizing the bakery’s branding on this festive dessert.",
+          "localImage": "assets/products/matches/batch-003-pinterest/9394713559265-563518f745db.jpg",
+          "sha256": "563518f745db3224fcbede12d3e7d5465d95c92afbbf2caf9f4dd5a0a34117d8"
+        }
+      ],
+      "query": "Crescent & Star Shape Ramadan Cake Pinterest"
+    },
+    {
+      "n": 107,
+      "productId": "9394711494881",
+      "title": "Choco-smash Crescent Shape Cake",
+      "originalImage": "assets/products/7a89710a8ba20531b28d.jpg",
+      "status": "needs-better-match",
+      "candidates": [],
+      "query": "Choco-smash Crescent Shape Cake Pinterest"
+    },
+    {
+      "n": 108,
+      "productId": "6541608059069",
+      "title": "Cute Bunny Cake",
+      "originalImage": "assets/products/3d479fdb5dd063c38b0a.jpg",
+      "status": "applied",
+      "candidates": [
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/adorable-kawaii-pink-bunny-cake-by-whipped-bakeshop--2392606039723965/",
+          "imageUrl": "https://i.pinimg.com/736x/82/89/65/8289651763bb910276ef01ed418d09ed.jpg",
+          "description": "A pastel pink fondant-covered cake is styled as an adorable kawaii bunny, complete with two upright white-and-pink ears, round paws at the base, and a winking face. The smooth finish and minimalistic facial features give it a charming, playful look. \n\nThe cake rests on a gold scalloped board, where “Happy Birthday Hatcher!” is piped in white icing. Created by Whipped Bakeshop, this delightful dessert is ideal for birthdays and special occasions, combining cute design with professional fondant work.",
+          "localImage": "assets/products/matches/batch-003-pinterest/6541608059069-ffe6b221f0b3.jpg",
+          "sha256": "ffe6b221f0b3a5e81b9a78d9302117332236bebdf41837e423ad99a59bf01fb7"
+        },
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/817192294925779462/",
+          "imageUrl": "https://i.pinimg.com/736x/4d/aa/39/4daa39a2b5cd40f06ac927d3255440ea.jpg",
+          "description": "A charming round cake covered in smooth white fondant is styled as an adorable bunny, complete with upright ears, a large pink bow, and tiny paw prints. In front of the main cake, a miniature pink cake holds a single candle topped with a heart, while a separate fondant number \"4\" marks the celebrant’s age. The pastel pink and white decorations create a playful, child-friendly aesthetic perfect for a fourth birthday celebration.\n\nThis cake design, popular on Pinterest, appeals to animal lovers and is specifically crafted for kids’ birthday parties, combining whimsical details with a soft color palette.",
+          "localImage": "assets/products/matches/batch-003-pinterest/6541608059069-94d846733da7.jpg",
+          "sha256": "94d846733da791de2d935c985e62c8c80d5131268adb7efb2f60382c7a08f58b"
+        }
+      ],
+      "query": "Cute Bunny Cake Pinterest",
+      "selected": {
+        "sourceUrl": "https://in.pinterest.com/pin/adorable-kawaii-pink-bunny-cake-by-whipped-bakeshop--2392606039723965/",
+        "imageUrl": "https://i.pinimg.com/736x/82/89/65/8289651763bb910276ef01ed418d09ed.jpg",
+        "description": "A pastel pink fondant-covered cake is styled as an adorable kawaii bunny, complete with two upright white-and-pink ears, round paws at the base, and a winking face. The smooth finish and minimalistic facial features give it a charming, playful look. \n\nThe cake rests on a gold scalloped board, where “Happy Birthday Hatcher!” is piped in white icing. Created by Whipped Bakeshop, this delightful dessert is ideal for birthdays and special occasions, combining cute design with professional fondant work.",
+        "localImage": "assets/products/matches/batch-003-pinterest/6541608059069-ffe6b221f0b3.jpg",
+        "sha256": "ffe6b221f0b3a5e81b9a78d9302117332236bebdf41837e423ad99a59bf01fb7"
+      },
+      "localImage": "assets/products/matches/batch-003-pinterest/6541608059069-ffe6b221f0b3.jpg",
+      "sha256": "ffe6b221f0b3a5e81b9a78d9302117332236bebdf41837e423ad99a59bf01fb7",
+      "visualReview": {
+        "verified": true,
+        "tierCount": 1,
+        "shape": "round bunny cake",
+        "notes": "One cylindrical bunny-face cake with upright ears."
+      },
+      "reviewNote": "One cylindrical bunny-face cake with upright ears."
+    },
+    {
+      "n": 109,
+      "productId": "9381472010465",
+      "title": "Hearts Bento Cake",
+      "originalImage": "assets/products/617ce68e9a18064f2133.jpg",
+      "status": "applied",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/bento-cake-with-heart-decorations--1618549861988709/",
+          "imageUrl": "https://i.pinimg.com/originals/f7/c5/26/f7c52606028c88e5331bcd5f6a4be6d5.jpg",
+          "description": "A petite round cake rests inside a white foam takeout box, its surface coated in smooth white frosting and adorned with evenly spaced red heart-shaped decorations. The minimalist arrangement of bright red hearts against the clean white backdrop creates a charming and romantic aesthetic. \n\nPromoted on a Pinterest page titled “Bento Cake with Heart Decorations,” this cake is described as an ideal gift for birthdays, anniversaries, or any special occasion. Its compact size and neat presentation make it perfect for delivery or personal gifting, offering a delightful treat for loved ones.",
+          "localImage": "assets/products/matches/batch-003-pinterest/9381472010465-36455ff4bf28.jpg",
+          "sha256": "36455ff4bf28407bbd5ccb82b5d683968384b4a0e2492461016823bdb182f113"
+        },
+        {
+          "sourceUrl": "https://ie.pinterest.com/pin/2024--718113103118825854/",
+          "imageUrl": "https://i.pinimg.com/736x/d1/b1/25/d1b125ddddbf97b4fb4b2309091a47a0.jpg",
+          "description": "A petite bento-style cake is nestled in a white takeout container lined with parchment paper. Its smooth white frosting is topped by two red interlocking hearts, creating a simple yet striking romantic motif. Gold utensils placed beside the container on a light marble surface add a touch of elegance and hint at an intimate celebration.\n\nThis mini cake, described as a \"Bento Cake with Two Hearts,\" is perfect for a date night or as a thoughtful gift for a significant other. The minimalist design, clean color palette, and careful presentation underscore its charm and suitability for special occasions.",
+          "localImage": "assets/products/matches/batch-003-pinterest/9381472010465-d071bff0c8aa.jpg",
+          "sha256": "d071bff0c8aa9387d24bebe6dab6877662879e1b6d0238254bff5011f2b3099a"
+        }
+      ],
+      "query": "Hearts Bento Cake Pinterest",
+      "selected": {
+        "sourceUrl": "https://www.pinterest.com/pin/bento-cake-with-heart-decorations--1618549861988709/",
+        "imageUrl": "https://i.pinimg.com/originals/f7/c5/26/f7c52606028c88e5331bcd5f6a4be6d5.jpg",
+        "description": "A petite round cake rests inside a white foam takeout box, its surface coated in smooth white frosting and adorned with evenly spaced red heart-shaped decorations. The minimalist arrangement of bright red hearts against the clean white backdrop creates a charming and romantic aesthetic. \n\nPromoted on a Pinterest page titled “Bento Cake with Heart Decorations,” this cake is described as an ideal gift for birthdays, anniversaries, or any special occasion. Its compact size and neat presentation make it perfect for delivery or personal gifting, offering a delightful treat for loved ones.",
+        "localImage": "assets/products/matches/batch-003-pinterest/9381472010465-36455ff4bf28.jpg",
+        "sha256": "36455ff4bf28407bbd5ccb82b5d683968384b4a0e2492461016823bdb182f113"
+      },
+      "localImage": "assets/products/matches/batch-003-pinterest/9381472010465-36455ff4bf28.jpg",
+      "sha256": "36455ff4bf28407bbd5ccb82b5d683968384b4a0e2492461016823bdb182f113",
+      "visualReview": {
+        "verified": true,
+        "tierCount": 1,
+        "shape": "round bento",
+        "notes": "One white bento cake with little red hearts."
+      },
+      "reviewNote": "One white bento cake with little red hearts."
+    },
+    {
+      "n": 110,
+      "productId": "9380722573537",
+      "title": "Key to my Heart' Cake",
+      "originalImage": "assets/products/5b0b17c4f584b7aa0780.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/703756186492763/",
+          "imageUrl": "https://i.pinimg.com/736x/03/ce/35/03ce350b31c5f3405b51a7d4a3d4c275.jpg",
+          "description": "A glossy red heart-shaped cake rests on a dark chocolate base, its surface finished with a velvety sheen. Atop the cake lies a vintage-style golden key, symbolizing love and new beginnings. The center cavity is filled with clusters of chocolate-covered coffee beans, offering a rich, textured contrast to the smooth red exterior. A small heart-shaped chocolate accent sits beside the cake, completing the romantic presentation.\n\nThis elegant dessert combines the symbolism of a heart and key with gourmet coffee flavors, making it an ideal choice for housewarming gifts or Valentine’s Day celebrations.",
+          "localImage": "assets/products/matches/batch-003-pinterest/9380722573537-c54720dddf6a.jpg",
+          "sha256": "c54720dddf6af944a932b80c2a655b1eb3ee7ceb8a06ae409b35e4d86c2fb6c9"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/kajallmogimii/love-cake/",
+          "imageUrl": "https://i.pinimg.com/736x/2d/7b/bb/2d7bbb85246c841f02f3a880c7753eff.jpg",
+          "description": "A pink heart-shaped cake with a velvety finish is elegantly presented on a round pastel base. The centerpiece features a gold ornamental keyhole plaque, complemented by a matching vintage-style key placed on the base. A handcrafted sugar flower with subtle gold highlights adds a delicate, romantic accent. This design, part of a Valentine’s-themed cake collection, combines soft textures and baroque-inspired metallic details for a luxurious and love-filled presentation.",
+          "localImage": "assets/products/matches/batch-003-pinterest/9380722573537-56c0405bab41.jpg",
+          "sha256": "56c0405bab412ae610e26b6715a18384ad5590b88d303df34087217e8cd50e25",
+          "businessNameVisible": true
+        }
+      ],
+      "query": "Key to my Heart' Cake Pinterest",
+      "reviewNote": "Visible third-party bakery name, logo or photo credit in the full-size image. Replacement remains pending."
+    },
+    {
+      "n": 111,
+      "productId": "9380708942049",
+      "title": "Teddy Bear Hearts Cakesicles",
+      "originalImage": "assets/products/d55b6e7963415d100f43.jpg",
+      "status": "needs-better-match",
+      "candidates": [],
+      "query": "Teddy Bear Hearts Cakesicles Pinterest"
+    },
+    {
+      "n": 112,
+      "productId": "9380708155617",
+      "title": "Love Heart Cake with White Orchid",
+      "originalImage": "assets/products/5276cfbd7084c7f01439.jpg",
+      "status": "needs-better-match",
+      "candidates": [],
+      "query": "Love Heart Cake with White Orchid Pinterest"
+    },
+    {
+      "n": 113,
+      "productId": "9378091335905",
+      "title": "Teddy Love Mail Standing Cake",
+      "originalImage": "assets/products/82ea5956bedf8c12ed88.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/love-letters-mailbox-cake--818388563557144428/",
+          "imageUrl": "https://i.pinimg.com/originals/c5/a8/38/c5a838c86d12a116f78d81afba851f8c.jpg",
+          "description": "A charming Valentine’s Day cake showcases a bright red fondant mailbox mounted on a black post, its door open to reveal a cascade of white envelopes each sealed with a red heart. The mailbox bears the word “Love” on its side and sits atop a black-and-white checkered cake board scattered with additional letters and the fondant inscription “XOXO.”\n\nNext to the mailbox stands a lifelike teddy bear sculpted from textured brown fondant, complete with a red bow on its head and a matching scarf around its neck. The bear holds one of the love letters, reinforcing the cake’s romantic theme. This playful design, highlighted on Pinterest as a perfect Valentine’s Day treat, combines vibrant reds and soft browns to celebrate love and sweetness.",
+          "localImage": "assets/products/matches/batch-003-pinterest/9378091335905-e5e7779815c8.jpg",
+          "sha256": "e5e7779815c8e06567763cfcff4529d784deec470ddd7fc1953ee0ff9ddc9c73"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/270567890104353562/",
+          "imageUrl": "https://i.pinimg.com/736x/98/08/3c/98083cdff9d9bf37571aa55fd2c7d097.jpg",
+          "description": "A white frosted cake sits atop a silver cake stand, decorated with vibrant red fondant hearts that appear to float from the top. On the side, a brown fondant teddy bear holds a pink gift box, surrounded by smaller hearts along the cake’s base. The playful design captures a romantic Valentine’s Day theme, combining whimsical elements with classic red-and-white color contrasts.\n\nThis cake is part of a tutorial by Little Cake Sisters on Féerie Cake, a site dedicated to creative birthday and celebration cake decorations. The tutorial guides bakers through crafting the teddy bear motif and arranging the heart accents for a charming, heartfelt dessert perfect for gifting to a loved one.",
+          "localImage": "assets/products/matches/batch-003-pinterest/9378091335905-fe35941fd936.jpg",
+          "sha256": "fe35941fd9369ec50969c1fc02f28a3dc7158175110c9deccde44ce17fa5fbbe"
+        }
+      ],
+      "query": "Teddy Love Mail Standing Cake Pinterest"
+    },
+    {
+      "n": 114,
+      "productId": "9378086027489",
+      "title": "Be my Honey-Bunny' Standing heart cake",
+      "originalImage": "assets/products/abae446206fc06a25f35.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/aprils-baker-aprilsbakerlondon-instagram-photos-and-videos-in-2023--360358407696822443/",
+          "imageUrl": "https://i.pinimg.com/736x/4a/2c/2c/4a2c2c2897392e0108f7e4249f41bffc.jpg",
+          "description": "A pastel pink heart-shaped cake is adorned with piped buttercream roses and scalloped borders in matching pink and cream hues. The top is crowned by a charming rabbit figurine dressed in a blue jacket, adding a playful, storybook touch. \n\nCrafted by April’s Baker—an Instagram bakery run by sisters Roxy and Corinne—this bespoke design is available for collection or delivery Wednesday through Sunday. Orders and inquiries are managed via email, ensuring personalized service for special celebrations.",
+          "localImage": "assets/products/matches/batch-003-pinterest/9378086027489-a8f069e6540a.jpg",
+          "sha256": "a8f069e6540a86b6e0c53eeab5574768b59a45ffafd76f5658ff80ad80f9d4cb"
+        },
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/ube60ub978-uc800uc7a5--950048483870099023/",
+          "imageUrl": "https://i.pinimg.com/736x/50/1f/95/501f9578423cba42c45e12d1569ac5e2.jpg",
+          "description": "A pastel pink heart-shaped cake is artfully decorated with whimsical buttercream details. The top bears the playful message \"love now celebrate me\" piped in white, mint, and pink frosting, surrounded by small heart shapes. Two charming animal figures—a bunny and a fox—flank a frosted donut centerpiece.\n\nThe cake’s sides feature clusters of piped flowers, balloons, and other pastel embellishments, all resting on a white cake stand. This design, highlighted on a Korean Pinterest page for vintage Christmas cake ideas, blends custom lettering and cute motifs for a festive, nostalgic feel.",
+          "localImage": "assets/products/matches/batch-003-pinterest/9378086027489-e81b6ee6f4d0.jpg",
+          "sha256": "e81b6ee6f4d07780010cc48b73e782ba40cd0bee00a56062b5bafbe2d51aac77"
+        }
+      ],
+      "query": "Be my Honey-Bunny' Standing heart cake Pinterest"
+    },
+    {
+      "n": 115,
+      "productId": "9378037661921",
+      "title": "Lady in Bath Tub' Cake",
+      "originalImage": "assets/products/e281eacd29cc68fb0c23.png",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/bathtub-fondant-cake--406661041357181342/",
+          "imageUrl": "https://i.pinimg.com/736x/d7/8b/c3/d78bc349a2dc10acfeba673b3d902ce0.jpg",
+          "description": "A whimsical bathtub-shaped cake from Lilac Sprinkles Bakery features a relaxing fondant figure immersed in a sea of pearl-like blue and white bubbles. The figure’s towel-wrapped head and painted red fingernails add charming details, while a striped green and white mat and a folded blue fondant towel rest beside the tub. The pink polka-dotted backdrop enhances the playful, celebratory mood of this expertly crafted fondant design.\n\nThis cake tutorial, highlighted on Pinterest, inspires bakers to explore creative fondant techniques and decorative ideas for special occasions.",
+          "localImage": "assets/products/matches/batch-003-pinterest/9378037661921-91ca7b31af5a.jpg",
+          "sha256": "91ca7b31af5a895c071f2db95faab8e8113d773d0fbfc9ed26068681e9aad0e1"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/girl-in-the-bathtub--76842737368304678/",
+          "imageUrl": "https://i.pinimg.com/736x/9a/62/7b/9a627b2b5018b30ca3079897f5893bae.jpg",
+          "description": "A whimsical celebration cake crafted by Galia Hristova presents a blonde fondant woman lounging in a bubble-filled bathtub. The top tier mimics an ornate porcelain tub complete with a golden showerhead dripping blue water droplets, while the bottom tier features a purple and white checkerboard pattern accented by tiny green flip-flops. A green fondant towel hangs over the tub’s edge, and the entire creation rests on a bright blue base. The cake’s playful details and vibrant color palette capture the charm of a themed novelty dessert.\n\nThe text \"Galia Hristova\" appears elegantly scripted on the image, identifying the artist behind this creative confection. This design is highlighted on a Pinterest page dedicated to novelty and celebration cakes, emphasizing its role as a standout themed dessert for special occasions.",
+          "localImage": "assets/products/matches/batch-003-pinterest/9378037661921-ef085fc7f541.jpg",
+          "sha256": "ef085fc7f541244a6363aa8886252e724dbd44fa2cd8782a330ba74dcb2cd1a1"
+        }
+      ],
+      "query": "Lady in Bath Tub' Cake Pinterest"
+    },
+    {
+      "n": 116,
+      "productId": "9226347512033",
+      "title": "Corporate Branded Macaron Sleeve Box - 2 pieces",
+      "originalImage": "assets/products/d809d34f3dba82cbf5a6.jpg",
+      "status": "needs-better-match",
+      "candidates": [],
+      "query": "Corporate Branded Macaron Sleeve Box - 2 pieces Pinterest"
+    },
+    {
+      "n": 117,
+      "productId": "9226329424097",
+      "title": "Corporate Branded Macaron Box Giveaway - 3 pieces",
+      "originalImage": "assets/products/4b3307bc07e2185edd21.jpg",
+      "status": "needs-better-match",
+      "candidates": [],
+      "query": "Corporate Branded Macaron Box Giveaway - 3 pieces Pinterest"
+    },
+    {
+      "n": 118,
+      "productId": "9162988716257",
+      "title": "Elegant Ribbon Birthday Blow Out cake",
+      "originalImage": "assets/products/c3c599897a550be3e216.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://uk.pinterest.com/pin/55380270413192488/",
+          "imageUrl": "https://i.pinimg.com/originals/34/8e/cf/348ecf8358c8af6abb44688b17a70b5b.jpg",
+          "description": "A Pinterest pin features a white vintage-style birthday cake elegantly decorated with a large satin bow draped around its top. Four slender, lit candles stand at the center, their gentle flames adding warmth to the scene. The cake’s smooth icing and classic silhouette create a refined, celebratory atmosphere.\n\nThis design is categorized under birthday cake designs and was discovered by a user named ᴛᴀʟʏᴀ. The pin’s title and description emphasize its vintage charm and suitability for elegant birthday celebrations.",
+          "localImage": "assets/products/matches/batch-003-pinterest/9162988716257-90e6f6929137.jpg",
+          "sha256": "90e6f69291379b15851c372a9dff5f83feba9ba1abf9ab6f280537b15cbd1ff0"
+        }
+      ],
+      "query": "Elegant Ribbon Birthday Blow Out cake Pinterest"
+    },
+    {
+      "n": 119,
+      "productId": "9162986946785",
+      "title": "Elegant White Birthday Blow Out cake",
+      "originalImage": "assets/products/e96ab3e76c13972b8cfe.jpg",
+      "status": "applied",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/40884309111697460/",
+          "imageUrl": "https://i.pinimg.com/originals/5c/f9/bd/5cf9bd02e1aa8a024bbb8966930494a1.jpg",
+          "description": "A tall white birthday cake with ruffled icing and a gold “Happy Birthday” topper sits atop a white pedestal table. Slender white candles extend from the cake’s smooth surface, creating a refined focal point. The warm, neutral-toned room in the background, complete with a gold and white chair, enhances the sophisticated party atmosphere.\n\nThis image, sourced from a Pinterest page titled “White Birthday Cake with Gold Accents,” highlights a minimalist yet luxurious design. The combination of crisp white frosting, delicate ruffles, and metallic gold details makes it an ideal centerpiece for an elegant birthday celebration.",
+          "localImage": "assets/products/matches/batch-003-pinterest/9162986946785-ed4c3f45a77b.jpg",
+          "sha256": "ed4c3f45a77b0eefece01236d3f98b68fd97c0a560c9de79ebee8c7df53046b9"
+        },
+        {
+          "sourceUrl": "https://uk.pinterest.com/pin/6122149488107833/",
+          "imageUrl": "https://i.pinimg.com/originals/51/81/d4/5181d4f7092a5fb5874e788a871f7f10.jpg",
+          "description": "A woman in a strapless white dress presents a round cake covered in delicate, wavy ruffled icing. Twelve slender, twisted silver candles stand atop the cake, each flame dancing gently and casting a warm glow across the smooth white surface.\n\nThe minimalist setting, featuring a neutral backdrop and soft natural light, draws attention to the cake’s intricate design and the celebratory atmosphere. This intimate scene evokes the anticipation of a special occasion, such as a birthday or milestone event.",
+          "localImage": "assets/products/matches/batch-003-pinterest/9162986946785-e0641482dfef.jpg",
+          "sha256": "e0641482dfefe3ba1c7d06ec7207ccc86ce0f41fa56d9c8bdc77a27a7e948c1f"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/163818505183293970/",
+          "imageUrl": "https://i.pinimg.com/736x/3a/c5/0c/3ac50cf46dba9ace5cf1a27c868cf6f2.jpg",
+          "description": "A tall, pristine white cake stands on a matching pedestal, its smooth frosting encrusted with fine white sprinkles. Delicate pink buttercream rosettes circle the top edge, adding a subtle pop of color. Three sparklers burst into bright sparks above the cake, creating a festive glow.\n\nSoft fairy lights are draped around the base, and a white cloth with gold trim lies beneath the stand, completing the elegant party setup. This design exemplifies a creative homemade birthday cake idea perfect for intimate celebrations.",
+          "localImage": "assets/products/matches/batch-003-pinterest/9162986946785-2860692497fd.jpg",
+          "sha256": "2860692497fdd38b7529ad2f9b5ae89d74f05321ad91aa720017f8261fc0ed35"
+        }
+      ],
+      "query": "Elegant White Birthday Blow Out cake Pinterest",
+      "selected": {
+        "sourceUrl": "https://uk.pinterest.com/pin/6122149488107833/",
+        "imageUrl": "https://i.pinimg.com/originals/51/81/d4/5181d4f7092a5fb5874e788a871f7f10.jpg",
+        "description": "A woman in a strapless white dress presents a round cake covered in delicate, wavy ruffled icing. Twelve slender, twisted silver candles stand atop the cake, each flame dancing gently and casting a warm glow across the smooth white surface.\n\nThe minimalist setting, featuring a neutral backdrop and soft natural light, draws attention to the cake’s intricate design and the celebratory atmosphere. This intimate scene evokes the anticipation of a special occasion, such as a birthday or milestone event.",
+        "localImage": "assets/products/matches/batch-003-pinterest/9162986946785-e0641482dfef.jpg",
+        "sha256": "e0641482dfefe3ba1c7d06ec7207ccc86ce0f41fa56d9c8bdc77a27a7e948c1f"
+      },
+      "localImage": "assets/products/matches/batch-003-pinterest/9162986946785-e0641482dfef.jpg",
+      "sha256": "e0641482dfefe3ba1c7d06ec7207ccc86ce0f41fa56d9c8bdc77a27a7e948c1f",
+      "visualReview": {
+        "verified": true,
+        "tierCount": 1,
+        "shape": "round",
+        "notes": "One white textured round birthday cake with tall gold candles."
+      },
+      "reviewNote": "One white textured round birthday cake with tall gold candles."
+    },
+    {
+      "n": 120,
+      "productId": "9149722198241",
+      "title": "Gold Glitter Heart Blow Out cake",
+      "originalImage": "assets/products/94529a1e9be10f65eeac.jpg",
+      "status": "applied",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/7248049395061466/",
+          "imageUrl": "https://i.pinimg.com/originals/94/d5/07/94d507a63da8a1ceda1e9d378bfa0003.jpg",
+          "description": "A luxurious heart-shaped birthday cake gleams with metallic gold frosting and a sparkling gold glitter center. Intricate piped swirls and pearl-like decorations outline the cake’s edges, creating an elegant frame. The cake is presented on a matching gold plate, reinforcing its opulent theme.\n\nThis dessert, featured on Pinterest by Wow Honey Cake, is celebrated for its golden birthday cake design. The pin’s bilingual title highlights its appeal for heart-shaped and gold-themed celebrations, making it an ideal inspiration for special occasions.",
+          "localImage": "assets/products/matches/batch-003-pinterest/9149722198241-17792a67a672.jpg",
+          "sha256": "17792a67a67218e09445fab9d360d50bb3068cf1f1348e69724f7211ebfa305d"
+        },
+        {
+          "sourceUrl": "https://tr.pinterest.com/deryaakyol520/simli-pasta/",
+          "imageUrl": "https://i.pinimg.com/736x/43/4e/cc/434eccbb8030463ee0bfc580a59ab8b3.jpg",
+          "description": "A heart-shaped cake rests on a gold foil-covered board, its surface encrusted with fine edible glitter. Ruffled swirls of gold buttercream frame the top, where two metallic '21' toppers stand opposite each other. In the center, the phrase \"In My Golden Era\" is scripted in a sleek gold font, reinforcing the celebratory milestone.\n\nThis design appears on a Pinterest board dedicated to glitter cake ideas, curated by user Deryaakyol. The Turkish webpage highlights creative birthday cake inspirations, and this particular cake exemplifies a luxurious, monochromatic approach for a 21st birthday party.",
+          "localImage": "assets/products/matches/batch-003-pinterest/9149722198241-cfbaaf33eed4.jpg",
+          "sha256": "cfbaaf33eed4d91342504025be16a0f85bfa46d9aba91b8fc9fd7a0f3814b1f6"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/714594665903026956/",
+          "imageUrl": "https://i.pinimg.com/originals/da/64/59/da6459fff9886cbd1673f514c6caf013.jpg",
+          "description": "A heart-shaped birthday cake is lavishly coated in pink edible glitter and adorned with piped frosting rosettes along its edges. Shimmering gold dragees are interspersed among the frosting swirls, adding metallic highlights to the pastel design. Centered on the cake’s surface, the phrase “Forever That Bitch” is scripted in gold lettering, combining cheeky humor with elegant decoration.\n\nThis cake, featured on a Pinterest pin by Shaina, exemplifies modern birthday cake trends with its heart shape, glitter finish, and bold message. The cohesive pink and gold color palette, along with the intricate piping work, makes it a standout centerpiece for a celebratory occasion.",
+          "localImage": "assets/products/matches/batch-003-pinterest/9149722198241-9f36fca19737.jpg",
+          "sha256": "9f36fca1973706abf30fce2479d7f30cc7a4d49d1c09afbe22c70eab74ab53d0"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/pastel--5559199536233553/",
+          "imageUrl": "https://i.pinimg.com/736x/f6/c0/a8/f6c0a86d696de93096641ba56ff09bd0.jpg",
+          "description": "A three-layer, six-inch heart-shaped cake dazzles with a gold metallic finish and ornate piped borders. The top surface is covered in fine gold glitter and accented with small gold dragees, while black script spells out “That Girl Since 05.”\n\nThis cake was shared by Pinterest user dbeyyc on July 8, 2024, under the board “Pastel.” The post highlights the baker’s excitement over the final result and includes hashtags such as #goldmetalliccake, #metallicheartcake, and #vintageheartcake.",
+          "localImage": "assets/products/matches/batch-003-pinterest/9149722198241-f60962fb5c58.jpg",
+          "sha256": "f60962fb5c58486bd3dceb3158cf127a7f22d67366c0742a9197a9d121c44c3b"
+        }
+      ],
+      "query": "Gold Glitter Heart Blow Out cake Pinterest",
+      "selected": {
+        "sourceUrl": "https://www.pinterest.com/pin/7248049395061466/",
+        "imageUrl": "https://i.pinimg.com/originals/94/d5/07/94d507a63da8a1ceda1e9d378bfa0003.jpg",
+        "description": "A luxurious heart-shaped birthday cake gleams with metallic gold frosting and a sparkling gold glitter center. Intricate piped swirls and pearl-like decorations outline the cake’s edges, creating an elegant frame. The cake is presented on a matching gold plate, reinforcing its opulent theme.\n\nThis dessert, featured on Pinterest by Wow Honey Cake, is celebrated for its golden birthday cake design. The pin’s bilingual title highlights its appeal for heart-shaped and gold-themed celebrations, making it an ideal inspiration for special occasions.",
+        "localImage": "assets/products/matches/batch-003-pinterest/9149722198241-17792a67a672.jpg",
+        "sha256": "17792a67a67218e09445fab9d360d50bb3068cf1f1348e69724f7211ebfa305d"
+      },
+      "localImage": "assets/products/matches/batch-003-pinterest/9149722198241-17792a67a672.jpg",
+      "sha256": "17792a67a67218e09445fab9d360d50bb3068cf1f1348e69724f7211ebfa305d",
+      "visualReview": {
+        "verified": true,
+        "tierCount": 1,
+        "shape": "heart",
+        "notes": "One gold glitter heart cake with piped borders."
+      },
+      "reviewNote": "One gold glitter heart cake with piped borders."
+    },
+    {
+      "n": 121,
+      "productId": "9149721903329",
+      "title": "Silver Glitter Heart Blow Out cake",
+      "originalImage": "assets/products/a2c6d65530964dcaa4eb.jpg",
+      "status": "applied",
+      "candidates": [
+        {
+          "sourceUrl": "https://br.pinterest.com/pin/12033123999328920/",
+          "imageUrl": "https://i.pinimg.com/736x/4a/ce/ca/4aceca20af9427948975c92685cd5877.jpg",
+          "description": "A heart-shaped cake covered in shimmering silver glitter frosting is adorned with piped swirls and pearl-like accents along its edges. Atop the cake, a white cursive topper reads \"Birthday Bitch,\" adding a playful and bold message for the celebrant. The reflective backdrop enhances the cake’s sparkle, creating a glamorous presentation.\n\nThis cake, featured on a Pinterest page titled \"Silver Heart Cake | Glitter Heart Cake,\" is designed for birthday celebrations. Its decorative elements—glitter, pearls, and intricate piping—make it a standout centerpiece for any special occasion.",
+          "localImage": "assets/products/matches/batch-003-pinterest/9149721903329-2c0508da6499.jpg",
+          "sha256": "2c0508da64993ec619ca13956dfd646aa00facb257c3662ae31671b9d49b25a9"
+        },
+        {
+          "sourceUrl": "https://co.pinterest.com/pin/828662400217418319/",
+          "imageUrl": "https://i.pinimg.com/736x/82/e0/6d/82e06d2c88e7abeb9e6a1be69965c42a.jpg",
+          "description": "A heart-shaped cake is enveloped in metallic silver frosting that glitters under the light. A decorative piped border in matching silver frosting frames the top edge and base, adding texture and elegance. Centered on the cake’s surface, the message \"Half Thirty To Me\" is written in black script, suggesting a milestone birthday celebration. The cake rests on a simple white pedestal, set against a plain backdrop that keeps the focus on its shimmering finish and custom lettering.\n\nThis design, featured on a Pinterest page, emphasizes a creative and glittery approach to birthday cakes. Hashtags like #heartbirthdaycake and #glitterbirthdaycake underscore its appeal for those seeking a unique, celebratory centerpiece.",
+          "localImage": "assets/products/matches/batch-003-pinterest/9149721903329-b1908088d9bf.jpg",
+          "sha256": "b1908088d9bf6b3d8cb08a6ce65d7e551ffdde3050dda63d14604632493124fe"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/zapatace06/pretty-vintage-heart-cakes/",
+          "imageUrl": "https://i.pinimg.com/originals/7b/cd/36/7bcd363398948c09f3f34ece9e91ffc7.jpg",
+          "description": "A heart-shaped cake is lavishly coated in glittering silver icing, with ornate piped borders framing the top and base. The phrase \"Birthday Girl\" is elegantly scripted in the center, adding a personalized touch. The cake rests on a silver board that complements its metallic finish, enhancing the overall vintage-inspired aesthetic.\n\nThis design appears on a Pinterest collection of pretty vintage heart cakes, showcasing creative birthday cake ideas that blend elegance with whimsical charm. The cohesive silver theme and detailed piping make it a standout example of decorative cake artistry.",
+          "localImage": "assets/products/matches/batch-003-pinterest/9149721903329-f1b0679e0e6c.jpg",
+          "sha256": "f1b0679e0e6ca7215739b95188744985520d3e05c6dd5818a02d309630997803"
+        },
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/681802831117625226/",
+          "imageUrl": "https://i.pinimg.com/736x/bd/86/22/bd8622ea542f0de17a32c0d12eda7ea8.jpg",
+          "description": "A custom silver cake designed for an eighteenth birthday features a heart shape and a smooth metallic finish. The top is adorned with piped silver frosting swirls along the edge and a white icing \"18\" at the center. The base is similarly decorated with matching silver swirls, and the cake rests on a white plate held by a hand, emphasizing its presentation-ready style.\n\nThis cake is highlighted on a Pinterest pin linked to an Instagram bakery account known for personalized birthday cakes and dessert tables. The account boasts over 1,200 followers and showcases a variety of decorative pastry creations, reflecting a focus on elegant, celebratory designs.",
+          "localImage": "assets/products/matches/batch-003-pinterest/9149721903329-a7be9ce088ad.jpg",
+          "sha256": "a7be9ce088adbd647bee9614828625c41698897efe78bac06f7575b12f50bbb4"
+        }
+      ],
+      "query": "Silver Glitter Heart Blow Out cake Pinterest",
+      "selected": {
+        "sourceUrl": "https://co.pinterest.com/pin/828662400217418319/",
+        "imageUrl": "https://i.pinimg.com/736x/82/e0/6d/82e06d2c88e7abeb9e6a1be69965c42a.jpg",
+        "description": "A heart-shaped cake is enveloped in metallic silver frosting that glitters under the light. A decorative piped border in matching silver frosting frames the top edge and base, adding texture and elegance. Centered on the cake’s surface, the message \"Half Thirty To Me\" is written in black script, suggesting a milestone birthday celebration. The cake rests on a simple white pedestal, set against a plain backdrop that keeps the focus on its shimmering finish and custom lettering.\n\nThis design, featured on a Pinterest page, emphasizes a creative and glittery approach to birthday cakes. Hashtags like #heartbirthdaycake and #glitterbirthdaycake underscore its appeal for those seeking a unique, celebratory centerpiece.",
+        "localImage": "assets/products/matches/batch-003-pinterest/9149721903329-b1908088d9bf.jpg",
+        "sha256": "b1908088d9bf6b3d8cb08a6ce65d7e551ffdde3050dda63d14604632493124fe"
+      },
+      "localImage": "assets/products/matches/batch-003-pinterest/9149721903329-b1908088d9bf.jpg",
+      "sha256": "b1908088d9bf6b3d8cb08a6ce65d7e551ffdde3050dda63d14604632493124fe",
+      "visualReview": {
+        "verified": true,
+        "tierCount": 1,
+        "shape": "heart",
+        "notes": "One silver glitter heart cake with piped borders."
+      },
+      "reviewNote": "One silver glitter heart cake with piped borders."
+    },
+    {
+      "n": 122,
+      "productId": "9149721641185",
+      "title": "Red Glitter Heart Blow Out cake",
+      "originalImage": "assets/products/1bc6b8d1972a7fa7c013.jpg",
+      "status": "applied",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/red-glitter-heart-cake-with-crown-red-redglittercake-heartcake-heartshapedcake-redglitter-in-2024--1477812372684062/",
+          "imageUrl": "https://i.pinimg.com/736x/f0/e9/85/f0e985a3a1de21da266de6c884a8716c.jpg",
+          "description": "A two-tiered heart-shaped cake sparkles with red edible glitter and intricate piped frosting borders. Atop the cake rests a small silver crown embellished with pearls, adding a regal touch. The cake sits on a white stand, and a TikTok watermark alongside the handle @jaesbakery_ appears in the corner.\n\nThis custom cake blends romantic heart motifs with celebratory flair, making it ideal for birthdays or special occasions. The vivid red hue and glitter finish create a striking centerpiece for any festive event.",
+          "localImage": "assets/products/matches/batch-003-pinterest/9149721641185-2c1022b17b5d.jpg",
+          "sha256": "2c1022b17b5de1b0ca040fc8355e4c8ce2d57cb2ae606e4307c24a50cb95e780"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/aquarius-heart-cake--6614730695897637/",
+          "imageUrl": "https://i.pinimg.com/736x/bc/40/b5/bc40b5ba6f45a80a9dc10c006e413b8f.jpg",
+          "description": "A striking red heart-shaped cake rests in a cardboard box, its surface dusted with red edible glitter and edged with a scalloped border of piped red frosting. The word “Aquarius” is elegantly scripted across the top in matching red icing, highlighting its zodiac theme.\n\nThis custom cake design, created by Instagram baker @getbaked_cakes_2.0 and shared by xashlyntae, is featured on Pinterest under categories like red birthday cakes, creative birthday cakes, and heart birthday cake. Its bold color and personalized lettering make it a standout dessert for a birthday or astrology-themed celebration.",
+          "localImage": "assets/products/matches/batch-003-pinterest/9149721641185-1f0dd61d2662.jpg",
+          "sha256": "1f0dd61d2662acba878b1f87709b6b623958b820eeed4934a1ac2e5c48d757aa"
+        }
+      ],
+      "query": "Red Glitter Heart Blow Out cake Pinterest",
+      "selected": {
+        "sourceUrl": "https://www.pinterest.com/pin/aquarius-heart-cake--6614730695897637/",
+        "imageUrl": "https://i.pinimg.com/736x/bc/40/b5/bc40b5ba6f45a80a9dc10c006e413b8f.jpg",
+        "description": "A striking red heart-shaped cake rests in a cardboard box, its surface dusted with red edible glitter and edged with a scalloped border of piped red frosting. The word “Aquarius” is elegantly scripted across the top in matching red icing, highlighting its zodiac theme.\n\nThis custom cake design, created by Instagram baker @getbaked_cakes_2.0 and shared by xashlyntae, is featured on Pinterest under categories like red birthday cakes, creative birthday cakes, and heart birthday cake. Its bold color and personalized lettering make it a standout dessert for a birthday or astrology-themed celebration.",
+        "localImage": "assets/products/matches/batch-003-pinterest/9149721641185-1f0dd61d2662.jpg",
+        "sha256": "1f0dd61d2662acba878b1f87709b6b623958b820eeed4934a1ac2e5c48d757aa"
+      },
+      "localImage": "assets/products/matches/batch-003-pinterest/9149721641185-1f0dd61d2662.jpg",
+      "sha256": "1f0dd61d2662acba878b1f87709b6b623958b820eeed4934a1ac2e5c48d757aa",
+      "visualReview": {
+        "verified": true,
+        "tierCount": 1,
+        "shape": "heart",
+        "notes": "One red glitter heart cake with red piped borders."
+      },
+      "reviewNote": "One red glitter heart cake with red piped borders."
+    },
+    {
+      "n": 123,
+      "productId": "9142995681505",
+      "title": "Balloons, Cake & Flower Decoration for Yacht - Blue & white",
+      "originalImage": "assets/products/78e88d44314d6dead8fc.jpg",
+      "status": "needs-better-match",
+      "candidates": [],
+      "query": "Balloons, Cake & Flower Decoration for Yacht - Blue & white Pinterest"
+    },
+    {
+      "n": 124,
+      "productId": "9142947610849",
+      "title": "Birthday Cake, Flower & Balloon for Yacht",
+      "originalImage": "assets/products/9f61e647cff3ab507e15.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/layachtcharter/yacht-decoration-ideas/",
+          "imageUrl": "https://i.pinimg.com/originals/5e/88/26/5e882678bb50556af0e5e347b16263ad.jpg",
+          "description": "A festive birthday arrangement adorns the aft deck of a yacht, featuring rose gold \"22\" balloons, pastel and transparent balloons, and a vibrant floral centerpiece placed on a small wooden table. Along the seating area, pink personalized shirts and matching cups are neatly laid out, ready for guests. Inflatable pool rings and tropical plants add to the celebratory atmosphere.\n\nThe yacht is docked in a serene marina, with other vessels and lush green trees visible beyond the railings. Modern high-rise buildings in the distance hint at an urban waterfront location. This styling idea is part of a Pinterest collection showcasing yacht party decoration inspirations.",
+          "localImage": "assets/products/matches/batch-003-pinterest/9142947610849-4b8f6454d6bb.jpg",
+          "sha256": "4b8f6454d6bbf199bc553f103495f21703b7d04381cd39f3a6894805edb9e4fa"
+        }
+      ],
+      "query": "Birthday Cake, Flower & Balloon for Yacht Pinterest"
+    },
+    {
+      "n": 125,
+      "productId": "9142945054945",
+      "title": "Pink & Gold Balloons, Cake & Flower Decoration for Yacht",
+      "originalImage": "assets/products/0573da2314c671c287d0.jpg",
+      "status": "needs-better-match",
+      "candidates": [],
+      "query": "Pink & Gold Balloons, Cake & Flower Decoration for Yacht Pinterest"
+    },
+    {
+      "n": 126,
+      "productId": "9142944399585",
+      "title": "Balloons, Cake & Flower Decoration for Yacht - Pink",
+      "originalImage": "assets/products/b50bb823853ffb86b61f.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/kittys0ulz/birthday/",
+          "imageUrl": "https://i.pinimg.com/originals/ae/8d/f1/ae8df17b23c9a2602f1de370b7dfeef5.jpg",
+          "description": "A transparent balloon inscribed with “Happy Birthday” hovers over a white yacht lounge, setting the tone for a chic pink-themed celebration. On the central table, a two-tiered pink cake surrounded by matching cupcakes and scattered rose petals creates a focal point. A designer pink handbag rests beside the cake, while champagne flutes and energy drink cans stand ready for guests.\n\nThrough the yacht’s windows, a calm marina dotted with moored boats provides a tranquil backdrop. This stylish setup, sourced from a Pinterest board of cute birthday ideas, exemplifies a luxurious and intimate waterfront party aesthetic.",
+          "localImage": "assets/products/matches/batch-003-pinterest/9142944399585-876eeca61b2c.jpg",
+          "sha256": "876eeca61b2c646a32ce78bf03c28c15b6015f6c64417990c2a7037de23a7884"
+        }
+      ],
+      "query": "Balloons, Cake & Flower Decoration for Yacht - Pink Pinterest"
+    },
+    {
+      "n": 127,
+      "productId": "9142944006369",
+      "title": "Balloons, Cake & Flower Decoration for Yacht - White",
+      "originalImage": "assets/products/c3bbb2329217f10b8159.jpg",
+      "status": "needs-better-match",
+      "candidates": [],
+      "query": "Balloons, Cake & Flower Decoration for Yacht - White Pinterest"
+    },
+    {
+      "n": 128,
+      "productId": "9142943711457",
+      "title": "Balloons, Cake & Flower Decoration for Yacht - Blue & White",
+      "originalImage": "assets/products/93d97ef93b09bab265ae.jpg",
+      "status": "needs-better-match",
+      "candidates": [],
+      "query": "Balloons, Cake & Flower Decoration for Yacht - Blue & White Pinterest"
+    },
+    {
+      "n": 129,
+      "productId": "9139329040609",
+      "title": "Rose Gold & White Surprise Balloon Box with Birthday cake",
+      "originalImage": "assets/products/e152bfa8a4b4b406e182.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/19281104644478967/",
+          "imageUrl": "https://i.pinimg.com/originals/e4/61/e0/e461e02db07dea7fbd36feaac7c425cc.jpg",
+          "description": "A round white gift box is elegantly presented on a glossy white surface next to cascading white orchids. A large transparent balloon filled with rose gold and white balloons hovers above, tied with matching satin ribbons. The balloon is inscribed with \"Vanessa,\" while the box front proclaims \"Happy 23rd Birthday.\"\n\nInside the box, a bottle of sparkling wine, assorted chocolates, and a greeting card featuring a white floral motif complete the celebratory ensemble. This curated arrangement, showcased on a Pinterest page for Balloon It, highlights a sophisticated birthday gift designed for a personalized and festive experience.",
+          "localImage": "assets/products/matches/batch-003-pinterest/9139329040609-4cdc04dcc047.jpg",
+          "sha256": "4cdc04dcc047b35e455eca811ebbf39a5f5ba9783702c45aed2fc2495174c475"
+        }
+      ],
+      "query": "Rose Gold & White Surprise Balloon Box with Birthday cake Pinterest"
+    },
+    {
+      "n": 130,
+      "productId": "9139317506273",
+      "title": "Gold & White Surprise Balloon Box with Birthday cake",
+      "originalImage": "assets/products/4a41db7d1e86f274ee78.jpg",
+      "status": "needs-better-match",
+      "candidates": [],
+      "query": "Gold & White Surprise Balloon Box with Birthday cake Pinterest"
+    },
+    {
+      "n": 131,
+      "productId": "9132981256417",
+      "title": "Pink & White Surprise Balloon Box with Birthday cake",
+      "originalImage": "assets/products/19ce602176d6d874510b.jpg",
+      "status": "needs-better-match",
+      "candidates": [],
+      "query": "Pink & White Surprise Balloon Box with Birthday cake Pinterest"
+    },
+    {
+      "n": 132,
+      "productId": "9132923486433",
+      "title": "Blue & White Surprise Balloon Box with Birthday cake",
+      "originalImage": "assets/products/d23d25c668b19adb034b.jpg",
+      "status": "needs-better-match",
+      "candidates": [],
+      "query": "Blue & White Surprise Balloon Box with Birthday cake Pinterest"
+    },
+    {
+      "n": 133,
+      "productId": "9131154211041",
+      "title": "Red & White Surprise Balloon Box with Birthday cake",
+      "originalImage": "assets/products/505c39562b1d244b1997.jpg",
+      "status": "needs-better-match",
+      "candidates": [],
+      "query": "Red & White Surprise Balloon Box with Birthday cake Pinterest"
+    },
+    {
+      "n": 134,
+      "productId": "9125118935265",
+      "title": "Pink & White Balloon Box with Teddy cake",
+      "originalImage": "assets/products/97e0cf41f1f190d1f195.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://ca.pinterest.com/pin/pink-and-white-teddy-bear-birthday-cake--3659243439549998/",
+          "imageUrl": "https://i.pinimg.com/736x/b8/8e/ec/b88eec51fd63853fd081c1fd24b6cbdc.jpg",
+          "description": "A pastel pink and white cake designed for a girl’s first birthday celebration is displayed on a white pedestal. The cake features smooth buttercream with white drip icing, accented by silver sprinkles and delicate sugar flowers. On top, a fondant teddy bear sits among balloon-shaped lollipops, a heart-shaped plaque, and a number \"1\" topper, creating a whimsical and festive arrangement.\n\nAdditional decorations include pink and white macarons and fresh-looking sugar roses placed around the base. The cohesive color palette and charming details make this cake an elegant centerpiece for a milestone birthday party.",
+          "localImage": "assets/products/matches/batch-003-pinterest/9125118935265-7597c947b299.jpg",
+          "sha256": "7597c947b299e663781e0a45862fc25cb1d75e4dd6fe5fa7f7bd4408141594da"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/835840012140422637/",
+          "imageUrl": "https://i.pinimg.com/736x/01/0b/19/010b199eaf4fbaff026e1dadb9a076a9.jpg",
+          "description": "A cream-colored, single-tier cake rests on a white pedestal stand, adorned with a fondant teddy bear clutching strings that lead to a bouquet of pink and white balloon-shaped spheres. The inscription “Amelie is 1” is piped in white script on the cake’s side, marking the celebration of a baby’s first birthday. The pastel decorations and whimsical teddy bear create a charming focal point for a milestone party.\n\nThis design was shared on Pinterest by a user named Amy, under categories like baby first birthday cakes and simple baby shower cakes. The pin highlights decorative elements such as balloons, chocolate spheres, and stars, reflecting popular themes for infant celebrations.",
+          "localImage": "assets/products/matches/batch-003-pinterest/9125118935265-1714343df5b5.jpg",
+          "sha256": "1714343df5b5f3978d730abfa39e4ab2dc61602c083f3effd86d9be9e08518d8"
+        }
+      ],
+      "query": "Pink & White Balloon Box with Teddy cake Pinterest"
+    },
+    {
+      "n": 135,
+      "productId": "9125108613345",
+      "title": "Red & White Balloon Box with Teddy cake",
+      "originalImage": "assets/products/a8e488ba13473450debb.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://ie.pinterest.com/pin/sweet-bear-birthday-cake--519673244476530910/",
+          "imageUrl": "https://i.pinimg.com/originals/73/c7/6a/73c76ab74aa34df9d058d60947bd1324.jpg",
+          "description": "This two-tiered white fondant cake is adorned with playful red and yellow decorations for a second birthday celebration. The top tier showcases a bold red and yellow \"2\" topper and a tiny fondant bee, while a red balloon on a chocolate string is held by a sitting fondant teddy bear. The bottom tier features alternating red and yellow polka dots and the name \"Vita\" in yellow fondant framed by a red plaque. The cake rests on a gold board, combining whimsical elements and bright colors to create an adorable centerpiece for a young child’s party.",
+          "localImage": "assets/products/matches/batch-003-pinterest/9125108613345-92020ccec57a.jpg",
+          "sha256": "92020ccec57a68a7766fd3f1f113fa418ff24bfbde506bca2d64a3a8b4d7f46e"
+        },
+        {
+          "sourceUrl": "https://ca.pinterest.com/pin/valentines-teddy-bear-cake-with-heart-decorations--170714642117822935/",
+          "imageUrl": "https://i.pinimg.com/736x/2c/bb/c9/2cbbc9d2c4fa1324bf718b876b030531.jpg",
+          "description": "A charming round cake features smooth white fondant adorned with scattered red hearts and a red beaded border at its base. The top is decorated with three heart-shaped balloons on silver wire stems, adding height and whimsy to the design.\n\nAt the center, a brown fondant teddy bear sits on a ruffled red fondant mat, clutching a bright red heart. Surrounding the bear, red fondant letters spell out \"Happy Birthday,\" blending Valentine’s Day motifs with a birthday celebration in a delightful confection.",
+          "localImage": "assets/products/matches/batch-003-pinterest/9125108613345-75a5717c1569.jpg",
+          "sha256": "75a5717c15693cf0489c163fa3d60deda0cead68719981897092941a221c61da"
+        }
+      ],
+      "query": "Red & White Balloon Box with Teddy cake Pinterest"
+    },
+    {
+      "n": 136,
+      "productId": "9108909588705",
+      "title": "Blue Waves Birthday Cake",
+      "originalImage": "assets/products/945c9a51cef5d00ec23c.jpg",
+      "status": "applied",
+      "candidates": [
+        {
+          "sourceUrl": "https://de.pinterest.com/dagmarwillmes/theo-2/",
+          "imageUrl": "https://i.pinimg.com/originals/5f/37/48/5f374846e2c7fd7e1bc9b61a7cfac280.jpg",
+          "description": "A stunning ocean-inspired birthday cake showcases a towering sugar wave curling over a round, blue-green frosted base. The wave is dusted with white sugar crystals to mimic sea foam, while edible sand, seashells, and starfish are artfully arranged on the cake’s top and sides. A translucent “88” topper is nestled within the crest of the wave, marking the celebrant’s age.\n\nThe cake’s gradient of turquoise and teal hues blends seamlessly to evoke the colors of the sea. Detailed fondant shells and starfish, along with scattered silver dragees, add texture and realism to the seaside theme. This design offers a creative and elegant centerpiece for an 88th birthday celebration.",
+          "localImage": "assets/products/matches/batch-003-pinterest/9108909588705-01fa0d69f52f.jpg",
+          "sha256": "01fa0d69f52fd65ec2908cdada217b872b11cd50bd778272ecaa5ca0f6c094af"
+        },
+        {
+          "sourceUrl": "https://br.pinterest.com/dr_bolosdadani/bolo-azul/",
+          "imageUrl": "https://i.pinimg.com/originals/bc/c1/b6/bcc1b65463908116c4daadaff5df0d79.jpg",
+          "description": "A two-tiered birthday cake stands elegantly on a white table, its frosting arranged in undulating waves of blue and white. Delicate gold flecks are scattered across the textured icing, adding a touch of sparkle. A single pink candle is placed at the center of the top tier, ready to be lit for a celebration.\n\nThe cake sits on a round board branded \"Lemy Cakes,\" suggesting a professional bakery creation. The neutral indoor setting, with soft lighting and minimal background distractions, highlights the cake’s vibrant colors and intricate design. This image is part of a Pinterest collection featuring 230 blue birthday cake ideas curated by Danielle Ricarto.",
+          "localImage": "assets/products/matches/batch-003-pinterest/9108909588705-b743df76ef81.jpg",
+          "sha256": "b743df76ef81a9d3a412a2bad53af493752d86cde59b84469b7a8e0d0e03a59c"
+        }
+      ],
+      "query": "Blue Waves Birthday Cake Pinterest",
+      "selected": {
+        "sourceUrl": "https://de.pinterest.com/dagmarwillmes/theo-2/",
+        "imageUrl": "https://i.pinimg.com/originals/5f/37/48/5f374846e2c7fd7e1bc9b61a7cfac280.jpg",
+        "description": "A stunning ocean-inspired birthday cake showcases a towering sugar wave curling over a round, blue-green frosted base. The wave is dusted with white sugar crystals to mimic sea foam, while edible sand, seashells, and starfish are artfully arranged on the cake’s top and sides. A translucent “88” topper is nestled within the crest of the wave, marking the celebrant’s age.\n\nThe cake’s gradient of turquoise and teal hues blends seamlessly to evoke the colors of the sea. Detailed fondant shells and starfish, along with scattered silver dragees, add texture and realism to the seaside theme. This design offers a creative and elegant centerpiece for an 88th birthday celebration.",
+        "localImage": "assets/products/matches/batch-003-pinterest/9108909588705-01fa0d69f52f.jpg",
+        "sha256": "01fa0d69f52fd65ec2908cdada217b872b11cd50bd778272ecaa5ca0f6c094af"
+      },
+      "localImage": "assets/products/matches/batch-003-pinterest/9108909588705-01fa0d69f52f.jpg",
+      "sha256": "01fa0d69f52fd65ec2908cdada217b872b11cd50bd778272ecaa5ca0f6c094af",
+      "visualReview": {
+        "verified": true,
+        "tierCount": 1,
+        "shape": "round",
+        "notes": "One round blue ocean-wave cake with a wave topper."
+      },
+      "reviewNote": "One round blue ocean-wave cake with a wave topper."
+    },
+    {
+      "n": 137,
+      "productId": "9108908966113",
+      "title": "Green & Gold Orchids Cake",
+      "originalImage": "assets/products/5f8a38488c9cc43f0a82.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/offwhite-three-tier-wedding-cake-with-green-accents-and-gold-trimmings--68729490887/",
+          "imageUrl": "https://i.pinimg.com/736x/66/58/7c/66587cb23bcfb104f4de3955af813190.jpg",
+          "description": "A square three-tier wedding cake showcases muted green fondant enveloping each layer, with gold rope-like trim accentuating the base of every tier. Delicate pale yellow and cream sugar orchids are artfully arranged, cascading from the top tier down the side, lending a refined botanical elegance to the design.\n\nThe combination of modern geometric shapes and classic floral motifs creates a sophisticated centerpiece ideal for a wedding celebration. The muted green and gold color palette, along with the intricate sugar orchids, highlights a luxurious yet understated aesthetic.",
+          "localImage": "assets/products/matches/batch-003-pinterest/9108908966113-b58d04a57daa.jpg",
+          "sha256": "b58d04a57daa67acb80d2c8d4d4a09c119e127630f718565597883b131aa40a0"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/emerald-green-and-gold-wedding-cake--469007748703998812/",
+          "imageUrl": "https://i.pinimg.com/originals/f8/a5/f7/f8a5f735e6b73a6d4066935726d2fa24.jpg",
+          "description": "This three-tiered wedding cake by Miss Shortcakes showcases a sophisticated blend of emerald green fondant and metallic gold accents. The top tier features scattered gold leaf on a smooth green surface, while the middle tier is entirely gold with embossed feather patterns. The bottom tier returns to green, decorated with angular gold striping that creates a modern geometric design.\n\nDelicate pink orchid blooms cascade from the top, adding a soft floral contrast to the bold color palette. The cake is displayed on a white pedestal against a subtle floral backdrop, embodying elegance and luxury for a memorable celebration.",
+          "localImage": "assets/products/matches/batch-003-pinterest/9108908966113-b3f2f704eb20.jpg",
+          "sha256": "b3f2f704eb2054c79916d89d2070d082cc8185a7c91ac92f01339057d5b6399e"
+        }
+      ],
+      "query": "Green & Gold Orchids Cake Pinterest"
+    },
+    {
+      "n": 138,
+      "productId": "9108907753697",
+      "title": "Dollars Bills Pink Cake",
+      "originalImage": "assets/products/260dd961152de4e56e66.jpg",
+      "status": "applied",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/money-bag-cake-for-birthday-celebration--4574037113946958/",
+          "imageUrl": "https://i.pinimg.com/736x/a2/04/be/a204beff7dc649a7236b0a0ff4716541.jpg",
+          "description": "A bright pink cake takes center stage, crafted to mimic a money bag overflowing with edible currency. Rolled and flat sugar dollar bills are artfully arranged around the cake’s sides and top, while a silver dollar-sign pendant on a beaded chain adds a flashy focal point. Rhinestone trim at the base and a reflective silver board enhance the celebratory feel.\n\nThis creative birthday cake idea blends playful design with confectionery skill, making it perfect for anyone seeking a fun and unique centerpiece. The Pinterest post describes it as an ideal choice for those who love cute and inventive cake decorations.",
+          "localImage": "assets/products/matches/batch-003-pinterest/9108907753697-b6e8c1137f2b.jpg",
+          "sha256": "b6e8c1137f2b04f19f1bf61e1060aafdeb9be808ff7bd86e19094a398eeaf853"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/gift-baskets-in-2024--181973641187376367/",
+          "imageUrl": "https://i.pinimg.com/736x/fe/ae/70/feae705413c8bb9d2b099e9ea80d821c.jpg",
+          "description": "A three-tiered money cake stands elegantly on a glass pedestal, each layer composed of rolled one-dollar bills interspersed with pink and white paper rolls. Delicate pink lace trims and satin ribbons encircle each tier, while white curly ribbons cascade from the top. Heart-shaped toppers filled with pastel beads and a wooden “Happy birthday” sign complete the festive presentation.\n\nThis unique gift idea, featured on Pinterest as a “Money Cake for Baby Shower,” combines practicality with charm. The pastel color palette and intricate details make it suitable for baby showers, birthdays, or other celebratory events, offering both decoration and a monetary gift in one creative package.",
+          "localImage": "assets/products/matches/batch-003-pinterest/9108907753697-fa03856bd83f.jpg",
+          "sha256": "fa03856bd83fee08595e606f77e132302556a5723fe01eb73d1cbdb099d00f4b"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/luvernp/money-bag-cake/",
+          "imageUrl": "https://i.pinimg.com/originals/43/c8/4f/43c84ffd85981cf01911dcf35eaf4343.jpg",
+          "description": "A striking pink cake crafted to resemble a money bag features a large glittery gold dollar sign and a twisted white fondant rope tied at the top. Realistic edible dollar bills protrude from the bag’s opening, while clear and pink gem-like sugar decorations accent the base. A fondant banner at the front reads “Happy Birthday Lenny,” adding a personalized touch. Reflections of other cakes and bakery equipment in the background indicate a professional bakery display setting.",
+          "localImage": "assets/products/matches/batch-003-pinterest/9108907753697-74295559d796.jpg",
+          "sha256": "74295559d796de87d33f4a58053c41a57f7a9d3059cee30eb191b450f15625ba"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/pink-whitney-cake-for-21st-birthday-celebration--53691420551580264/",
+          "imageUrl": "https://i.pinimg.com/736x/cb/8f/af/cb8faf71af4d82d5ce36ee3b60ef1ef7.jpg",
+          "description": "A two-tier confection bursts with bright pink buttercream swirls and drips of dark chocolate ganache. Edible $100 bill prints are artfully placed around both tiers, with rolled bills tucked into the frosting. Three miniature bottles of Pink Whitney vodka stand atop the cake, each nestled in a swirl of pink icing.\n\nThis celebratory cake is styled for a 21st birthday, blending playful motifs of money and alcohol. The gold cake board and stainless steel countertop hint at a professional kitchen or bakery environment. The overall design emphasizes a fun, memorable centerpiece for a milestone party.",
+          "localImage": "assets/products/matches/batch-003-pinterest/9108907753697-e6c203c5f338.jpg",
+          "sha256": "e6c203c5f3389fc2e6850120f43b6f5bb56a68a8c03677823a756aa9af514eca"
+        }
+      ],
+      "query": "Dollars Bills Pink Cake Pinterest",
+      "selected": {
+        "sourceUrl": "https://www.pinterest.com/pin/money-bag-cake-for-birthday-celebration--4574037113946958/",
+        "imageUrl": "https://i.pinimg.com/736x/a2/04/be/a204beff7dc649a7236b0a0ff4716541.jpg",
+        "description": "A bright pink cake takes center stage, crafted to mimic a money bag overflowing with edible currency. Rolled and flat sugar dollar bills are artfully arranged around the cake’s sides and top, while a silver dollar-sign pendant on a beaded chain adds a flashy focal point. Rhinestone trim at the base and a reflective silver board enhance the celebratory feel.\n\nThis creative birthday cake idea blends playful design with confectionery skill, making it perfect for anyone seeking a fun and unique centerpiece. The Pinterest post describes it as an ideal choice for those who love cute and inventive cake decorations.",
+        "localImage": "assets/products/matches/batch-003-pinterest/9108907753697-b6e8c1137f2b.jpg",
+        "sha256": "b6e8c1137f2b04f19f1bf61e1060aafdeb9be808ff7bd86e19094a398eeaf853"
+      },
+      "localImage": "assets/products/matches/batch-003-pinterest/9108907753697-b6e8c1137f2b.jpg",
+      "sha256": "b6e8c1137f2b04f19f1bf61e1060aafdeb9be808ff7bd86e19094a398eeaf853",
+      "visualReview": {
+        "verified": true,
+        "tierCount": 1,
+        "shape": "round",
+        "notes": "One pink round cake decorated with dollar bills and a dollar sign."
+      },
+      "reviewNote": "One pink round cake decorated with dollar bills and a dollar sign."
+    },
+    {
+      "n": 139,
+      "productId": "9108674019553",
+      "title": "Diwali Elephant Cake",
+      "originalImage": "assets/products/92b92a0743605e0e844e.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/687221224364986280/",
+          "imageUrl": "https://i.pinimg.com/originals/e6/16/cf/e616cf53c839cbdfcae0c82a40c71bdc.jpg",
+          "description": "A three-tiered celebration cake features bright orange, red, and deep purple fondant layers, each decorated with elaborate gold paisley and floral patterns reminiscent of henna art. Gold ribbons encircle the base of each tier, adding a polished metallic accent. Atop the cake stands a detailed gold elephant figurine, tying together the cultural motif.\n\nThis design appears on a Pinterest pin by user Genny V under the board “DELICIAS,” where it’s presented as an example of artistic elephant-themed cakes. The vibrant colors and intricate piping work make it ideal for festive occasions or cultural celebrations seeking a striking centerpiece.",
+          "localImage": "assets/products/matches/batch-003-pinterest/9108674019553-8b57f62d5b81.jpg",
+          "sha256": "8b57f62d5b8125d4736ea99f55c2fb78848a5bdb59d587f629706f36afb41198"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/bollywood-birthday-party-ideas--6966574407913134/",
+          "imageUrl": "https://i.pinimg.com/736x/f1/53/05/f1530551742e8b0cd3848a60889db19d.jpg",
+          "description": "A three-tiered cake designed for a Bollywood-inspired birthday party showcases bright blue and purple frosting adorned with intricate gold piping in paisley and floral patterns. The top tier is crowned with a glittering gold elephant figurine, symbolizing good luck and festivity, while a large orange and yellow sugar flower adds a bold pop of color to the middle tier.\n\nSet on a jeweled cake stand over a vibrant patterned cloth, the cake exemplifies festive elegance. The visible text \"la dee da\" on the tablecloth adds a playful touch, complementing the celebratory theme of the design.",
+          "localImage": "assets/products/matches/batch-003-pinterest/9108674019553-a397721ad2ef.jpg",
+          "sha256": "a397721ad2ef29f4f7c9fbe9e0bf11ad33174d3e7d81315db9f551fbe99f2f38"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/colettes-bollywood-party-cake--84020349289832483/",
+          "imageUrl": "https://i.pinimg.com/736x/c9/12/df/c912df7eaa085147b71edd907c2186c7.jpg",
+          "description": "A two-tiered confection in vivid pink hues is lavishly decorated with gold filigree patterns and floral medallions. The top layer showcases a white fondant elephant figurine adorned with tiny colorful flowers, accompanied by a large blue sugar blossom and a gold number “7,” hinting at a seventh birthday celebration.\n\nThe cake’s design merges traditional Indian motifs—such as scalloped gold borders and ornate medallions—with contemporary pastel icing. Its striking pink and gold palette, along with the charming elephant topper, creates a glamorous Bollywood-inspired centerpiece ideal for festive gatherings.",
+          "localImage": "assets/products/matches/batch-003-pinterest/9108674019553-333689f51bfa.jpg",
+          "sha256": "333689f51bfa8a78d1b354c34ec2bc250d22ec51dc4698bc048c1807e92f893a"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/indian-cake--264586546842736670/",
+          "imageUrl": "https://i.pinimg.com/736x/2a/45/d2/2a45d2b152dc875a9763cb049dd5960e.jpg",
+          "description": "A vibrant orange fondant cake rests on a green cloth, decorated with pastel circular motifs and pink fondant flowers around its sides. Atop the cake, a gray elephant figurine holds an Indian flag, with additional small flags placed around the base. The design combines traditional Indian elements and playful details, making it ideal for a child’s birthday celebration.",
+          "localImage": "assets/products/matches/batch-003-pinterest/9108674019553-fd2469f86907.jpg",
+          "sha256": "fd2469f8690749e50cef8dab93e9524f450a2d3e48603b218162d773630f8a2b",
+          "businessNameVisible": true
+        },
+        {
+          "sourceUrl": "https://sk.pinterest.com/pin/766315692880849602/",
+          "imageUrl": "https://i.pinimg.com/736x/2f/b8/66/2fb8660a44097056dd54756c391221b1.jpg",
+          "description": "A square yellow cake celebrates Ganesh Chaturthi with a detailed elephant figurine wearing a blue hat perched on its top. Green fondant leaves form a garland around the cake’s sides, complemented by orange buttercream flowers and pastel candy accents at the base and on the surface.\n\nThe cake rests on a white plate scattered with light purple petals, flanked by two brass oil lamps set on green leaves. In the background, a red planter with a green plant and trailing vines adds a natural, festive touch to the scene.",
+          "localImage": "assets/products/matches/batch-003-pinterest/9108674019553-56563cfd7955.jpg",
+          "sha256": "56563cfd7955f7aa7ebec38706d67baa09ad8583fce04f2cafcc8141b8c76739"
+        },
+        {
+          "sourceUrl": "https://uk.pinterest.com/sarachamberlen/indian-elephant-cake/",
+          "imageUrl": "https://i.pinimg.com/736x/1e/ca/11/1eca111650e25481744f23a155000feb.jpg",
+          "description": "A vibrant two-tier cake showcases a bright orange base tier decorated with intricate paisley and floral patterns in yellow, turquoise, pink, and purple. The top platform is green with a purple ribbon trim, supporting a sculpted gray elephant figurine adorned with matching decorative motifs and tassels. The elephant’s body features colorful accents that echo the designs on the cake tiers, creating a cohesive Indian-inspired aesthetic.\n\nThis confection combines bold colors and detailed piping work to evoke traditional Indian art and festive celebrations. The cake sits on a purple and gold board, enhancing its ornate presentation and making it an eye-catching centerpiece for events like birthdays or cultural gatherings.",
+          "localImage": "assets/products/matches/batch-003-pinterest/9108674019553-619796283f36.jpg",
+          "sha256": "619796283f368872e0e170eb8d4765dd0521cb258359c472932d512c31ca8c6c"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/indian-culture-cake--335518240966271485/",
+          "imageUrl": "https://i.pinimg.com/474x/90/5b/d9/905bd94f9ba0081d21941e09d3aca5c9.jpg",
+          "description": "A stunning multi-tiered cake showcases an elaborately decorated elephant figurine standing on the top layer. The tiers are covered in bright orange and teal fondant, embellished with paisley patterns, floral motifs, and gold trim. A circular plaque beside the elephant reads \"Happy Birthday Caroline,\" tying the design together with a personal celebratory message.\n\nThis cake combines Indian-inspired decorative elements—such as intricate henna-like patterns and vibrant color contrasts—to create a festive centerpiece. The ornate details and bold hues make it ideal for a special birthday celebration, highlighting both craftsmanship and cultural motifs.",
+          "localImage": "assets/products/matches/batch-003-pinterest/9108674019553-02fceb00bc48.jpg",
+          "sha256": "02fceb00bc48de6b1c73c1a42e6f887d82d6b6d90d6afcbee0974b84bb9c8acc"
+        }
+      ],
+      "query": "Diwali Elephant Cake Pinterest",
+      "reviewNote": "Visible third-party bakery name, logo or photo credit in the full-size image. Replacement remains pending."
+    },
+    {
+      "n": 140,
+      "productId": "9098242031841",
+      "title": "Blue Gold Birthday Number Cake",
+      "originalImage": "assets/products/55532748260e363db63a.jpg",
+      "status": "applied",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/blue-and-white-number-birthday-cakes--774124928735972/",
+          "imageUrl": "https://i.pinimg.com/originals/18/b0/c6/18b0c6bae0b5400f4e703df016538675.jpg",
+          "description": "Two vanilla sponge cakes are baked in the shapes of the digits “1” and “6,” then layered with creamy white filling. The tops are lavishly piped with alternating blue and white buttercream rosettes, stars, and swirls. Gold-dusted strawberries and clusters of metallic sugar pearls add a touch of luxury and coordinate with the pastel color scheme.\n\nPerfect for a sweet 16 celebration, these number cakes combine elegant design with playful details. The heart-shaped strawberries coated in blue icing and the gold accents elevate the overall presentation, making them a standout centerpiece for any birthday party.",
+          "localImage": "assets/products/matches/batch-003-pinterest/9098242031841-b65e3901be7a.jpg",
+          "sha256": "b65e3901be7a11a408f8156b85a78c894a8fff2fcb24dec62bcf1c5d357823be"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/number-cake-34-with-blue-flowers-and-gold-decorations--575405289910031432/",
+          "imageUrl": "https://i.pinimg.com/736x/58/ce/61/58ce6150e4104f5efe1dc67622919b0c.jpg",
+          "description": "A beautifully crafted number cake in the shape of \"34\" rests on a reflective gold base. Alternating layers of rich chocolate cake and piped white cream form the structure, while vibrant blue frosting rosettes, fresh blueberries, and small green leaves add color and freshness. Metallic gold spheres and chocolate accents enhance the luxurious presentation, making it an ideal centerpiece for a milestone birthday celebration.\n\nThe design balances bold hues and textures: smooth cream dots contrast with intricate frosting swirls, and the gold board complements the cake’s decorative elements. This dessert exemplifies modern cake artistry, combining flavor and visual appeal for a memorable event.",
+          "localImage": "assets/products/matches/batch-003-pinterest/9098242031841-4e447f94bce9.jpg",
+          "sha256": "4e447f94bce943a8737d8b09a7560f8f1ac732baf9314ae2668b558e8a540277"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/birthday-cakes-in-2025--300967187622532882/",
+          "imageUrl": "https://i.pinimg.com/originals/db/04/14/db0414a93db4d45432a47658621ab4d6.jpg",
+          "description": "Two number-shaped cake slices are lavishly decorated with swirls of blue, gold, and white buttercream. The toppings include turquoise macarons, Ferrero Rocher chocolates, caramel popcorn, white chocolate curls, and metallic candy pearls, all arranged around a glittery banner that reads \"HAPPY BIRTHDAY.\" The cakes sit on a white serving board against a soft gray background, showcasing a refined and festive dessert design.\n\nThis Pinterest pin by julitta harris, posted on May 18, 2025, highlights custom birthday cake shapes and lettering. The image alt text notes two slices of birthday cake adorned with blue and gold decorations, reflecting a modern and elegant celebration theme.",
+          "localImage": "assets/products/matches/batch-003-pinterest/9098242031841-f0dbd6fa6e44.jpg",
+          "sha256": "f0dbd6fa6e448e1b8794a056e59ce12db77dc90f18ae5e62433ed82aea469361"
+        }
+      ],
+      "query": "Blue Gold Birthday Number Cake Pinterest",
+      "selected": {
+        "sourceUrl": "https://www.pinterest.com/pin/blue-and-white-number-birthday-cakes--774124928735972/",
+        "imageUrl": "https://i.pinimg.com/originals/18/b0/c6/18b0c6bae0b5400f4e703df016538675.jpg",
+        "description": "Two vanilla sponge cakes are baked in the shapes of the digits “1” and “6,” then layered with creamy white filling. The tops are lavishly piped with alternating blue and white buttercream rosettes, stars, and swirls. Gold-dusted strawberries and clusters of metallic sugar pearls add a touch of luxury and coordinate with the pastel color scheme.\n\nPerfect for a sweet 16 celebration, these number cakes combine elegant design with playful details. The heart-shaped strawberries coated in blue icing and the gold accents elevate the overall presentation, making them a standout centerpiece for any birthday party.",
+        "localImage": "assets/products/matches/batch-003-pinterest/9098242031841-b65e3901be7a.jpg",
+        "sha256": "b65e3901be7a11a408f8156b85a78c894a8fff2fcb24dec62bcf1c5d357823be"
+      },
+      "localImage": "assets/products/matches/batch-003-pinterest/9098242031841-b65e3901be7a.jpg",
+      "sha256": "b65e3901be7a11a408f8156b85a78c894a8fff2fcb24dec62bcf1c5d357823be",
+      "visualReview": {
+        "verified": true,
+        "tierCount": 1,
+        "shape": "numbers",
+        "notes": "Number-shaped cake with pale blue, white and gold decorations."
+      },
+      "reviewNote": "Number-shaped cake with pale blue, white and gold decorations."
+    },
+    {
+      "n": 141,
+      "productId": "9098230137057",
+      "title": "Pink Berries Birthday Number Cake",
+      "originalImage": "assets/products/cc35974a27fabb6e4431.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/number-shaped-cake-with-fresh-strawberries--5066618328265113/",
+          "imageUrl": "https://i.pinimg.com/originals/07/55/39/075539ff9673eebb7cd517c4c1f0a107.jpg",
+          "description": "A beautifully crafted two-layered cake forms the number '25', with each digit built from a golden-brown cookie base. Generous dollops of white cream crown the cake, creating a soft cushion for vibrant red strawberries, raspberries, and delicate green leaves.\n\nTiny heart-shaped meringues, pearl-like sugar beads, and subtle gold accents enhance the celebratory feel. This dessert, ideal for birthdays or anniversaries, combines a crisp base with fresh fruit and creamy topping for both visual appeal and delicious flavor.",
+          "localImage": "assets/products/matches/batch-003-pinterest/9098230137057-8b4ee1f25173.jpg",
+          "sha256": "8b4ee1f251739e7c3aaf5c9c25fecf14e1faaab5cadcd11a8c93ed2418260795"
+        }
+      ],
+      "query": "Pink Berries Birthday Number Cake Pinterest"
+    },
+    {
+      "n": 142,
+      "productId": "9098213458145",
+      "title": "Blue & Brown Birthday Number Cake",
+      "originalImage": "assets/products/948fef1ed6c98ae40aff.jpg",
+      "status": "applied",
+      "candidates": [
+        {
+          "sourceUrl": "https://ph.pinterest.com/pin/80150068364954740/",
+          "imageUrl": "https://i.pinimg.com/originals/79/4b/ef/794befc6deebcce827c3e6417c14279f.jpg",
+          "description": "A chocolate cake crafted into the shape of the number 50 is lavishly adorned with alternating swirls of blue and brown frosting. Gold candy pearls and miniature chocolate bars are artfully placed among the frosting rosettes, adding metallic highlights. A hexagonal fondant plaque inscribed with “darryl” and a “Happy Birthday” topper complete the personalized design. The cake sits on a white board set against a green surface, evoking a celebratory outdoor atmosphere.",
+          "localImage": "assets/products/matches/batch-003-pinterest/9098213458145-bbc9bc18755c.jpg",
+          "sha256": "bbc9bc18755c3ac4f94b3160c45c258e65b0e8541e6e55980865b581cefc6af2"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/number-50-birthday-cake-for-him--224546731415707555/",
+          "imageUrl": "https://i.pinimg.com/originals/7b/47/08/7b4708d69fa5dc6f16f70c53712b1d88.jpg",
+          "description": "A chocolate cake sculpted into the numerals “50” is lavishly adorned with alternating swirls of blue and bronze frosting, metallic chocolate bar pieces, and gold sprinkles. A hexagonal topper inscribed with “Happy Birthday” and another with “darryl” add a personal touch to the milestone celebration. The cake rests on a white board placed on grass, evoking an outdoor party setting. The rich chocolate base and vibrant decorative elements emphasize the festive nature of a 50th birthday event.",
+          "localImage": "assets/products/matches/batch-003-pinterest/9098213458145-7adb03b62672.jpg",
+          "sha256": "7adb03b626725c33667c8285287ca5281236d696847e6686103b9f5bd5976629"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/number-cake-34-with-blue-flowers-and-gold-decorations--575405289910031432/",
+          "imageUrl": "https://i.pinimg.com/736x/58/ce/61/58ce6150e4104f5efe1dc67622919b0c.jpg",
+          "description": "A beautifully crafted number cake in the shape of \"34\" rests on a reflective gold base. Alternating layers of rich chocolate cake and piped white cream form the structure, while vibrant blue frosting rosettes, fresh blueberries, and small green leaves add color and freshness. Metallic gold spheres and chocolate accents enhance the luxurious presentation, making it an ideal centerpiece for a milestone birthday celebration.\n\nThe design balances bold hues and textures: smooth cream dots contrast with intricate frosting swirls, and the gold board complements the cake’s decorative elements. This dessert exemplifies modern cake artistry, combining flavor and visual appeal for a memorable event.",
+          "localImage": "assets/products/matches/batch-003-pinterest/9098213458145-4e447f94bce9.jpg",
+          "sha256": "4e447f94bce943a8737d8b09a7560f8f1ac732baf9314ae2668b558e8a540277"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/272186371220005680/",
+          "imageUrl": "https://i.pinimg.com/originals/43/a8/23/43a823875ab235c4707a102d2e14277a.jpg",
+          "description": "A moist chocolate sponge cake shaped into the number 50 is adorned with rich chocolate buttercream piped in uniform dollops. The top is lavishly decorated with pastel blue, white, and brown macarons, small chocolate bars, truffles, and spherical confections, creating a visually striking contrast against the dark cake base.\n\nCrafted by Macarons by Monika in Brisbane, Queensland, this customizable milestone cake is ideal for weddings, birthdays, corporate events, and wholesale orders. The combination of textures—from the crisp macarons to the creamy buttercream—offers both aesthetic appeal and indulgent flavor for celebratory occasions.",
+          "localImage": "assets/products/matches/batch-003-pinterest/9098213458145-c8d2b3ed99b3.jpg",
+          "sha256": "c8d2b3ed99b35be528e8f2675e230262c965bc4a000e42ff303516a8cb7ee74c"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/th-cng--24488391717662455/",
+          "imageUrl": "https://i.pinimg.com/originals/42/c2/07/42c207b62812015f9a9a23938bd9abb9.jpg",
+          "description": "A striking chocolate cake shaped as the number 80 rests on a white board placed on green grass. The cake is lavishly decorated with alternating blue and brown buttercream rosettes, piped dots, and metallic copper pearls. Small chocolate bars and gold-tinted chocolate pieces are arranged atop the frosting, adding texture and shine.\n\nTwo blue hexagonal fondant plaques feature white script reading \"Happy Birthday\" and \"Dad,\" emphasizing the celebratory theme. The combination of deep blue, rich chocolate, and metallic accents creates a modern, festive centerpiece ideal for an 80th birthday party.",
+          "localImage": "assets/products/matches/batch-003-pinterest/9098213458145-7e70370cef03.jpg",
+          "sha256": "7e70370cef03adbeb00e9de5f2c2f11ad76fb5dfa34f25fc227e053d07e8b53a"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/309552174405865737/",
+          "imageUrl": "https://i.pinimg.com/originals/a2/22/93/a22293e605f152cb488d3d33f8769fe3.jpg",
+          "description": "A dark chocolate mud cake shaped as the number 70 is lavishly decorated with swirls of blue and cream frosting, chocolate bar segments, caramel pieces, and gold sugar pearls. The homemade caramel sauce filling adds a rich, gooey center that complements the dense chocolate base. Piped icing in varying shades of blue and cream creates a festive contrast against the dark cake, while the scattered chocolate and caramel bits provide texture and visual interest.\n\nThis cake is presented as an ideal dessert for a 70th birthday celebration. The Pinterest post highlights its decorative appeal and flavor combination, and includes a promotional discount code CASEY10 for orders.",
+          "localImage": "assets/products/matches/batch-003-pinterest/9098213458145-8d77eb2c2f4e.jpg",
+          "sha256": "8d77eb2c2f4eb7fa9039e4ec41266007bab6c19308c02183f5139a93371bed12"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/20th-birthday-blue-cake-design-custom-number-cake--617415430189703470/",
+          "imageUrl": "https://i.pinimg.com/736x/d6/8a/47/d68a47e83f15cc3a80965691cbf999bb.jpg",
+          "description": "A vibrant blue and chocolate-themed cake shaped as the number 20 rests on a white board over a matching blue surface. The cake base appears to be a cookie or sponge layer, topped with alternating piped blue cream swirls and white dollops. Adornments include blue macarons, chocolate shards, silver dragees, and fresh blackberries, creating a festive and modern look.\n\nThis design, featured on Pinterest, is offered as a customizable 20th birthday cake serving up to 20 people for $138. Customers can select their preferred numbers, cream flavors, and decorative elements to welcome the new decade in style.",
+          "localImage": "assets/products/matches/batch-003-pinterest/9098213458145-4d14e2f2d6ac.jpg",
+          "sha256": "4d14e2f2d6ac112f5d1d16467e2f970642e5ce5e903afd01d32f1c10e9f280ce"
+        }
+      ],
+      "query": "Blue & Brown Birthday Number Cake Pinterest",
+      "selected": {
+        "sourceUrl": "https://www.pinterest.com/pin/number-50-birthday-cake-for-him--224546731415707555/",
+        "imageUrl": "https://i.pinimg.com/originals/7b/47/08/7b4708d69fa5dc6f16f70c53712b1d88.jpg",
+        "description": "A chocolate cake sculpted into the numerals “50” is lavishly adorned with alternating swirls of blue and bronze frosting, metallic chocolate bar pieces, and gold sprinkles. A hexagonal topper inscribed with “Happy Birthday” and another with “darryl” add a personal touch to the milestone celebration. The cake rests on a white board placed on grass, evoking an outdoor party setting. The rich chocolate base and vibrant decorative elements emphasize the festive nature of a 50th birthday event.",
+        "localImage": "assets/products/matches/batch-003-pinterest/9098213458145-7adb03b62672.jpg",
+        "sha256": "7adb03b626725c33667c8285287ca5281236d696847e6686103b9f5bd5976629"
+      },
+      "localImage": "assets/products/matches/batch-003-pinterest/9098213458145-7adb03b62672.jpg",
+      "sha256": "7adb03b626725c33667c8285287ca5281236d696847e6686103b9f5bd5976629",
+      "visualReview": {
+        "verified": true,
+        "tierCount": 1,
+        "shape": "numbers",
+        "notes": "Number-shaped cake with blue icing and brown chocolate decorations."
+      },
+      "reviewNote": "Number-shaped cake with blue icing and brown chocolate decorations."
+    },
+    {
+      "n": 143,
+      "productId": "9098173808865",
+      "title": "Strawberry Birthday Number Cake",
+      "originalImage": "assets/products/08b5a6789c45ab7aee35.jpg",
+      "status": "applied",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/strawberry-number-birthday-cake--3237030976695348/",
+          "imageUrl": "https://i.pinimg.com/736x/46/7a/6c/467a6c71005a9a1b8b09105ced57d3fe.jpg",
+          "description": "A golden-brown, two-layered cake is crafted into the number 30 and topped with neat dollops of white cream. Fresh halved strawberries, raspberries, and tiny heart-shaped treats are arranged across the surface, creating a vibrant red-and-white contrast. The cake rests on a white board near a window, evoking a cheerful birthday celebration atmosphere.\n\nThis design, popular on Pinterest, is ideal for marking milestone birthdays with its elegant simplicity and fresh fruit decoration.",
+          "localImage": "assets/products/matches/batch-003-pinterest/9098173808865-4ef54f44de6f.jpg",
+          "sha256": "4ef54f44de6f0c88ea4adbd54754edbeecd7e40f4db2805da5c765c1879f3e13"
+        },
+        {
+          "sourceUrl": "https://fr.pinterest.com/pin/501940320966783829/",
+          "imageUrl": "https://i.pinimg.com/736x/27/c5/03/27c503e808a70ba5f250636338fce5e9.jpg",
+          "description": "A chic birthday centerpiece features a two-layer cookie-based number cake shaped as “20,” meticulously piped with white cream dollops. Fresh strawberries, delicate pink macarons, round chocolate balls, and pastel candy strips crown each digit, offering a harmonious blend of fruity and sweet elements. The cake rests on a glittering silver board, enhancing its festive appeal and reflecting light around the vibrant red and soft pink decorations.\n\nThis creation exemplifies the popular Instagram-worthy number cake trend, combining visual elegance with gourmet flavors. The contrast between the bright strawberries and the creamy white frosting, along with the subtle sparkle of the base, makes it an eye-catching dessert for milestone celebrations.",
+          "localImage": "assets/products/matches/batch-003-pinterest/9098173808865-440a7f442097.jpg",
+          "sha256": "440a7f44209780ae9f9ab788a99e8cf5aea1af8e2bb549cfe79c848195c360d1"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/349380883615225326/",
+          "imageUrl": "https://i.pinimg.com/736x/0e/ab/96/0eab96db15a4129884ad379c3cda6414.jpg",
+          "description": "A chocolate cake crafted into the shape of the number 18 rests in a brown box atop a table. Each tier is covered with uniform white frosting dots and adorned with pink buttercream rosettes, halved strawberries, tiny red berries, and green leaf accents. The design combines fresh fruit and floral piping for a celebratory 18th birthday centerpiece.\n\nThis cake was featured on a Pinterest pin by Soulimanelilia on August 13, 2025, as part of an 18th birthday cake design collection. The image alt text highlights the number-shaped cake decorated with strawberries and flowers.",
+          "localImage": "assets/products/matches/batch-003-pinterest/9098173808865-9eee3ef37b50.jpg",
+          "sha256": "9eee3ef37b502a583fc9082aba25613a47c668a020d80335d219ceb7a3ff1c83"
+        }
+      ],
+      "query": "Strawberry Birthday Number Cake Pinterest",
+      "selected": {
+        "sourceUrl": "https://www.pinterest.com/pin/strawberry-number-birthday-cake--3237030976695348/",
+        "imageUrl": "https://i.pinimg.com/736x/46/7a/6c/467a6c71005a9a1b8b09105ced57d3fe.jpg",
+        "description": "A golden-brown, two-layered cake is crafted into the number 30 and topped with neat dollops of white cream. Fresh halved strawberries, raspberries, and tiny heart-shaped treats are arranged across the surface, creating a vibrant red-and-white contrast. The cake rests on a white board near a window, evoking a cheerful birthday celebration atmosphere.\n\nThis design, popular on Pinterest, is ideal for marking milestone birthdays with its elegant simplicity and fresh fruit decoration.",
+        "localImage": "assets/products/matches/batch-003-pinterest/9098173808865-4ef54f44de6f.jpg",
+        "sha256": "4ef54f44de6f0c88ea4adbd54754edbeecd7e40f4db2805da5c765c1879f3e13"
+      },
+      "localImage": "assets/products/matches/batch-003-pinterest/9098173808865-4ef54f44de6f.jpg",
+      "sha256": "4ef54f44de6f0c88ea4adbd54754edbeecd7e40f4db2805da5c765c1879f3e13",
+      "visualReview": {
+        "verified": true,
+        "tierCount": 1,
+        "shape": "numbers",
+        "notes": "Number-shaped cake covered with strawberries and cream."
+      },
+      "reviewNote": "Number-shaped cake covered with strawberries and cream."
+    },
+    {
+      "n": 144,
+      "productId": "9098161357025",
+      "title": "Gold Beige Birthday Number Cake",
+      "originalImage": "assets/products/f0d728643975c0fe37bf.jpg",
+      "status": "applied",
+      "candidates": [
+        {
+          "sourceUrl": "https://uk.pinterest.com/linoremills/30th-birthday-cake/",
+          "imageUrl": "https://i.pinimg.com/736x/bd/48/73/bd4873d03296b7fa34d5e2c5e9b33326.jpg",
+          "description": "A beautifully styled pair of number-shaped cakes form the digits '3' and '0', each layered with smooth ivory buttercream rosettes and piped swirls. Gold sugar pearls, metallic dragees, and delicate dried flowers accent the cakes, while geometric white chocolate hearts add a contemporary touch. A circular topper on the '3' reads \"Happy 30th Birthday Sophie,\" personalizing the design for a milestone celebration.\n\nThe cakes are presented on a white board over soft, sheer fabric, creating an elegant backdrop. The neutral cream and gold color scheme, combined with refined decorative elements, makes this cake duo a standout centerpiece for a sophisticated 30th birthday party.",
+          "localImage": "assets/products/matches/batch-003-pinterest/9098161357025-13af2db88ef2.jpg",
+          "sha256": "13af2db88ef29614690277cfe4bbe283ac52fdec7facfa368524708c34deda85"
+        }
+      ],
+      "query": "Gold Beige Birthday Number Cake Pinterest",
+      "selected": {
+        "sourceUrl": "https://uk.pinterest.com/linoremills/30th-birthday-cake/",
+        "imageUrl": "https://i.pinimg.com/736x/bd/48/73/bd4873d03296b7fa34d5e2c5e9b33326.jpg",
+        "description": "A beautifully styled pair of number-shaped cakes form the digits '3' and '0', each layered with smooth ivory buttercream rosettes and piped swirls. Gold sugar pearls, metallic dragees, and delicate dried flowers accent the cakes, while geometric white chocolate hearts add a contemporary touch. A circular topper on the '3' reads \"Happy 30th Birthday Sophie,\" personalizing the design for a milestone celebration.\n\nThe cakes are presented on a white board over soft, sheer fabric, creating an elegant backdrop. The neutral cream and gold color scheme, combined with refined decorative elements, makes this cake duo a standout centerpiece for a sophisticated 30th birthday party.",
+        "localImage": "assets/products/matches/batch-003-pinterest/9098161357025-13af2db88ef2.jpg",
+        "sha256": "13af2db88ef29614690277cfe4bbe283ac52fdec7facfa368524708c34deda85"
+      },
+      "localImage": "assets/products/matches/batch-003-pinterest/9098161357025-13af2db88ef2.jpg",
+      "sha256": "13af2db88ef29614690277cfe4bbe283ac52fdec7facfa368524708c34deda85",
+      "visualReview": {
+        "verified": true,
+        "tierCount": 1,
+        "shape": "numbers",
+        "notes": "Number-shaped cake with beige cream, white details and gold accents."
+      },
+      "reviewNote": "Number-shaped cake with beige cream, white details and gold accents."
+    },
+    {
+      "n": 145,
+      "productId": "9098155032801",
+      "title": "Pastel Purple Birthday Number Cake",
+      "originalImage": "assets/products/f5ac4df1e72808cd7fab.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/purple-number-cake-with-ube-flavor--109282728452010680/",
+          "imageUrl": "https://i.pinimg.com/originals/31/25/54/312554a0b1dc5d94c9287f5897fbe832.jpg",
+          "description": "A stunning purple number cake flavored with ube features two tiers shaped as the digits “2” and “5,” each layered with cream frosting and vibrant ube sponge. The cake is lavishly adorned with pastel pink and lavender buttercream flowers, fresh chrysanthemums, and delicate gold butterflies, creating an elegant and festive presentation.\n\nThe board beneath the cake is marked “JOLSKITCHEN 2022,” indicating the baker’s signature. Additional decorations include purple macarons with gold dust, small gold spheres, and piped cream dots, all combining to form a sophisticated dessert centerpiece perfect for birthdays or special celebrations.",
+          "localImage": "assets/products/matches/batch-003-pinterest/9098155032801-db51cbf71e79.jpg",
+          "sha256": "db51cbf71e79f908ec36fad9611b690b2eec6f526d5629cc2073a80b0850ad7f"
+        }
+      ],
+      "query": "Pastel Purple Birthday Number Cake Pinterest"
+    },
+    {
+      "n": 146,
+      "productId": "9098146480353",
+      "title": "Floral Number / Age Cake - 1.5kg (Copy)",
+      "originalImage": "assets/products/8bb909fbc01336431090.jpg",
+      "status": "applied",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/carlitagrandez/number-cake/",
+          "imageUrl": "https://i.pinimg.com/originals/5c/fb/c4/5cfbc4acdd6ba840e1010816842bc6ce.jpg",
+          "description": "A pastel pink and white number cake shaped as \"15\" sits on a white board, celebrating a fifteenth birthday. Each digit is layered with piped white cream dollops and topped with fresh pink roses, sliced strawberries, and matching pink macarons. A small plaque reading \"Happy Birthday\" adds a personalized touch to the festive dessert.\n\nThis cake design combines floral elegance and sweet confections, making it perfect for milestone celebrations. The soft color palette and delicate decorations create a charming centerpiece for any birthday party.",
+          "localImage": "assets/products/matches/batch-003-pinterest/9098146480353-9bdcfd2dac77.jpg",
+          "sha256": "9bdcfd2dac77e6495824b2766f4393e3a8af59be6489b81863d75ad983c5fe47"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/cake-designs-birthday-number-cakes-sweet-16-birthday-party--655273814507831149/",
+          "imageUrl": "https://i.pinimg.com/736x/b6/46/ba/b646bac70fa8c70f7fdef874e1ed6c52.jpg",
+          "description": "A pastel-themed cake shaped as the number 15 sits on a white surface, its two vanilla layers separated by rows of pink buttercream. Each piped dollop of frosting is topped with delicate white and pink daisies, creating a soft, elegant look ideal for a quinceañera celebration. The combination of modern number cake styling and classic floral decoration offers a unique centerpiece for a 15th birthday party.\n\nThis design appears on a Pinterest board dedicated to quinceañera cake ideas, emphasizing creative fondant and buttercream techniques. The image alt text describes the floral adornments, while the page title and description highlight the cake’s role in making a memorable 15th birthday event.",
+          "localImage": "assets/products/matches/batch-003-pinterest/9098146480353-597abb4a4e83.jpg",
+          "sha256": "597abb4a4e83be139c5f689ba2e524e14379f7585247462109967a677622632b"
+        }
+      ],
+      "query": "Floral Number / Age Cake - 1.5kg (Copy) Pinterest",
+      "selected": {
+        "sourceUrl": "https://www.pinterest.com/carlitagrandez/number-cake/",
+        "imageUrl": "https://i.pinimg.com/originals/5c/fb/c4/5cfbc4acdd6ba840e1010816842bc6ce.jpg",
+        "description": "A pastel pink and white number cake shaped as \"15\" sits on a white board, celebrating a fifteenth birthday. Each digit is layered with piped white cream dollops and topped with fresh pink roses, sliced strawberries, and matching pink macarons. A small plaque reading \"Happy Birthday\" adds a personalized touch to the festive dessert.\n\nThis cake design combines floral elegance and sweet confections, making it perfect for milestone celebrations. The soft color palette and delicate decorations create a charming centerpiece for any birthday party.",
+        "localImage": "assets/products/matches/batch-003-pinterest/9098146480353-9bdcfd2dac77.jpg",
+        "sha256": "9bdcfd2dac77e6495824b2766f4393e3a8af59be6489b81863d75ad983c5fe47"
+      },
+      "localImage": "assets/products/matches/batch-003-pinterest/9098146480353-9bdcfd2dac77.jpg",
+      "sha256": "9bdcfd2dac77e6495824b2766f4393e3a8af59be6489b81863d75ad983c5fe47",
+      "visualReview": {
+        "verified": true,
+        "tierCount": 1,
+        "shape": "numbers",
+        "notes": "Number-shaped cake with pink floral decorations."
+      },
+      "reviewNote": "Number-shaped cake with pink floral decorations."
+    },
+    {
+      "n": 147,
+      "productId": "9098142023905",
+      "title": "Pastel Colors Birthday Letter Cake",
+      "originalImage": "assets/products/fd18097088a54edb3aac.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://sk.pinterest.com/pin/305541155985422718/",
+          "imageUrl": "https://i.pinimg.com/736x/9e/1d/52/9e1d52fa5d21daa3169b1cd45d24b45a.jpg",
+          "description": "This custom letter H cake from Frudeco Miami features a pastel pink and gold color palette, perfect for a birthday celebration. The top of the cake is adorned with pink macarons, meringue kisses, fresh roses, and gold-wrapped chocolates, creating an elegant and festive arrangement. Creamy white frosting dollops line the edges, and the message \"HAPPY BIRTHDAY\" is spelled out in white icing letters across the top bar.\n\nAvailable for next-day orders with a 24-hour advance notice, customers can select pick-up or delivery and schedule their preferred date and time. This luxurious cake design combines delicate floral elements with metallic accents for a sophisticated celebratory centerpiece.",
+          "localImage": "assets/products/matches/batch-003-pinterest/9098142023905-cd8fc91cd966.jpg",
+          "sha256": "cd8fc91cd966638ba716779876a15faf591a8002c7d4cd0cf0bd1334c1f4c40d"
+        },
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/866450415810667425/",
+          "imageUrl": "https://i.pinimg.com/736x/9d/41/03/9d4103cba39615b36a1729ac2abcc356.jpg",
+          "description": "A custom pastel letter E cake from Frudeco Miami features two layers of crisp cookie base filled with piped vanilla cream. The top layer is decorated with yellow macarons, sugar roses, and gold-wrapped chocolates, while the bottom layer displays purple macarons, meringue kisses, and candy pearls. A pink fondant banner with the text “HAPPY BIRTHDAY” spans the middle, adding a festive touch. This cake is designed for next-day orders with 24-hour notice and offers pickup or delivery options.\n\nThe Pinterest listing highlights the cake’s pastel color palette and personalized letter shape, making it ideal for birthday celebrations. Customers can select their preferred date and time at checkout for a seamless ordering experience.",
+          "localImage": "assets/products/matches/batch-003-pinterest/9098142023905-067ce50b581c.jpg",
+          "sha256": "067ce50b581c1e461a3804fdfdcfd369fa0437ca4fd7b4abfde4a3ac1f64382b"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/moms-party-ideas-in-2025--75224256273525610/",
+          "imageUrl": "https://i.pinimg.com/736x/3c/d6/ad/3cd6ade8efa7d39be16790fc4cc4bd9f.jpg",
+          "description": "A personalized letter-shaped cake features the inscription \"Happy Birthday Monik\" piped in pink buttercream script atop a white-frosted \"M\". The design is embellished with an array of pastel buttercream flowers, including roses and chrysanthemums, alongside piped meringue kisses and pink macarons. Soft green leaves and delicate sugar pearls complete the elegant decoration.\n\nThis cake was shared on Pinterest by Tracy Strimling as part of Mom’s Party ideas, showcasing buttercream cake designs and lettering inspiration. Discovered on May 1, 2025, it offers a refined and feminine approach to birthday cake decoration.",
+          "localImage": "assets/products/matches/batch-003-pinterest/9098142023905-fa61503eca77.jpg",
+          "sha256": "fa61503eca7765bfefcaf2586a6f288ef18b7ca5b8729127f8c0c535d3c95305"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/29554941296921474/",
+          "imageUrl": "https://i.pinimg.com/736x/eb/a2/13/eba213d21966371b9da3461ef144a07f.jpg",
+          "description": "A custom pastel letter A cake features a two-layered cookie base filled with piped white buttercream. The top is lavishly adorned with purple macarons, blue and pink meringues, sugar pearls, and delicate sugar roses, creating a whimsical and elegant presentation.\n\nThis design is offered by Frudeco Miami as part of their letter and number cake collection. Orders require 24 hours’ notice, with next-day orders accepted until 11:59 PM. Customers can select pickup or delivery, along with their preferred date and time at checkout.",
+          "localImage": "assets/products/matches/batch-003-pinterest/9098142023905-0c4d4c9fd18c.jpg",
+          "sha256": "0c4d4c9fd18c2a1c0267786d069112b51fa55a991bdd8644f86fc5d7181d550f",
+          "businessNameVisible": true
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/letter-h-birthday-cake-for-tea-party--427349452149724300/",
+          "imageUrl": "https://i.pinimg.com/originals/d9/10/fb/d910fbcb2e6378d9c4d04de9bcfd996c.jpg",
+          "description": "A beautifully crafted letter H cake rests on a white serving board, where \"Happy Birthday Haven\" is written in glittery turquoise script. The cake’s surface is covered in piped white buttercream and decorated with pastel pink sugar roses, turquoise buttercream rosettes, and delicate white sprinkles. Yellow macarons and coconut-covered truffles are interspersed among the flowers, while silver dragees add a touch of sparkle.\n\nThis tea party–inspired cake combines soft pink, turquoise, and yellow hues to create a whimsical and elegant centerpiece. The floral and macaron accents enhance the celebratory mood, making it perfect for a birthday gathering with a refined, garden-party aesthetic.",
+          "localImage": "assets/products/matches/batch-003-pinterest/9098142023905-08f87674c8d2.jpg",
+          "sha256": "08f87674c8d2cd714d2b82333e7a3b09a8a86c0165bf831d84809bdbd3d489b7"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/luxury-custom-cakes--617415430175125715/",
+          "imageUrl": "https://i.pinimg.com/736x/f3/37/27/f337279fd9c61ca9dc0e316fff74bbaa.jpg",
+          "description": "This luxury custom cake by Frudeco Miami is crafted as a large letter, sized for up to 20 servings (19\"x14\"). The base is a crisp shortbread-almond tart filled with a light, creamy filling rather than traditional sponge cake and buttercream. A plaque reading \"Happy Birthday\" sits among the decorations.\n\nThe top is adorned with piped white cream, pink macarons, meringue kisses, assorted candy pieces, and fresh pink roses. The pastel pink and white color scheme, combined with the elegant arrangement of confections, gives the cake a refined and celebratory look.",
+          "localImage": "assets/products/matches/batch-003-pinterest/9098142023905-3b042ce15d1a.jpg",
+          "sha256": "3b042ce15d1a1a6d686bd7c155d59fc3f4474d8108755760949d0896a6ed19b6"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/719309371716862757/",
+          "imageUrl": "https://i.pinimg.com/originals/46/33/88/4633886c289f5c30d5dd9ab19906884a.jpg",
+          "description": "A custom K-shaped alphabet cake rests in a white presentation box with marble-patterned lining. The double-layered cookie base is adorned with pastel pink and white frosting rosettes, white chrysanthemum blooms, Ferrero Rocher chocolates, and small pink candy accents. Gold-painted spheres and silver-wrapped chocolates enhance the festive look.\n\n\"HAPPY BIRTHDAY KARLA\" is spelled out in gold letters at the bottom, tying together the personalized birthday theme. This cake, featured on Pinterest under #cakelettering and #alphabetcake, serves as inspiration for creative dessert designs for special occasions.",
+          "localImage": "assets/products/matches/batch-003-pinterest/9098142023905-33c8d3adaa93.jpg",
+          "sha256": "33c8d3adaa93332068e3f5e244172af658a8c2a600133ff8c74190353fa9f4ac"
+        }
+      ],
+      "query": "Pastel Colors Birthday Letter Cake Pinterest",
+      "reviewNote": "Visible third-party bakery name, logo or photo credit in the full-size image. Replacement remains pending."
+    },
+    {
+      "n": 148,
+      "productId": "9093070586081",
+      "title": "White & Gold Photo Cake",
+      "originalImage": "assets/products/6e2b415c450e7f6aa8ed.png",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://br.pinterest.com/lenirveloso3/bolos-de-noivado/",
+          "imageUrl": "https://i.pinimg.com/736x/93/e7/5c/93e75c67be23f6f6abfc392a6e4cecf3.jpg",
+          "description": "A round white engagement cake features smooth frosting accented by irregular gold leaf flecks around its sides. Atop the cake, two Polaroid-style photos capture a couple’s joyful moments—one portrait and one kiss—creating a personalized topper. A small bouquet of white baby's breath rests at the base, enhancing the cake’s refined aesthetic.\n\nThis design appears among curated engagement cake ideas on a Pinterest board by Lenir Veloso, titled “100 melhores ideias de bolos de noivado.” The minimalist color palette and custom photo topper reflect contemporary trends in celebration cakes.",
+          "localImage": "assets/products/matches/batch-003-pinterest/9093070586081-55f43b828556.jpg",
+          "sha256": "55f43b828556516626268dcbc6e689cab063dfaa7d95e9781b5a49454b49fb9f",
+          "businessNameVisible": true
+        }
+      ],
+      "query": "White & Gold Photo Cake Pinterest",
+      "reviewNote": "Visible third-party bakery name, logo or photo credit in the full-size image. Replacement remains pending."
+    },
+    {
+      "n": 149,
+      "productId": "9093038112993",
+      "title": "2 Tier White & Gold Photo Cake",
+      "originalImage": "assets/products/7bf95baa7e3100cf70c0.png",
+      "status": "needs-better-match",
+      "candidates": [],
+      "query": "2 Tier White & Gold Photo Cake Pinterest"
+    },
+    {
+      "n": 150,
+      "productId": "9093036638433",
+      "title": "Photo Banner Cake",
+      "originalImage": "assets/products/9edb269e8d1d58b53b0d.png",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/cake-in-2025--7459155629101239/",
+          "imageUrl": "https://i.pinimg.com/1200x/0d/14/3d/0d143dbb3896d325b0b04203edcf626e.jpg",
+          "description": "A round, two-toned cake with smooth blue and white striped frosting is decorated with pastel heart-shaped confections around its top edge. Two green-and-white striped poles hold a miniature photo banner displaying five snapshots of Rashid—alone, with family, and in casual settings—alongside the text “HAPPY BIRTH DAY RASHID.”\n\nThis design was featured on Pinterest by Apurva Pokharkar on January 21, 2025, under simple birthday cake ideas. The pin highlights a custom celebration cake intended for a boyfriend or family member named Rashid, combining edible decorations with personal photographs for a unique touch.",
+          "localImage": "assets/products/matches/batch-003-pinterest/9093036638433-a9105b74f653.jpg",
+          "sha256": "a9105b74f653c5de801739fa7c7186a5c31a409137a009b0c519d4efec7e4765",
+          "businessNameVisible": true
+        }
+      ],
+      "query": "Photo Banner Cake Pinterest",
+      "reviewNote": "Visible third-party bakery name, logo or photo credit in the full-size image. Replacement remains pending."
+    }
+  ],
+  "reviewedAt": "2026-09-12T12:51:43.955Z",
+  "summary": {
+    "reviewed": 50,
+    "replaced": 14,
+    "pending": 36
+  }
+}

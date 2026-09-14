@@ -1,0 +1,20 @@
+{
+  "name": "cake-website",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Independent cake storefront with an imported catalog and order requests",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test tests/*.test.js",
+    "import": "node scripts/restore-original-inventory.cjs",
+    "test:browser": "playwright test",
+    "orders": "node scripts/list-orders.js",
+    "enquiries": "node scripts/list-enquiries.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.63.0"
+  }
+}

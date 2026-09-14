@@ -1,0 +1,2162 @@
+{
+  "products": [
+    {
+      "id": "9800000000002",
+      "handle": "white-petals-gold-leaves-wedding-cake-w2",
+      "title": "White Petals & Gold Leaves Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "tiered-cake"
+      ],
+      "kind": "cake",
+      "description": "4 tiers with white petals and gold leaves details. Cake dimensions, flavours and finishing materials are arranged for your wedding.",
+      "images": [
+        "assets/products/wedding-cakes/367215a43214e5a2be.webp"
+      ],
+      "image": "assets/products/wedding-cakes/367215a43214e5a2be.webp",
+      "imageAlt": "White Petals & Gold Leaves Wedding Cake — 4 cake tiers",
+      "imageContain": true,
+      "imageNote": "Wedding design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "980000000000201",
+          "title": "4 tiers — bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/wedding-cakes/367215a43214e5a2be.webp",
+          "tiers": 4
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 4,
+      "catalogueAddition": "wedding-2026-09",
+      "searchText": "White Petals & Gold Leaves Wedding Cake 4 tier wedding floral bespoke"
+    },
+    {
+      "id": "9800000000004",
+      "handle": "blush-gold-garland-wedding-cake-w4",
+      "title": "Blush & Gold Garland Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "tiered-cake"
+      ],
+      "kind": "cake",
+      "description": "5 tiers with blush and gold garland details. Cake dimensions, flavours and finishing materials are arranged for your wedding.",
+      "images": [
+        "assets/products/wedding-cakes/63c5ece1f0e5ed445e.webp"
+      ],
+      "image": "assets/products/wedding-cakes/63c5ece1f0e5ed445e.webp",
+      "imageAlt": "Blush & Gold Garland Wedding Cake — 5 cake tiers",
+      "imageContain": true,
+      "imageNote": "Wedding design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "980000000000401",
+          "title": "5 tiers — bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/wedding-cakes/63c5ece1f0e5ed445e.webp",
+          "tiers": 5
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 5,
+      "catalogueAddition": "wedding-2026-09",
+      "searchText": "Blush & Gold Garland Wedding Cake 5 tier wedding floral bespoke"
+    },
+    {
+      "id": "9800000000005",
+      "handle": "white-floral-spiral-wedding-cake-w5",
+      "title": "White Floral Spiral Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "tiered-cake"
+      ],
+      "kind": "cake",
+      "description": "5 tiers with white floral spiral details. Cake dimensions, flavours and finishing materials are arranged for your wedding.",
+      "images": [
+        "assets/products/wedding-cakes/d74c0d76fa8240c9d5.webp"
+      ],
+      "image": "assets/products/wedding-cakes/d74c0d76fa8240c9d5.webp",
+      "imageAlt": "White Floral Spiral Wedding Cake — 5 cake tiers",
+      "imageContain": true,
+      "imageNote": "Wedding design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "980000000000501",
+          "title": "5 tiers — bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/wedding-cakes/d74c0d76fa8240c9d5.webp",
+          "tiers": 5
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 5,
+      "catalogueAddition": "wedding-2026-09",
+      "searchText": "White Floral Spiral Wedding Cake 5 tier wedding floral bespoke"
+    },
+    {
+      "id": "9800000000006",
+      "handle": "ivory-rose-cascade-wedding-cake-w6",
+      "title": "Ivory Rose Cascade Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "tiered-cake"
+      ],
+      "kind": "cake",
+      "description": "4 tiers with ivory rose cascade details. Cake dimensions, flavours and finishing materials are arranged for your wedding.",
+      "images": [
+        "assets/products/wedding-cakes/07a767cc89d5da7c3e.webp"
+      ],
+      "image": "assets/products/wedding-cakes/07a767cc89d5da7c3e.webp",
+      "imageAlt": "Ivory Rose Cascade Wedding Cake — 4 cake tiers",
+      "imageContain": true,
+      "imageNote": "Wedding design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "980000000000601",
+          "title": "4 tiers — bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/wedding-cakes/07a767cc89d5da7c3e.webp",
+          "tiers": 4
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 4,
+      "catalogueAddition": "wedding-2026-09",
+      "searchText": "Ivory Rose Cascade Wedding Cake 4 tier wedding floral bespoke"
+    },
+    {
+      "id": "9800000000007",
+      "handle": "gold-ivory-rose-wreaths-wedding-cake-w7",
+      "title": "Gold & Ivory Rose Wreaths Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "tiered-cake"
+      ],
+      "kind": "cake",
+      "description": "5 tiers with gold and ivory rose wreaths details. Cake dimensions, flavours and finishing materials are arranged for your wedding.",
+      "images": [
+        "assets/products/wedding-cakes/fbac80e043fbec9830.webp"
+      ],
+      "image": "assets/products/wedding-cakes/fbac80e043fbec9830.webp",
+      "imageAlt": "Gold & Ivory Rose Wreaths Wedding Cake — 5 cake tiers",
+      "imageContain": true,
+      "imageNote": "Wedding design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "980000000000701",
+          "title": "5 tiers — bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/wedding-cakes/fbac80e043fbec9830.webp",
+          "tiers": 5
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 5,
+      "catalogueAddition": "wedding-2026-09",
+      "searchText": "Gold & Ivory Rose Wreaths Wedding Cake 5 tier wedding floral bespoke"
+    },
+    {
+      "id": "9800000000008",
+      "handle": "champagne-petals-monogram-wedding-cake-w8",
+      "title": "Champagne Petals & Monogram Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "tiered-cake"
+      ],
+      "kind": "cake",
+      "description": "5 tiers with champagne petals and monogram details. Cake dimensions, flavours and finishing materials are arranged for your wedding.",
+      "images": [
+        "assets/products/wedding-cakes/a6a1556a4624e7fb00.webp"
+      ],
+      "image": "assets/products/wedding-cakes/a6a1556a4624e7fb00.webp",
+      "imageAlt": "Champagne Petals & Monogram Wedding Cake — 5 cake tiers",
+      "imageContain": true,
+      "imageNote": "Wedding design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "980000000000801",
+          "title": "5 tiers — bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/wedding-cakes/a6a1556a4624e7fb00.webp",
+          "tiers": 5
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 5,
+      "catalogueAddition": "wedding-2026-09",
+      "searchText": "Champagne Petals & Monogram Wedding Cake 5 tier wedding floral bespoke"
+    },
+    {
+      "id": "9800000000009",
+      "handle": "white-florals-gold-frame-wedding-cake-w9",
+      "title": "White Florals & Gold Frame Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "tiered-cake"
+      ],
+      "kind": "cake",
+      "description": "Four cake tiers with a gold open-frame separator and soft green leaf accents.",
+      "images": [
+        "assets/products/wedding-cakes/97f2a7b09a4675741b.webp"
+      ],
+      "image": "assets/products/wedding-cakes/97f2a7b09a4675741b.webp",
+      "imageAlt": "White Florals & Gold Frame Wedding Cake — 4 cake tiers",
+      "imageContain": true,
+      "imageNote": "Wedding design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "980000000000901",
+          "title": "4 tiers — bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/wedding-cakes/97f2a7b09a4675741b.webp",
+          "tiers": 4
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 4,
+      "catalogueAddition": "wedding-2026-09",
+      "searchText": "White Florals & Gold Frame Wedding Cake 4 tier wedding floral bespoke"
+    },
+    {
+      "id": "9800000000010",
+      "handle": "monogram-lace-wedding-cake-w10",
+      "title": "Monogram & Lace Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "tiered-cake"
+      ],
+      "kind": "cake",
+      "description": "4 tiers with monogram and lace details. Cake dimensions, flavours and finishing materials are arranged for your wedding.",
+      "images": [
+        "assets/products/wedding-cakes/c239e341c040610a93.webp"
+      ],
+      "image": "assets/products/wedding-cakes/c239e341c040610a93.webp",
+      "imageAlt": "Monogram & Lace Wedding Cake — 4 cake tiers",
+      "imageContain": true,
+      "imageNote": "Wedding design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "980000000001001",
+          "title": "4 tiers — bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/wedding-cakes/c239e341c040610a93.webp",
+          "tiers": 4
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 4,
+      "catalogueAddition": "wedding-2026-09",
+      "searchText": "Monogram & Lace Wedding Cake 4 tier wedding floral bespoke"
+    },
+    {
+      "id": "9800000000011",
+      "handle": "gold-marble-florals-wedding-cake-w11",
+      "title": "Gold Marble & Florals Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "tiered-cake"
+      ],
+      "kind": "cake",
+      "description": "5 tiers with gold marble and florals details. Cake dimensions, flavours and finishing materials are arranged for your wedding.",
+      "images": [
+        "assets/products/wedding-cakes/0b56b3ab7482ab059d.webp"
+      ],
+      "image": "assets/products/wedding-cakes/0b56b3ab7482ab059d.webp",
+      "imageAlt": "Gold Marble & Florals Wedding Cake — 5 cake tiers",
+      "imageContain": true,
+      "imageNote": "Wedding design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "980000000001101",
+          "title": "5 tiers — bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/wedding-cakes/0b56b3ab7482ab059d.webp",
+          "tiers": 5
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 5,
+      "catalogueAddition": "wedding-2026-09",
+      "searchText": "Gold Marble & Florals Wedding Cake 5 tier wedding floral bespoke"
+    },
+    {
+      "id": "9800000000012",
+      "handle": "white-ruffles-floral-spiral-wedding-cake-w12",
+      "title": "White Ruffles & Floral Spiral Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "tiered-cake"
+      ],
+      "kind": "cake",
+      "description": "5 tiers with white ruffles and floral spiral details. Cake dimensions, flavours and finishing materials are arranged for your wedding.",
+      "images": [
+        "assets/products/wedding-cakes/80ace3bde4c1ec5397.webp"
+      ],
+      "image": "assets/products/wedding-cakes/80ace3bde4c1ec5397.webp",
+      "imageAlt": "White Ruffles & Floral Spiral Wedding Cake — 5 cake tiers",
+      "imageContain": true,
+      "imageNote": "Wedding design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "980000000001201",
+          "title": "5 tiers — bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/wedding-cakes/80ace3bde4c1ec5397.webp",
+          "tiers": 5
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 5,
+      "catalogueAddition": "wedding-2026-09",
+      "searchText": "White Ruffles & Floral Spiral Wedding Cake 5 tier wedding floral bespoke"
+    },
+    {
+      "id": "9800000000013",
+      "handle": "champagne-blush-rose-cascade-wedding-cake-w13",
+      "title": "Champagne & Blush Rose Cascade Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "tiered-cake"
+      ],
+      "kind": "cake",
+      "description": "6 tiers with champagne and blush rose cascade details. Cake dimensions, flavours and finishing materials are arranged for your wedding.",
+      "images": [
+        "assets/products/wedding-cakes/2f8db6fcdd98117691.webp"
+      ],
+      "image": "assets/products/wedding-cakes/2f8db6fcdd98117691.webp",
+      "imageAlt": "Champagne & Blush Rose Cascade Wedding Cake — 6 cake tiers",
+      "imageContain": true,
+      "imageNote": "Wedding design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "980000000001301",
+          "title": "6 tiers — bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/wedding-cakes/2f8db6fcdd98117691.webp",
+          "tiers": 6
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 6,
+      "catalogueAddition": "wedding-2026-09",
+      "searchText": "Champagne & Blush Rose Cascade Wedding Cake 6 tier wedding floral bespoke"
+    },
+    {
+      "id": "9800000000014",
+      "handle": "lilac-rose-cascade-wedding-cake-w14",
+      "title": "Lilac Rose Cascade Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "tiered-cake"
+      ],
+      "kind": "cake",
+      "description": "4 tiers with lilac rose cascade details. Cake dimensions, flavours and finishing materials are arranged for your wedding.",
+      "images": [
+        "assets/products/wedding-cakes/0e3b07c3fa0ffe525b.webp"
+      ],
+      "image": "assets/products/wedding-cakes/0e3b07c3fa0ffe525b.webp",
+      "imageAlt": "Lilac Rose Cascade Wedding Cake — 4 cake tiers",
+      "imageContain": true,
+      "imageNote": "Wedding design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "980000000001401",
+          "title": "4 tiers — bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/wedding-cakes/0e3b07c3fa0ffe525b.webp",
+          "tiers": 4
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 4,
+      "catalogueAddition": "wedding-2026-09",
+      "searchText": "Lilac Rose Cascade Wedding Cake 4 tier wedding floral bespoke"
+    },
+    {
+      "id": "9800000000015",
+      "handle": "blush-roses-initial-wedding-cake-w15",
+      "title": "Blush Roses & Initial Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "tiered-cake"
+      ],
+      "kind": "cake",
+      "description": "4 tiers with blush roses and initial details. Cake dimensions, flavours and finishing materials are arranged for your wedding.",
+      "images": [
+        "assets/products/wedding-cakes/4bb4d0c1677cbcd4dc.webp"
+      ],
+      "image": "assets/products/wedding-cakes/4bb4d0c1677cbcd4dc.webp",
+      "imageAlt": "Blush Roses & Initial Wedding Cake — 4 cake tiers",
+      "imageContain": true,
+      "imageNote": "Wedding design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "980000000001501",
+          "title": "4 tiers — bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/wedding-cakes/4bb4d0c1677cbcd4dc.webp",
+          "tiers": 4
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 4,
+      "catalogueAddition": "wedding-2026-09",
+      "searchText": "Blush Roses & Initial Wedding Cake 4 tier wedding floral bespoke"
+    },
+    {
+      "id": "9800000000016",
+      "handle": "ivory-lace-crystal-separator-wedding-cake-w16",
+      "title": "Ivory Lace & Crystal Separator Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "tiered-cake"
+      ],
+      "kind": "cake",
+      "description": "Five cake tiers with an additional clear separator, gold bands and white flowers.",
+      "images": [
+        "assets/products/wedding-cakes/43a715af3bab28a37c.webp"
+      ],
+      "image": "assets/products/wedding-cakes/43a715af3bab28a37c.webp",
+      "imageAlt": "Ivory Lace & Crystal Separator Wedding Cake — 5 cake tiers",
+      "imageContain": true,
+      "imageNote": "Wedding design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "980000000001601",
+          "title": "5 tiers — bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/wedding-cakes/43a715af3bab28a37c.webp",
+          "tiers": 5
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 5,
+      "catalogueAddition": "wedding-2026-09",
+      "searchText": "Ivory Lace & Crystal Separator Wedding Cake 5 tier wedding floral bespoke"
+    },
+    {
+      "id": "9800000000017",
+      "handle": "white-texture-petals-wedding-cake-w17",
+      "title": "White Texture & Petals Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "tiered-cake"
+      ],
+      "kind": "cake",
+      "description": "4 tiers with white texture and petals details. Cake dimensions, flavours and finishing materials are arranged for your wedding.",
+      "images": [
+        "assets/products/wedding-cakes/3534ec8e780d883bf3.webp"
+      ],
+      "image": "assets/products/wedding-cakes/3534ec8e780d883bf3.webp",
+      "imageAlt": "White Texture & Petals Wedding Cake — 4 cake tiers",
+      "imageContain": true,
+      "imageNote": "Wedding design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "980000000001701",
+          "title": "4 tiers — bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/wedding-cakes/3534ec8e780d883bf3.webp",
+          "tiers": 4
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 4,
+      "catalogueAddition": "wedding-2026-09",
+      "searchText": "White Texture & Petals Wedding Cake 4 tier wedding floral bespoke"
+    },
+    {
+      "id": "9800000000018",
+      "handle": "ice-blue-ivory-roses-wedding-cake-w18",
+      "title": "Ice Blue & Ivory Roses Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "tiered-cake"
+      ],
+      "kind": "cake",
+      "description": "4 tiers with ice blue and ivory roses details. Cake dimensions, flavours and finishing materials are arranged for your wedding.",
+      "images": [
+        "assets/products/wedding-cakes/78fe9cf3aa338169f8.webp"
+      ],
+      "image": "assets/products/wedding-cakes/78fe9cf3aa338169f8.webp",
+      "imageAlt": "Ice Blue & Ivory Roses Wedding Cake — 4 cake tiers",
+      "imageContain": true,
+      "imageNote": "Wedding design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "980000000001801",
+          "title": "4 tiers — bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/wedding-cakes/78fe9cf3aa338169f8.webp",
+          "tiers": 4
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 4,
+      "catalogueAddition": "wedding-2026-09",
+      "searchText": "Ice Blue & Ivory Roses Wedding Cake 4 tier wedding floral bespoke"
+    },
+    {
+      "id": "9800000000019",
+      "handle": "champagne-pearl-floral-lace-wedding-cake-w19",
+      "title": "Champagne Pearl & Floral Lace Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "tiered-cake"
+      ],
+      "kind": "cake",
+      "description": "4 tiers with champagne pearl and floral lace details. Cake dimensions, flavours and finishing materials are arranged for your wedding.",
+      "images": [
+        "assets/products/wedding-cakes/b7b5a450fb2264ea86.webp"
+      ],
+      "image": "assets/products/wedding-cakes/b7b5a450fb2264ea86.webp",
+      "imageAlt": "Champagne Pearl & Floral Lace Wedding Cake — 4 cake tiers",
+      "imageContain": true,
+      "imageNote": "Wedding design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "980000000001901",
+          "title": "4 tiers — bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/wedding-cakes/b7b5a450fb2264ea86.webp",
+          "tiers": 4
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 4,
+      "catalogueAddition": "wedding-2026-09",
+      "searchText": "Champagne Pearl & Floral Lace Wedding Cake 4 tier wedding floral bespoke"
+    },
+    {
+      "id": "9800000000020",
+      "handle": "rose-marble-burgundy-blooms-wedding-cake-w20",
+      "title": "Rose Marble & Burgundy Blooms Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "tiered-cake"
+      ],
+      "kind": "cake",
+      "description": "4 tiers with rose marble and burgundy blooms details. Cake dimensions, flavours and finishing materials are arranged for your wedding.",
+      "images": [
+        "assets/products/wedding-cakes/e248eeff7037776134.webp"
+      ],
+      "image": "assets/products/wedding-cakes/e248eeff7037776134.webp",
+      "imageAlt": "Rose Marble & Burgundy Blooms Wedding Cake — 4 cake tiers",
+      "imageContain": true,
+      "imageNote": "Wedding design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "980000000002001",
+          "title": "4 tiers — bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/wedding-cakes/e248eeff7037776134.webp",
+          "tiers": 4
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 4,
+      "catalogueAddition": "wedding-2026-09",
+      "searchText": "Rose Marble & Burgundy Blooms Wedding Cake 4 tier wedding floral bespoke"
+    },
+    {
+      "id": "9800000000021",
+      "handle": "white-florals-clear-separator-wedding-cake-w21",
+      "title": "White Florals & Clear Separator Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "tiered-cake"
+      ],
+      "kind": "cake",
+      "description": "Three cake tiers with an additional clear separator filled with sparkling detail.",
+      "images": [
+        "assets/products/wedding-cakes/6b3f7c8984efaa3c6e.webp"
+      ],
+      "image": "assets/products/wedding-cakes/6b3f7c8984efaa3c6e.webp",
+      "imageAlt": "White Florals & Clear Separator Wedding Cake — 3 cake tiers",
+      "imageContain": true,
+      "imageNote": "Wedding design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "980000000002101",
+          "title": "3 tiers — bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/wedding-cakes/6b3f7c8984efaa3c6e.webp",
+          "tiers": 3
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 3,
+      "catalogueAddition": "wedding-2026-09",
+      "searchText": "White Florals & Clear Separator Wedding Cake 3 tier wedding floral bespoke"
+    },
+    {
+      "id": "9800000000023",
+      "handle": "garden-rose-wedding-cake-w23",
+      "title": "Garden Rose Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "tiered-cake"
+      ],
+      "kind": "cake",
+      "description": "3 tiers with garden rose wedding cake details. Cake dimensions, flavours and finishing materials are arranged for your wedding.",
+      "images": [
+        "assets/products/wedding-cakes/eec475ab49084d102d.webp"
+      ],
+      "image": "assets/products/wedding-cakes/eec475ab49084d102d.webp",
+      "imageAlt": "Garden Rose Wedding Cake — 3 cake tiers",
+      "imageContain": true,
+      "imageNote": "Wedding design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "980000000002301",
+          "title": "3 tiers — bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/wedding-cakes/eec475ab49084d102d.webp",
+          "tiers": 3
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 3,
+      "catalogueAddition": "wedding-2026-09",
+      "searchText": "Garden Rose Wedding Cake 3 tier wedding floral bespoke"
+    },
+    {
+      "id": "9800000000024",
+      "handle": "champagne-shimmer-floral-bands-wedding-cake-w24",
+      "title": "Champagne Shimmer & Floral Bands Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "tiered-cake"
+      ],
+      "kind": "cake",
+      "description": "4 tiers with champagne shimmer and floral bands details. Cake dimensions, flavours and finishing materials are arranged for your wedding.",
+      "images": [
+        "assets/products/wedding-cakes/959f396bd292ca14be.webp"
+      ],
+      "image": "assets/products/wedding-cakes/959f396bd292ca14be.webp",
+      "imageAlt": "Champagne Shimmer & Floral Bands Wedding Cake — 4 cake tiers",
+      "imageContain": true,
+      "imageNote": "Wedding design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "980000000002401",
+          "title": "4 tiers — bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/wedding-cakes/959f396bd292ca14be.webp",
+          "tiers": 4
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 4,
+      "catalogueAddition": "wedding-2026-09",
+      "searchText": "Champagne Shimmer & Floral Bands Wedding Cake 4 tier wedding floral bespoke"
+    },
+    {
+      "id": "9800000000025",
+      "handle": "blush-petals-monogram-wedding-cake-w25",
+      "title": "Blush Petals & Monogram Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "tiered-cake"
+      ],
+      "kind": "cake",
+      "description": "4 tiers with blush petals and monogram details. Cake dimensions, flavours and finishing materials are arranged for your wedding.",
+      "images": [
+        "assets/products/wedding-cakes/1fbe7dc28241aa274b.webp"
+      ],
+      "image": "assets/products/wedding-cakes/1fbe7dc28241aa274b.webp",
+      "imageAlt": "Blush Petals & Monogram Wedding Cake — 4 cake tiers",
+      "imageContain": true,
+      "imageNote": "Wedding design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "980000000002501",
+          "title": "4 tiers — bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/wedding-cakes/1fbe7dc28241aa274b.webp",
+          "tiers": 4
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 4,
+      "catalogueAddition": "wedding-2026-09",
+      "searchText": "Blush Petals & Monogram Wedding Cake 4 tier wedding floral bespoke"
+    },
+    {
+      "id": "9800000000026",
+      "handle": "white-roses-green-vines-wedding-cake-w26",
+      "title": "White Roses & Green Vines Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "tiered-cake"
+      ],
+      "kind": "cake",
+      "description": "4 tiers with white roses and green vines details. Cake dimensions, flavours and finishing materials are arranged for your wedding.",
+      "images": [
+        "assets/products/wedding-cakes/a1ba4c1798d93ed895.webp"
+      ],
+      "image": "assets/products/wedding-cakes/a1ba4c1798d93ed895.webp",
+      "imageAlt": "White Roses & Green Vines Wedding Cake — 4 cake tiers",
+      "imageContain": true,
+      "imageNote": "Wedding design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "980000000002601",
+          "title": "4 tiers — bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/wedding-cakes/a1ba4c1798d93ed895.webp",
+          "tiers": 4
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 4,
+      "catalogueAddition": "wedding-2026-09",
+      "searchText": "White Roses & Green Vines Wedding Cake 4 tier wedding floral bespoke"
+    },
+    {
+      "id": "9800000000028",
+      "handle": "magenta-watercolour-florals-wedding-cake-w28",
+      "title": "Magenta Watercolour & Florals Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "tiered-cake"
+      ],
+      "kind": "cake",
+      "description": "3 tiers with magenta watercolour and florals details. Cake dimensions, flavours and finishing materials are arranged for your wedding.",
+      "images": [
+        "assets/products/wedding-cakes/042b5b0cecdc758226.webp"
+      ],
+      "image": "assets/products/wedding-cakes/042b5b0cecdc758226.webp",
+      "imageAlt": "Magenta Watercolour & Florals Wedding Cake — 3 cake tiers",
+      "imageContain": true,
+      "imageNote": "Wedding design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "980000000002801",
+          "title": "3 tiers — bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/wedding-cakes/042b5b0cecdc758226.webp",
+          "tiers": 3
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 3,
+      "catalogueAddition": "wedding-2026-09",
+      "searchText": "Magenta Watercolour & Florals Wedding Cake 3 tier wedding floral bespoke"
+    },
+    {
+      "id": "9800000000029",
+      "handle": "soft-pink-garden-cascade-wedding-cake-w29",
+      "title": "Soft Pink Garden Cascade Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "tiered-cake"
+      ],
+      "kind": "cake",
+      "description": "4 tiers with soft pink garden cascade details. Cake dimensions, flavours and finishing materials are arranged for your wedding.",
+      "images": [
+        "assets/products/wedding-cakes/620e42a6ff16e318ca.webp"
+      ],
+      "image": "assets/products/wedding-cakes/620e42a6ff16e318ca.webp",
+      "imageAlt": "Soft Pink Garden Cascade Wedding Cake — 4 cake tiers",
+      "imageContain": true,
+      "imageNote": "Wedding design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "980000000002901",
+          "title": "4 tiers — bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/wedding-cakes/620e42a6ff16e318ca.webp",
+          "tiers": 4
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 4,
+      "catalogueAddition": "wedding-2026-09",
+      "searchText": "Soft Pink Garden Cascade Wedding Cake 4 tier wedding floral bespoke"
+    },
+    {
+      "id": "9800000000030",
+      "handle": "lilac-double-floral-spiral-wedding-cake-w30",
+      "title": "Lilac Double Floral Spiral Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "tiered-cake"
+      ],
+      "kind": "cake",
+      "description": "5 tiers with lilac double floral spiral details. Cake dimensions, flavours and finishing materials are arranged for your wedding.",
+      "images": [
+        "assets/products/wedding-cakes/c314b9d8e1fdaf9aab.webp"
+      ],
+      "image": "assets/products/wedding-cakes/c314b9d8e1fdaf9aab.webp",
+      "imageAlt": "Lilac Double Floral Spiral Wedding Cake — 5 cake tiers",
+      "imageContain": true,
+      "imageNote": "Wedding design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "980000000003001",
+          "title": "5 tiers — bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/wedding-cakes/c314b9d8e1fdaf9aab.webp",
+          "tiers": 5
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 5,
+      "catalogueAddition": "wedding-2026-09",
+      "searchText": "Lilac Double Floral Spiral Wedding Cake 5 tier wedding floral bespoke"
+    },
+    {
+      "id": "9800000000031",
+      "handle": "pink-peonies-gold-initials-wedding-cake-w31",
+      "title": "Pink Peonies & Gold Initials Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "tiered-cake"
+      ],
+      "kind": "cake",
+      "description": "4 tiers with pink peonies and gold initials details. Cake dimensions, flavours and finishing materials are arranged for your wedding.",
+      "images": [
+        "assets/products/wedding-cakes/b301ea4d0e5a73b8d7.webp"
+      ],
+      "image": "assets/products/wedding-cakes/b301ea4d0e5a73b8d7.webp",
+      "imageAlt": "Pink Peonies & Gold Initials Wedding Cake — 4 cake tiers",
+      "imageContain": true,
+      "imageNote": "Wedding design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "980000000003101",
+          "title": "4 tiers — bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/wedding-cakes/b301ea4d0e5a73b8d7.webp",
+          "tiers": 4
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 4,
+      "catalogueAddition": "wedding-2026-09",
+      "searchText": "Pink Peonies & Gold Initials Wedding Cake 4 tier wedding floral bespoke"
+    },
+    {
+      "id": "9800000000032",
+      "handle": "white-floral-wreaths-wedding-cake-w32",
+      "title": "White Floral Wreaths Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "tiered-cake"
+      ],
+      "kind": "cake",
+      "description": "4 tiers with white floral wreaths details. Cake dimensions, flavours and finishing materials are arranged for your wedding.",
+      "images": [
+        "assets/products/wedding-cakes/9978801fe027b21ca8.webp"
+      ],
+      "image": "assets/products/wedding-cakes/9978801fe027b21ca8.webp",
+      "imageAlt": "White Floral Wreaths Wedding Cake — 4 cake tiers",
+      "imageContain": true,
+      "imageNote": "Wedding design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "980000000003201",
+          "title": "4 tiers — bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/wedding-cakes/9978801fe027b21ca8.webp",
+          "tiers": 4
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 4,
+      "catalogueAddition": "wedding-2026-09",
+      "searchText": "White Floral Wreaths Wedding Cake 4 tier wedding floral bespoke"
+    },
+    {
+      "id": "9800000000033",
+      "handle": "white-floral-applique-wedding-cake-w33",
+      "title": "White Floral Appliqué Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "tiered-cake"
+      ],
+      "kind": "cake",
+      "description": "5 tiers with white floral appliqué details. Cake dimensions, flavours and finishing materials are arranged for your wedding.",
+      "images": [
+        "assets/products/wedding-cakes/e80b595dfdabb7dbbc.webp"
+      ],
+      "image": "assets/products/wedding-cakes/e80b595dfdabb7dbbc.webp",
+      "imageAlt": "White Floral Appliqué Wedding Cake — 5 cake tiers",
+      "imageContain": true,
+      "imageNote": "Wedding design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "980000000003301",
+          "title": "5 tiers — bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/wedding-cakes/e80b595dfdabb7dbbc.webp",
+          "tiers": 5
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 5,
+      "catalogueAddition": "wedding-2026-09",
+      "searchText": "White Floral Appliqué Wedding Cake 5 tier wedding floral bespoke"
+    },
+    {
+      "id": "9800000000034",
+      "handle": "champagne-floral-cascade-wedding-cake-w34",
+      "title": "Champagne Floral Cascade Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "tiered-cake"
+      ],
+      "kind": "cake",
+      "description": "3 tiers with champagne floral cascade details. Cake dimensions, flavours and finishing materials are arranged for your wedding.",
+      "images": [
+        "assets/products/wedding-cakes/290570492426f44afb.webp",
+        "assets/products/wedding-cakes/0bc6eed95429453795.webp"
+      ],
+      "image": "assets/products/wedding-cakes/290570492426f44afb.webp",
+      "imageAlt": "Champagne Floral Cascade Wedding Cake — 3 cake tiers",
+      "imageContain": true,
+      "imageNote": "Wedding design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "980000000003401",
+          "title": "3 tiers — bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/wedding-cakes/290570492426f44afb.webp",
+          "tiers": 3
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 3,
+      "catalogueAddition": "wedding-2026-09",
+      "searchText": "Champagne Floral Cascade Wedding Cake 3 tier wedding floral bespoke"
+    },
+    {
+      "id": "9800000000035",
+      "handle": "suspended-gold-floral-chandelier-wedding-cake-w35",
+      "title": "Suspended Gold & Floral Chandelier Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "tiered-cake"
+      ],
+      "kind": "cake",
+      "description": "Three suspended cake tiers with gold trim and a hanging arrangement of rich pink and purple flowers.",
+      "images": [
+        "assets/products/wedding-cakes/526935e9c14b074464.webp"
+      ],
+      "image": "assets/products/wedding-cakes/526935e9c14b074464.webp",
+      "imageAlt": "Suspended Gold & Floral Chandelier Wedding Cake — 3 cake tiers",
+      "imageContain": true,
+      "imageNote": "Wedding design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "980000000003501",
+          "title": "3 tiers — bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/wedding-cakes/526935e9c14b074464.webp",
+          "tiers": 3
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 3,
+      "catalogueAddition": "wedding-2026-09",
+      "searchText": "Suspended Gold & Floral Chandelier Wedding Cake 3 tier wedding floral bespoke"
+    },
+    {
+      "id": "9800000000036",
+      "handle": "cherry-blossom-wedding-cake-w36",
+      "title": "Cherry Blossom Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "tiered-cake"
+      ],
+      "kind": "cake",
+      "description": "3 tiers with cherry blossom details. Cake dimensions, flavours and finishing materials are arranged for your wedding.",
+      "images": [
+        "assets/products/wedding-cakes/3598aad5f1397970ca.webp"
+      ],
+      "image": "assets/products/wedding-cakes/3598aad5f1397970ca.webp",
+      "imageAlt": "Cherry Blossom Wedding Cake — 3 cake tiers",
+      "imageContain": true,
+      "imageNote": "Wedding design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "980000000003601",
+          "title": "3 tiers — bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/wedding-cakes/3598aad5f1397970ca.webp",
+          "tiers": 3
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 3,
+      "catalogueAddition": "wedding-2026-09",
+      "searchText": "Cherry Blossom Wedding Cake 3 tier wedding floral bespoke"
+    },
+    {
+      "id": "9800000000037",
+      "handle": "floating-white-marble-wedding-cake-w37",
+      "title": "Floating White Marble Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "tiered-cake"
+      ],
+      "kind": "cake",
+      "description": "Four cake tiers with clear supports, white flowers and a gold monogram.",
+      "images": [
+        "assets/products/wedding-cakes/ab8c209ec7446a9b1d.webp"
+      ],
+      "image": "assets/products/wedding-cakes/ab8c209ec7446a9b1d.webp",
+      "imageAlt": "Floating White Marble Wedding Cake — 4 cake tiers",
+      "imageContain": true,
+      "imageNote": "Wedding design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "980000000003701",
+          "title": "4 tiers — bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/wedding-cakes/ab8c209ec7446a9b1d.webp",
+          "tiers": 4
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 4,
+      "catalogueAddition": "wedding-2026-09",
+      "searchText": "Floating White Marble Wedding Cake 4 tier wedding floral bespoke"
+    },
+    {
+      "id": "9800000000038",
+      "handle": "white-gold-cherub-wedding-cake-w38",
+      "title": "White & Gold Cherub Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "tiered-cake"
+      ],
+      "kind": "cake",
+      "description": "3 tiers with white and gold cherub details. Cake dimensions, flavours and finishing materials are arranged for your wedding.",
+      "images": [
+        "assets/products/wedding-cakes/85b348dddf275bb93d.webp"
+      ],
+      "image": "assets/products/wedding-cakes/85b348dddf275bb93d.webp",
+      "imageAlt": "White & Gold Cherub Wedding Cake — 3 cake tiers",
+      "imageContain": true,
+      "imageNote": "Wedding design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "980000000003801",
+          "title": "3 tiers — bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/wedding-cakes/85b348dddf275bb93d.webp",
+          "tiers": 3
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 3,
+      "catalogueAddition": "wedding-2026-09",
+      "searchText": "White & Gold Cherub Wedding Cake 3 tier wedding floral bespoke"
+    },
+    {
+      "id": "9800000000039",
+      "handle": "white-lace-blush-flowers-wedding-cake-w39",
+      "title": "White Lace & Blush Flowers Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "tiered-cake"
+      ],
+      "kind": "cake",
+      "description": "3 tiers with white lace and blush flowers details. Cake dimensions, flavours and finishing materials are arranged for your wedding.",
+      "images": [
+        "assets/products/wedding-cakes/5678ebbd0380648339.webp"
+      ],
+      "image": "assets/products/wedding-cakes/5678ebbd0380648339.webp",
+      "imageAlt": "White Lace & Blush Flowers Wedding Cake — 3 cake tiers",
+      "imageContain": true,
+      "imageNote": "Wedding design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "980000000003901",
+          "title": "3 tiers — bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/wedding-cakes/5678ebbd0380648339.webp",
+          "tiers": 3
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 3,
+      "catalogueAddition": "wedding-2026-09",
+      "searchText": "White Lace & Blush Flowers Wedding Cake 3 tier wedding floral bespoke"
+    },
+    {
+      "id": "9800000000043",
+      "handle": "blush-double-floral-cascade-wedding-cake-w43",
+      "title": "Blush Double Floral Cascade Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "tiered-cake"
+      ],
+      "kind": "cake",
+      "description": "3 tiers with blush double floral cascade details. Cake dimensions, flavours and finishing materials are arranged for your wedding.",
+      "images": [
+        "assets/products/wedding-cakes/77bbb5acbbdab8bb63.webp"
+      ],
+      "image": "assets/products/wedding-cakes/77bbb5acbbdab8bb63.webp",
+      "imageAlt": "Blush Double Floral Cascade Wedding Cake — 3 cake tiers",
+      "imageContain": true,
+      "imageNote": "Wedding design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "980000000004301",
+          "title": "3 tiers — bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/wedding-cakes/77bbb5acbbdab8bb63.webp",
+          "tiers": 3
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 3,
+      "catalogueAddition": "wedding-2026-09",
+      "searchText": "Blush Double Floral Cascade Wedding Cake 3 tier wedding floral bespoke"
+    },
+    {
+      "id": "9800000000044",
+      "handle": "pink-ombre-floral-spiral-wedding-cake-w44",
+      "title": "Pink Ombré Floral Spiral Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "tiered-cake"
+      ],
+      "kind": "cake",
+      "description": "3 tiers with pink ombré floral spiral details. Cake dimensions, flavours and finishing materials are arranged for your wedding.",
+      "images": [
+        "assets/products/wedding-cakes/bd32cc1298088e9d65.webp"
+      ],
+      "image": "assets/products/wedding-cakes/bd32cc1298088e9d65.webp",
+      "imageAlt": "Pink Ombré Floral Spiral Wedding Cake — 3 cake tiers",
+      "imageContain": true,
+      "imageNote": "Wedding design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "980000000004401",
+          "title": "3 tiers — bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/wedding-cakes/bd32cc1298088e9d65.webp",
+          "tiers": 3
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 3,
+      "catalogueAddition": "wedding-2026-09",
+      "searchText": "Pink Ombré Floral Spiral Wedding Cake 3 tier wedding floral bespoke"
+    },
+    {
+      "id": "9800000000045",
+      "handle": "burgundy-watercolour-gold-leaf-wedding-cake-w45",
+      "title": "Burgundy Watercolour & Gold Leaf Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "tiered-cake"
+      ],
+      "kind": "cake",
+      "description": "2 tiers with burgundy watercolour and gold leaf details. Cake dimensions, flavours and finishing materials are arranged for your wedding.",
+      "images": [
+        "assets/products/wedding-cakes/ad7a69fbdeaa831188.webp"
+      ],
+      "image": "assets/products/wedding-cakes/ad7a69fbdeaa831188.webp",
+      "imageAlt": "Burgundy Watercolour & Gold Leaf Wedding Cake — 2 cake tiers",
+      "imageContain": true,
+      "imageNote": "Wedding design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "980000000004501",
+          "title": "2 tiers — bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/wedding-cakes/ad7a69fbdeaa831188.webp",
+          "tiers": 2
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 2,
+      "catalogueAddition": "wedding-2026-09",
+      "searchText": "Burgundy Watercolour & Gold Leaf Wedding Cake 2 tier wedding floral bespoke"
+    },
+    {
+      "id": "9800000000046",
+      "handle": "ivory-piping-rose-garden-wedding-cake-w46",
+      "title": "Ivory Piping & Rose Garden Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "tiered-cake"
+      ],
+      "kind": "cake",
+      "description": "5 tiers with ivory piping and rose garden details. Cake dimensions, flavours and finishing materials are arranged for your wedding.",
+      "images": [
+        "assets/products/wedding-cakes/882b98e607d4f77475.webp"
+      ],
+      "image": "assets/products/wedding-cakes/882b98e607d4f77475.webp",
+      "imageAlt": "Ivory Piping & Rose Garden Wedding Cake — 5 cake tiers",
+      "imageContain": true,
+      "imageNote": "Wedding design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "980000000004601",
+          "title": "5 tiers — bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/wedding-cakes/882b98e607d4f77475.webp",
+          "tiers": 5
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 5,
+      "catalogueAddition": "wedding-2026-09",
+      "searchText": "Ivory Piping & Rose Garden Wedding Cake 5 tier wedding floral bespoke"
+    },
+    {
+      "id": "9800000000048",
+      "handle": "white-blush-grand-cascade-wedding-cake-w48",
+      "title": "White & Blush Grand Cascade Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "tiered-cake"
+      ],
+      "kind": "cake",
+      "description": "7 tiers with white and blush grand cascade details. Cake dimensions, flavours and finishing materials are arranged for your wedding.",
+      "images": [
+        "assets/products/wedding-cakes/876dff58141f12a02c.webp"
+      ],
+      "image": "assets/products/wedding-cakes/876dff58141f12a02c.webp",
+      "imageAlt": "White & Blush Grand Cascade Wedding Cake — 7 cake tiers",
+      "imageContain": true,
+      "imageNote": "Wedding design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "980000000004801",
+          "title": "7 tiers — bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/wedding-cakes/876dff58141f12a02c.webp",
+          "tiers": 7
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 7,
+      "catalogueAddition": "wedding-2026-09",
+      "searchText": "White & Blush Grand Cascade Wedding Cake 7 tier wedding floral bespoke"
+    },
+    {
+      "id": "9800000000052",
+      "handle": "emerald-watercolour-gold-wedding-cake-w52",
+      "title": "Emerald Watercolour & Gold Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "tiered-cake"
+      ],
+      "kind": "cake",
+      "description": "3 tiers with emerald watercolour and gold details. Cake dimensions, flavours and finishing materials are arranged for your wedding.",
+      "images": [
+        "assets/products/wedding-cakes/87aefe72eb07f1fbfb.webp"
+      ],
+      "image": "assets/products/wedding-cakes/87aefe72eb07f1fbfb.webp",
+      "imageAlt": "Emerald Watercolour & Gold Wedding Cake — 3 cake tiers",
+      "imageContain": true,
+      "imageNote": "Wedding design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "980000000005201",
+          "title": "3 tiers — bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/wedding-cakes/87aefe72eb07f1fbfb.webp",
+          "tiers": 3
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 3,
+      "catalogueAddition": "wedding-2026-09",
+      "searchText": "Emerald Watercolour & Gold Wedding Cake 3 tier wedding floral bespoke"
+    },
+    {
+      "id": "9800000000055",
+      "handle": "blue-ombre-white-flowers-wedding-cake-w55",
+      "title": "Blue Ombré & White Flowers Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "tiered-cake"
+      ],
+      "kind": "cake",
+      "description": "4 tiers with blue ombré and white flowers details. Cake dimensions, flavours and finishing materials are arranged for your wedding.",
+      "images": [
+        "assets/products/wedding-cakes/8d31beb06d69a570b9.webp"
+      ],
+      "image": "assets/products/wedding-cakes/8d31beb06d69a570b9.webp",
+      "imageAlt": "Blue Ombré & White Flowers Wedding Cake — 4 cake tiers",
+      "imageContain": true,
+      "imageNote": "Wedding design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "980000000005501",
+          "title": "4 tiers — bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/wedding-cakes/8d31beb06d69a570b9.webp",
+          "tiers": 4
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 4,
+      "catalogueAddition": "wedding-2026-09",
+      "searchText": "Blue Ombré & White Flowers Wedding Cake 4 tier wedding floral bespoke"
+    },
+    {
+      "id": "9800000000058",
+      "handle": "blush-rose-monogram-wedding-cake-w58",
+      "title": "Blush Rose Monogram Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "tiered-cake"
+      ],
+      "kind": "cake",
+      "description": "3 tiers with blush rose monogram details. Cake dimensions, flavours and finishing materials are arranged for your wedding.",
+      "images": [
+        "assets/products/wedding-cakes/7156cf0df7ad1e6085.webp",
+        "assets/products/wedding-cakes/dd6a123be19f3ff750.webp",
+        "assets/products/wedding-cakes/1c06c26ee6aeb2a32e.webp"
+      ],
+      "image": "assets/products/wedding-cakes/7156cf0df7ad1e6085.webp",
+      "imageAlt": "Blush Rose Monogram Wedding Cake — 3 cake tiers",
+      "imageContain": true,
+      "imageNote": "Wedding design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "980000000005801",
+          "title": "3 tiers — bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/wedding-cakes/7156cf0df7ad1e6085.webp",
+          "tiers": 3
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 3,
+      "catalogueAddition": "wedding-2026-09",
+      "searchText": "Blush Rose Monogram Wedding Cake 3 tier wedding floral bespoke"
+    },
+    {
+      "id": "9800000000059",
+      "handle": "silver-shimmer-white-roses-wedding-cake-w59",
+      "title": "Silver Shimmer & White Roses Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "tiered-cake"
+      ],
+      "kind": "cake",
+      "description": "Five cake tiers with silver separators, a monogram and white rose accents.",
+      "images": [
+        "assets/products/wedding-cakes/97bc47ed4d21eeaeda.webp"
+      ],
+      "image": "assets/products/wedding-cakes/97bc47ed4d21eeaeda.webp",
+      "imageAlt": "Silver Shimmer & White Roses Wedding Cake — 5 cake tiers",
+      "imageContain": true,
+      "imageNote": "Wedding design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "980000000005901",
+          "title": "5 tiers — bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/wedding-cakes/97bc47ed4d21eeaeda.webp",
+          "tiers": 5
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 5,
+      "catalogueAddition": "wedding-2026-09",
+      "searchText": "Silver Shimmer & White Roses Wedding Cake 5 tier wedding floral bespoke"
+    },
+    {
+      "id": "9800000000061",
+      "handle": "blush-ruffles-rose-spiral-wedding-cake-w61",
+      "title": "Blush Ruffles & Rose Spiral Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "tiered-cake"
+      ],
+      "kind": "cake",
+      "description": "5 tiers with blush ruffles and rose spiral details. Cake dimensions, flavours and finishing materials are arranged for your wedding.",
+      "images": [
+        "assets/products/wedding-cakes/43f67bee6e816b2c5c.webp"
+      ],
+      "image": "assets/products/wedding-cakes/43f67bee6e816b2c5c.webp",
+      "imageAlt": "Blush Ruffles & Rose Spiral Wedding Cake — 5 cake tiers",
+      "imageContain": true,
+      "imageNote": "Wedding design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "980000000006101",
+          "title": "5 tiers — bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/wedding-cakes/43f67bee6e816b2c5c.webp",
+          "tiers": 5
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 5,
+      "catalogueAddition": "wedding-2026-09",
+      "searchText": "Blush Ruffles & Rose Spiral Wedding Cake 5 tier wedding floral bespoke"
+    },
+    {
+      "id": "9800000000062",
+      "handle": "champagne-gold-floral-cascade-wedding-cake-w62",
+      "title": "Champagne & Gold Floral Cascade Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "tiered-cake"
+      ],
+      "kind": "cake",
+      "description": "4 tiers with champagne and gold floral cascade details. Cake dimensions, flavours and finishing materials are arranged for your wedding.",
+      "images": [
+        "assets/products/wedding-cakes/d2363824fd9e472d2e.webp"
+      ],
+      "image": "assets/products/wedding-cakes/d2363824fd9e472d2e.webp",
+      "imageAlt": "Champagne & Gold Floral Cascade Wedding Cake — 4 cake tiers",
+      "imageContain": true,
+      "imageNote": "Wedding design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "980000000006201",
+          "title": "4 tiers — bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/wedding-cakes/d2363824fd9e472d2e.webp",
+          "tiers": 4
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 4,
+      "catalogueAddition": "wedding-2026-09",
+      "searchText": "Champagne & Gold Floral Cascade Wedding Cake 4 tier wedding floral bespoke"
+    },
+    {
+      "id": "9800000000063",
+      "handle": "white-ruffle-gold-initials-wedding-cake-w63",
+      "title": "White Ruffle & Gold Initials Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "tiered-cake"
+      ],
+      "kind": "cake",
+      "description": "4 tiers with white ruffle and gold initials details. Cake dimensions, flavours and finishing materials are arranged for your wedding.",
+      "images": [
+        "assets/products/wedding-cakes/cd74ebac1a59bf22ae.webp"
+      ],
+      "image": "assets/products/wedding-cakes/cd74ebac1a59bf22ae.webp",
+      "imageAlt": "White Ruffle & Gold Initials Wedding Cake — 4 cake tiers",
+      "imageContain": true,
+      "imageNote": "Wedding design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "980000000006301",
+          "title": "4 tiers — bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/wedding-cakes/cd74ebac1a59bf22ae.webp",
+          "tiers": 4
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 4,
+      "catalogueAddition": "wedding-2026-09",
+      "searchText": "White Ruffle & Gold Initials Wedding Cake 4 tier wedding floral bespoke"
+    },
+    {
+      "id": "9800000000066",
+      "handle": "blush-petal-cascade-wedding-cake-w66",
+      "title": "Blush Petal Cascade Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "tiered-cake"
+      ],
+      "kind": "cake",
+      "description": "4 tiers with blush petal cascade details. Cake dimensions, flavours and finishing materials are arranged for your wedding.",
+      "images": [
+        "assets/products/wedding-cakes/a091e7193921627c64.webp"
+      ],
+      "image": "assets/products/wedding-cakes/a091e7193921627c64.webp",
+      "imageAlt": "Blush Petal Cascade Wedding Cake — 4 cake tiers",
+      "imageContain": true,
+      "imageNote": "Wedding design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "980000000006601",
+          "title": "4 tiers — bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/wedding-cakes/a091e7193921627c64.webp",
+          "tiers": 4
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 4,
+      "catalogueAddition": "wedding-2026-09",
+      "searchText": "Blush Petal Cascade Wedding Cake 4 tier wedding floral bespoke"
+    },
+    {
+      "id": "9800000000068",
+      "handle": "vintage-roses-textured-ivory-wedding-cake-w68",
+      "title": "Vintage Roses & Textured Ivory Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "tiered-cake"
+      ],
+      "kind": "cake",
+      "description": "3 tiers with vintage roses and textured ivory details. Cake dimensions, flavours and finishing materials are arranged for your wedding.",
+      "images": [
+        "assets/products/wedding-cakes/abc7d131b91c6b2dca.webp"
+      ],
+      "image": "assets/products/wedding-cakes/abc7d131b91c6b2dca.webp",
+      "imageAlt": "Vintage Roses & Textured Ivory Wedding Cake — 3 cake tiers",
+      "imageContain": true,
+      "imageNote": "Wedding design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "980000000006801",
+          "title": "3 tiers — bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/wedding-cakes/abc7d131b91c6b2dca.webp",
+          "tiers": 3
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 3,
+      "catalogueAddition": "wedding-2026-09",
+      "searchText": "Vintage Roses & Textured Ivory Wedding Cake 3 tier wedding floral bespoke"
+    },
+    {
+      "id": "9800000000069",
+      "handle": "grand-blush-gold-floral-staircase-wedding-cake-w69",
+      "title": "Grand Blush, Gold & Floral Staircase Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "tiered-cake"
+      ],
+      "kind": "cake",
+      "description": "Ten tiers combining round and geometric shapes, gold accents and sweeping blush and white flowers.",
+      "images": [
+        "assets/products/wedding-cakes/641f16f7770497a4e1.webp",
+        "assets/products/wedding-cakes/5a23e2fdc86031e60e.webp"
+      ],
+      "image": "assets/products/wedding-cakes/641f16f7770497a4e1.webp",
+      "imageAlt": "Grand Blush, Gold & Floral Staircase Wedding Cake — 10 cake tiers",
+      "imageContain": true,
+      "imageNote": "Wedding design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "980000000006901",
+          "title": "10 tiers — bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/wedding-cakes/641f16f7770497a4e1.webp",
+          "tiers": 10
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 10,
+      "catalogueAddition": "wedding-2026-09",
+      "searchText": "Grand Blush, Gold & Floral Staircase Wedding Cake 10 tier wedding floral bespoke"
+    },
+    {
+      "id": "9800000000071",
+      "handle": "ivory-black-gold-celebration-wedding-cake-w71",
+      "title": "Ivory, Black & Gold Celebration Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "tiered-cake"
+      ],
+      "kind": "cake",
+      "description": "Nine main cake tiers with gold separators, black and white flowers and coordinating mini cakes.",
+      "images": [
+        "assets/products/wedding-cakes/d71bb4ec789951844d.webp"
+      ],
+      "image": "assets/products/wedding-cakes/d71bb4ec789951844d.webp",
+      "imageAlt": "Ivory, Black & Gold Celebration Wedding Cake — 9 cake tiers",
+      "imageContain": true,
+      "imageNote": "Wedding design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "980000000007101",
+          "title": "9 tiers — bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/wedding-cakes/d71bb4ec789951844d.webp",
+          "tiers": 9
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 9,
+      "catalogueAddition": "wedding-2026-09",
+      "searchText": "Ivory, Black & Gold Celebration Wedding Cake 9 tier wedding floral bespoke"
+    },
+    {
+      "id": "9800000000072",
+      "handle": "ivory-regal-piping-roses-wedding-cake-w72",
+      "title": "Ivory Regal Piping & Roses Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "tiered-cake"
+      ],
+      "kind": "cake",
+      "description": "6 tiers with ivory regal piping and roses details. Cake dimensions, flavours and finishing materials are arranged for your wedding.",
+      "images": [
+        "assets/products/wedding-cakes/03eac919dc16ff1cc5.webp",
+        "assets/products/wedding-cakes/3d453f21293709b11d.webp"
+      ],
+      "image": "assets/products/wedding-cakes/03eac919dc16ff1cc5.webp",
+      "imageAlt": "Ivory Regal Piping & Roses Wedding Cake — 6 cake tiers",
+      "imageContain": true,
+      "imageNote": "Wedding design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "980000000007201",
+          "title": "6 tiers — bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/wedding-cakes/03eac919dc16ff1cc5.webp",
+          "tiers": 6
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 6,
+      "catalogueAddition": "wedding-2026-09",
+      "searchText": "Ivory Regal Piping & Roses Wedding Cake 6 tier wedding floral bespoke"
+    },
+    {
+      "id": "9800000000083",
+      "handle": "burgundy-wedding-cake-w83",
+      "title": "Burgundy Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "tiered-cake"
+      ],
+      "kind": "cake",
+      "description": "3 tiers with burgundy wedding cake details. Cake dimensions, flavours and finishing materials are arranged for your wedding.",
+      "images": [
+        "assets/products/wedding-cakes/7e2f4af5a0e74ce939.webp",
+        "assets/products/wedding-cakes/afd30c4e44df362652.webp"
+      ],
+      "image": "assets/products/wedding-cakes/7e2f4af5a0e74ce939.webp",
+      "imageAlt": "Burgundy Wedding Cake — 3 cake tiers",
+      "imageContain": true,
+      "imageNote": "Wedding design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "980000000008301",
+          "title": "3 tiers — bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/wedding-cakes/7e2f4af5a0e74ce939.webp",
+          "tiers": 3
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 3,
+      "catalogueAddition": "wedding-2026-09",
+      "searchText": "Burgundy Wedding Cake 3 tier wedding floral bespoke"
+    },
+    {
+      "id": "9800000000085",
+      "handle": "ivory-wedding-cake-w85",
+      "title": "Ivory Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "tiered-cake"
+      ],
+      "kind": "cake",
+      "description": "3 tiers with ivory wedding cake details. Cake dimensions, flavours and finishing materials are arranged for your wedding.",
+      "images": [
+        "assets/products/wedding-cakes/9362b4432789a256da.webp",
+        "assets/products/wedding-cakes/2f545b170b2bb45119.webp"
+      ],
+      "image": "assets/products/wedding-cakes/9362b4432789a256da.webp",
+      "imageAlt": "Ivory Wedding Cake — 3 cake tiers",
+      "imageContain": true,
+      "imageNote": "Wedding design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "980000000008501",
+          "title": "3 tiers — bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/wedding-cakes/9362b4432789a256da.webp",
+          "tiers": 3
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 3,
+      "catalogueAddition": "wedding-2026-09",
+      "searchText": "Ivory Wedding Cake 3 tier wedding floral bespoke"
+    },
+    {
+      "id": "9800000000087",
+      "handle": "black-wedding-cake-w87",
+      "title": "Black Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "tiered-cake"
+      ],
+      "kind": "cake",
+      "description": "Three black cake tiers with an additional narrow separator and a white floral topper.",
+      "images": [
+        "assets/products/wedding-cakes/16715017b36fae6507.webp",
+        "assets/products/wedding-cakes/a140b2a792f4e154df.webp"
+      ],
+      "image": "assets/products/wedding-cakes/16715017b36fae6507.webp",
+      "imageAlt": "Black Wedding Cake — 3 cake tiers",
+      "imageContain": true,
+      "imageNote": "Wedding design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "980000000008701",
+          "title": "3 tiers — bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/wedding-cakes/16715017b36fae6507.webp",
+          "tiers": 3
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 3,
+      "catalogueAddition": "wedding-2026-09",
+      "searchText": "Black Wedding Cake 3 tier wedding floral bespoke"
+    },
+    {
+      "id": "9800000000089",
+      "handle": "grey-marble-wedding-cake-w89",
+      "title": "Grey Marble Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "tiered-cake"
+      ],
+      "kind": "cake",
+      "description": "3 tiers with grey marble wedding cake details. Cake dimensions, flavours and finishing materials are arranged for your wedding.",
+      "images": [
+        "assets/products/wedding-cakes/b77062e9c06677d4ab.webp",
+        "assets/products/wedding-cakes/01bae8e7103fc06673.webp"
+      ],
+      "image": "assets/products/wedding-cakes/b77062e9c06677d4ab.webp",
+      "imageAlt": "Grey Marble Wedding Cake — 3 cake tiers",
+      "imageContain": true,
+      "imageNote": "Wedding design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "980000000008901",
+          "title": "3 tiers — bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/wedding-cakes/b77062e9c06677d4ab.webp",
+          "tiers": 3
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 3,
+      "catalogueAddition": "wedding-2026-09",
+      "searchText": "Grey Marble Wedding Cake 3 tier wedding floral bespoke"
+    },
+    {
+      "id": "9800000000091",
+      "handle": "pink-wedding-cake-w91",
+      "title": "Pink Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "tiered-cake"
+      ],
+      "kind": "cake",
+      "description": "3 tiers with pink wedding cake details. Cake dimensions, flavours and finishing materials are arranged for your wedding.",
+      "images": [
+        "assets/products/wedding-cakes/cbccba765736daef0e.webp",
+        "assets/products/wedding-cakes/85793884a13b5042fc.webp"
+      ],
+      "image": "assets/products/wedding-cakes/cbccba765736daef0e.webp",
+      "imageAlt": "Pink Wedding Cake — 3 cake tiers",
+      "imageContain": true,
+      "imageNote": "Wedding design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "980000000009101",
+          "title": "3 tiers — bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/wedding-cakes/cbccba765736daef0e.webp",
+          "tiers": 3
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 3,
+      "catalogueAddition": "wedding-2026-09",
+      "searchText": "Pink Wedding Cake 3 tier wedding floral bespoke"
+    },
+    {
+      "id": "9800000000093",
+      "handle": "navy-blue-wedding-cake-w93",
+      "title": "Navy Blue Wedding Cake",
+      "categories": [
+        "wedding-cake-dubai",
+        "tiered-cake"
+      ],
+      "kind": "cake",
+      "description": "3 tiers with navy blue wedding cake details. Cake dimensions, flavours and finishing materials are arranged for your wedding.",
+      "images": [
+        "assets/products/wedding-cakes/33070322b974a8c7ca.webp",
+        "assets/products/wedding-cakes/4739086edb32a6e4bf.webp",
+        "assets/products/wedding-cakes/7c79e2c79becfa7b3e.webp"
+      ],
+      "image": "assets/products/wedding-cakes/33070322b974a8c7ca.webp",
+      "imageAlt": "Navy Blue Wedding Cake — 3 cake tiers",
+      "imageContain": true,
+      "imageNote": "Wedding design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "980000000009301",
+          "title": "3 tiers — bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/wedding-cakes/33070322b974a8c7ca.webp",
+          "tiers": 3
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 3,
+      "catalogueAddition": "wedding-2026-09",
+      "searchText": "Navy Blue Wedding Cake 3 tier wedding floral bespoke"
+    }
+  ]
+}

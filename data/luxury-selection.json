@@ -1,0 +1,82 @@
+{
+  "criteria": "Luxury is reserved for visually extravagant designs: substantial sculpture, intricate ornamentation, dense floral cascades or dramatic tiered construction. Basic piped hearts, ribbon-bow birthday cakes, small floral cakes and modest finishes are excluded after visual review. Tier count or the word luxury alone does not qualify a cake.",
+  "scope": "Luxury collection membership only; other existing placements and product pages remain available.",
+  "approvedProductIds": [
+    "9920000000001",
+    "9920000000002",
+    "9920000000003",
+    "9920000000004",
+    "9920000000005",
+    "9920000000006",
+    "9920000000007",
+    "9920000000008",
+    "9920000000009",
+    "9920000000010",
+    "9910000000001",
+    "9910000000006",
+    "9910000000010",
+    "9910000000011",
+    "9910000000012",
+    "9910000000013",
+    "9910000000015",
+    "9910000000017",
+    "9910000000018",
+    "9900000000003",
+    "9900000000005",
+    "9900000000008",
+    "9930000000001",
+    "9930000000004",
+    "9930000000005"
+  ],
+  "review": [
+    {
+      "productId": "9910000000001",
+      "reason": "Two tiers with large sculptural sail and purple-and-gold finish"
+    },
+    {
+      "productId": "9910000000006",
+      "reason": "Dramatic black-and-white chocolate sails and gold kintsugi finish"
+    },
+    {
+      "productId": "9910000000010",
+      "reason": "Tall three-tier pearl tower with oversized flowing bow"
+    },
+    {
+      "productId": "9910000000011",
+      "reason": "Two-tier scarlet sculpture with floral relief and glass rose dome"
+    },
+    {
+      "productId": "9910000000012",
+      "reason": "Intricate Rococo relief, draping, roses and candle construction"
+    },
+    {
+      "productId": "9910000000013",
+      "reason": "Custom crescent-and-sun sculpture with elaborate piping"
+    },
+    {
+      "productId": "9910000000015",
+      "reason": "Two ornate burgundy tiers with large jewelled crown"
+    },
+    {
+      "productId": "9910000000017",
+      "reason": "Dense petal relief, gold detailing and abundant roses"
+    },
+    {
+      "productId": "9910000000018",
+      "reason": "Dramatic black-and-gold geode with clustered gold decorations"
+    },
+    {
+      "productId": "9900000000003",
+      "reason": "Dense full-height rose cascade over two tiers"
+    },
+    {
+      "productId": "9900000000005",
+      "reason": "Elaborate gold textured tiers with large floral cascade"
+    },
+    {
+      "productId": "9900000000008",
+      "reason": "Three metallic silver-and-blush tiers with lace and oversized roses"
+    }
+  ],
+  "updatedAt": "2026-09-14T07:42:53.256Z"
+}

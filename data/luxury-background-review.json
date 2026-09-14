@@ -1,0 +1,182 @@
+[
+  {
+    "n": 3,
+    "prompt": "Edit the FIRST photograph only: replace its wall/table/background with the warm light-grey seamless studio wall and floor from the SECOND reference photograph, including a soft natural contact shadow. Preserve the original cake exactly: same TWO purple and ivory tiers, gold leaf, white sculptural sail, birthday badge, candles and mirrored cylindrical stand. Do not copy the navy cake from the reference. Keep all decorations, topper, board and stand fully visible, with 10% breathing room on every side, centred. Square product photograph. Do not stretch, crop, redesign, add flowers or change cake proportions. Photorealistic background edit only.",
+    "generatedImage": "C:\\Users\\Dania Muneer\\.codex\\generated_images\\01a09545-89ef-7532-a6b7-aee9667c2233\\exec-db36df02-44ef-42ed-809a-2a686d1f818f.png",
+    "visualReview": {
+      "approved": true,
+      "note": "Visually reviewed: correct cake design and tier count; full cake, topper and board visible against warm grey backdrop. Generative editing can vary fine details and board/stand finish."
+    }
+  },
+  {
+    "n": 4,
+    "prompt": "Edit the FIRST photograph only: replace its wall/table/background with the warm light-grey seamless studio wall and floor from the SECOND reference photograph, including a soft natural contact shadow. Preserve the original cake exactly: same ONE ivory and blue textured tier, blue drip, white sculptural wafer sail and short silver stand. Do not copy the navy cake from the reference. Keep all decorations, topper, board and stand fully visible, with 10% breathing room on every side, centred. Square product photograph. Do not stretch, crop, redesign, add flowers or change cake proportions. Photorealistic background edit only.",
+    "generatedImage": "C:\\Users\\Dania Muneer\\.codex\\generated_images\\01a09545-89ef-7532-a6b7-aee9667c2233\\exec-8c137faa-e5c6-4fe5-b42e-9ac6adef12c6.png",
+    "visualReview": {
+      "approved": true,
+      "note": "Visually reviewed: correct cake design and tier count; full cake, topper and board visible against warm grey backdrop. Generative editing can vary fine details and board/stand finish."
+    }
+  },
+  {
+    "n": 6,
+    "prompt": "Edit FIRST photo: replace only the surrounding wall/table/background with the SECOND photo's warm light-grey seamless studio backdrop/floor, soft natural contact shadow. Preserve exactly ONE round ivory tier with autumn copper/orange and dark green palette-knife patches, gold kintsugi lines, three gold-leaf branches and its white gold-footed stand. Same cake shape, tier count, decorations, colours, proportions and photographic angle. Do not copy the reference's navy cake. Square output, centred whole cake including full topper and full board/stand, 10% clear margin each side. No cropped decorations, no stretched cake, no additional objects. Photorealistic background edit.",
+    "generatedImage": "C:\\Users\\Dania Muneer\\.codex\\generated_images\\01a09545-89ef-7532-a6b7-aee9667c2233\\exec-d43d6658-c2e6-49a7-97fb-c74d5f928243.png",
+    "visualReview": {
+      "approved": true,
+      "note": "Visually reviewed: correct cake design and tier count; full cake, topper and board visible against warm grey backdrop. Generative editing can vary fine details and board/stand finish."
+    }
+  },
+  {
+    "n": 7,
+    "prompt": "Edit FIRST photo: replace only the surrounding wall/table/background with the SECOND photo's warm light-grey seamless studio backdrop/floor, soft natural contact shadow. Preserve exactly ONE square ivory cube cake with orange and yellow abstract patches and a large folded white wafer-paper sail, on its square silver board. Same cake shape, tier count, decorations, colours, proportions and photographic angle. Do not copy the reference's navy cake. Square output, centred whole cake including full topper and full board/stand, 10% clear margin each side. No cropped decorations, no stretched cake, no additional objects. Photorealistic background edit.",
+    "generatedImage": "C:\\Users\\Dania Muneer\\.codex\\generated_images\\01a09545-89ef-7532-a6b7-aee9667c2233\\exec-598637a9-85bd-459b-a31a-993835c36bfc.png",
+    "visualReview": {
+      "approved": true,
+      "note": "Visually reviewed: correct cake design and tier count; full cake, topper and board visible against warm grey backdrop. Generative editing can vary fine details and board/stand finish."
+    }
+  },
+  {
+    "n": 20,
+    "prompt": "Edit FIRST photo: replace only the surrounding wall/table/background with the SECOND photo's warm light-grey seamless studio backdrop/floor, soft natural contact shadow. Preserve exactly ONE low rectangular pink cake with sharp edges and pink, peach, ivory and gold palette-knife strokes, no topper, on its rectangular silver board. Same cake shape, tier count, decorations, colours, proportions and photographic angle. Do not copy the reference's navy cake. Square output, centred whole cake including full topper and full board/stand, 10% clear margin each side. No cropped decorations, no stretched cake, no additional objects. Photorealistic background edit.",
+    "generatedImage": "C:\\Users\\Dania Muneer\\.codex\\generated_images\\01a09545-89ef-7532-a6b7-aee9667c2233\\exec-605c695e-177d-4a49-a179-631052aa2960.png",
+    "visualReview": {
+      "approved": true,
+      "note": "Visually reviewed: correct cake design and tier count; full cake, topper and board visible against warm grey backdrop. Generative editing can vary fine details and board/stand finish."
+    }
+  },
+  {
+    "n": 21,
+    "prompt": "Edit FIRST photograph background only to match the SECOND photograph's warm light-grey seamless studio wall/floor and natural contact shadow. Preserve ONE tall round navy-black and ivory cake with gold kintsugi, alternating black and white curved chocolate sails, and its gold wire cylinder stand, same shape, tier count, colours, decoration placement and camera angle. Keep original material of board and stand. Do not copy the reference cake. Square image, entire cake/topper/board/stand visible, centred with 10% breathing room on all sides. Do not crop, stretch or redesign cake; retain photographic texture.",
+    "generatedImage": "C:\\Users\\Dania Muneer\\.codex\\generated_images\\01a09545-89ef-7532-a6b7-aee9667c2233\\exec-24444a14-eccf-4dff-934d-d6700d592191.png",
+    "visualReview": {
+      "approved": true,
+      "note": "Visually reviewed: correct cake design and tier count; full cake, topper and board visible against warm grey backdrop. Generative editing can vary fine details and board/stand finish."
+    }
+  },
+  {
+    "n": 24,
+    "prompt": "Edit FIRST photograph background only to match the SECOND photograph's warm light-grey seamless studio wall/floor and natural contact shadow. Preserve ONE tall round dark chocolate cake with gold leaf patches, diagonal incised lines and a chocolate ribbon-loop sculpture, short white pedestal, same shape, tier count, colours, decoration placement and camera angle. Keep original material of board and stand. Do not copy the reference cake. Square image, entire cake/topper/board/stand visible, centred with 10% breathing room on all sides. Do not crop, stretch or redesign cake; retain photographic texture.",
+    "generatedImage": "C:\\Users\\Dania Muneer\\.codex\\generated_images\\01a09545-89ef-7532-a6b7-aee9667c2233\\exec-c31697b3-98ff-4d4d-bdad-b37fadc35bdd.png",
+    "visualReview": {
+      "approved": true,
+      "note": "Visually reviewed: correct cake design and tier count; full cake, topper and board visible against warm grey backdrop. Generative editing can vary fine details and board/stand finish."
+    }
+  },
+  {
+    "n": 29,
+    "prompt": "Edit FIRST photograph background only to match the SECOND photograph's warm light-grey seamless studio wall/floor and natural contact shadow. Preserve ONE ivory round cake with slender black/teal abstract lines, gold leaf and a large open white chocolate ribbon-loop sculpture, silver board, same shape, tier count, colours, decoration placement and camera angle. Keep original material of board and stand. Do not copy the reference cake. Square image, entire cake/topper/board/stand visible, centred with 10% breathing room on all sides. Do not crop, stretch or redesign cake; retain photographic texture.",
+    "generatedImage": "C:\\Users\\Dania Muneer\\.codex\\generated_images\\01a09545-89ef-7532-a6b7-aee9667c2233\\exec-2f7d33ab-9f46-4fc5-8fe0-af28aa729da5.png",
+    "visualReview": {
+      "approved": true,
+      "note": "Visually reviewed: correct cake design and tier count; full cake, topper and board visible against warm grey backdrop. Generative editing can vary fine details and board/stand finish."
+    }
+  },
+  {
+    "n": 38,
+    "prompt": "Background edit of FIRST image only. Replace the ruffled fabric background/tablecloth with the SECOND photo's warm light grey seamless studio floor and backdrop, with soft contact shadow. Keep TWO heart-shaped pink cake tiers, ornate pink piping, bows and the word Thirty on top; white board unchanged. Exact cake proportions, tier count, colours, decorations and camera angle. No additional tiers or objects, no copying reference cake. Entire cake including glass dome/bow tails/board visible with 10% margin all sides, centred square image. Photorealistic, no cropping or stretching.",
+    "generatedImage": "C:\\Users\\Dania Muneer\\.codex\\generated_images\\01a09545-89ef-7532-a6b7-aee9667c2233\\exec-c33223c6-cd4c-4c9a-8372-845c682d634e.png",
+    "visualReview": {
+      "approved": true,
+      "note": "Visually reviewed: correct cake design and tier count; full cake, topper and board visible against warm grey backdrop. Generative editing can vary fine details and board/stand finish."
+    }
+  },
+  {
+    "n": 39,
+    "prompt": "Background edit of FIRST image only. Replace the ruffled fabric background/tablecloth with the SECOND photo's warm light grey seamless studio floor and backdrop, with soft contact shadow. Keep THREE pale yellow round tiers, white pearls and long translucent pearl-edged ivory bow with trailing tails; square silver board unchanged. Exact cake proportions, tier count, colours, decorations and camera angle. No additional tiers or objects, no copying reference cake. Entire cake including glass dome/bow tails/board visible with 10% margin all sides, centred square image. Photorealistic, no cropping or stretching.",
+    "generatedImage": "C:\\Users\\Dania Muneer\\.codex\\generated_images\\01a09545-89ef-7532-a6b7-aee9667c2233\\exec-9bd08191-bc9d-4f88-ad06-ebac4ae6ddfb.png",
+    "visualReview": {
+      "approved": true,
+      "note": "Visually reviewed: correct cake design and tier count; full cake, topper and board visible against warm grey backdrop. Generative editing can vary fine details and board/stand finish."
+    }
+  },
+  {
+    "n": 41,
+    "prompt": "Background edit of FIRST image only. Replace the ruffled fabric background/tablecloth with the SECOND photo's warm light grey seamless studio floor and backdrop, with soft contact shadow. Keep TWO red round tiers: short wide heavily textured floral relief bottom tier and tall smooth narrow top tier; clear glass dome holding a red rose above the cake, square silver board. The glass dome is a topper, not a cake tier unchanged. Exact cake proportions, tier count, colours, decorations and camera angle. No additional tiers or objects, no copying reference cake. Entire cake including glass dome/bow tails/board visible with 10% margin all sides, centred square image. Photorealistic, no cropping or stretching.",
+    "generatedImage": "C:\\Users\\Dania Muneer\\.codex\\generated_images\\01a09545-89ef-7532-a6b7-aee9667c2233\\exec-1c93d690-cb25-4610-946b-05ec94bbaa48.png",
+    "visualReview": {
+      "approved": true,
+      "note": "Visually reviewed: correct cake design and tier count; full cake, topper and board visible against warm grey backdrop. Generative editing can vary fine details and board/stand finish."
+    }
+  },
+  {
+    "n": 44,
+    "prompt": "Edit FIRST photograph background only. Replace ruffled fabric behind and beneath cake with warm light grey seamless studio wall and floor matching SECOND reference, soft natural contact shadow. Preserve exactly ONE ivory candle-style cake with a lit wick inset at top, ornate piped scrolls, draped icing, pearls and ivory roses around top and base, square board. Keep the same decoration, proportions, tier count and angle. No reference-cake content. Square centred full-product image, all decorations and full board visible with 10% breathing room. Do not crop, stretch, change the cake or add stand.",
+    "generatedImage": "C:\\Users\\Dania Muneer\\.codex\\generated_images\\01a09545-89ef-7532-a6b7-aee9667c2233\\exec-f76c13ce-0ae4-419d-a2f2-25c6afa1716e.png",
+    "visualReview": {
+      "approved": true,
+      "note": "Visually reviewed: correct cake design and tier count; full cake, topper and board visible against warm grey backdrop. Generative editing can vary fine details and board/stand finish."
+    }
+  },
+  {
+    "n": 49,
+    "prompt": "Edit FIRST photograph background only. Replace ruffled fabric behind and beneath cake with warm light grey seamless studio wall and floor matching SECOND reference, soft natural contact shadow. Preserve exactly ONE sculptural cake: a pale-blue crescent moon surrounding a shorter gold sun section, navy and white piping, white stars, moons and pearls; round white board. Preserve this two-part sculpted silhouette, not stacked tiers. Keep the same decoration, proportions, tier count and angle. No reference-cake content. Square centred full-product image, all decorations and full board visible with 10% breathing room. Do not crop, stretch, change the cake or add stand.",
+    "generatedImage": "C:\\Users\\Dania Muneer\\.codex\\generated_images\\01a09545-89ef-7532-a6b7-aee9667c2233\\exec-302040c7-b88b-4982-a374-8a6cf7a7d53c.png",
+    "visualReview": {
+      "approved": true,
+      "note": "Visually reviewed: correct cake design and tier count; full cake, topper and board visible against warm grey backdrop. Generative editing can vary fine details and board/stand finish."
+    }
+  },
+  {
+    "n": 61,
+    "prompt": "Edit FIRST photograph background only. Replace ruffled fabric behind and beneath cake with warm light grey seamless studio wall and floor matching SECOND reference, soft natural contact shadow. Preserve exactly ONE turquoise heart-shaped cake with rich piped borders, silver pearl heart outline and pearl swags; round silver board. Keep the same decoration, proportions, tier count and angle. No reference-cake content. Square centred full-product image, all decorations and full board visible with 10% breathing room. Do not crop, stretch, change the cake or add stand.",
+    "generatedImage": "C:\\Users\\Dania Muneer\\.codex\\generated_images\\01a09545-89ef-7532-a6b7-aee9667c2233\\exec-7db9b3e2-ac6f-4cca-9422-54c4393e182a.png",
+    "visualReview": {
+      "approved": true,
+      "note": "Visually reviewed: correct cake design and tier count; full cake, topper and board visible against warm grey backdrop. Generative editing can vary fine details and board/stand finish."
+    }
+  },
+  {
+    "n": 65,
+    "prompt": "Edit FIRST photograph only: replace the surrounding fabric/room/garden/table with SECOND reference photo's warm light-grey seamless studio wall and floor, softly lit with natural contact shadow. Preserve TWO burgundy round tiers with piped swags and borders, tiny red roses and white blossoms, large ornate gold and ruby crown on top, round board. Preserve exact tier count, cake shape, colours, decoration placement and camera angle. Do not add a stand or anything from reference cake. Whole cake, crown/bow/flowers and board fully visible, centred in square frame with 10% margin all sides, no cropping or stretching. Photorealistic background change.",
+    "generatedImage": "C:\\Users\\Dania Muneer\\.codex\\generated_images\\01a09545-89ef-7532-a6b7-aee9667c2233\\exec-1c3c8892-0cc9-402c-8f34-ce8416c9a67e.png",
+    "visualReview": {
+      "approved": true,
+      "note": "Visually reviewed: correct cake design and tier count; full cake, topper and board visible against warm grey backdrop. Generative editing can vary fine details and board/stand finish."
+    }
+  },
+  {
+    "n": 84,
+    "prompt": "Edit FIRST photograph only: replace the surrounding fabric/room/garden/table with SECOND reference photo's warm light-grey seamless studio wall and floor, softly lit with natural contact shadow. Preserve ONE tall ivory round cake with a large pearlescent ivory satin-effect fondant bow and draped tails, small pearls and subtle silver accents, round silver board. Preserve exact tier count, cake shape, colours, decoration placement and camera angle. Do not add a stand or anything from reference cake. Whole cake, crown/bow/flowers and board fully visible, centred in square frame with 10% margin all sides, no cropping or stretching. Photorealistic background change.",
+    "generatedImage": "C:\\Users\\Dania Muneer\\.codex\\generated_images\\01a09545-89ef-7532-a6b7-aee9667c2233\\exec-db003447-fbee-4d44-9a8a-f5caa462cd1d.png",
+    "visualReview": {
+      "approved": true,
+      "note": "Visually reviewed: correct cake design and tier count; full cake, topper and board visible against warm grey backdrop. Generative editing can vary fine details and board/stand finish."
+    }
+  },
+  {
+    "n": 86,
+    "prompt": "Edit FIRST photograph only: replace the surrounding fabric/room/garden/table with SECOND reference photo's warm light-grey seamless studio wall and floor, softly lit with natural contact shadow. Preserve ONE ivory round cake with textured petal relief and gold details, cream/blush/deep pink roses and small white filler flowers on top and at bottom left, square silver board. Preserve exact tier count, cake shape, colours, decoration placement and camera angle. Do not add a stand or anything from reference cake. Whole cake, crown/bow/flowers and board fully visible, centred in square frame with 10% margin all sides, no cropping or stretching. Photorealistic background change.",
+    "generatedImage": "C:\\Users\\Dania Muneer\\.codex\\generated_images\\01a09545-89ef-7532-a6b7-aee9667c2233\\exec-8376dada-a84d-4691-8112-4c211e52106d.png",
+    "visualReview": {
+      "approved": true,
+      "note": "Visually reviewed: correct cake design and tier count; full cake, topper and board visible against warm grey backdrop. Generative editing can vary fine details and board/stand finish."
+    }
+  },
+  {
+    "n": 184,
+    "prompt": "Use case: precise-object-edit. Asset: cake catalogue photo. Image 1 is the edit target; image 2 is ONLY the background reference. Replace only the background of image 1 with the warm grey seamless studio wall and surface of image 2. Preserve the actual cake design, exact single tier, decorations, colors, proportions, camera angle, and board of image 1: One black round cake with gold speckles and leaf, diagonal ivory-and-gold geode slash, gold balls and macarons, gold circular happy birthday topper, on its square gold board. Square composition, entire cake, topper and board visible, centered with 10% breathing room on every side, realistic soft contact shadow. No cake or stand from image 2, no added stand, no invented decorations, no additional text. Preserve product identity and detail.",
+    "generatedImage": "C:\\Users\\Dania Muneer\\.codex\\generated_images\\01a09545-89ef-7532-a6b7-aee9667c2233\\exec-6f0439d1-415f-4f16-a98b-87ce980f478d.png",
+    "visualReview": {
+      "approved": true,
+      "note": "Visually reviewed: correct cake design and tier count; full cake, topper and board visible against warm grey backdrop. Generative editing can vary fine details and board/stand finish."
+    }
+  },
+  {
+    "n": 185,
+    "prompt": "Use case: precise-object-edit. Asset: cake catalogue photo. Image 1 is the edit target; image 2 is ONLY the background reference. Replace only the background of image 1 with the warm grey seamless studio wall and surface of image 2. Preserve the actual cake design, exact single tier, decorations, colors, proportions, camera angle, and board of image 1: One low round white/grey marble cake with gold veins, one large white gold-edged sugar blossom and green sugar leaves, on its round silver board. Square composition, entire cake, topper and board visible, centered with 10% breathing room on every side, realistic soft contact shadow. No cake or stand from image 2, no added stand, no invented decorations, no additional text. Preserve product identity and detail.",
+    "generatedImage": "C:\\Users\\Dania Muneer\\.codex\\generated_images\\01a09545-89ef-7532-a6b7-aee9667c2233\\exec-f769735e-25dd-46f0-8443-b7413ea9a9f6.png",
+    "visualReview": {
+      "approved": true,
+      "note": "Visually reviewed: correct cake design and tier count; full cake, topper and board visible against warm grey backdrop. Generative editing can vary fine details and board/stand finish."
+    }
+  },
+  {
+    "n": 186,
+    "prompt": "Use case: precise-object-edit. Asset: cake catalogue photo. Image 1 is the edit target; image 2 is ONLY the background reference. Replace only the background of image 1 with the warm grey seamless studio wall and surface of image 2. Preserve the actual cake design, exact single tier, decorations, colors, proportions, camera angle, and board of image 1: One low round ivory to rose-gold ombre cake with ivory and pink sugar roses, little blue blossoms and green leaves, on its square gold board. Square composition, entire cake, topper and board visible, centered with 10% breathing room on every side, realistic soft contact shadow. No cake or stand from image 2, no added stand, no invented decorations, no additional text. Preserve product identity and detail.",
+    "generatedImage": "C:\\Users\\Dania Muneer\\.codex\\generated_images\\01a09545-89ef-7532-a6b7-aee9667c2233\\exec-c16d53a6-0b4d-485b-8479-09483eddd539.png",
+    "visualReview": {
+      "approved": true,
+      "note": "Visually reviewed: correct cake design and tier count; full cake, topper and board visible against warm grey backdrop. Generative editing can vary fine details and board/stand finish."
+    }
+  }
+]

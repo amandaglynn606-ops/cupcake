@@ -1,0 +1,895 @@
+[
+  {
+    "n": 1,
+    "source": "rosewood",
+    "sourceUrl": "https://www.rosewoodcakes.com/luxury-wedding-cakes",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/578f551febbd1ad4a387b5df/1577457897662-QLWILJ2C0P92GPXNISY3/rosewood+cakes+2020+-+luxury+wedding+cakes+glasgow+scotland+-+chatelherault+2.jpg",
+    "alt": "Photo - Martin Venherm",
+    "credit": "Photo - Martin Venherm",
+    "sha256": "88c684a8f8bd82ebe8db039b4d3ab0b30abee8e8660e018860435fc53a15d61d",
+    "localImage": "assets/products/wedding-sources/rosewood-88c684a8f8bd82.webp"
+  },
+  {
+    "n": 2,
+    "source": "rosewood",
+    "sourceUrl": "https://www.rosewoodcakes.com/luxury-wedding-cakes",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/578f551febbd1ad4a387b5df/1676541521194-6D1RWF37FIFYR07UM5MM/luxury+mar+hall+ashton.jpg",
+    "alt": "luxury mar hall ashton.jpg",
+    "sha256": "367215a43214e5a2be7f170e9a8bb8080972c6a119bdf4480a832991f9c17be2",
+    "localImage": "assets/products/wedding-sources/rosewood-367215a43214e5.webp"
+  },
+  {
+    "n": 3,
+    "source": "rosewood",
+    "sourceUrl": "https://www.rosewoodcakes.com/luxury-wedding-cakes",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/578f551febbd1ad4a387b5df/1676541521384-PBA7BMZD2W26ZNNQL6M7/luxury+carlowrie+tall+pink+cake.jpg",
+    "alt": "luxury carlowrie tall pink cake.jpg",
+    "sha256": "4a6e9a8882bba86174d9c822e549a65d27a5b5ea33480034358c57d1a69ffc3d",
+    "localImage": "assets/products/wedding-sources/rosewood-4a6e9a8882bba8.webp"
+  },
+  {
+    "n": 4,
+    "source": "rosewood",
+    "sourceUrl": "https://www.rosewoodcakes.com/luxury-wedding-cakes",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/578f551febbd1ad4a387b5df/1676541562005-L2D9U2UA1F48LEAXLHB4/turnberry+cake+john+nassari.jpg",
+    "alt": "turnberry cake john nassari.jpg",
+    "sha256": "63c5ece1f0e5ed445e05e7deb6b28e03970949e469c7fd5295679439d3c0f7ac",
+    "localImage": "assets/products/wedding-sources/rosewood-63c5ece1f0e5ed.webp"
+  },
+  {
+    "n": 5,
+    "source": "rosewood",
+    "sourceUrl": "https://www.rosewoodcakes.com/luxury-wedding-cakes",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/578f551febbd1ad4a387b5df/1577458107792-VNDLNWTZ0JUVT1BYB3G6/mar+hall+spiral+cake.jpg",
+    "alt": "mar hall spiral cake.jpg",
+    "sha256": "d74c0d76fa8240c9d5e86eaffbadd09ad05fb6734bed1769d63e7434600a10c9",
+    "localImage": "assets/products/wedding-sources/rosewood-d74c0d76fa8240.webp"
+  },
+  {
+    "n": 6,
+    "source": "rosewood",
+    "sourceUrl": "https://www.rosewoodcakes.com/luxury-wedding-cakes",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/578f551febbd1ad4a387b5df/1676541561629-7HDRZ4BEBL1ZIHIDNSU5/turnberry+01.jpg",
+    "alt": "turnberry 01.jpg",
+    "sha256": "07a767cc89d5da7c3ee00819c88b93ebb4ffe19e273a129007369fb770bad9ab",
+    "localImage": "assets/products/wedding-sources/rosewood-07a767cc89d5da.webp"
+  },
+  {
+    "n": 7,
+    "source": "rosewood",
+    "sourceUrl": "https://www.rosewoodcakes.com/luxury-wedding-cakes",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/578f551febbd1ad4a387b5df/1676541563941-ZZIJYNQTBSLDOELIQHKB/turnberry+gatsby.jpg",
+    "alt": "turnberry gatsby.jpg",
+    "sha256": "fbac80e043fbec98304e8d51704a319ccda0abdb327e7de73606488eeeb57c78",
+    "localImage": "assets/products/wedding-sources/rosewood-fbac80e043fbec.webp"
+  },
+  {
+    "n": 8,
+    "source": "rosewood",
+    "sourceUrl": "https://www.rosewoodcakes.com/luxury-wedding-cakes",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/578f551febbd1ad4a387b5df/1676541384644-3O5PVPGVC8O71B0NXXE4/petal+five+tier+-+crossbasket.jpg",
+    "alt": "petal five tier - crossbasket.jpg",
+    "sha256": "a6a1556a4624e7fb00027fce641e0065e29f5ada9a757d9eb084a8223e848506",
+    "localImage": "assets/products/wedding-sources/rosewood-a6a1556a4624e7.webp"
+  },
+  {
+    "n": 9,
+    "source": "rosewood",
+    "sourceUrl": "https://www.rosewoodcakes.com/luxury-wedding-cakes",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/578f551febbd1ad4a387b5df/1676541489113-LJL4G6QLCZ7CE3CSQFYO/joanne+auchen+castle+luxury+cake.jpg",
+    "alt": "joanne auchen castle luxury cake.jpg",
+    "sha256": "97f2a7b09a4675741b8d4561c260638530f83ae0b73e42554e048c7fbfe8a781",
+    "localImage": "assets/products/wedding-sources/rosewood-97f2a7b09a4675.webp"
+  },
+  {
+    "n": 10,
+    "source": "rosewood",
+    "sourceUrl": "https://www.rosewoodcakes.com/luxury-wedding-cakes",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/578f551febbd1ad4a387b5df/1549016136357-KT5PNVGYLSNLWZHFOTHE/natalie+-+turnberry.jpg",
+    "alt": "natalie - turnberry.jpg",
+    "sha256": "c239e341c040610a93ed1ce0b5ee27c8772fbc0d0e131c6e6dc4ae43d53c996e",
+    "localImage": "assets/products/wedding-sources/rosewood-c239e341c04061.webp"
+  },
+  {
+    "n": 11,
+    "source": "rosewood",
+    "sourceUrl": "https://www.rosewoodcakes.com/luxury-wedding-cakes",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/578f551febbd1ad4a387b5df/1575369097973-BMOJVKT3S4Z5MHHRCH37/rosewood+cakes+-+luxury+wedding+cakes+glasgow+scotland+-.jpg",
+    "alt": "rosewood cakes - luxury wedding cakes glasgow scotland -.jpg",
+    "sha256": "0b56b3ab7482ab059da4fe4b7271ffbc36abc6c38b8baba3ab66ef94d3f99c4d",
+    "localImage": "assets/products/wedding-sources/rosewood-0b56b3ab7482ab.webp"
+  },
+  {
+    "n": 12,
+    "source": "rosewood",
+    "sourceUrl": "https://www.rosewoodcakes.com/luxury-wedding-cakes",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/578f551febbd1ad4a387b5df/1676541474495-LDXJ5XO8QDPDU34K66SH/five+tier+luxury+white+ruffle+carlowrie+castle+-+rosewood+cakes+luxury+wedding+cakes+glasgow+scotland.jpg",
+    "alt": "five tier luxury white ruffle carlowrie castle - rosewood cakes luxury wedding cakes glasgow scotland.jpg",
+    "sha256": "80ace3bde4c1ec5397361225af773fead8cbecde22be6122a8c44bfc543eb313",
+    "localImage": "assets/products/wedding-sources/rosewood-80ace3bde4c1ec.webp"
+  },
+  {
+    "n": 13,
+    "source": "rosewood",
+    "sourceUrl": "https://www.rosewoodcakes.com/luxury-wedding-cakes",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/578f551febbd1ad4a387b5df/1575369101290-3N24NYW7B9YH9O4LBZQE/rosewood+cakes+-+luxury+wedding+cakes+glasgow+scotland+-++12.jpg",
+    "alt": "rosewood cakes - luxury wedding cakes glasgow scotland -  12.jpg",
+    "sha256": "2f8db6fcdd98117691eb4fb51f0f28310a9ad45a4191f2d21e1b43e6d4ab43e8",
+    "localImage": "assets/products/wedding-sources/rosewood-2f8db6fcdd9811.webp"
+  },
+  {
+    "n": 14,
+    "source": "rosewood",
+    "sourceUrl": "https://www.rosewoodcakes.com/luxury-wedding-cakes",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/578f551febbd1ad4a387b5df/1676541527743-L91S73V01CPH20S9AQW5/luxury+purple+lochside.jpg",
+    "alt": "luxury purple lochside.jpg",
+    "sha256": "0e3b07c3fa0ffe525bb4291fec7ca79dcbe60fd02e216f5c058616c0b5d16550",
+    "localImage": "assets/products/wedding-sources/rosewood-0e3b07c3fa0ffe.webp"
+  },
+  {
+    "n": 15,
+    "source": "rosewood",
+    "sourceUrl": "https://www.rosewoodcakes.com/luxury-wedding-cakes",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/578f551febbd1ad4a387b5df/1575369099053-1KHP8VSIHWJ35SACF2M5/rosewood+cakes+-+luxury+wedding+cakes+glasgow+scotland+-++5.jpg",
+    "alt": "rosewood cakes - luxury wedding cakes glasgow scotland -  5.jpg",
+    "sha256": "4bb4d0c1677cbcd4dc1f082c57f58474445c2fae00821dcccc951b780171beff",
+    "localImage": "assets/products/wedding-sources/rosewood-4bb4d0c1677cbc.webp"
+  },
+  {
+    "n": 16,
+    "source": "rosewood",
+    "sourceUrl": "https://www.rosewoodcakes.com/luxury-wedding-cakes",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/578f551febbd1ad4a387b5df/1676541577312-7GX9EZ2RNKP9T5R8TZQ3/turnberry+shauna.jpg",
+    "alt": "turnberry shauna.jpg",
+    "sha256": "43a715af3bab28a37cf7fdc72b428205ebc123be2edf7b88638f63654d973a92",
+    "localImage": "assets/products/wedding-sources/rosewood-43a715af3bab28.webp"
+  },
+  {
+    "n": 17,
+    "source": "rosewood",
+    "sourceUrl": "https://www.rosewoodcakes.com/luxury-wedding-cakes",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/578f551febbd1ad4a387b5df/1575369099910-E7396APYYQXH3X11N1Z2/rosewood+cakes+-+luxury+wedding+cakes+glasgow+scotland+-++8.jpg",
+    "alt": "rosewood cakes - luxury wedding cakes glasgow scotland -  8.jpg",
+    "sha256": "3534ec8e780d883bf3041b25e7d182a65f6aad7004ba9bd7d128c209e1c50df8",
+    "localImage": "assets/products/wedding-sources/rosewood-3534ec8e780d88.webp"
+  },
+  {
+    "n": 18,
+    "source": "rosewood",
+    "sourceUrl": "https://www.rosewoodcakes.com/luxury-wedding-cakes",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/578f551febbd1ad4a387b5df/1575369099368-7OWMJWCGAPGSEANYAJII/rosewood+cakes+-+luxury+wedding+cakes+glasgow+scotland+-++6.jpg",
+    "alt": "rosewood cakes - luxury wedding cakes glasgow scotland -  6.jpg",
+    "sha256": "78fe9cf3aa338169f834597cb079e7f04706428dc83473e15e99b98ea48a00e4",
+    "localImage": "assets/products/wedding-sources/rosewood-78fe9cf3aa3381.webp"
+  },
+  {
+    "n": 19,
+    "source": "rosewood",
+    "sourceUrl": "https://www.rosewoodcakes.com/luxury-wedding-cakes",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/578f551febbd1ad4a387b5df/1507649983089-LEV6QHTV9MB2N03WMQ52/Floral+applique+-+cameron+house+weddings+-+rosewood+cakes+luxury+wedding+cakes+glasgow+scotland.jpg",
+    "alt": "Floral applique - cameron house weddings - rosewood cakes luxury wedding cakes glasgow scotland.jpg",
+    "sha256": "b7b5a450fb2264ea86c527c691c4ac5675cf020f056a09ed49defad77e34b139",
+    "localImage": "assets/products/wedding-sources/rosewood-b7b5a450fb2264.webp"
+  },
+  {
+    "n": 20,
+    "source": "rosewood",
+    "sourceUrl": "https://www.rosewoodcakes.com/luxury-wedding-cakes",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/578f551febbd1ad4a387b5df/1575369098819-YZ1RULJUO3YB1G1IPNHX/rosewood+cakes+-+luxury+wedding+cakes+glasgow+scotland+-++4.jpg",
+    "alt": "rosewood cakes - luxury wedding cakes glasgow scotland -  4.jpg",
+    "sha256": "e248eeff7037776134e52943460e4e7a2da213ea74618666e2c7025c2332d5f8",
+    "localImage": "assets/products/wedding-sources/rosewood-e248eeff703777.webp"
+  },
+  {
+    "n": 21,
+    "source": "rosewood",
+    "sourceUrl": "https://www.rosewoodcakes.com/luxury-wedding-cakes",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/578f551febbd1ad4a387b5df/1676541398103-8CN3YHPN8K97SUDJ0CFG/perspex+luxury+cake+1.jpg",
+    "alt": "perspex luxury cake 1.jpg",
+    "sha256": "6b3f7c8984efaa3c6e38d507813a3eb31c82035051994fb002808c60553f21b2",
+    "localImage": "assets/products/wedding-sources/rosewood-6b3f7c8984efaa.webp"
+  },
+  {
+    "n": 22,
+    "source": "rosewood",
+    "sourceUrl": "https://www.rosewoodcakes.com/luxury-wedding-cakes",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/578f551febbd1ad4a387b5df/1524051783756-14W8ER8B3M1FGC1W3AS7/snow+cake+day+rosewood+cakes+wedding+cakes+glasgow.jpg",
+    "alt": "snow cake day rosewood cakes wedding cakes glasgow.jpg",
+    "sha256": "a59f33afdf1864768903b6a037927bf33cecef17a3f9bcdbcd5a520815994087",
+    "localImage": "assets/products/wedding-sources/rosewood-a59f33afdf1864.webp"
+  },
+  {
+    "n": 23,
+    "source": "rosewood",
+    "sourceUrl": "https://www.rosewoodcakes.com/luxury-wedding-cakes",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/578f551febbd1ad4a387b5df/1469446199976-55W9YLJL79NIM6U6VXME/house+for+an+art+lover+weddings+-+rosewood+cakes+luxury+wedding+cakes+glasgow+west+end+loch+lomond+scotland.jpg",
+    "alt": "house for an art lover weddings - rosewood cakes luxury wedding cakes glasgow west end loch lomond scotland.jpg",
+    "sha256": "eec475ab49084d102d9db67472a250ec332bdb95e9ed0272e974c91ed645820e",
+    "localImage": "assets/products/wedding-sources/rosewood-eec475ab49084d.webp"
+  },
+  {
+    "n": 24,
+    "source": "rosewood",
+    "sourceUrl": "https://www.rosewoodcakes.com/luxury-wedding-cakes",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/578f551febbd1ad4a387b5df/1575369099549-N0OYX2PDNYQE61V2VN7N/rosewood+cakes+-+luxury+wedding+cakes+glasgow+scotland+-++7.jpg",
+    "alt": "rosewood cakes - luxury wedding cakes glasgow scotland -  7.jpg",
+    "sha256": "959f396bd292ca14be866a15c9d785e2c043e6392e7d410eb3f3ac8cf638bf6f",
+    "localImage": "assets/products/wedding-sources/rosewood-959f396bd292ca.webp"
+  },
+  {
+    "n": 25,
+    "source": "rosewood",
+    "sourceUrl": "https://www.rosewoodcakes.com/luxury-wedding-cakes",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/578f551febbd1ad4a387b5df/1575369101056-2S4GAWNB7IPG840FE5YT/rosewood+cakes+-+luxury+wedding+cakes+glasgow+scotland+-++11.jpg",
+    "alt": "rosewood cakes - luxury wedding cakes glasgow scotland -  11.jpg",
+    "sha256": "1fbe7dc28241aa274b0564a7a9766e21f9f56e9cdb2613df1ca3b4e50fba24b9",
+    "localImage": "assets/products/wedding-sources/rosewood-1fbe7dc28241aa.webp"
+  },
+  {
+    "n": 26,
+    "source": "rosewood",
+    "sourceUrl": "https://www.rosewoodcakes.com/luxury-wedding-cakes",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/578f551febbd1ad4a387b5df/1583862892786-4GVSSRWF7WP0R79YUFHB/sorn%2B11.jpg",
+    "alt": "sorn+11.jpg",
+    "sha256": "a1ba4c1798d93ed895fb9ef03bf79f9c2234958e88f43740a968fc9aed375c16",
+    "localImage": "assets/products/wedding-sources/rosewood-a1ba4c1798d93e.webp"
+  },
+  {
+    "n": 27,
+    "source": "rosewood",
+    "sourceUrl": "https://www.rosewoodcakes.com/luxury-wedding-cakes",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/578f551febbd1ad4a387b5df/1583862845175-Y903EXUEHBW7C3QDZZSP/double+cascade.jpg",
+    "alt": "double cascade.jpg",
+    "sha256": "7a2bb8c456fd7c9339e1a12f06f30bbc40570ef9b96925632534cab9a2c1b599",
+    "localImage": "assets/products/wedding-sources/rosewood-7a2bb8c456fd7c.webp"
+  },
+  {
+    "n": 28,
+    "source": "rosewood",
+    "sourceUrl": "https://www.rosewoodcakes.com/luxury-wedding-cakes",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/578f551febbd1ad4a387b5df/1610019183356-Y6HM1MRS8AOYTIYT4BIZ/magenta+autumn+watercolour+cake+-+rosewood+cakes+-+luxury+wedding+cakes+glasgow.jpg",
+    "alt": "magenta autumn watercolour cake - rosewood cakes - luxury wedding cakes glasgow.jpg",
+    "sha256": "042b5b0cecdc7582264fea192a0ead80c5dd795d7927e0e725abf4647909cc0f",
+    "localImage": "assets/products/wedding-sources/rosewood-042b5b0cecdc75.webp"
+  },
+  {
+    "n": 29,
+    "source": "rosewood",
+    "sourceUrl": "https://www.rosewoodcakes.com/luxury-wedding-cakes",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/578f551febbd1ad4a387b5df/1610019196097-3OYK7RSFLZPOS0JRKF0J/luxury+wedding+cakes+-+rosewood+cakes+-+auchen+castle.jpg",
+    "alt": "luxury wedding cakes - rosewood cakes - auchen castle.jpg",
+    "sha256": "620e42a6ff16e318ca65df6b69eb2d6c6878e80d31b35bc9df1e34b3557b94df",
+    "localImage": "assets/products/wedding-sources/rosewood-620e42a6ff16e3.webp"
+  },
+  {
+    "n": 30,
+    "source": "rosewood",
+    "sourceUrl": "https://www.rosewoodcakes.com/luxury-wedding-cakes",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/578f551febbd1ad4a387b5df/1676540834168-2SY3SS5MMEXS2R0AMM6Z/360+double+spiral+turnberry+weddings+-+rosewood+cakes+luxury+wedding+cakes+glasgow.jpg",
+    "alt": "360 double spiral turnberry weddings - rosewood cakes luxury wedding cakes glasgow.jpg",
+    "sha256": "c314b9d8e1fdaf9aab98aaf24ceb588ae8b936f0546ad523419951f8000346b3",
+    "localImage": "assets/products/wedding-sources/rosewood-c314b9d8e1fdaf.webp"
+  },
+  {
+    "n": 31,
+    "source": "rosewood",
+    "sourceUrl": "https://www.rosewoodcakes.com/luxury-wedding-cakes",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/578f551febbd1ad4a387b5df/1676540833969-F7SCQWOBAMZ4Q01P0R0F/acrylic+initials.jpg",
+    "alt": "acrylic initials.jpg",
+    "sha256": "b301ea4d0e5a73b8d7f312c64b1840e419597d56f7c0c077e748b92c6a3b93e0",
+    "localImage": "assets/products/wedding-sources/rosewood-b301ea4d0e5a73.webp"
+  },
+  {
+    "n": 32,
+    "source": "rosewood",
+    "sourceUrl": "https://www.rosewoodcakes.com/luxury-wedding-cakes",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/578f551febbd1ad4a387b5df/1676540985479-489FM60WEFNPGSM46BU2/carlowrie+nichola.jpg",
+    "alt": "carlowrie nichola.jpg",
+    "sha256": "9978801fe027b21ca820fe47cda3dbc68f827cc3ff1b2163d16750502af00678",
+    "localImage": "assets/products/wedding-sources/rosewood-9978801fe027b2.webp"
+  },
+  {
+    "n": 33,
+    "source": "rosewood",
+    "sourceUrl": "https://www.rosewoodcakes.com/luxury-wedding-cakes",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/578f551febbd1ad4a387b5df/1676540985479-J7ET8PQXPNXKIGW6CXQ8/carlowrie+white+five+tier+luxury+wedding+cake+%282%29.png",
+    "alt": "carlowrie white five tier luxury wedding cake (2).png",
+    "sha256": "e80b595dfdabb7dbbca07f881ec692d247262359bb153a5a90959d0983e0f2b3",
+    "localImage": "assets/products/wedding-sources/rosewood-e80b595dfdabb7.webp"
+  },
+  {
+    "n": 34,
+    "source": "rosewood",
+    "sourceUrl": "https://www.rosewoodcakes.com/luxury-wedding-cakes",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/578f551febbd1ad4a387b5df/1676540986610-N78S7DWHODJDU326I64T/champagne+shimmer+mar+hall+wedding+cake.jpg",
+    "alt": "champagne shimmer mar hall wedding cake.jpg",
+    "sha256": "290570492426f44afbb9cd82b45717e593623a562162ac542a911bcbb9e3746f",
+    "localImage": "assets/products/wedding-sources/rosewood-290570492426f4.webp"
+  },
+  {
+    "n": 35,
+    "source": "rosewood",
+    "sourceUrl": "https://www.rosewoodcakes.com/luxury-wedding-cakes",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/578f551febbd1ad4a387b5df/1676540986762-1JL7DJX36V1PE1ULJ7X3/chandelier.jpg",
+    "alt": "chandelier.jpg",
+    "sha256": "526935e9c14b074464cffe26822c06c6add58402d230a1546b1195f4c2d4e94a",
+    "localImage": "assets/products/wedding-sources/rosewood-526935e9c14b07.webp"
+  },
+  {
+    "n": 36,
+    "source": "rosewood",
+    "sourceUrl": "https://www.rosewoodcakes.com/luxury-wedding-cakes",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/578f551febbd1ad4a387b5df/1676540988035-TCDBPTVIWHJUHXYO3I4D/cherry+blossom+luxury+wedding+cakes+rosewood+cakes+glasgow+scotland.jpg",
+    "alt": "cherry blossom luxury wedding cakes rosewood cakes glasgow scotland.jpg",
+    "sha256": "3598aad5f1397970ca7be48fbbb7f6632df9f4e15abec29b10074b0fc9b9ca6b",
+    "localImage": "assets/products/wedding-sources/rosewood-3598aad5f13979.webp"
+  },
+  {
+    "n": 37,
+    "source": "rosewood",
+    "sourceUrl": "https://www.rosewoodcakes.com/luxury-wedding-cakes",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/578f551febbd1ad4a387b5df/1676541082036-KPEN9JQ61LKZ0HOLTHN9/luxe+02.jpg",
+    "alt": "luxe 02.jpg",
+    "sha256": "ab8c209ec7446a9b1d24e21381fc79b4d5a9197e3a057d37413d8823a904d337",
+    "localImage": "assets/products/wedding-sources/rosewood-ab8c209ec7446a.webp"
+  },
+  {
+    "n": 38,
+    "source": "rosewood",
+    "sourceUrl": "https://www.rosewoodcakes.com/luxury-wedding-cakes",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/578f551febbd1ad4a387b5df/1676540989009-5737VQUN769N5515P8V6/cherub+luxury+wedding+cake.jpg",
+    "alt": "cherub luxury wedding cake.jpg",
+    "sha256": "85b348dddf275bb93d4754bec348cf55e334a8967126ed8d8dcb9f1be11c35f2",
+    "localImage": "assets/products/wedding-sources/rosewood-85b348dddf275b.webp"
+  },
+  {
+    "n": 39,
+    "source": "rosewood",
+    "sourceUrl": "https://www.rosewoodcakes.com/luxury-wedding-cakes",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/578f551febbd1ad4a387b5df/1676541086613-L63OG0KFD5K1DSVF2G5K/luxe+05.jpg",
+    "alt": "luxe 05.jpg",
+    "sha256": "5678ebbd0380648339baf4903b512b95269f7f97921bf2b809f9637fcf0a875c",
+    "localImage": "assets/products/wedding-sources/rosewood-5678ebbd038064.webp"
+  },
+  {
+    "n": 40,
+    "source": "rosewood",
+    "sourceUrl": "https://www.rosewoodcakes.com/luxury-wedding-cakes",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/578f551febbd1ad4a387b5df/1676541419521-P8M9V7KQY4CQ81VCAW3M/old+course+luxury+cake.jpg",
+    "alt": "old course luxury cake.jpg",
+    "sha256": "b1c65ddd88c449e2e2b47a11281b4b74fe75efb1f15dd6c2dab4706974394d87",
+    "localImage": "assets/products/wedding-sources/rosewood-b1c65ddd88c449.webp"
+  },
+  {
+    "n": 41,
+    "source": "rosewood",
+    "sourceUrl": "https://www.rosewoodcakes.com/luxury-wedding-cakes",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/578f551febbd1ad4a387b5df/1676540992589-OQO0MR66G2G0DTCU5JU0/cover+website+luxury+wedding+cakes.jpg",
+    "alt": "cover website luxury wedding cakes.jpg",
+    "sha256": "29b9c2358dcc431e098997eaab479ac9d6eff71f9f16e4ad9af8062b3ed2e059",
+    "localImage": "assets/products/wedding-sources/rosewood-29b9c2358dcc43.webp"
+  },
+  {
+    "n": 42,
+    "source": "rosewood",
+    "sourceUrl": "https://www.rosewoodcakes.com/luxury-wedding-cakes",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/578f551febbd1ad4a387b5df/1676540993435-LQWN1R0YA4HVOMOKK0SC/doori+02.jpg",
+    "alt": "doori 02.jpg",
+    "sha256": "86b8e824f13bd7cc06f574f2d6ae0137090416dfb70418febcefc901dc5649a7",
+    "localImage": "assets/products/wedding-sources/rosewood-86b8e824f13bd7.webp"
+  },
+  {
+    "n": 43,
+    "source": "rosewood",
+    "sourceUrl": "https://www.rosewoodcakes.com/luxury-wedding-cakes",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/578f551febbd1ad4a387b5df/1676540993603-A4Z29V25GPRLXCKUUOFG/double+cascade+luxury+cake.jpg",
+    "alt": "double cascade luxury cake.jpg",
+    "sha256": "77bbb5acbbdab8bb6355be3a918327d929db1e2a810ff8d6011f9d2f8985e716",
+    "localImage": "assets/products/wedding-sources/rosewood-77bbb5acbbdab8.webp"
+  },
+  {
+    "n": 44,
+    "source": "rosewood",
+    "sourceUrl": "https://www.rosewoodcakes.com/luxury-wedding-cakes",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/578f551febbd1ad4a387b5df/1676541420903-GGDNRUNR6NF9WGRLZEOO/ombre+spiral++-+luxury+wedding+cake+-+rosewood+wedding+cakes+-+glasgow+scotland+%282%29.png",
+    "alt": "ombre spiral  - luxury wedding cake - rosewood wedding cakes - glasgow scotland (2).png",
+    "sha256": "bd32cc1298088e9d6581929591b98e444677c32e26d10736eee640cd89a9698e",
+    "localImage": "assets/products/wedding-sources/rosewood-bd32cc1298088e.webp"
+  },
+  {
+    "n": 45,
+    "source": "rosewood",
+    "sourceUrl": "https://www.rosewoodcakes.com/luxury-wedding-cakes",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/578f551febbd1ad4a387b5df/1676540995335-2WD8JJOTVOHQJ51T7PWU/dusky+red+watercolour+-+rosewood+cakes+luxury+wedding+cakes+glasgow+scotland.jpg",
+    "alt": "dusky red watercolour - rosewood cakes luxury wedding cakes glasgow scotland.jpg",
+    "sha256": "ad7a69fbdeaa831188576f632892953e9dc76f71a47ba4c660349cb339df9b5d",
+    "localImage": "assets/products/wedding-sources/rosewood-ad7a69fbdeaa83.webp"
+  },
+  {
+    "n": 46,
+    "source": "rosewood",
+    "sourceUrl": "https://www.rosewoodcakes.com/luxury-wedding-cakes",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/578f551febbd1ad4a387b5df/1676540995803-8T37XAN4ZHL48GFGH64O/faye+carlowrie.jpg",
+    "alt": "faye carlowrie.jpg",
+    "sha256": "882b98e607d4f77475b269c039c36b075f5143236a63ff7e0e7eda3b16b5c214",
+    "localImage": "assets/products/wedding-sources/rosewood-882b98e607d4f7.webp"
+  },
+  {
+    "n": 47,
+    "source": "rosewood",
+    "sourceUrl": "https://www.rosewoodcakes.com/luxury-wedding-cakes",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/578f551febbd1ad4a387b5df/1676541009843-YYG0SWAG70O6DZYSO8QZ/hopetoun.jpg",
+    "alt": "hopetoun.jpg",
+    "sha256": "f6f6be4460f7d99a405116acd97b778acaf388163422187ca0cf4f34c803e911",
+    "localImage": "assets/products/wedding-sources/rosewood-f6f6be4460f7d9.webp"
+  },
+  {
+    "n": 48,
+    "source": "rosewood",
+    "sourceUrl": "https://www.rosewoodcakes.com/luxury-wedding-cakes",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/578f551febbd1ad4a387b5df/1676541079770-O3R3H1VLFVW3WXIPHJEK/luxe+01.jpg",
+    "alt": "luxe 01.jpg",
+    "sha256": "876dff58141f12a02c6551eae811c31e5d02d9e4ac0e8801865dd519c41a8d4e",
+    "localImage": "assets/products/wedding-sources/rosewood-876dff58141f12.webp"
+  },
+  {
+    "n": 49,
+    "source": "rosewood",
+    "sourceUrl": "https://www.rosewoodcakes.com/luxury-wedding-cakes",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/578f551febbd1ad4a387b5df/1676540999482-RTKCCNB5RL7ATEIZS1ME/five+tier+luxury+white+ruffle+carlowrie+castle+-+rosewood+cakes+luxury+wedding+cakes+glasgow+scotland.jpg",
+    "alt": "five tier luxury white ruffle carlowrie castle - rosewood cakes luxury wedding cakes glasgow scotland.jpg",
+    "sha256": "80ace3bde4c1ec5397361225af773fead8cbecde22be6122a8c44bfc543eb313",
+    "localImage": "assets/products/wedding-sources/rosewood-80ace3bde4c1ec.webp"
+  },
+  {
+    "n": 50,
+    "source": "rosewood",
+    "sourceUrl": "https://www.rosewoodcakes.com/luxury-wedding-cakes",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/578f551febbd1ad4a387b5df/1676540999669-0PR18X7L1Q43PIHRY6TQ/floral+applique+-+turnberry+weddings+-+rosewood+cakes+luxury+wedding+cakes+glasgow+scotland.jpg",
+    "alt": "floral applique - turnberry weddings - rosewood cakes luxury wedding cakes glasgow scotland.jpg",
+    "sha256": "e343bb0ef13a0336915c7e3d82e7d842977673fcf78e2ca449fe1de5f6f4870b",
+    "localImage": "assets/products/wedding-sources/rosewood-e343bb0ef13a03.webp"
+  },
+  {
+    "n": 51,
+    "source": "rosewood",
+    "sourceUrl": "https://www.rosewoodcakes.com/luxury-wedding-cakes",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/578f551febbd1ad4a387b5df/1676541003569-ZG27OZ22JPG2DAWEOO67/gold+insert+blush+sparkle+%282%29.jpg",
+    "alt": "gold insert blush sparkle (2).jpg",
+    "sha256": "9679940539891700b44aa7a6b116c2e1604f0c98e1ad109a6ec34861f04eeb4b",
+    "localImage": "assets/products/wedding-sources/rosewood-96799405398917.webp"
+  },
+  {
+    "n": 52,
+    "source": "rosewood",
+    "sourceUrl": "https://www.rosewoodcakes.com/luxury-wedding-cakes",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/578f551febbd1ad4a387b5df/1676541005314-304KUWJYLUVH19X71VGG/green+watercolour+-+rosewood+cakes+luxury+wedding+cakes+glasgow+scotland.jpg",
+    "alt": "green watercolour - rosewood cakes luxury wedding cakes glasgow scotland.jpg",
+    "sha256": "87aefe72eb07f1fbfb3b9d7d577103cfbb6a42212c3f5db50cc4b03ca52cdf96",
+    "localImage": "assets/products/wedding-sources/rosewood-87aefe72eb07f1.webp"
+  },
+  {
+    "n": 53,
+    "source": "rosewood",
+    "sourceUrl": "https://www.rosewoodcakes.com/luxury-wedding-cakes",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/578f551febbd1ad4a387b5df/1676541007636-9HCTYLEKZZ3K1CU4YZJN/hopetoun+house+luxury+wedding+cake+coral+roses+rosewood+cakes+glasgow+scotland.jpg",
+    "alt": "hopetoun house luxury wedding cake coral roses rosewood cakes glasgow scotland.jpg",
+    "sha256": "d8bd58c97b8558f988b11da27900b6179c71672e580ce43161bfd5f4e6080245",
+    "localImage": "assets/products/wedding-sources/rosewood-d8bd58c97b8558.webp"
+  },
+  {
+    "n": 54,
+    "source": "rosewood",
+    "sourceUrl": "https://www.rosewoodcakes.com/luxury-wedding-cakes",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/578f551febbd1ad4a387b5df/1676541009909-XEEVPSMDD6456G2PRP9S/joanne+auchen+castle+luxury+cake.jpg",
+    "alt": "joanne auchen castle luxury cake.jpg",
+    "sha256": "97f2a7b09a4675741b8d4561c260638530f83ae0b73e42554e048c7fbfe8a781",
+    "localImage": "assets/products/wedding-sources/rosewood-97f2a7b09a4675.webp"
+  },
+  {
+    "n": 55,
+    "source": "rosewood",
+    "sourceUrl": "https://www.rosewoodcakes.com/luxury-wedding-cakes",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/578f551febbd1ad4a387b5df/1676541011443-JRX3HXYCY87LBFSGELNA/jonny+laura+cake.jpg",
+    "alt": "jonny laura cake.jpg",
+    "sha256": "8d31beb06d69a570b92e05b5d7fe59d2c161b9634609cbe8a56acf4b40814bdb",
+    "localImage": "assets/products/wedding-sources/rosewood-8d31beb06d69a5.webp"
+  },
+  {
+    "n": 56,
+    "source": "rosewood",
+    "sourceUrl": "https://www.rosewoodcakes.com/luxury-wedding-cakes",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/578f551febbd1ad4a387b5df/1676541014380-90L4VZQAOGHN211S9TCI/kirsty+barr+wedding+cake+professional+pictures+02.jpg",
+    "alt": "kirsty barr wedding cake professional pictures 02.jpg",
+    "sha256": "dd6a123be19f3ff75084edd4ac5985d631eaa0309a67e393b60ad899b160a95e",
+    "localImage": "assets/products/wedding-sources/rosewood-dd6a123be19f3f.webp"
+  },
+  {
+    "n": 57,
+    "source": "rosewood",
+    "sourceUrl": "https://www.rosewoodcakes.com/luxury-wedding-cakes",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/578f551febbd1ad4a387b5df/1676541015450-35NST7IT66HVGRGY1ZMP/kirsty+barr+wedding+cake+professional+pictures.jpg",
+    "alt": "kirsty barr wedding cake professional pictures.jpg",
+    "sha256": "1c06c26ee6aeb2a32efc0f1d16cc9bd71bd2dd84098bca2223c832f61e3dacec",
+    "localImage": "assets/products/wedding-sources/rosewood-1c06c26ee6aeb2.webp"
+  },
+  {
+    "n": 58,
+    "source": "rosewood",
+    "sourceUrl": "https://www.rosewoodcakes.com/luxury-wedding-cakes",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/578f551febbd1ad4a387b5df/1676541016611-VN8MK2FTCEQBPGBDIP22/kirsty+barr.jpg",
+    "alt": "kirsty barr.jpg",
+    "sha256": "7156cf0df7ad1e60857e262d36447d9ab7ce39aea82988aef2aadea5ca37fd34",
+    "localImage": "assets/products/wedding-sources/rosewood-7156cf0df7ad1e.webp"
+  },
+  {
+    "n": 59,
+    "source": "rosewood",
+    "sourceUrl": "https://www.rosewoodcakes.com/luxury-wedding-cakes",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/578f551febbd1ad4a387b5df/1676541023980-BYI6C5W46QD3AXCOYQB5/lauren+hydro+luxe+cake.jpg",
+    "alt": "lauren hydro luxe cake.jpg",
+    "sha256": "97bc47ed4d21eeaedacfa7f538fec788e1b820c65abd59a08419773509a66c0e",
+    "localImage": "assets/products/wedding-sources/rosewood-97bc47ed4d21ee.webp"
+  },
+  {
+    "n": 60,
+    "source": "rosewood",
+    "sourceUrl": "https://www.rosewoodcakes.com/luxury-wedding-cakes",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/578f551febbd1ad4a387b5df/1676541077362-TKYXF05LPUV24R7AP36A/loretta+champagne+shimmer+luxury+wedding+cake.jpg",
+    "alt": "loretta champagne shimmer luxury wedding cake.jpg",
+    "sha256": "0bc6eed95429453795a02c0d6a84e13e6a71ca8b4fba43b29cba04be18d4fcb2",
+    "localImage": "assets/products/wedding-sources/rosewood-0bc6eed9542945.webp"
+  },
+  {
+    "n": 61,
+    "source": "rosewood",
+    "sourceUrl": "https://www.rosewoodcakes.com/luxury-wedding-cakes",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/578f551febbd1ad4a387b5df/1676541084668-LQWT9OLT024SYWVLP0D8/luxe+03.jpg",
+    "alt": "luxe 03.jpg",
+    "sha256": "43f67bee6e816b2c5c20d06274f658026e201ff590672ed6bc18959c1561e9b4",
+    "localImage": "assets/products/wedding-sources/rosewood-43f67bee6e816b.webp"
+  },
+  {
+    "n": 62,
+    "source": "rosewood",
+    "sourceUrl": "https://www.rosewoodcakes.com/luxury-wedding-cakes",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/578f551febbd1ad4a387b5df/1676541086021-UG1DL86GO5CD55H1CAJN/luxe+04.jpg",
+    "alt": "luxe 04.jpg",
+    "sha256": "d2363824fd9e472d2ef54032e31bcd0fd3301d7e72cdc0126e90a53b7deb6515",
+    "localImage": "assets/products/wedding-sources/rosewood-d2363824fd9e47.webp"
+  },
+  {
+    "n": 63,
+    "source": "rosewood",
+    "sourceUrl": "https://www.rosewoodcakes.com/luxury-wedding-cakes",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/578f551febbd1ad4a387b5df/1676541087351-KKPSH0JCNTBZU3UWQQQZ/luxe+06.jpg",
+    "alt": "luxe 06.jpg",
+    "sha256": "cd74ebac1a59bf22aef0bf93c0a4c1812342919baad3ee5e599cb4c29828e262",
+    "localImage": "assets/products/wedding-sources/rosewood-cd74ebac1a59bf.webp"
+  },
+  {
+    "n": 64,
+    "source": "rosewood",
+    "sourceUrl": "https://www.rosewoodcakes.com/luxury-wedding-cakes",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/578f551febbd1ad4a387b5df/1676541419403-6CE36HCAG7RX9U56850J/navy+ombre+watercolour+cottiers.jpg",
+    "alt": "navy ombre watercolour cottiers.jpg",
+    "sha256": "8d31beb06d69a570b92e05b5d7fe59d2c161b9634609cbe8a56acf4b40814bdb",
+    "localImage": "assets/products/wedding-sources/rosewood-8d31beb06d69a5.webp"
+  },
+  {
+    "n": 65,
+    "source": "rosewood",
+    "sourceUrl": "https://www.rosewoodcakes.com/luxury-wedding-cakes",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/578f551febbd1ad4a387b5df/1676541464665-BYLQUJQ3PQEVNK2JX88V/faye+carlowrie.jpg",
+    "alt": "faye carlowrie.jpg",
+    "sha256": "882b98e607d4f77475b269c039c36b075f5143236a63ff7e0e7eda3b16b5c214",
+    "localImage": "assets/products/wedding-sources/rosewood-882b98e607d4f7.webp"
+  },
+  {
+    "n": 66,
+    "source": "rosewood",
+    "sourceUrl": "https://www.rosewoodcakes.com/luxury-wedding-cakes",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/578f551febbd1ad4a387b5df/1575369101549-6U4OMBKP27HFZ6PZPWU3/rosewood+cakes+-+luxury+wedding+cakes+glasgow+scotland+-++13.jpg",
+    "alt": "rosewood cakes - luxury wedding cakes glasgow scotland -  13.jpg",
+    "sha256": "a091e7193921627c64b4acea608f082d87674796f85c889b24252814d58d8a7b",
+    "localImage": "assets/products/wedding-sources/rosewood-a091e719392162.webp"
+  },
+  {
+    "n": 67,
+    "source": "rosewood",
+    "sourceUrl": "https://www.rosewoodcakes.com/luxury-wedding-cakes",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/578f551febbd1ad4a387b5df/1676541527747-FT2V1UNPTFXBMHOM8AZK/luxury+st+andrews+tall+cake.jpg",
+    "alt": "luxury st andrews tall cake.jpg",
+    "sha256": "2c6fdfa69ffce06af37a929b6eab084b116e446160b941977feaec57bda9af2e",
+    "localImage": "assets/products/wedding-sources/rosewood-2c6fdfa69ffce0.webp"
+  },
+  {
+    "n": 68,
+    "source": "rosewood",
+    "sourceUrl": "https://www.rosewoodcakes.com/luxury-wedding-cakes",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/578f551febbd1ad4a387b5df/1610019242766-O7CN6ZOT1V19ZBCHCASO/vintage+shoot+rosewood+cakes+glasgow+-+luxury+wedding+cakes+scotland+4.jpg",
+    "alt": "vintage shoot rosewood cakes glasgow - luxury wedding cakes scotland 4.jpg",
+    "sha256": "abc7d131b91c6b2dcaa48a8d48bdf4484bed38352634d69d06fab194f9ad43b3",
+    "localImage": "assets/products/wedding-sources/rosewood-abc7d131b91c6b.webp"
+  },
+  {
+    "n": 69,
+    "source": "gc-bespoke",
+    "sourceUrl": "https://shop.gccouture.co.uk/pages/luxury-bespoke-wedding-cakes",
+    "imageUrl": "https://shop.gccouture.co.uk/cdn/shop/files/Wedding-Cakes-At-Cliveden-House-Hotel-By-GC-Couture-Mayfair.jpg?v=1682591567",
+    "alt": "",
+    "sha256": "641f16f7770497a4e1d5b7b87477fb6a16c5d607c5cf81f839929db514b984ac",
+    "localImage": "assets/products/wedding-sources/gc-bespoke-641f16f7770497.webp"
+  },
+  {
+    "n": 70,
+    "source": "gc-bespoke",
+    "sourceUrl": "https://shop.gccouture.co.uk/pages/luxury-bespoke-wedding-cakes",
+    "imageUrl": "https://shop.gccouture.co.uk/cdn/shop/files/gc-couture-blenheim-palace-wedding-cake.jpg?v=1682449216",
+    "alt": "",
+    "sha256": "7fb135ba8bbb81a4d5099a20be787dc10fd37b4e1202edabfb1e60425bef5857",
+    "localImage": "assets/products/wedding-sources/gc-bespoke-7fb135ba8bbb81.webp"
+  },
+  {
+    "n": 71,
+    "source": "gc-bespoke",
+    "sourceUrl": "https://shop.gccouture.co.uk/pages/luxury-bespoke-wedding-cakes",
+    "imageUrl": "https://shop.gccouture.co.uk/cdn/shop/files/L6A6490-2-Edit.jpg?v=1682609081",
+    "alt": "",
+    "sha256": "d71bb4ec789951844daaf6e4223b2a64c85312cc605572c6e913f49b7eaa4318",
+    "localImage": "assets/products/wedding-sources/gc-bespoke-d71bb4ec789951.webp"
+  },
+  {
+    "n": 72,
+    "source": "gc-bespoke",
+    "sourceUrl": "https://shop.gccouture.co.uk/pages/luxury-bespoke-wedding-cakes",
+    "imageUrl": "https://shop.gccouture.co.uk/cdn/shop/files/GC-Couture-Luxury-Wedding-Cake-At-The-Savoy.jpg?v=1682607751",
+    "alt": "",
+    "sha256": "03eac919dc16ff1cc5c6202217b9b5999fa006bd9cac9d87834e938581042a72",
+    "localImage": "assets/products/wedding-sources/gc-bespoke-03eac919dc16ff.webp"
+  },
+  {
+    "n": 73,
+    "source": "gc-bespoke",
+    "sourceUrl": "https://shop.gccouture.co.uk/pages/luxury-bespoke-wedding-cakes",
+    "imageUrl": "https://shop.gccouture.co.uk/cdn/shop/files/GC-Couture-Gordon-Ramsay-Luxury-Wedding-Cake.jpg?v=1682608699",
+    "alt": "",
+    "sha256": "9c63a3988050c0a7e091914156f24c5ebde1491c443f10b75e8ba47944e16332",
+    "localImage": "assets/products/wedding-sources/gc-bespoke-9c63a3988050c0.webp"
+  },
+  {
+    "n": 74,
+    "source": "gc-bespoke",
+    "sourceUrl": "https://shop.gccouture.co.uk/pages/luxury-bespoke-wedding-cakes",
+    "imageUrl": "https://shop.gccouture.co.uk/cdn/shop/files/luxury-wedding-cake-closeup-the-connaught-gc-couture.jpg?v=1682608778",
+    "alt": "",
+    "sha256": "7b59e29a56c8cbd5750a98a12374d5bc0da81c5fcab62f3e58a0df341b24c8de",
+    "localImage": "assets/products/wedding-sources/gc-bespoke-7b59e29a56c8cb.webp"
+  },
+  {
+    "n": 75,
+    "source": "gc-bespoke",
+    "sourceUrl": "https://shop.gccouture.co.uk/pages/luxury-bespoke-wedding-cakes",
+    "imageUrl": "https://shop.gccouture.co.uk/cdn/shop/files/oscar-de-la-renta-wedding-cake-details-closeup-by-gc-couture.jpg?v=1682608735",
+    "alt": "",
+    "sha256": "c0ef8b0701e59112167ecfb62050fd9a0cd1b6e6073ba4bd7683fdace3ef10f3",
+    "localImage": "assets/products/wedding-sources/gc-bespoke-c0ef8b0701e591.webp"
+  },
+  {
+    "n": 76,
+    "source": "gc-bespoke",
+    "sourceUrl": "https://shop.gccouture.co.uk/pages/luxury-bespoke-wedding-cakes",
+    "imageUrl": "https://shop.gccouture.co.uk/cdn/shop/files/Kosher-Wedding-Cake-Sugar-Flower-Closeup-By-GC-Couture.jpg?v=1682608900",
+    "alt": "",
+    "sha256": "e8efcecb5c09431329a2ab34ecaba4b288ed2b45d03756bd6de516bd974703de",
+    "localImage": "assets/products/wedding-sources/gc-bespoke-e8efcecb5c0943.webp"
+  },
+  {
+    "n": 77,
+    "source": "gc-bespoke",
+    "sourceUrl": "https://shop.gccouture.co.uk/pages/luxury-bespoke-wedding-cakes",
+    "imageUrl": "https://shop.gccouture.co.uk/cdn/shop/files/L6A6270-Edit-_1_-sq.jpg?v=1682607479",
+    "alt": "",
+    "sha256": "18ab8305b51659bf9c63bf56fafaf5152cd27afccaa1db7a6476034dd01d2153",
+    "localImage": "assets/products/wedding-sources/gc-bespoke-18ab8305b51659.webp"
+  },
+  {
+    "n": 78,
+    "source": "gc-bespoke",
+    "sourceUrl": "https://shop.gccouture.co.uk/pages/luxury-bespoke-wedding-cakes",
+    "imageUrl": "https://shop.gccouture.co.uk/cdn/shop/files/pri.jpg?v=1682607068",
+    "alt": "",
+    "sha256": "5e618c63f35ac6d550ca8ba4132029d352f49c1e31cebf08ec5165dbaa9b4c73",
+    "localImage": "assets/products/wedding-sources/gc-bespoke-5e618c63f35ac6.webp"
+  },
+  {
+    "n": 79,
+    "source": "gc-bespoke",
+    "sourceUrl": "https://shop.gccouture.co.uk/pages/luxury-bespoke-wedding-cakes",
+    "imageUrl": "https://shop.gccouture.co.uk/cdn/shop/files/dov.jpg?v=1682608103",
+    "alt": "",
+    "sha256": "cd3b16e3a169c4656975e4725c353091e333334bffe4a0a8d2331df5adf30c1b",
+    "localImage": "assets/products/wedding-sources/gc-bespoke-cd3b16e3a169c4.webp"
+  },
+  {
+    "n": 80,
+    "source": "gc-bespoke",
+    "sourceUrl": "https://shop.gccouture.co.uk/pages/luxury-bespoke-wedding-cakes",
+    "imageUrl": "https://shop.gccouture.co.uk/cdn/shop/articles/GC-Couture-Wedding-Cake-At-Cliveden-House.jpg?v=1693250232",
+    "alt": "Cliveden House",
+    "sha256": "5a23e2fdc86031e60e02f378ba568dfdb3d5b3bcc0ed44e73d8a536d4a5e1f5a",
+    "localImage": "assets/products/wedding-sources/gc-bespoke-5a23e2fdc86031.webp"
+  },
+  {
+    "n": 81,
+    "source": "gc-bespoke",
+    "sourceUrl": "https://shop.gccouture.co.uk/pages/luxury-bespoke-wedding-cakes",
+    "imageUrl": "https://shop.gccouture.co.uk/cdn/shop/articles/The-Savoy-Luxury-Wedding-Cake-By-GC-Couture-2.jpg?v=1693321569",
+    "alt": "The Savoy",
+    "sha256": "3d453f21293709b11d97be86ccac8b06627c1d8e4891cef77e1027335f73188f",
+    "localImage": "assets/products/wedding-sources/gc-bespoke-3d453f21293709.webp"
+  },
+  {
+    "n": 82,
+    "source": "gc-bespoke",
+    "sourceUrl": "https://shop.gccouture.co.uk/pages/luxury-bespoke-wedding-cakes",
+    "imageUrl": "https://shop.gccouture.co.uk/cdn/shop/articles/luxury-blush-and-gold-wedding-cake-paris_1.jpg?v=1723993523",
+    "alt": "Paris, Intercontinental Le Grand",
+    "sha256": "ae2fd8d17ca8cf9ee9e13191e70380118de51bbac0871bd54567831dbc9de040",
+    "localImage": "assets/products/wedding-sources/gc-bespoke-ae2fd8d17ca8cf.webp"
+  },
+  {
+    "n": 83,
+    "source": "gc-collection",
+    "sourceUrl": "https://shop.gccouture.co.uk/products/burgundy-wedding-cake-london",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0318/8827/7563/products/Burgundy-Wedding-Cake-1.jpg?v=1736071340",
+    "alt": "Burgundy Wedding Cake",
+    "productHandle": "burgundy-wedding-cake-london",
+    "sourceProductId": 5069772095547,
+    "sha256": "7e2f4af5a0e74ce93941f65a05f2d7f20a59b808368d30edd4484f7f0cd85956",
+    "localImage": "assets/products/wedding-sources/gc-collection-7e2f4af5a0e74c.webp"
+  },
+  {
+    "n": 84,
+    "source": "gc-collection",
+    "sourceUrl": "https://shop.gccouture.co.uk/products/burgundy-wedding-cake-london",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0318/8827/7563/products/Burgundy-Wedding-Cake-2.jpg?v=1736071374",
+    "alt": "Burgundy Wedding Cake",
+    "productHandle": "burgundy-wedding-cake-london",
+    "sourceProductId": 5069772095547,
+    "sha256": "afd30c4e44df362652b63f23573a21e5288460b07af2977f04390397d8279dca",
+    "localImage": "assets/products/wedding-sources/gc-collection-afd30c4e44df36.webp"
+  },
+  {
+    "n": 85,
+    "source": "gc-collection",
+    "sourceUrl": "https://shop.gccouture.co.uk/products/ivory-wedding-cake-london",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0318/8827/7563/products/Ivory-Wedding-Cake-1.jpg?v=1736083855",
+    "alt": "Ivory Wedding Cake",
+    "productHandle": "ivory-wedding-cake-london",
+    "sourceProductId": 5069776158779,
+    "sha256": "9362b4432789a256da610ac16485ae9134ddfcfa42076e9f51c8898b1ee339ba",
+    "localImage": "assets/products/wedding-sources/gc-collection-9362b4432789a2.webp"
+  },
+  {
+    "n": 86,
+    "source": "gc-collection",
+    "sourceUrl": "https://shop.gccouture.co.uk/products/ivory-wedding-cake-london",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0318/8827/7563/products/Ivory-Wedding-Cake-2.jpg?v=1736083887",
+    "alt": "Ivory Wedding Cake",
+    "productHandle": "ivory-wedding-cake-london",
+    "sourceProductId": 5069776158779,
+    "sha256": "2f545b170b2bb45119e58e7967a70578dd06cd672de7b27b1f41c0d41c4e219e",
+    "localImage": "assets/products/wedding-sources/gc-collection-2f545b170b2bb4.webp"
+  },
+  {
+    "n": 87,
+    "source": "gc-collection",
+    "sourceUrl": "https://shop.gccouture.co.uk/products/black-wedding-cake-london",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0318/8827/7563/products/Black-Wedding-Cake-1.jpg?v=1736084485",
+    "alt": "Black Wedding Cake",
+    "productHandle": "black-wedding-cake-london",
+    "sourceProductId": 5069774618683,
+    "sha256": "16715017b36fae6507c39d62c587adae629f68b3fda96fa8695bf44981b7413d",
+    "localImage": "assets/products/wedding-sources/gc-collection-16715017b36fae.webp"
+  },
+  {
+    "n": 88,
+    "source": "gc-collection",
+    "sourceUrl": "https://shop.gccouture.co.uk/products/black-wedding-cake-london",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0318/8827/7563/products/Black-Wedding-Cake-2.jpg?v=1736084501",
+    "alt": "Black Wedding Cake",
+    "productHandle": "black-wedding-cake-london",
+    "sourceProductId": 5069774618683,
+    "sha256": "a140b2a792f4e154dfe310cfe272f06033effd64596aa6cb4828aaddef3f6298",
+    "localImage": "assets/products/wedding-sources/gc-collection-a140b2a792f4e1.webp"
+  },
+  {
+    "n": 89,
+    "source": "gc-collection",
+    "sourceUrl": "https://shop.gccouture.co.uk/products/grey-marble-wedding-cake-london",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0318/8827/7563/products/Grey-Marble-Wedding-Cake-1.jpg?v=1735983409",
+    "alt": "Grey Marble Wedding Cake",
+    "productHandle": "grey-marble-wedding-cake-london",
+    "sourceProductId": 5069775339579,
+    "sha256": "b77062e9c06677d4ab2e2cf55a7e664217f502edec7738fcdc52a8957228cf25",
+    "localImage": "assets/products/wedding-sources/gc-collection-b77062e9c06677.webp"
+  },
+  {
+    "n": 90,
+    "source": "gc-collection",
+    "sourceUrl": "https://shop.gccouture.co.uk/products/grey-marble-wedding-cake-london",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0318/8827/7563/products/Grey-Marble-Wedding-Cake-2.jpg?v=1735983436",
+    "alt": "Grey Marble Wedding Cake",
+    "productHandle": "grey-marble-wedding-cake-london",
+    "sourceProductId": 5069775339579,
+    "sha256": "01bae8e7103fc06673cf180a1d74ea9310ec81574d56022010b2278022575e7b",
+    "localImage": "assets/products/wedding-sources/gc-collection-01bae8e7103fc0.webp"
+  },
+  {
+    "n": 91,
+    "source": "gc-collection",
+    "sourceUrl": "https://shop.gccouture.co.uk/products/pink-wedding-cake-london",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0318/8827/7563/products/Pink-Wedding-Cake-1.jpg?v=1735983791",
+    "alt": "Pink Wedding Cake",
+    "productHandle": "pink-wedding-cake-london",
+    "sourceProductId": 5069777043515,
+    "sha256": "cbccba765736daef0e887e5c79e964d6849090de2afe0147082019b2edefd61a",
+    "localImage": "assets/products/wedding-sources/gc-collection-cbccba765736da.webp"
+  },
+  {
+    "n": 92,
+    "source": "gc-collection",
+    "sourceUrl": "https://shop.gccouture.co.uk/products/pink-wedding-cake-london",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0318/8827/7563/products/Pink-Wedding-Cake-2.jpg?v=1735983823",
+    "alt": "Pink Wedding Cake",
+    "productHandle": "pink-wedding-cake-london",
+    "sourceProductId": 5069777043515,
+    "sha256": "85793884a13b5042fc9579252080d367847e2bac399c3ca765a6411ff0141fe9",
+    "localImage": "assets/products/wedding-sources/gc-collection-85793884a13b50.webp"
+  },
+  {
+    "n": 93,
+    "source": "gc-collection",
+    "sourceUrl": "https://shop.gccouture.co.uk/products/navy-blue-wedding-cake-london",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0318/8827/7563/products/Navy-Blue-Wedding-Cake-1.jpg?v=1735984513",
+    "alt": "Navy Blue Wedding Cake",
+    "productHandle": "navy-blue-wedding-cake-london",
+    "sourceProductId": 5055516672059,
+    "sha256": "33070322b974a8c7ca551ad032c9d69b5905361e0184769308124dd42d063875",
+    "localImage": "assets/products/wedding-sources/gc-collection-33070322b974a8.webp"
+  },
+  {
+    "n": 94,
+    "source": "gc-collection",
+    "sourceUrl": "https://shop.gccouture.co.uk/products/navy-blue-wedding-cake-london",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0318/8827/7563/products/Navy-Blue-Wedding-Cake-2.jpg?v=1735984540",
+    "alt": "Navy Blue Wedding Cake",
+    "productHandle": "navy-blue-wedding-cake-london",
+    "sourceProductId": 5055516672059,
+    "sha256": "4739086edb32a6e4bfcb339fb13144c8d4be3a8ee3518357f78783b009e461ba",
+    "localImage": "assets/products/wedding-sources/gc-collection-4739086edb32a6.webp"
+  },
+  {
+    "n": 95,
+    "source": "gc-collection",
+    "sourceUrl": "https://shop.gccouture.co.uk/products/navy-blue-wedding-cake-london",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0318/8827/7563/products/Navy-Blue-Wedding-Cake-3.jpg?v=1735984569",
+    "alt": "Navy Blue Wedding Cake",
+    "productHandle": "navy-blue-wedding-cake-london",
+    "sourceProductId": 5055516672059,
+    "sha256": "7c79e2c79becfa7b3e901370c37853b18cbcd05bf3e2b3cfba459576b9ab3d69",
+    "localImage": "assets/products/wedding-sources/gc-collection-7c79e2c79becfa.webp"
+  },
+  {
+    "n": 96,
+    "source": "gc-collection",
+    "sourceUrl": "https://shop.gccouture.co.uk/products/navy-blue-wedding-cake-london",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0318/8827/7563/products/Navy-Blue-Wedding-Cake-4.jpg?v=1735984595",
+    "alt": "Navy Blue Wedding Cake",
+    "productHandle": "navy-blue-wedding-cake-london",
+    "sourceProductId": 5055516672059,
+    "sha256": "4739086edb32a6e4bfcb339fb13144c8d4be3a8ee3518357f78783b009e461ba",
+    "localImage": "assets/products/wedding-sources/gc-collection-4739086edb32a6.webp"
+  }
+]

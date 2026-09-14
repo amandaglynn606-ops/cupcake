@@ -1,0 +1,407 @@
+{
+  "batch": 18,
+  "size": 50,
+  "sourcePreference": "Pinterest",
+  "records": [
+    {
+      "n": 851,
+      "productId": "6541540131005",
+      "title": "Whimsical Yellow & Blue Design Cake",
+      "originalImage": "assets/products/fccd066a7793d98b5a2d.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 852,
+      "productId": "6541355516093",
+      "title": "Simple Cupcakes with Berries",
+      "originalImage": "assets/products/f085dab1a9b60393ad34.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 853,
+      "productId": "6541348470973",
+      "title": "Valentine Cupcakes",
+      "originalImage": "assets/products/c6acfa8b4cb4f035b2e4.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 854,
+      "productId": "6541302268093",
+      "title": "Wedding Bride Cookies",
+      "originalImage": "assets/products/92795ee7dc9e8e9bfef3.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 855,
+      "productId": "6541412729021",
+      "title": "Tiffany Inspired Pearl Cupcakes",
+      "originalImage": "assets/products/798ff5c4cf7eced4d32a.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 856,
+      "productId": "6541411319997",
+      "title": "Superhero Cupcakes",
+      "originalImage": "assets/products/896e9b2810cd3ba28417.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 857,
+      "productId": "6541395591357",
+      "title": "Elegant Heart Shaped Cookies",
+      "originalImage": "assets/products/7c6344e2a29b3482fbaa.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 858,
+      "productId": "6541395198141",
+      "title": "Spiderman Superhero Cookies",
+      "originalImage": "assets/products/3a32a53069eecc665f43.png",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 859,
+      "productId": "6541306495165",
+      "title": "Sweet Bear Cupcakes",
+      "originalImage": "assets/products/8b83f5b77bef6af1cce3.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 860,
+      "productId": "6541539967165",
+      "title": "Silver Unicorn 3D Cake",
+      "originalImage": "assets/products/ebc230f8a14a5f48a2d8.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 861,
+      "productId": "6541402996925",
+      "title": "Sculpted Flower Cupcakes",
+      "originalImage": "assets/products/16266756a04d76029eb7.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 862,
+      "productId": "6541630111933",
+      "title": "Pink Rose Cupcakes",
+      "originalImage": "assets/products/694d4f065f357669e1a6.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 863,
+      "productId": "6541629980861",
+      "title": "Rainbow Cake with Chocolate Ganache",
+      "originalImage": "assets/products/8b43eb5f8b6127d00bf5.png",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 864,
+      "productId": "6541629391037",
+      "title": "Rainbow Color Birthday Cake",
+      "originalImage": "assets/products/c15d10b98b8c0cf36062.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 865,
+      "productId": "6541610188989",
+      "title": "Ramadan Karim Cupcakes",
+      "originalImage": "assets/products/9cabbeaeb5bc19c0d703.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 866,
+      "productId": "6541545636029",
+      "title": "Polka Dot Gender Reveal Cookies",
+      "originalImage": "assets/products/3f3d8c08adc9eb1aa5df.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 867,
+      "productId": "6541537706173",
+      "title": "Rainbow Unicorn Cupcakes",
+      "originalImage": "assets/products/1738a570890574b7e74a.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 868,
+      "productId": "6541411614909",
+      "title": "Red Velvet Rose Cupcakes",
+      "originalImage": "assets/products/7aad1ea183346ea76ab7.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 869,
+      "productId": "6541358727357",
+      "title": "Red and Pink Chocolate Cupcakes",
+      "originalImage": "assets/products/48d62e5a5043aaa314e5.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 870,
+      "productId": "6541358203069",
+      "title": "Red Hearts Chocolate Cupcakes",
+      "originalImage": "assets/products/77251cac66dc8f10fd33.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 871,
+      "productId": "6541356531901",
+      "title": "Roses Cupcakes",
+      "originalImage": "assets/products/6475a1f6d302a779c132.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 872,
+      "productId": "6541348831421",
+      "title": "Red Velvet Cupcakes",
+      "originalImage": "assets/products/14a37e82c087cf243ad0.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 873,
+      "productId": "6541337034941",
+      "title": "Pink Roses Bouquet - Cupcake Cake",
+      "originalImage": "assets/products/ee8326faba46d65f9004.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 874,
+      "productId": "6541307576509",
+      "title": "Pink Rose Cupcakes",
+      "originalImage": "assets/products/93ca3547eee4edd57e20.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 875,
+      "productId": "6541635682493",
+      "title": "Nurse Cake with Uniform",
+      "originalImage": "assets/products/e065f71c71c2d25392d2.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 876,
+      "productId": "6541629522109",
+      "title": "Pastel Color Cake",
+      "originalImage": "assets/products/b2498867d46ad7e60e44.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 877,
+      "productId": "6541600260285",
+      "title": "Mother's Day Pink Cupcakes",
+      "originalImage": "assets/products/b631adeacf5b3aa4d744.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 878,
+      "productId": "6541547634877",
+      "title": "Pink Heart Macaron & Berry Cake",
+      "originalImage": "assets/products/ff2da259d4777401e08a.png",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 879,
+      "productId": "6541546094781",
+      "title": "Mustache & Bow Gender Reveal Cupcakes",
+      "originalImage": "assets/products/1a73ca7721960380f31d.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 880,
+      "productId": "6541540786365",
+      "title": "Pink Bunny Rabbit 3D Cake",
+      "originalImage": "assets/products/7166d0ae93ddb98775c8.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 881,
+      "productId": "6541538525373",
+      "title": "Pastel Rose Pink Sponge Cake",
+      "originalImage": "assets/products/92093e340b5eb6d71798.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 882,
+      "productId": "6541485605053",
+      "title": "Pink Graduation Cupcakes",
+      "originalImage": "assets/products/460d8460d0b20d2525fb.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 883,
+      "productId": "6541407256765",
+      "title": "Ornate Gold Cupcakes",
+      "originalImage": "assets/products/348ec6985ced240bc2de.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 884,
+      "productId": "6541404963005",
+      "title": "Pink Love Bear Cupcakes",
+      "originalImage": "assets/products/427f998966e72958f5fc.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 885,
+      "productId": "6541403390141",
+      "title": "No.1 Dad Cupcakes",
+      "originalImage": "assets/products/cb9c2c0e23bc49146a67.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 886,
+      "productId": "6541399228605",
+      "title": "Pink Chic Birthday Cookies",
+      "originalImage": "assets/products/7b78cb2b223151565510.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 887,
+      "productId": "6541354827965",
+      "title": "Oreos Cupcakes",
+      "originalImage": "assets/products/439363a79584e7b93ad7.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 888,
+      "productId": "6541307314365",
+      "title": "Pink Bow Cupcakes",
+      "originalImage": "assets/products/93dcde3d30c4b25a7db8.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 889,
+      "productId": "6541303447741",
+      "title": "Pink Flower Cupcakes",
+      "originalImage": "assets/products/0b0e1d9e744bb03ee605.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 890,
+      "productId": "6541635420349",
+      "title": "Minnie Mouse Pink Cake",
+      "originalImage": "assets/products/9bcc5d8c133e64821e41.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 891,
+      "productId": "6541632372925",
+      "title": "Minnie Mouse Pink Cake",
+      "originalImage": "assets/products/06fc3a537449c5afb9ab.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 892,
+      "productId": "6541632045245",
+      "title": "Minecraft Green & Red Theme Cake",
+      "originalImage": "assets/products/5af0c4b482594492a05a.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 893,
+      "productId": "6541631815869",
+      "title": "Micky Mouse Themed Cake",
+      "originalImage": "assets/products/852a4cce56980ac58d38.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 894,
+      "productId": "6541406109885",
+      "title": "Minecraft Cupcakes",
+      "originalImage": "assets/products/4da6686041cb6f5d1338.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 895,
+      "productId": "6541540032701",
+      "title": "Melting Chocolate & Berries Cake",
+      "originalImage": "assets/products/b36c24f2b24af2a40f64.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 896,
+      "productId": "6541539606717",
+      "title": "Macarons And Raspberries Sponge Cake",
+      "originalImage": "assets/products/c2f08237bafe5a032e21.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 897,
+      "productId": "6541539541181",
+      "title": "Maroon Rose Floral Sponge Cake",
+      "originalImage": "assets/products/f505ef1739a7272ebeb4.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 898,
+      "productId": "6541538033853",
+      "title": "Macaron Cake",
+      "originalImage": "assets/products/1e698edfac4bf5349f28.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 899,
+      "productId": "6541527351485",
+      "title": "Letter Shape Cake with Berries & Macarons",
+      "originalImage": "assets/products/c75903feb08809e4037c.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 900,
+      "productId": "6541412139197",
+      "title": "Lace & Pearl Cupcakes",
+      "originalImage": "assets/products/0c60f9484adfc5297523.jpg",
+      "status": "needs-search",
+      "candidates": []
+    }
+  ]
+}

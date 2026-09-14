@@ -1,0 +1,1574 @@
+{
+  "batch": 4,
+  "size": 50,
+  "sourcePreference": "Pinterest",
+  "records": [
+    {
+      "n": 151,
+      "productId": "9093034606817",
+      "title": "Elegant Photo Cake",
+      "originalImage": "assets/products/724a5eaa27008958251d.png",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/happy-birthday-heart-cake-for-couple-with-photo--279997301825696073/",
+          "imageUrl": "https://i.pinimg.com/736x/cd/7f/27/cd7f274586a566bfb8e5973c39ae6aad.jpg",
+          "description": "A heart-shaped two-tier cake is adorned with intricate white and pink buttercream piping and tiny rose decorations. The top features a framed edible photograph of a smiling couple in wedding attire, creating a personalized focal point. The cake rests on a white board atop a wooden table, blending classic decoration with modern photo customization.\n\nThis design, highlighted on a Pinterest page, is marketed for romantic occasions such as anniversaries and birthdays. Users can easily edit and download the template to add their own couple’s photo, making it a versatile and heartfelt celebration centerpiece.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9093034606817-62e91074463e.jpg",
+          "sha256": "62e91074463ee492f907f6ab6c3545747b5122f9823b8054c5afb182fbd28dd5"
+        }
+      ],
+      "query": "Elegant Photo Cake Pinterest"
+    },
+    {
+      "n": 152,
+      "productId": "9093031067873",
+      "title": "Photo Birthday Cake with Balloons",
+      "originalImage": "assets/products/4e5272f607c8e9c4df75.png",
+      "status": "needs-better-match",
+      "candidates": [],
+      "query": "Photo Birthday Cake with Balloons Pinterest"
+    },
+    {
+      "n": 153,
+      "productId": "9093029265633",
+      "title": "Floral Photo Birthday Cake",
+      "originalImage": "assets/products/49ed916e90b3f9f78bd5.png",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/502855114651047363/",
+          "imageUrl": "https://i.pinimg.com/564x/97/38/ff/9738ff220df74d843053dba0772824b2.jpg",
+          "description": "A pristine white two-tier birthday cake is elegantly adorned with a lush cascade of pink, peach, and white roses flowing from the top tier to the base. The upper tier showcases a framed photograph of a smiling woman, bordered by delicate piped icing that highlights the image. Fresh blooms crown the cake, adding a romantic touch, while the name \"Sis Kisha\" is piped at the bottom, personalizing the design for the special occasion.\n\nThis cake design, featured on Pinterest, offers customizable photo and name editing options, allowing users to create and download personalized birthday cake images. The romantic arrangement of fresh flowers and the framed photo make it an ideal centerpiece for a memorable celebration.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9093029265633-2e61a20cd14f.jpg",
+          "sha256": "2e61a20cd14fd50141583179185c348f1f66054ec2ead63bb8d4ab825ff550e4"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/ephoto_in/%E0%A4%AB%E0%A4%9F-%E0%A4%95-%E0%A4%B8%E0%A4%A5-%E0%A4%9C%E0%A4%A8%E0%A4%AE%E0%A4%A6%E0%A4%A8-%E0%A4%95-%E0%A4%95%E0%A4%95-photo-on-cakes/",
+          "imageUrl": "https://i.pinimg.com/474x/bf/2c/5e/bf2c5e326a2d88aa87761ae9b9fb7b35.jpg",
+          "description": "A white frosted round cake is adorned with vibrant red and yellow buttercream roses along its top edge, creating a festive floral border. In the center, an edible photograph of a young woman in a cream-colored dress standing among trees adds a personalized touch. The cake’s top and bottom edges are finished with red piped borders, and the side bears the inscription \"Happy Birthday\" in elegant red script. This design exemplifies the trend of custom photo cakes, blending decorative florals with personal imagery for celebratory occasions.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9093029265633-048abfc70de2.jpg",
+          "sha256": "048abfc70de22aef4be764c1fc13c77836a16795eaf3a7c3d2103d467497828f"
+        }
+      ],
+      "query": "Floral Photo Birthday Cake Pinterest"
+    },
+    {
+      "n": 154,
+      "productId": "9093021794529",
+      "title": "Gold & Black Roses Photo Birthday Cake",
+      "originalImage": "assets/products/30b96fc68fbfcdca99f4.png",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/black-rose-birthday-cake-ideas--1829656094544298/",
+          "imageUrl": "https://i.pinimg.com/736x/cb/63/bf/cb63bfff635e264c78106cd0bd48bc0c.jpg",
+          "description": "A striking birthday cake features smooth black frosting embellished with a cascade of gold sprinkles and edible gold spheres. Three oversized black sugar roses rest atop the cake, surrounded by gold-painted leaves and berries, creating a luxurious floral display. A glittering gold \"Happy Birthday\" topper completes the design, adding height and celebratory flair. The cake is presented on a black cake board, emphasizing the dramatic contrast between the dark icing and metallic accents.\n\nThis design is showcased on a Pinterest board dedicated to black rose birthday cake ideas, where it serves as inspiration for elegant celebrations such as birthdays, weddings, and anniversaries.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9093021794529-311c2916572c.jpg",
+          "sha256": "311c2916572c8bd0eb3d6488b6823dc75bc728730e26fc440aec3db9a12602d0"
+        },
+        {
+          "sourceUrl": "https://tr.pinterest.com/pin/2040762325757203/",
+          "imageUrl": "https://i.pinimg.com/736x/86/33/46/863346aeac599ec9b3f8b3bb02ac4b66.jpg",
+          "description": "A three-tiered birthday cake combines modern design with personal touches. The tiers are coated in smooth black frosting, each edged with a delicate gold trim. Black-and-white photo panels wrap around the middle and bottom tiers, showcasing wedding portraits and candid snapshots. Gold spheres, glittery candles, heart shapes, and macarons crown the top, while a gold \"Happy birthday\" topper adorns the center.\n\nThe cake rests on a white cake board atop a gold metal stand, creating a striking contrast. This design merges sleek monochrome styling with celebratory gold accents, making it an ideal centerpiece for a sophisticated birthday celebration.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9093021794529-471efb692020.jpg",
+          "sha256": "471efb692020048a069d4e26fe60bb77bd06bc9dd6b2be91bbb5a3763b60dc29"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/happy-birthday-cakes-for-friend-with-name-and-photo-page-10--804737027153425802/",
+          "imageUrl": "https://i.pinimg.com/736x/c4/c2/81/c4c2813ef0c09caf58ab25ec09ec1071.jpg",
+          "description": "A round cake sits on a silver board, covered in sleek black frosting and decorated with large pink and white buttercream flowers. Delicate white piped scrollwork accents the sides and top edge, framing a central square photo of a young woman enjoying cake. Above the photo, the placeholder text \"Your Name Here\" invites customization. This design, featured on a Pinterest page, highlights the option to add names and photos for a unique birthday celebration.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9093021794529-b8640e9130b8.jpg",
+          "sha256": "b8640e9130b8c6a9b5c410e25b7f2a060d6a322bdd501e38c4aa4fd28c2264e7"
+        }
+      ],
+      "query": "Gold & Black Roses Photo Birthday Cake Pinterest"
+    },
+    {
+      "n": 155,
+      "productId": "9093013897441",
+      "title": "3 Tier Photo Red Birthday Cake",
+      "originalImage": "assets/products/d8d7b407073bd4a293b4.png",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/nehas-bakery-cake-for-a-50th-birthdayfor-a-school-principal--31525266126024652/",
+          "imageUrl": "https://i.pinimg.com/564x/59/bb/cf/59bbcf52d349231a86f65499b49d6704.jpg",
+          "description": "A three-tiered custom cake honors a school principal’s 50th birthday with personalized black-and-white family photos on each layer. Red and white sugar flowers, green leaves, and a small fondant figurine of a woman seated next to a miniature easel add vibrant, celebratory touches. The bottom tier is bordered in red and inscribed with “Happy Birthday,” tying together the festive color scheme.\n\nThis cake, featured in a Pinterest post by Neha’s Bakery, highlights the milestone age and the recipient’s role as a school principal. The combination of personal photographs and handcrafted decorations creates a meaningful centerpiece for the birthday celebration.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9093013897441-b69697b50da3.jpg",
+          "sha256": "b69697b50da3ed945d9ab3a7ce571fcabbcd5340ebc06c6cd5d2780bc14bd07d"
+        },
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/70509550410357471/",
+          "imageUrl": "https://i.pinimg.com/474x/78/e6/da/78e6da9bacbd636185ff285dc1ed0bcf.jpg",
+          "description": "A three-tiered white fondant cake is elegantly wrapped in black-and-white photo film strips, each displaying candid snapshots of a man and his family and friends. The top of the cake features a gold hexagonal topper with the cursive message \"Happy Birthday,\" adding a celebratory focal point. The minimalist white backdrop and gold ribbon accents at the base of each tier enhance the modern aesthetic.\n\nThis design is part of a Pinterest collection of 20 unique birthday cake ideas for brothers, emphasizing personalized photo decorations and creative cake styling. The combination of monochrome images and metallic accents creates a sophisticated yet heartfelt tribute for a special birthday celebration.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9093013897441-846286add0cf.jpg",
+          "sha256": "846286add0cff46d3ac8f344c8000c91a99fc7d3d9de32c1e797a48ae3ca08bc"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/kchiurazzi/movie-themed-party/",
+          "imageUrl": "https://i.pinimg.com/originals/8a/22/bd/8a22bdbb241727ecdeeedae09c9b401d.jpg",
+          "description": "A three-tiered birthday cake combines cinematic flair with personalized details. The top tier is covered in black fondant, decorated with gold stars and topped by a clapperboard prop labeled \"Hollywood\" alongside film reels. The middle tier features the name \"Giulia\" in illuminated marquee-style letters, while the bottom tiers alternate red and black layers wrapped in a filmstrip of personal photographs. This custom design merges classic Hollywood motifs—stars, filmstrips, and marquee lights—to celebrate a special occasion.\n\nThe Pinterest page focuses on movie-themed party ideas, including outdoor movie nights and Hollywood birthday themes. This cake exemplifies the DIY and red carpet party inspiration shared on the site.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9093013897441-9e65ea87180a.jpg",
+          "sha256": "9e65ea87180adb827bd02b5bc1f560b7e663c98540f2c7ac9805edc5495b9bff"
+        }
+      ],
+      "query": "3 Tier Photo Red Birthday Cake Pinterest"
+    },
+    {
+      "n": 156,
+      "productId": "9093008883937",
+      "title": "Disco Balls Photo Cake",
+      "originalImage": "assets/products/8172f5f0fa9288503e49.jpg",
+      "status": "applied",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/28147566416282172/",
+          "imageUrl": "https://i.pinimg.com/originals/42/ce/65/42ce6514d13ef0b5c6497993adb46148.jpg",
+          "description": "This pink birthday cake features an array of mirrored disco ball spheres clustered on top, creating a striking centerpiece. Pink frosting swirls line the cake’s top edge, while white drip icing flows down the sides, accented by silver and white sprinkles around the base.\n\nThe design blends playful disco elements with elegant cake decorating techniques, making it ideal for a festive celebration. The mirrored spheres reflect light, enhancing the cake’s visual appeal and reinforcing its party-ready theme.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9093008883937-fabe7cad750a.jpg",
+          "sha256": "fabe7cad750aea1361b3ab0339427e7b16b7de0eb433c8e7a5d8f2850653e1a7"
+        },
+        {
+          "sourceUrl": "https://nz.pinterest.com/pin/774124929342435/",
+          "imageUrl": "https://i.pinimg.com/736x/bb/0d/b0/bb0db00a693e56038234dd3b59188349.jpg",
+          "description": "A two-tiered gray buttercream cake celebrates a Taylor Swift–themed 14th birthday with mirrored disco ball toppers and a metallic “14” cake topper. The side of the cake displays a vibrant collage of Taylor Swift photos in different color filters, framed by elegant buttercream rosettes. The cake sits on a white round board edged in black, combining modern design with pop-star flair for a memorable party centerpiece.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9093008883937-e2ded63429f9.jpg",
+          "sha256": "e2ded63429f9cbf432eea64a4c6943b6be6e737a84486c36ee4983c6301819fd"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/347551296261171250/",
+          "imageUrl": "https://i.pinimg.com/736x/e8/20/31/e820310ff580cc519641118936c6f052.jpg",
+          "description": "A round birthday cake rests in a cardboard box, its sides coated in pale pink frosting with a white drip effect. The top edge is adorned with rosettes of pink buttercream, each sprinkled with silver and white accents. \n\nAt the center, a cluster of mirrored disco balls in assorted sizes forms a dazzling centerpiece, reflecting light across the cake’s surface. This modern, festive design combines pastel hues and metallic elements for a stylish celebration treat.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9093008883937-5c31cfec019f.jpg",
+          "sha256": "5c31cfec019f287e6a77cfd03fce0a67fefc7cc008dad9de6acb333cad6c198d"
+        }
+      ],
+      "query": "Disco Balls Photo Cake Pinterest",
+      "selected": {
+        "sourceUrl": "https://nz.pinterest.com/pin/774124929342435/",
+        "imageUrl": "https://i.pinimg.com/736x/bb/0d/b0/bb0db00a693e56038234dd3b59188349.jpg",
+        "description": "A two-tiered gray buttercream cake celebrates a Taylor Swift–themed 14th birthday with mirrored disco ball toppers and a metallic “14” cake topper. The side of the cake displays a vibrant collage of Taylor Swift photos in different color filters, framed by elegant buttercream rosettes. The cake sits on a white round board edged in black, combining modern design with pop-star flair for a memorable party centerpiece.",
+        "localImage": "assets/products/matches/batch-004-pinterest/9093008883937-e2ded63429f9.jpg",
+        "sha256": "e2ded63429f9cbf432eea64a4c6943b6be6e737a84486c36ee4983c6301819fd"
+      },
+      "localImage": "assets/products/matches/batch-004-pinterest/9093008883937-e2ded63429f9.jpg",
+      "sha256": "e2ded63429f9cbf432eea64a4c6943b6be6e737a84486c36ee4983c6301819fd",
+      "visualReview": {
+        "verified": true,
+        "tierCount": 1,
+        "shape": "round",
+        "notes": "One round cake with photo collage panels and silver disco balls; no visible bakery credit."
+      },
+      "reviewNote": "One round cake with photo collage panels and silver disco balls; no visible bakery credit."
+    },
+    {
+      "n": 157,
+      "productId": "9093002723553",
+      "title": "Round Photo Cake",
+      "originalImage": "assets/products/48b78690968b66ffae39.jpg",
+      "status": "needs-better-match",
+      "candidates": [],
+      "query": "Round Photo Cake Pinterest"
+    },
+    {
+      "n": 158,
+      "productId": "9092179984609",
+      "title": "Breast Cancer Pink Ribbon Cake",
+      "originalImage": "assets/products/a3d5336a62c696a7a77c.png",
+      "status": "applied",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/lokitabonita981/cancer-awareness-cake/",
+          "imageUrl": "https://i.pinimg.com/736x/19/1b/59/191b592b1573c5aedc8743d6c36d0443.jpg",
+          "description": "A round white frosted cake features a prominent pink fondant ribbon and the word \"HOPE\" in matching pink letters, symbolizing breast cancer awareness. A small pink and green fondant flower adds a delicate touch beside the ribbon. The cake’s top edge is decorated with piped white frosting beads, and a thin pink ribbon encircles the base, creating a cohesive and uplifting design.\n\nThis image is part of a Pinterest collection showcasing cancer awareness cakes. Titled \"Cancer awareness cake,\" it highlights creative cake designs that incorporate the pink ribbon symbol and encouraging messages to support breast cancer awareness campaigns.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9092179984609-b952e5b49ab6.jpg",
+          "sha256": "b952e5b49ab6a4d7c96ebc1722dda3277d3e4d6c0ac70efd23c17d5f34e1c57d"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/20055160830648099/",
+          "imageUrl": "https://i.pinimg.com/originals/3e/0f/60/3e0f60e24528e9bc25160814265d004f.jpg",
+          "description": "A rectangular cake with white icing and vibrant pink borders showcases a heartfelt tribute to a survivor named Dorothy. The cake’s center features a pink ribbon inscribed with “Dorothy,” surrounded by the words “Strength,” “Hope,” “Love,” “Faith,” “Courage,” and “Survivor” piped in pink icing.\n\nThis Pinterest pin, discovered by user ruchey heyns, highlights a breast cancer awareness theme. The combination of pink rosettes, pearl accents, and motivational words creates a celebratory and supportive design for a survivor event.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9092179984609-93bc0e66d688.jpg",
+          "sha256": "93bc0e66d688cf2c18ffa612ac0562385282ff0aa8b29976eec01cc044e5b8f8"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/347832771223258617/",
+          "imageUrl": "https://i.pinimg.com/originals/fc/f5/07/fcf5072187569940b5c53591fb9bfbdb.jpg",
+          "description": "A white frosted cake stands on a pink glitter-covered board, its sides patterned with tiny pink breast cancer ribbons. Fondant ribbons cascade down from a large glittery pink ribbon topper, symbolizing strength and support. The base bears the word “CHAMPION” in bold white letters, reinforcing the celebratory theme.\n\nThis design, featured on a SmartieBox Cakes Pinterest pin, emphasizes breast cancer awareness through its cohesive pink color palette and ribbon motifs. The elegant presentation suggests it’s crafted for a special event honoring survivors or raising funds for the cause.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9092179984609-5d686a16d78c.jpg",
+          "sha256": "5d686a16d78c4d7bc7b3e663edc3493bb41c964155d9cbe8b90479ab3741e273"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/tweetybird11255/breast-cancer-cakes/",
+          "imageUrl": "https://i.pinimg.com/originals/ae/c2/94/aec2941736b9d6e1303a45d72e84bfc6.jpg",
+          "description": "A heart-shaped white buttercream cake is decorated with swirling rosettes and a central pink ribbon made entirely of piped rosettes. The cake sits on a round board over a wooden surface, emphasizing its handcrafted detail and celebratory purpose. The pink ribbon motif signifies support for breast cancer survivors and is commonly used for end-of-chemotherapy or ‘cancerversary’ cakes.\n\nThis design appears in a Pinterest collection dedicated to breast cancer cakes, featuring ideas like ‘End Of Chemo Cake,’ ‘Last Chemo Cake,’ and ‘Mastectomy Cake Ideas.’ The rosette piping technique and heart shape combine to create a heartfelt tribute to awareness and recovery.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9092179984609-51bb4cd0026d.jpg",
+          "sha256": "51bb4cd0026da77cce4c763d514fbdef4b845c4d5f67f49f20c6106cc97d1095"
+        }
+      ],
+      "query": "Breast Cancer Pink Ribbon Cake Pinterest",
+      "selected": {
+        "sourceUrl": "https://www.pinterest.com/lokitabonita981/cancer-awareness-cake/",
+        "imageUrl": "https://i.pinimg.com/736x/19/1b/59/191b592b1573c5aedc8743d6c36d0443.jpg",
+        "description": "A round white frosted cake features a prominent pink fondant ribbon and the word \"HOPE\" in matching pink letters, symbolizing breast cancer awareness. A small pink and green fondant flower adds a delicate touch beside the ribbon. The cake’s top edge is decorated with piped white frosting beads, and a thin pink ribbon encircles the base, creating a cohesive and uplifting design.\n\nThis image is part of a Pinterest collection showcasing cancer awareness cakes. Titled \"Cancer awareness cake,\" it highlights creative cake designs that incorporate the pink ribbon symbol and encouraging messages to support breast cancer awareness campaigns.",
+        "localImage": "assets/products/matches/batch-004-pinterest/9092179984609-b952e5b49ab6.jpg",
+        "sha256": "b952e5b49ab6a4d7c96ebc1722dda3277d3e4d6c0ac70efd23c17d5f34e1c57d"
+      },
+      "localImage": "assets/products/matches/batch-004-pinterest/9092179984609-b952e5b49ab6.jpg",
+      "sha256": "b952e5b49ab6a4d7c96ebc1722dda3277d3e4d6c0ac70efd23c17d5f34e1c57d",
+      "visualReview": {
+        "verified": true,
+        "tierCount": 1,
+        "shape": "round",
+        "notes": "One round white cake with pink breast-cancer ribbon, matching the named theme and tier count."
+      },
+      "reviewNote": "One round white cake with pink breast-cancer ribbon, matching the named theme and tier count."
+    },
+    {
+      "n": 159,
+      "productId": "9092170186977",
+      "title": "Breast Cancer Pink Ribbon Cakepops",
+      "originalImage": "assets/products/722d5e450205b1e8f2e4.png",
+      "status": "needs-better-match",
+      "candidates": [],
+      "query": "Breast Cancer Pink Ribbon Cakepops Pinterest"
+    },
+    {
+      "n": 160,
+      "productId": "9092170023137",
+      "title": "Breast Cancer Ribbon Cakesicles",
+      "originalImage": "assets/products/a455df6223dcb2758b55.png",
+      "status": "needs-better-match",
+      "candidates": [],
+      "query": "Breast Cancer Ribbon Cakesicles Pinterest"
+    },
+    {
+      "n": 161,
+      "productId": "9092169531617",
+      "title": "Breast Cancer Pink Ribbon Cakesicles",
+      "originalImage": "assets/products/f36787a4ed1a35f1d33b.png",
+      "status": "needs-better-match",
+      "candidates": [],
+      "query": "Breast Cancer Pink Ribbon Cakesicles Pinterest"
+    },
+    {
+      "n": 162,
+      "productId": "9092167434465",
+      "title": "Breast Cancer Pink Ribbon Cake Jars",
+      "originalImage": "assets/products/b1374cc644629a154f4e.png",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://br.pinterest.com/pin/434808539014882092/",
+          "imageUrl": "https://i.pinimg.com/originals/7d/fa/fe/7dfafe90a0bf0c9645df2a212e630d0c.jpg",
+          "description": "Three glass mason jars feature alternating layers of pink cake and white frosting, each sealed with a silver lid and adorned with a red ribbon. Pink plastic spoons are tied to the jars, ready for serving. The jars rest on a white plate, creating a charming and festive dessert display perfect for birthday celebrations.\n\nThis Pinterest pin, discovered by Luiza Cavalcante, highlights a creative \"bolo de aniversário no pote\" recipe, also known as mason jar cupcakes or cake in a jar. The concept emphasizes portable, visually appealing treats that can be easily shared and saved on Pinterest.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9092167434465-50d462b15625.jpg",
+          "sha256": "50d462b15625e0e0c9116b24a57f36c0ee8dca1afac0f381000f14f93a3eef0a"
+        },
+        {
+          "sourceUrl": "https://br.pinterest.com/pin/342836590366997868/",
+          "imageUrl": "https://i.pinimg.com/736x/97/0c/9b/970c9bebb89062bde7b94c1273cb0122.jpg",
+          "description": "A collection of clear glass jars showcases layered cake in alternating pink crumb and cream fillings, each sealed with a gold lid and decorated with a bright pink satin ribbon. The lids feature round stickers printed with “parabéns MANEQUIM pelos 58 ANOS de sucesso! marisa,” celebrating the 58th anniversary of the Brazilian retailer Marisa.\n\nThese personalized “Bolo no Pote” favors are presented as elegant event souvenirs, complete with branded labels and small plastic spoons. The Pinterest page describes them as delightful keepsakes for guests, emphasizing the combination of visual appeal and tasty treats for special occasions.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9092167434465-ea99c20f9250.jpg",
+          "sha256": "ea99c20f92502d0e3bc9f2ee83bf12222d79d9ec04b715cea3db352100ac5540"
+        }
+      ],
+      "query": "Breast Cancer Pink Ribbon Cake Jars Pinterest"
+    },
+    {
+      "n": 163,
+      "productId": "9092154130657",
+      "title": "New Born Customized Wrapped Chocolate in Acrylic Box",
+      "originalImage": "assets/products/9733f15690b0cf0e36d4.jpg",
+      "status": "needs-better-match",
+      "candidates": [],
+      "query": "New Born Customized Wrapped Chocolate in Acrylic Box Pinterest"
+    },
+    {
+      "n": 164,
+      "productId": "9092152852705",
+      "title": "New Born Baby Giveaway Cookies Box",
+      "originalImage": "assets/products/0ad2207afd513871371e.jpg",
+      "status": "needs-better-match",
+      "candidates": [],
+      "query": "New Born Baby Giveaway Cookies Box Pinterest"
+    },
+    {
+      "n": 165,
+      "productId": "9092151771361",
+      "title": "New Born Baby Giveaway 3 Cookies Bag",
+      "originalImage": "assets/products/e6c2614f03fcbb506fde.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/68746037616/",
+          "imageUrl": "https://i.pinimg.com/originals/83/c7/72/83c772e90d4950730659cc8016ae50cb.jpg",
+          "description": "Two transparent gift bags are filled with bite-sized round cookies in various flavors and tied at the top with crisp white ribbon bows. Each bag bears a pastel circular tag that reads “Welcome WORLD” along with personalized details like a name and date, indicating they are favors for a baby shower event. The cookies are neatly arranged inside the bags, showcasing their different textures and hues against a light tabletop and soft green backdrop.\n\nThese charming cookie favors combine simple packaging with delicate pastel accents, making them ideal for welcoming a new baby. The personalized tags and uniform presentation reflect thoughtful attention to detail, perfect for gifting to guests at a celebratory gathering.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9092151771361-c3d685a40c24.jpg",
+          "sha256": "c3d685a40c24156cacbd9ddbce655eb9cd16e073385d848e8818753132693bad"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/246783254554061187/",
+          "imageUrl": "https://i.pinimg.com/originals/c0/b8/97/c0b89773c93dde36ae1bdc1725a0a2b5.jpg",
+          "description": "A collection of clear cellophane bags sits in a turquoise woven basket, each containing a frosted bear-shaped sugar cookie and a blue-wrapped Hershey’s Kiss. Light blue ribbons secure scalloped-edge tags that read:\n\n\"So sweet of you to come and visit me!\nLove,\nBenny\"\n\nThese charming favors are styled for a newborn boy’s hospital visit or birth announcement, combining pastel blue details with adorable teddy-bear cookies to thank visitors and celebrate the new arrival.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9092151771361-2b07e3af5a0d.jpg",
+          "sha256": "2b07e3af5a0d7385e93b5241bd440619c0fecd2a5ea810bd0fee2e987a1af966"
+        }
+      ],
+      "query": "New Born Baby Giveaway 3 Cookies Bag Pinterest"
+    },
+    {
+      "n": 166,
+      "productId": "9092135026913",
+      "title": "New Born Macaron with Baby Name",
+      "originalImage": "assets/products/5182e89d7ddf6f4c863c.jpg",
+      "status": "needs-better-match",
+      "candidates": [],
+      "query": "New Born Macaron with Baby Name Pinterest"
+    },
+    {
+      "n": 167,
+      "productId": "9089169916129",
+      "title": "Bitcoin Dollars Cake",
+      "originalImage": "assets/products/235a8d91fb87ce27b02d.jpg",
+      "status": "applied",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/cryptocurrency--601793568955606337/",
+          "imageUrl": "https://i.pinimg.com/originals/32/60/3f/32603f54acbb574f790a1507117eb57b.jpg",
+          "description": "A custom birthday cake features a bold edible Bitcoin logo at its center, encircled by bright gold icing. The white frosted sides are decorated with printed US dollar bills, reinforcing the financial theme. Chocolate script on the cake board reads “Happy Birthday Daddy Collins !!!,” indicating a personalized celebration for someone known as Daddy Collins.\n\nThis cake merges cryptocurrency culture with classic birthday aesthetics, making it a fitting centerpiece for a party honoring a Bitcoin enthusiast. The combination of gold trimmings and money imagery highlights the celebrant’s interest in finance and digital currency.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9089169916129-f3dbf32cd86c.jpg",
+          "sha256": "f3dbf32cd86ce24a8cc8c27a16f3166e74eaa442a6079cdeaf015faa00214d73"
+        },
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/bitcoin-cake-with-money-stack--30188259995206364/",
+          "imageUrl": "https://i.pinimg.com/736x/97/f5/dd/97f5dd55ee4a5e5431e779480ba55386.jpg",
+          "description": "A striking two-tiered black cake combines traditional and digital currency motifs. Realistic edible banknotes—US dollars, euros, and Swiss francs—are artfully draped around each tier, while gold chocolate coins stamped with the Bitcoin logo are arranged at the base and sides. Crowning the cake is a large golden dollar sign topper, reinforcing the opulent money theme.\n\nThis thematic creation, featured on Pinterest as “Bitcoin Cake with Money Stack,” is described as perfect for celebrations and Bitcoin enthusiasts. The blend of paper currency designs and cryptocurrency symbols makes it a unique centerpiece for any event celebrating financial success or digital assets.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9089169916129-15bc66e16c2a.jpg",
+          "sha256": "15bc66e16c2a3291805c0b6d3fd00874003716faf3466f14ee7ea4d325071d98"
+        }
+      ],
+      "query": "Bitcoin Dollars Cake Pinterest",
+      "selected": {
+        "sourceUrl": "https://www.pinterest.com/pin/cryptocurrency--601793568955606337/",
+        "imageUrl": "https://i.pinimg.com/originals/32/60/3f/32603f54acbb574f790a1507117eb57b.jpg",
+        "description": "A custom birthday cake features a bold edible Bitcoin logo at its center, encircled by bright gold icing. The white frosted sides are decorated with printed US dollar bills, reinforcing the financial theme. Chocolate script on the cake board reads “Happy Birthday Daddy Collins !!!,” indicating a personalized celebration for someone known as Daddy Collins.\n\nThis cake merges cryptocurrency culture with classic birthday aesthetics, making it a fitting centerpiece for a party honoring a Bitcoin enthusiast. The combination of gold trimmings and money imagery highlights the celebrant’s interest in finance and digital currency.",
+        "localImage": "assets/products/matches/batch-004-pinterest/9089169916129-f3dbf32cd86c.jpg",
+        "sha256": "f3dbf32cd86ce24a8cc8c27a16f3166e74eaa442a6079cdeaf015faa00214d73"
+      },
+      "localImage": "assets/products/matches/batch-004-pinterest/9089169916129-f3dbf32cd86c.jpg",
+      "sha256": "f3dbf32cd86ce24a8cc8c27a16f3166e74eaa442a6079cdeaf015faa00214d73",
+      "visualReview": {
+        "verified": true,
+        "tierCount": 1,
+        "shape": "round",
+        "notes": "One round Bitcoin cake with gold coin motif and dollar-note details."
+      },
+      "reviewNote": "One round Bitcoin cake with gold coin motif and dollar-note details."
+    },
+    {
+      "n": 168,
+      "productId": "9089168605409",
+      "title": "Money Trade Exchange Market Cake",
+      "originalImage": "assets/products/e3d89bc168e509cc1e14.png",
+      "status": "applied",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/ideas/bank-cake-ideas/912027213010/",
+          "imageUrl": "https://i.pinimg.com/474x/77/a2/50/77a250422b735f40540e8dc9f7bf6068.jpg",
+          "description": "A custom birthday cake celebrates a trader named Roghan with a finance-inspired design. The cake’s sides are wrapped in a printed forex trading chart, while the top showcases edible gold coins, dollar bills, and miniature bull and bear figures. Three circular signs labeled \"BUY,\" \"SELL,\" and \"HOLD\" stand upright among the decorations.\n\nThe base of the cake is inscribed with \"HAPPY BDAY TRADER ROGHAN\" in bold black letters. The combination of candlestick chart graphics, currency motifs, and trading symbols creates a vibrant and thematic centerpiece for a finance enthusiast’s celebration.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9089168605409-7b38ea6ae921.jpg",
+          "sha256": "7b38ea6ae9214efcf84ba6381bbc1eafed74deff66977dd059dd09185e8dc964"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/money-cake-for-a-special-birthday-celebration--6966574418388869/",
+          "imageUrl": "https://i.pinimg.com/originals/ee/d5/79/eed57934105c8182911f868415ab5576.jpg",
+          "description": "A custom birthday cake celebrates Shiva’s 30th birthday with a finance theme. The white-fondant cake is decorated on top with a colorful stock market chart, a green arrow pointing up, and a red arrow pointing down. Yellow fondant blocks spell out \"TRADE,\" \"SELL,\" and \"BUY,\" while edible gold coins and a dollar bill add to the money motif. Around the side, a \"WALL ST\" plaque and the ticker symbol \"AMZN: 10.24\" reinforce the Wall Street concept. The cake sits on a white board inscribed with \"HAPPY 30th BIRTHDAY SHIVA,\" making it a personalized centerpiece for a milestone celebration.\n\nPinterest’s description highlights this as a \"Money Cake for a Special Birthday Celebration,\" noting its use of real-money decorations and suitability for luxury-themed events.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9089168605409-29d123d67194.jpg",
+          "sha256": "29d123d671945a8d57b5e45fc09bdbf4029d353c036fa699791d73b337ebe140"
+        }
+      ],
+      "query": "Money Trade Exchange Market Cake Pinterest",
+      "selected": {
+        "sourceUrl": "https://www.pinterest.com/ideas/bank-cake-ideas/912027213010/",
+        "imageUrl": "https://i.pinimg.com/474x/77/a2/50/77a250422b735f40540e8dc9f7bf6068.jpg",
+        "description": "A custom birthday cake celebrates a trader named Roghan with a finance-inspired design. The cake’s sides are wrapped in a printed forex trading chart, while the top showcases edible gold coins, dollar bills, and miniature bull and bear figures. Three circular signs labeled \"BUY,\" \"SELL,\" and \"HOLD\" stand upright among the decorations.\n\nThe base of the cake is inscribed with \"HAPPY BDAY TRADER ROGHAN\" in bold black letters. The combination of candlestick chart graphics, currency motifs, and trading symbols creates a vibrant and thematic centerpiece for a finance enthusiast’s celebration.",
+        "localImage": "assets/products/matches/batch-004-pinterest/9089168605409-7b38ea6ae921.jpg",
+        "sha256": "7b38ea6ae9214efcf84ba6381bbc1eafed74deff66977dd059dd09185e8dc964"
+      },
+      "localImage": "assets/products/matches/batch-004-pinterest/9089168605409-7b38ea6ae921.jpg",
+      "sha256": "7b38ea6ae9214efcf84ba6381bbc1eafed74deff66977dd059dd09185e8dc964",
+      "visualReview": {
+        "verified": true,
+        "tierCount": 1,
+        "shape": "round",
+        "notes": "One round trading-theme cake with chart, cash and buy/sell/hold toppers."
+      },
+      "reviewNote": "One round trading-theme cake with chart, cash and buy/sell/hold toppers."
+    },
+    {
+      "n": 169,
+      "productId": "9088891912417",
+      "title": "Red & Gold Cake with 3 Balloons",
+      "originalImage": "assets/products/b11acedda1d6e935b8c5.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/bolos-decorados-chantininho-red-and-gold-birthday-cake--1618549856215519/",
+          "imageUrl": "https://i.pinimg.com/736x/3b/2b/a0/3b2ba0923fbc8c6b544f51da6ea86a36.jpg",
+          "description": "This striking red cake features smooth chantininho frosting with a glittery finish and wave-like texture around its sides. A large transparent balloon filled with gold confetti sits atop a gold stick, accented by a satin gold bow with a rhinestone center. A geometric topper spells out \"23\" in matching gold and red hues, celebrating a 23rd birthday in style.\n\nCreated by @agdaalvesartes, this cake blends bold color contrasts and elegant metallic details, making it an ideal centerpiece for festive celebrations. The design highlights expert cake-decorating techniques and a modern aesthetic.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9088891912417-4b817a2e4956.jpg",
+          "sha256": "4b817a2e495652d37ebda3cea1d64ca954d0bd68a9f758a87e0f8a31ab3ed364"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/princess-redgold-quinceaera-cake--402861129185204866/",
+          "imageUrl": "https://i.pinimg.com/originals/fb/1c/43/fb1c43f2573d85e7775c18e09b3ee34c.jpg",
+          "description": "A three-tier quinceañera cake designed for a princess-themed celebration features vibrant red fondant and elaborate gold decorations. The top tier is adorned with red fondant roses and a gold name topper that reads “Betsy.” Each layer showcases intricate gold lace patterns, metallic bands, and sculpted motifs, while the bottom tier is wrapped in crystal-like beads and the second tier is covered in red ruffled petals. \n\nSurrounded by clusters of red and rose-gold balloons, the cake stands on a gold cake stand, creating an opulent focal point for the party. This design by Luinos Cakes & Decor highlights a regal red and gold color scheme perfect for a quinceañera event.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9088891912417-9eedf000fef4.jpg",
+          "sha256": "9eedf000fef4d40c94e8bb0b46c27fad7b3be4e72abddb1a825b8163691c3e56"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/red-black-and-gold-cake-birthday-cake-for-guys--97460779427756566/",
+          "imageUrl": "https://i.pinimg.com/videos/thumbnails/originals/06/f4/e8/06f4e87b436af109f39fca8ac4183e27.0000000.jpg",
+          "description": "A striking two-tiered cake combines deep black fondant with vibrant red brushstrokes and shimmering gold accents. The top is crowned with a delicate gold tiara and piped red frosting, while a bouquet of metallic gold and solid red balloons hovers overhead. The cake sits on a red-and-black board inscribed with “DJ 33,” suggesting a personalized 33rd birthday celebration. This design blends bold colors and regal elements to create a sophisticated, masculine centerpiece.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9088891912417-65c998b0df22.jpg",
+          "sha256": "65c998b0df22256ca90a1edb0aed91ac5df83e09dcd31c58d36def6dc33f3210"
+        },
+        {
+          "sourceUrl": "https://co.pinterest.com/pin/torta-vinotinto-y-dorado-para-damas--365987907230502442/",
+          "imageUrl": "https://i.pinimg.com/736x/98/1c/3e/981c3e80c6d07c18fce74a7a191fc366.jpg",
+          "description": "A luxurious single-tier cake finished in deep red icing is decorated with clusters of gold metallic spheres that cascade down one side. Two oversized gold leaf accents emerge from the top, framing a delicate “Happy Birthday” topper. The front of the cake bears the name “Omaura” in elegant gold script, tying together the celebratory theme.\n\nResting on a reflective gold cake board placed on a wooden table, this cake combines rich color contrast and metallic embellishments to create a sophisticated centerpiece for a special occasion.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9088891912417-bccc5387ecc0.jpg",
+          "sha256": "bccc5387ecc0feb20ed6cc26ae4ccaddd365b71ba25f8028190eca17ff553949"
+        }
+      ],
+      "query": "Red & Gold Cake with 3 Balloons Pinterest"
+    },
+    {
+      "n": 170,
+      "productId": "9088842957025",
+      "title": "Green & Rose Gold Butterflies Cake",
+      "originalImage": "assets/products/5cc949f45036a9fca6fe.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://br.pinterest.com/pin/bolo-verde-e-topo-com-flor-e-borboletas--30610472461401373/",
+          "imageUrl": "https://i.pinimg.com/736x/67/72/17/677217f49937fbba772d852cb9709dfc.jpg",
+          "description": "A pastel green buttercream cake stands on a scalloped white board, its sides textured with horizontal ridges. Atop the cake, handcrafted pink paper roses cluster beside metallic gold-and-pink butterfly toppers, creating a delicate, feminine arrangement. The combination of soft mint green, blush pink, and shimmering gold accents evokes a refined, celebratory mood ideal for teen or women’s birthday parties.\n\nThis Pinterest pin, discovered by user Laís, highlights a cake design that blends rustic charm with elegant details. The floral and butterfly motifs offer inspiration for those seeking a sophisticated yet whimsical centerpiece for special occasions.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9088842957025-be47833a4fda.jpg",
+          "sha256": "be47833a4fda60b0be0342eccd115bc4529c5299f7ba68b7edee56dc17a727b4",
+          "businessNameVisible": true
+        },
+        {
+          "sourceUrl": "https://kr.pinterest.com/pin/18718154694403223/",
+          "imageUrl": "https://i.pinimg.com/originals/20/fb/ea/20fbead8d165b48375a19626ef299931.jpg",
+          "description": "A three-tier pastel green cake showcases expert buttercream piping with rows of tiny pearls and scalloped borders on each tier. Soft pink and lavender buttercream roses nestle among glossy green leaves, while metallic gold butterfly toppers appear to flutter around the cake.\n\nThis spring-inspired design blends delicate florals and whimsical butterflies to create an enchanted garden aesthetic. The smooth buttercream finish and intricate details reflect advanced cake decorating skills, making it ideal for events such as quinceañeras, weddings, or spring celebrations.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9088842957025-70da828c9eb6.jpg",
+          "sha256": "70da828c9eb60967dcdd4740936b994557929938d658ce12dfb515bd0d922eb9"
+        },
+        {
+          "sourceUrl": "https://es.pinterest.com/pin/856809897899458965/",
+          "imageUrl": "https://i.pinimg.com/originals/96/40/58/964058829b0c1ff48051e1e1fa272938.jpg",
+          "description": "A three-tier pastel green buttercream cake stands on a wooden surface, each layer bordered with piped scallops and dotted with edible pearls. Soft pink and lavender buttercream roses, accompanied by glossy green leaves, are artfully arranged around the tiers. Metallic gold butterfly accents appear to flutter across the cake, creating a whimsical yet refined centerpiece ideal for weddings, birthdays, or special events.\n\nThis design, highlighted on Pinterest, emphasizes pastel hues, delicate floral piping, and shimmering decorative elements to achieve a sophisticated display cake.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9088842957025-2a3ba264f972.jpg",
+          "sha256": "2a3ba264f97208aa5231078cc3fc806b2a66377155daf366a8b8794dd767ebf8"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/317433473753564534/",
+          "imageUrl": "https://i.pinimg.com/736x/b7/14/9b/b7149b754009a61c17081fbf338e331a.jpg",
+          "description": "A two-tiered cake showcases a smooth muted green buttercream finish, enhanced by a metallic gold drip that elegantly cascades down the sides. The top tier is crowned with an arrangement of pastel sugar flowers—roses, peonies, and chrysanthemums—interspersed with heart-shaped accents and delicate butterfly motifs. Gold leaf flecks and a string of edible pearls around the base tier add luxurious details.\n\nThis design evokes a refined garden celebration, making it perfect for birthdays, bridal showers, or any special occasion seeking a touch of floral elegance and sophistication.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9088842957025-f97a91d4b366.jpg",
+          "sha256": "f97a91d4b3664cc3340e65fff01cce6259bfb10ad303848a64838c369743f089"
+        },
+        {
+          "sourceUrl": "https://se.pinterest.com/pin/39195459252779729/",
+          "imageUrl": "https://i.pinimg.com/736x/b2/f8/f0/b2f8f0a5ae486ed9623cfb18b34bdce1.jpg",
+          "description": "A pastel green three-tier cake is elegantly displayed on a wooden work surface, each tier meticulously covered in smooth buttercream and dotted with piped pearls. Soft buttercream rosettes in shades of pink, lavender, and cream nestle among piped leaves, creating a lush floral arrangement that wraps around the cake.\n\nGolden butterfly toppers are strategically placed on each tier, their metallic sheen contrasting beautifully with the matte pastel frosting. The coordinated design and color palette suggest themes of enchantment, quinceañera celebrations, or garden-inspired events, reflecting a high level of professional cake artistry.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9088842957025-b45268675d4a.jpg",
+          "sha256": "b45268675d4a1cbd6610e96e73e764e98713da424e34c10329edc7f077ca55d3"
+        }
+      ],
+      "query": "Green & Rose Gold Butterflies Cake Pinterest",
+      "reviewNote": "Visible third-party bakery name, logo or photo credit in the full-size image. Replacement remains pending."
+    },
+    {
+      "n": 171,
+      "productId": "9084317270241",
+      "title": "Pastel Colors Birthday Number Cake",
+      "originalImage": "assets/products/32ba60169897c2e6a194.jpg",
+      "status": "applied",
+      "candidates": [
+        {
+          "sourceUrl": "https://fr.pinterest.com/sarahmaeseele/number-cake/",
+          "imageUrl": "https://i.pinimg.com/736x/2d/23/73/2d2373ba2ae80de6f6fcaa2223514886.jpg",
+          "description": "A beautifully crafted number-shaped cake in soft pastel tones sits elegantly on a white presentation board. The two-tiered layers are piped with alternating blue and white buttercream dollops, creating a textured base for an array of colorful decorations. Vibrant macarons in pink, green, and yellow, along with matching buttercream rosettes and candy spheres, crown the cake, adding playful pops of color.\n\nThe board bears the inscription “Happy Birthday Ayesha” in delicate pink lettering, personalizing the dessert for the celebrant. This design, featured on a Pinterest board of number cake inspirations, exemplifies contemporary cake artistry by combining precise piping techniques with a harmonious pastel palette.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9084317270241-4a83aa303b6d.jpg",
+          "sha256": "4a83aa303b6df361f5a43163d8f5d6d4e73853d6e4370d0f84a812acd88522cc"
+        },
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/808255464409245012/",
+          "imageUrl": "https://i.pinimg.com/736x/97/4d/d6/974dd651e703aa02b033a117e7f22b2f.jpg",
+          "description": "This artisan number cake features a two-layered cookie base shaped as the numeral five, generously piped with white frosting and pastel buttercream swirls. Pink and blue macarons, candy pearls, and tiny chocolate pieces accent the top, creating a delicate, celebratory design perfect for a fifth birthday party.\n\nThe cake’s minimalist yet personalized approach highlights soft pastel tones and elegant piping techniques. Inspired by a Pinterest collection of number cakes, it exemplifies how simple shapes and refined decorations can transform a dessert into a memorable centerpiece.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9084317270241-1108714737a0.jpg",
+          "sha256": "1108714737a0c14291ee4738077a8fe6c4ecf719159b9077be40d3e0b25d1bf3"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/1128644356585899781/",
+          "imageUrl": "https://i.pinimg.com/originals/e1/1c/7e/e11c7e4f9091a5296ec3293dc0e1c8eb.jpg",
+          "description": "A heart-shaped number two cake iced in smooth white buttercream is adorned with an array of pastel rosettes and piped star flowers in pink, purple, yellow, and teal. The cake rests on a white round board edged with a pink buttercream border, and a small fondant plaque embossed with “IVY-MAY” marks the birthday girl’s name.\n\nBaker Teresa Langmead crafted this custom cake to celebrate Ivy-May’s second birthday, showcasing her signature style of delicate floral piping and soft color palette. The whimsical design and vibrant pastel hues make it a charming centerpiece for a young child’s special day.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9084317270241-712c3136947e.jpg",
+          "sha256": "712c3136947e5b970039856468d9a52109286257d361a4e64b054414f9cd5f0d"
+        },
+        {
+          "sourceUrl": "https://uk.pinterest.com/pin/178877416443504656/",
+          "imageUrl": "https://i.pinimg.com/736x/55/1a/63/551a63179a6ae897dc858434756700c7.jpg",
+          "description": "A custom number three cake from Frudeco Miami features a double-layered cookie base topped with piped cream dollops in pastel pink, blue, and yellow. The cake is lavishly decorated with macarons, meringues, candy pearls, and delicate sugar roses, creating a whimsical and festive look perfect for a third birthday celebration.\n\nThis design is part of a Pinterest collection of number cakes, offering next-day orders with 24-hour advance notice and options for pickup or delivery. The soft color palette and playful decorations make it an ideal centerpiece for a pastel-themed kids’ party.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9084317270241-9d6d0c3bfc93.jpg",
+          "sha256": "9d6d0c3bfc935278bb857e53edc2b4f64eededd1f129c6aec52bbec476aaff5a"
+        }
+      ],
+      "query": "Pastel Colors Birthday Number Cake Pinterest",
+      "selected": {
+        "sourceUrl": "https://fr.pinterest.com/sarahmaeseele/number-cake/",
+        "imageUrl": "https://i.pinimg.com/736x/2d/23/73/2d2373ba2ae80de6f6fcaa2223514886.jpg",
+        "description": "A beautifully crafted number-shaped cake in soft pastel tones sits elegantly on a white presentation board. The two-tiered layers are piped with alternating blue and white buttercream dollops, creating a textured base for an array of colorful decorations. Vibrant macarons in pink, green, and yellow, along with matching buttercream rosettes and candy spheres, crown the cake, adding playful pops of color.\n\nThe board bears the inscription “Happy Birthday Ayesha” in delicate pink lettering, personalizing the dessert for the celebrant. This design, featured on a Pinterest board of number cake inspirations, exemplifies contemporary cake artistry by combining precise piping techniques with a harmonious pastel palette.",
+        "localImage": "assets/products/matches/batch-004-pinterest/9084317270241-4a83aa303b6d.jpg",
+        "sha256": "4a83aa303b6df361f5a43163d8f5d6d4e73853d6e4370d0f84a812acd88522cc"
+      },
+      "localImage": "assets/products/matches/batch-004-pinterest/9084317270241-4a83aa303b6d.jpg",
+      "sha256": "4a83aa303b6df361f5a43163d8f5d6d4e73853d6e4370d0f84a812acd88522cc",
+      "visualReview": {
+        "verified": true,
+        "tierCount": 1,
+        "shape": "number",
+        "notes": "Pastel number-shaped cake with piped cream and macarons; stacked sponge layers are not separate tiers."
+      },
+      "reviewNote": "Pastel number-shaped cake with piped cream and macarons; stacked sponge layers are not separate tiers."
+    },
+    {
+      "n": 172,
+      "productId": "9084314648801",
+      "title": "Gold & White Birthday Number Cake",
+      "originalImage": "assets/products/3e9cb5fc6d3d6afa2320.jpg",
+      "status": "needs-better-match",
+      "candidates": [],
+      "query": "Gold & White Birthday Number Cake Pinterest"
+    },
+    {
+      "n": 173,
+      "productId": "9080721899745",
+      "title": "Baptism Cupcakes",
+      "originalImage": "assets/products/9f7db4d8df4209c34427.jpg",
+      "status": "applied",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/baby-shower--49328558413310241/",
+          "imageUrl": "https://i.pinimg.com/736x/ea/c9/55/eac955b6c472b4f7c7d08ba6ad2ae92d.jpg",
+          "description": "A collection of chocolate cupcakes is artfully decorated for a baptism event. Mint-green and white buttercream swirls are adorned with edible gold crosses, sugar daisies, and tiny gold dragees. Each cupcake bears a fondant topper embossed with “Nahum’s Baptism,” complemented by delicate fern-like icing leaves.\n\nThese treats were likely prepared for a baby’s baptism celebration, as indicated by the personalized text and religious symbols. The pastel hues and intricate decorations create an elegant and festive presentation, perfect for a special occasion.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9080721899745-62c06a77bcbe.jpg",
+          "sha256": "62c06a77bcbee36a3647411c25ffb8c7e20cb45e5e18a50b61917026a28e8f79"
+        }
+      ],
+      "query": "Baptism Cupcakes Pinterest",
+      "selected": {
+        "sourceUrl": "https://www.pinterest.com/pin/baby-shower--49328558413310241/",
+        "imageUrl": "https://i.pinimg.com/736x/ea/c9/55/eac955b6c472b4f7c7d08ba6ad2ae92d.jpg",
+        "description": "A collection of chocolate cupcakes is artfully decorated for a baptism event. Mint-green and white buttercream swirls are adorned with edible gold crosses, sugar daisies, and tiny gold dragees. Each cupcake bears a fondant topper embossed with “Nahum’s Baptism,” complemented by delicate fern-like icing leaves.\n\nThese treats were likely prepared for a baby’s baptism celebration, as indicated by the personalized text and religious symbols. The pastel hues and intricate decorations create an elegant and festive presentation, perfect for a special occasion.",
+        "localImage": "assets/products/matches/batch-004-pinterest/9080721899745-62c06a77bcbe.jpg",
+        "sha256": "62c06a77bcbee36a3647411c25ffb8c7e20cb45e5e18a50b61917026a28e8f79"
+      },
+      "localImage": "assets/products/matches/batch-004-pinterest/9080721899745-62c06a77bcbe.jpg",
+      "sha256": "62c06a77bcbee36a3647411c25ffb8c7e20cb45e5e18a50b61917026a28e8f79",
+      "visualReview": {
+        "verified": true,
+        "tierCount": null,
+        "shape": "cupcakes",
+        "notes": "Baptism cupcakes with cross decorations and pastel icing."
+      },
+      "reviewNote": "Baptism cupcakes with cross decorations and pastel icing."
+    },
+    {
+      "n": 174,
+      "productId": "9080710693089",
+      "title": "Christening Cupcakes",
+      "originalImage": "assets/products/3ea5de78dc9c3d3a2d16.jpg",
+      "status": "needs-better-match",
+      "candidates": [],
+      "query": "Christening Cupcakes Pinterest"
+    },
+    {
+      "n": 175,
+      "productId": "9080707907809",
+      "title": "Doves Christening Cross Cookies",
+      "originalImage": "assets/products/8c7dcf4702ff495adfe4.jpg",
+      "status": "needs-better-match",
+      "candidates": [],
+      "query": "Doves Christening Cross Cookies Pinterest"
+    },
+    {
+      "n": 176,
+      "productId": "9080703877345",
+      "title": "Elegant Christening Cross Cookies",
+      "originalImage": "assets/products/17f83ba49fcf6ebc7540.jpg",
+      "status": "applied",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/508414245437772845/",
+          "imageUrl": "https://i.pinimg.com/originals/2f/76/53/2f76532375322189e3337f634b45ea36.jpg",
+          "description": "A collection of sugar cookies shaped like crosses is artfully arranged on a wooden platter. Each cookie is coated in smooth white icing and adorned with a delicate pink frosting rose at its center, surrounded by tiny pink dot accents. The rustic wood grain of the serving board contrasts with the pastel decorations, creating an inviting display perfect for religious events or elegant gatherings.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9080703877345-b29b76469a13.jpg",
+          "sha256": "b29b76469a13a38b0332edb7fe31ef75236d0a721899036e545ed51381ab2ba1"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/beautiful-decorated-cookies-for-first-holy-communion-baptism-and-christening--30469734973276494/",
+          "imageUrl": "https://i.pinimg.com/originals/02/55/11/025511421d364bd98a864c472c58e824.jpg",
+          "description": "A set of five white, cross-shaped sugar cookies is artfully arranged on a silver-textured plate. Each cookie is coated in smooth white icing, with four featuring delicate piped borders and one central piece accented by a small, ornate gold cross. The uniform color palette and refined decoration underscore their purpose for faith-based events.\n\nPerfect for First Holy Communion, Baptism, or Christening celebrations, these cookies blend simplicity with sophistication. The intricate icing work and metallic embellishment create a memorable treat that complements the solemnity and joy of religious ceremonies.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9080703877345-88e7dd75fc99.jpg",
+          "sha256": "88e7dd75fc99bf395c15690744dab7244b5e8dd30bea0e6712e029d0b28746dc"
+        }
+      ],
+      "query": "Elegant Christening Cross Cookies Pinterest",
+      "selected": {
+        "sourceUrl": "https://www.pinterest.com/pin/beautiful-decorated-cookies-for-first-holy-communion-baptism-and-christening--30469734973276494/",
+        "imageUrl": "https://i.pinimg.com/originals/02/55/11/025511421d364bd98a864c472c58e824.jpg",
+        "description": "A set of five white, cross-shaped sugar cookies is artfully arranged on a silver-textured plate. Each cookie is coated in smooth white icing, with four featuring delicate piped borders and one central piece accented by a small, ornate gold cross. The uniform color palette and refined decoration underscore their purpose for faith-based events.\n\nPerfect for First Holy Communion, Baptism, or Christening celebrations, these cookies blend simplicity with sophistication. The intricate icing work and metallic embellishment create a memorable treat that complements the solemnity and joy of religious ceremonies.",
+        "localImage": "assets/products/matches/batch-004-pinterest/9080703877345-88e7dd75fc99.jpg",
+        "sha256": "88e7dd75fc99bf395c15690744dab7244b5e8dd30bea0e6712e029d0b28746dc"
+      },
+      "localImage": "assets/products/matches/batch-004-pinterest/9080703877345-88e7dd75fc99.jpg",
+      "sha256": "88e7dd75fc99bf395c15690744dab7244b5e8dd30bea0e6712e029d0b28746dc",
+      "visualReview": {
+        "verified": true,
+        "tierCount": null,
+        "shape": "cross cookies",
+        "notes": "White decorated cross-shaped cookies, matching the christening theme."
+      },
+      "reviewNote": "White decorated cross-shaped cookies, matching the christening theme."
+    },
+    {
+      "n": 177,
+      "productId": "9080702861537",
+      "title": "Angels & Dove Christening Cross Cookies",
+      "originalImage": "assets/products/146f0c8df6283969d180.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/pinterest--72761350226513871/",
+          "imageUrl": "https://i.pinimg.com/736x/1c/b0/2c/1cb02c3f97687ddddf15344b82bf0c69.jpg",
+          "description": "A beautifully arranged assortment of white and gold iced cookies features crosses, doves, and decorative plaques. Each plaque cookie bears the inscription “God bless Faith” in delicate script, accompanied by a tiny rosary and cross detail. The dove-shaped cookies display intricate piped feather patterns, while the cross cookies have smooth, raised borders and a central gold bead accent.\n\nThese personalized treats are styled for significant religious ceremonies such as baptisms, christenings, or first holy communions. The cohesive color palette of soft white icing with subtle gold highlights lends an elegant and celebratory feel to the collection, making them ideal for commemorating a special faith-based event.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9080702861537-d6bfd8a2efa3.jpg",
+          "sha256": "d6bfd8a2efa3d1481669a156169c133889ef5a7183f7431ee41ff1b23adc7097"
+        }
+      ],
+      "query": "Angels & Dove Christening Cross Cookies Pinterest"
+    },
+    {
+      "n": 178,
+      "productId": "9080701288673",
+      "title": "White Christening Cross Cookies",
+      "originalImage": "assets/products/dec2be4d88f3d70cc38a.jpg",
+      "status": "applied",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/cross-cookies-decoration-ideas--8092474304683846/",
+          "imageUrl": "https://i.pinimg.com/originals/ce/0b/c2/ce0bc2854e2532ed36c0e57d6b40a5a0.jpg",
+          "description": "A collection of white-iced, cross-shaped sugar cookies is artfully arranged on a sleek white platter. Each cookie is meticulously decorated with smooth white royal icing and a smaller piped cross detail at its center, emphasizing the religious motif.\n\nThe platter sits atop a vibrant red cloth, providing a striking backdrop that highlights the pristine white cookies. Perfect for baptism celebrations or other faith-based gatherings, these elegant treats combine simple design with symbolic significance.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9080701288673-060bf10a1245.jpg",
+          "sha256": "060bf10a1245dca3a059e56ce55f5967c6cea941ea925fd569183da4e9f20baa"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/508414245437772845/",
+          "imageUrl": "https://i.pinimg.com/originals/2f/76/53/2f76532375322189e3337f634b45ea36.jpg",
+          "description": "A collection of sugar cookies shaped like crosses is artfully arranged on a wooden platter. Each cookie is coated in smooth white icing and adorned with a delicate pink frosting rose at its center, surrounded by tiny pink dot accents. The rustic wood grain of the serving board contrasts with the pastel decorations, creating an inviting display perfect for religious events or elegant gatherings.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9080701288673-b29b76469a13.jpg",
+          "sha256": "b29b76469a13a38b0332edb7fe31ef75236d0a721899036e545ed51381ab2ba1"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/beautiful-decorated-cookies-for-first-holy-communion-baptism-and-christening--30469734973276494/",
+          "imageUrl": "https://i.pinimg.com/originals/02/55/11/025511421d364bd98a864c472c58e824.jpg",
+          "description": "A set of five white, cross-shaped sugar cookies is artfully arranged on a silver-textured plate. Each cookie is coated in smooth white icing, with four featuring delicate piped borders and one central piece accented by a small, ornate gold cross. The uniform color palette and refined decoration underscore their purpose for faith-based events.\n\nPerfect for First Holy Communion, Baptism, or Christening celebrations, these cookies blend simplicity with sophistication. The intricate icing work and metallic embellishment create a memorable treat that complements the solemnity and joy of religious ceremonies.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9080701288673-88e7dd75fc99.jpg",
+          "sha256": "88e7dd75fc99bf395c15690744dab7244b5e8dd30bea0e6712e029d0b28746dc"
+        }
+      ],
+      "query": "White Christening Cross Cookies Pinterest",
+      "selected": {
+        "sourceUrl": "https://www.pinterest.com/pin/cross-cookies-decoration-ideas--8092474304683846/",
+        "imageUrl": "https://i.pinimg.com/originals/ce/0b/c2/ce0bc2854e2532ed36c0e57d6b40a5a0.jpg",
+        "description": "A collection of white-iced, cross-shaped sugar cookies is artfully arranged on a sleek white platter. Each cookie is meticulously decorated with smooth white royal icing and a smaller piped cross detail at its center, emphasizing the religious motif.\n\nThe platter sits atop a vibrant red cloth, providing a striking backdrop that highlights the pristine white cookies. Perfect for baptism celebrations or other faith-based gatherings, these elegant treats combine simple design with symbolic significance.",
+        "localImage": "assets/products/matches/batch-004-pinterest/9080701288673-060bf10a1245.jpg",
+        "sha256": "060bf10a1245dca3a059e56ce55f5967c6cea941ea925fd569183da4e9f20baa"
+      },
+      "localImage": "assets/products/matches/batch-004-pinterest/9080701288673-060bf10a1245.jpg",
+      "sha256": "060bf10a1245dca3a059e56ce55f5967c6cea941ea925fd569183da4e9f20baa",
+      "visualReview": {
+        "verified": true,
+        "tierCount": null,
+        "shape": "cross cookies",
+        "notes": "White iced cross cookies with small pearl borders."
+      },
+      "reviewNote": "White iced cross cookies with small pearl borders."
+    },
+    {
+      "n": 179,
+      "productId": "9080699715809",
+      "title": "First Communion Cross Cookies",
+      "originalImage": "assets/products/62cedf814c3195c71cc2.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/first-communion-cookies--1055599907222454/",
+          "imageUrl": "https://i.pinimg.com/originals/36/f6/1a/36f61abe7bf6979d3eca3ac8a1efb159.jpg",
+          "description": "A silver tray lined with a delicate lace doily holds several sugar cookies shaped like crosses. Each cookie is coated in smooth white frosting, with piped details forming a subtle cross motif and a light dusting of sugar for sparkle.\n\nPerfectly suited for a First Communion celebration, these cookies blend religious symbolism with elegant dessert styling. The uniform white palette and refined presentation create a sophisticated addition to any event dessert table.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9080699715809-33054ca26105.jpg",
+          "sha256": "33054ca261058bc6b746917d8bed4120b2ddf0ed0b63a996fe32ab7b4b25f5f7"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/4011087155341852/",
+          "imageUrl": "https://i.pinimg.com/736x/7a/fd/d7/7afdd7840d961d0c60ff00b32cefb1c0.jpg",
+          "description": "A collection of intricately decorated sugar cookies celebrates the sacred tradition of First Communion. Each cookie is coated in pristine white icing and accented with lustrous gold details. Two cross-shaped cookies showcase clusters of white fondant roses at their centers, while two plaque-shaped cookies feature delicate rosary bead patterns culminating in tiny gold crosses.\n\nResting on a contrasting black-and-white patterned background, these cookies blend religious symbolism with refined confectionery craftsmanship. Perfect for a communion celebration, they capture both the solemnity and joy of the occasion through elegant design and meticulous decoration.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9080699715809-659786987ee8.jpg",
+          "sha256": "659786987ee8f26841d72149218f8eb04e5f5e57bed8721f38f40fdfa5081d91",
+          "businessNameVisible": true
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/first-communion-cookies-a-sweet-celebration--281543723671896/",
+          "imageUrl": "https://i.pinimg.com/originals/ec/5d/32/ec5d32aea0e09b160032df5d973be7ac.jpg",
+          "description": "A collection of sugar cookies shaped like crosses and hexagons is arranged on a metal baking sheet, each decorated in white and pastel green icing. The cross-shaped cookies feature delicate leaf sprigs and tiny sugar pearls, while the hexagonal cookies display rosary bead designs with gold cross pendants and one personalized with the name “Oliver.”\n\nThese treats are crafted for a First Communion event, combining religious symbolism with elegant, edible artistry. The soft color palette and intricate icing work make them perfect for a child’s milestone celebration or an Easter gathering.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9080699715809-aae0dccef249.jpg",
+          "sha256": "aae0dccef249c1b9cd0b5b73049b9b81cd68f446a9c2b2964c664b9476eea969"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/first-communion-cookie-decorating-ideas--193936327696426257/",
+          "imageUrl": "https://i.pinimg.com/736x/2f/56/0d/2f560d9f2451bccb468ebb05430523ed.jpg",
+          "description": "A selection of intricately decorated sugar cookies shaped like crosses rests on a wooden table, each iced in white and gold hues. The designs range from simple dotted borders to elaborate lattice patterns and starburst motifs, showcasing a variety of piping techniques. Perfect for a First Communion celebration, these cookies combine religious symbolism with elegant confectionery artistry, offering inspiration for festive, faith-based gatherings.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9080699715809-5fd9d6b825a5.jpg",
+          "sha256": "5fd9d6b825a51137c33039aa49690ddf177d0f6b85d6b1d3ab2f6267f8ff87fb"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/first-communion-decorated-cookies--1196337403467046/",
+          "imageUrl": "https://i.pinimg.com/originals/13/fa/1d/13fa1d3baab0571a4ee3fc71159d0580.jpg",
+          "description": "A beautifully arranged assortment of sugar cookies crafted for a First Communion celebration rests on a wooden backdrop. The cookies are uniformly iced in white and adorned with gold details—rosary beads, crosses, doves, and leafy flourishes—creating a cohesive and elegant presentation. Shapes include crosses, hexagons, ovals, and scalloped rounds, each reflecting religious symbolism through refined decorative techniques.\n\nThese treats blend traditional motifs with modern design, offering a memorable and tasteful addition to any First Communion event. The combination of white frosting and metallic gold accents highlights the significance of the occasion while providing guests with a visually stunning and delicious keepsake.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9080699715809-7daf10819f88.jpg",
+          "sha256": "7daf10819f88be48dcaf857e207c87d8db12449dcfdb0422e3ad87e1e8cb5640"
+        }
+      ],
+      "query": "First Communion Cross Cookies Pinterest",
+      "reviewNote": "Visible third-party bakery name, logo or photo credit in the full-size image. Replacement remains pending."
+    },
+    {
+      "n": 180,
+      "productId": "9080695619809",
+      "title": "Blue / Baptism Cross Cookies",
+      "originalImage": "assets/products/8d770a5995f7a68ed3ad.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/delicious-bites-crossshaped-baptismal-cookies--41025046589550350/",
+          "imageUrl": "https://i.pinimg.com/736x/ab/b9/1f/abb91febea553216b78cfe381c547328.jpg",
+          "description": "A set of nine sugar cookies, each molded into a cross and iced in coordinating shades of blue and white, rests on a wooden surface. The designs range from quilted patterns and diagonal stripes to delicate floral accents, all highlighting precise piping work and uniform color choices.\n\nOne cookie features the text “Bite Me BAKED WITH LOVE” piped in white icing, reinforcing the handcrafted nature of these treats. Perfect for baptism ceremonies and other special events, these cookies combine aesthetic appeal with a heartfelt homemade touch.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9080695619809-efa513df228f.jpg",
+          "sha256": "efa513df228fff8d81a4738ceea29f80fde0164acd0ab8019e88c48a05b692d7",
+          "businessNameVisible": true
+        }
+      ],
+      "query": "Blue / Baptism Cross Cookies Pinterest"
+    },
+    {
+      "n": 181,
+      "productId": "9080630051041",
+      "title": "Angel Cake",
+      "originalImage": "assets/products/78b88582349353ad9e3b.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/this-delicious-angel-food-cake-is-light-as-air-soft-as-clouds-and-just-about-perfect-with-a-dollop-of-whipped-cream-an--64176363427349992/",
+          "imageUrl": "https://i.pinimg.com/originals/78/20/13/78201397b514681e4d58012a983cb4f8.jpg",
+          "description": "A tall, airy angel food cake rests on an ornate glass stand, its golden-brown crust dusted with powdered sugar. The cake’s light, cloud-like interior is revealed by a missing slice, which sits on a delicate floral plate. Fresh strawberries, raspberries, blackberries, and mint leaves garnish both the cake and the plate, adding bright pops of color. The setup on a marble countertop and a soft pink linen napkin evoke a refined, elegant dessert presentation.\n\nThis Pinterest recipe post highlights the cake’s ethereal texture—“light as air, soft as clouds”—and suggests serving it with whipped cream and a smattering of berries for a vanilla marshmallow–like treat.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9080630051041-3a8a54a33fb5.jpg",
+          "sha256": "3a8a54a33fb5f35442e9a8d645a71e381a35f1d2d24beb3e3e4218ad03e19bf9"
+        }
+      ],
+      "query": "Angel Cake Pinterest"
+    },
+    {
+      "n": 182,
+      "productId": "9080629723361",
+      "title": "White Dove Baptism Cake",
+      "originalImage": "assets/products/8de4a7522fd94d47d2a7.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/638807528410751175/",
+          "imageUrl": "https://i.pinimg.com/originals/ae/f4/03/aef403f7a888eed077c12cff1e3e3b78.jpg",
+          "description": "A beautifully crafted white baptism cake rests on a wooden surface, decorated with evenly spaced pearl-like icing dots and a string of edible pearls around its base. The front displays a gold-edged plaque inscribed with the name \"Alice\" in graceful script, while a delicate topper showcases a dove against a snowflake backdrop, symbolizing purity and faith.\n\nThis cake design is featured among 60 baptism cake ideas aimed at enhancing the sweetness and blessing of baptism ceremonies. The serene presentation, with green foliage in the background, underscores the celebratory and spiritual nature of the event.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9080629723361-dc5731497ade.jpg",
+          "sha256": "dc5731497ade85b80b0eb7fedb1dd09f1122496d81f13ca93a702c98ddbfac9a"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/batizado-beni--3096293489927978/",
+          "imageUrl": "https://i.pinimg.com/originals/b7/7d/c6/b77dc6d58353f01cc621a5f321062805.jpg",
+          "description": "A pristine white cake designed for a baptism celebration showcases a delicate fondant drape and a detailed dove sculpture as the centerpiece. The inscription “Batizado Pedro” is elegantly placed on an oval plaque at the base, while sprigs of green eucalyptus leaves provide a fresh, organic accent.\n\nThis Pinterest pin, saved by Bárbara Coutinho on a board titled “Batizado Clara,” highlights a minimalist yet refined aesthetic. The combination of smooth white fondant, subtle bead borders, and natural foliage creates a serene and elegant presentation perfect for a religious ceremony.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9080629723361-66bc234b0fd6.jpg",
+          "sha256": "66bc234b0fd64003c7bc23afbc9d1b20f8d9b53e0074b4cc2998043bf13e66b5",
+          "businessNameVisible": true
+        },
+        {
+          "sourceUrl": "https://br.pinterest.com/pin/4714774602517793/",
+          "imageUrl": "https://i.pinimg.com/736x/2d/df/bc/2ddfbc2ae27147465d481e7408c01726.jpg",
+          "description": "This elegant two-tier white baptism cake showcases meticulous fondant work with vertical ribbing and cloud-shaped appliqués encircling each tier. Small dove figures and beaded garlands add delicate detail, while an ornate fondant plaque on the upper tier spells out “Lucas.”\n\nAtop the cake, a sculpted dove with outstretched wings and radiant beams serves as a symbolic topper. The minimalist all-white design conveys purity and reverence, making it a fitting centerpiece for a baptism celebration.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9080629723361-8f39bf59a5ec.jpg",
+          "sha256": "8f39bf59a5ec105bb4ce7a2c4887f208f0ac46a0f1fd61622b779c49d01d499b"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/5699937020878742/",
+          "imageUrl": "https://i.pinimg.com/originals/5d/a9/64/5da9644f90ce4ae6e829f556e37222dd.jpg",
+          "description": "A beautifully crafted two-tier baptism cake showcases smooth white fondant complemented by pastel green details. The lower tier is encircled by a green ribbon and bow, while the upper tier is edged with scalloped fondant and topped with a round plaque featuring a dove in relief. White sugar roses cascade down one side, and the name \"Valentina\" appears in gold script on the front.\n\nDelicate floral appliqués decorate the cake’s sides, reinforcing its refined aesthetic. The dove topper symbolizes peace and purity, making this cake an ideal centerpiece for a child’s baptism celebration.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9080629723361-222fe9d2ce2c.jpg",
+          "sha256": "222fe9d2ce2c28eb2b57668d97390305fecec64947922c117a9cd3868245518e"
+        },
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/665758757421680217/",
+          "imageUrl": "https://i.pinimg.com/736x/d7/45/40/d74540eac244af9f6654c103987cf6ea.jpg",
+          "description": "A pristine white cake adorned with gold sprinkles and delicate pearl beads sits ready for a baptism celebration. A rosary drapes gracefully along its side, while a layered dove topper with radiant gold rays soars above, symbolizing the Holy Spirit. The front displays a gold-accented name plaque reading \"Polly,\" tying personalization to the spiritual theme.\n\nThis design merges religious symbolism and refined decoration, making it an ideal centerpiece for a baptism or confirmation event. The combination of white frosting, gold accents, and the dove motif underscores the sacred nature of the occasion.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9080629723361-b9881b078968.jpg",
+          "sha256": "b9881b07896897a828e30129514ad5c151e498a300f37932df5b44698eea5ab2"
+        }
+      ],
+      "query": "White Dove Baptism Cake Pinterest",
+      "reviewNote": "Visible third-party bakery name, logo or photo credit in the full-size image. Replacement remains pending."
+    },
+    {
+      "n": 183,
+      "productId": "9080618713313",
+      "title": "Floral Baptism Cake",
+      "originalImage": "assets/products/1fe31d06bc2e2199dd68.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://ca.pinterest.com/pin/pastel-baptism-cake-with-elegant-decorations--3448137208941638/",
+          "imageUrl": "https://i.pinimg.com/736x/16/e4/dc/16e4dc141051e99660d746339270d5ac.jpg",
+          "description": "A custom two-tier baptism cake by LanaBellaCakes features a pristine white buttercream finish dotted with sugar pearls. A gold cross adorns the top tier, symbolizing the religious significance of the occasion. Soft pastel roses and wispy dried foliage cascade gracefully down the sides, creating a delicate and romantic aesthetic.\n\nThe cake board is inscribed with “GOD BLESS ADELLA,” personalizing the design for the celebrant. This elegant creation, showcased on Pinterest, exemplifies a perfect blend of classic symbolism and modern floral styling for a special baptism celebration.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9080618713313-f9d96c197ab1.jpg",
+          "sha256": "f9d96c197ab1cef2fc0ef8485c10c4ba47ad78451dfc5445718d7589da990a06"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/ideas/baptism-cakes/932069220230/",
+          "imageUrl": "https://i.pinimg.com/originals/56/19/c4/5619c47b913e41d20bd384b4268acdd5.jpg?nii=t",
+          "description": "A two-tier white fondant cake rests on a wooden pedestal, its smooth surface adorned with cascading pink and lavender sugar flowers. Gold leaf accents and a central gold cross highlight the cake’s baptism theme, while tiny edible pearls add subtle detail. The pastel color palette and refined decorations make this cake a fitting centerpiece for a christening celebration.\n\nSourced from a Pinterest collection of baptism cake ideas, this design exemplifies modern elegance in religious celebration desserts. The combination of soft florals and metallic touches creates a serene yet festive atmosphere, perfect for commemorating a special spiritual milestone.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9080618713313-8120fbe02f0f.jpg",
+          "sha256": "8120fbe02f0ff7befea42c004da4df80485a71175107fcd05eeca99b530a2798"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/confirmacin--3940718419527863/",
+          "imageUrl": "https://i.pinimg.com/originals/db/85/66/db85663950ea64e3464480a9ff911785.jpg",
+          "description": "A tall white fondant cake sits on a gold board, decorated with scattered gold leaf accents and tiny gold sugar pearls. Soft pastel sugar flowers in shades of pink and ivory cascade down one side, creating a delicate floral arrangement. A gold cross topper crowns the cake, emphasizing its purpose for a baptism or other religious celebration.\n\nThe refined color palette of white, gold, and pastel hues lends an air of sophistication, while the intricate sugar flowers and metallic details highlight the craftsmanship. Perfect for a special occasion, this cake combines elegance and spiritual symbolism in its design.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9080618713313-896ef6194a98.jpg",
+          "sha256": "896ef6194a9891f82aad5271e27748614ef826887a72b1252fac54894dae5e35"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/351912462751653/",
+          "imageUrl": "https://i.pinimg.com/originals/9b/77/69/9b77692a6dfc84a3a86a6d737807f098.jpg",
+          "description": "A tall white baptism cake is beautifully decorated with cascading pink and white sugar flowers that flow down one side, creating a soft, romantic effect. Tiny gold beads form a delicate garland around the smooth fondant surface, and a small gold cross hangs centrally, emphasizing the cake’s religious significance.\n\nThe cake is presented on an ornate gold stand with intricate filigree details, which complements the pastel floral accents. Set against a white brick backdrop, the overall presentation exudes refined elegance, making it an ideal centerpiece for a baptism celebration.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9080618713313-17e8e966cad8.jpg",
+          "sha256": "17e8e966cad807cf0c69c773a9d1e16a78ea199df9266f151a998c30dd34a268",
+          "businessNameVisible": true
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/6614730693492860/",
+          "imageUrl": "https://i.pinimg.com/736x/77/94/ce/7794ce7a3760a420ff0af6a1d540347b.jpg",
+          "description": "A pristine white cake stands tall on a minimalist pedestal, its smooth fondant surface framed by delicate lace-patterned borders at the top and bottom. Cascading from the upper edge are handcrafted pink sugar roses, hydrangeas, and gold-accented leaves and berries, creating a graceful floral arrangement. The front is inscribed with \"Elena Rita\" in elegant gold script, personalizing the design for the occasion.\n\nAtop the cake sits an ornate gold cross, symbolizing the christening event. The overall presentation, styled by Stylish Events & Weddings, combines soft pastel florals with metallic highlights, set against a neutral backdrop that enhances the cake’s refined elegance.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9080618713313-298a57716343.jpg",
+          "sha256": "298a5771634330ae416ad0821e74059aced3696b994ce6e016cc53dcb6cc794e"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/komunia-michelle--843299098949221588/",
+          "imageUrl": "https://i.pinimg.com/736x/64/4d/65/644d654c5bfc2bd2f4636305d33f4e41.jpg",
+          "description": "A pristine two-tier white cake rests on a gleaming gold stand, its smooth fondant surface accented by a cascade of soft pink and white sugar flowers. A delicate gold cross crowns the top tier, while the name “Valentina” is elegantly scripted in gold on the lower tier. Intricate pale pink lace-like icing trims the base of the bottom tier, adding a touch of refined detail.\n\nThis cake, featured on Pinterest, is designed specifically for a christening celebration. The pastel floral arrangement and metallic accents create a serene and festive centerpiece, perfectly suited for commemorating a special baptism day.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9080618713313-2c911c81ac48.jpg",
+          "sha256": "2c911c81ac48598bbc18a065ff1f770ebc9e9ea697df05e7a8d4fb2ae0af1f9d"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/287597126179524181/",
+          "imageUrl": "https://s-media-cache-ak0.pinimg.com/originals/a7/9f/04/a79f0497ce373142174a2e54c5c8534e.jpg",
+          "description": "A beautifully crafted two-tiered baptism cake showcases soft white fondant and pale pink buttercream roses. The top tier is crowned with a bouquet of delicate roses, while the side of the upper tier features a fondant cross framed by piped pearl dots. The lower tier presents a heart-shaped plaque inscribed with \"God Bless Amelia Ruth,\" surrounded by a border of tiny piped pearls.\n\nThis cake’s pastel color palette and intricate details—such as the buttercream roses, fondant plaques, and pearl accents—make it an elegant centerpiece for a baby girl’s baptism celebration. The design balances simplicity and sophistication, reflecting the joyous and sacred nature of the event.",
+          "error": "Expected Pinterest source and image"
+        }
+      ],
+      "query": "Floral Baptism Cake Pinterest",
+      "reviewNote": "Visible third-party bakery name, logo or photo credit in the full-size image. Replacement remains pending."
+    },
+    {
+      "n": 184,
+      "productId": "9080618418401",
+      "title": "White & Gold Baptism Cake",
+      "originalImage": "assets/products/fd9b102d4632be787764.jpg",
+      "status": "applied",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/pinterest--1548181126511109/",
+          "imageUrl": "https://i.pinimg.com/originals/45/ff/02/45ff02f05039bf93c011932698f67371.jpg",
+          "description": "A pristine white cake stands on a simple white pedestal, its smooth buttercream surface accented by textured swipes of frosting and delicate gold leaf. A gold cross adorns the front, while a metallic topper spells out “George’s Baptism,” clearly marking the occasion. The minimalist backdrop and refined color palette of white and gold create a serene, celebratory atmosphere suitable for a baptism ceremony.\n\nThis design merges contemporary cake artistry with traditional religious symbolism, making it an ideal centerpiece for commemorating a child’s baptism. The combination of textured frosting, metallic accents, and a personalized topper ensures the cake is both visually striking and meaningful.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9080618418401-1b35d4fdb616.jpg",
+          "sha256": "1b35d4fdb6160e1ecb81ed8f536875e35fc025bf25c71adab64f759ecedd0b4b"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/ideas/baptism-cakes/932069220230/",
+          "imageUrl": "https://i.pinimg.com/474x/08/35/8b/08358bd95076f3f19de7cf314c23baca.jpg?nii=t",
+          "description": "A Pinterest inspiration for a baptism celebration features a tall, cylindrical white cake adorned with intricate buttercream flowers and gold leaf accents. The front is centered by a minimalist gold cross, surrounded by tiny sugar pearls and floral piping that add texture and elegance.\n\nThe top of the cake is finished with cascading rosettes and swirls of white frosting, creating a soft, romantic look. This design balances religious symbolism and refined decoration, making it a fitting centerpiece for a baptism event.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9080618418401-b1499b3a9dee.jpg",
+          "sha256": "b1499b3a9deecc0382551e6bb1a4ef90ff351c9abbaf741740dc439639e96d96"
+        },
+        {
+          "sourceUrl": "https://ca.pinterest.com/pin/baptism-cake-with-a-touch-of-boho--871235490398155161/",
+          "imageUrl": "https://i.pinimg.com/originals/4b/96/5d/4b965dcc514690d22b6ab60266940140.jpg",
+          "description": "A handcrafted white baptism cake sits atop a wooden stand, its smooth buttercream surface accented by subtle textured strokes and small white floral details. A polished gold cross is centered on the cake’s side, reflecting light and symbolizing the religious occasion. \n\nBeside the cross, a small bundle of dried boho-style grasses and florals adds a rustic, natural element. Designed for christenings, baptisms, and first communions, this minimalist cake combines modern elegance with boho charm to create a memorable centerpiece for special celebrations.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9080618418401-0897832bfe31.jpg",
+          "sha256": "0897832bfe31a4cabc7c28bba079bb355b38e212803fbcbf91c787849f7fd1ca"
+        },
+        {
+          "sourceUrl": "https://mx.pinterest.com/anllyrojas/bautizo-de-maximiliano/",
+          "imageUrl": "https://i.pinimg.com/736x/b3/9a/d2/b39ad228651045009964a9c15a17a6b0.jpg",
+          "description": "A two-tier white fondant cake with delicate gold trim and a pale blue ribbon around each layer serves as a centerpiece for a boy’s baptism. The top tier is crowned by an ornate gold cross, and the front plaque reads “Sarkis Charbel Elias.” The lower tier features a quilted pattern, and the cake rests on a white stand accented with gold lettering.\n\nThis design is featured on a Pinterest board of baptism ideas curated by Anlly Rojas Valles, specifically for a celebration named Maximiliano’s baptism. The elegant combination of white, gold, and light blue reflects traditional baptism decor for a baby boy.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9080618418401-d2860531bb3e.jpg",
+          "sha256": "d2860531bb3e77a7b5adb91bacf6874edafb3e1f0dbd1743427cdcfed72ee7fa"
+        },
+        {
+          "sourceUrl": "https://ca.pinterest.com/pin/baptism-cake-with-cross-and-flowers--140806231441695/",
+          "imageUrl": "https://i.pinimg.com/736x/2f/4f/69/2f4f692fe2687a9268704623dd12e479.jpg",
+          "description": "A two-tier white cake stands gracefully on a round marble-topped stand, its smooth buttercream surface dotted with tiny sugar pearls. Clusters of ivory roses and wispy pampas grass accent the base of each tier, lending a soft, boho-inspired touch to the design.\n\nA gold cross is centered on the upper tier, symbolizing the religious significance of the occasion. Atop the cake rests a small fondant book, open and detailed with gold accents, completing the christening theme with understated elegance.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9080618418401-94609a58e835.jpg",
+          "sha256": "94609a58e835f92f67e114f0b31779b06416c537e59deac0f1f7b6de67cdb233"
+        }
+      ],
+      "query": "White & Gold Baptism Cake Pinterest",
+      "selected": {
+        "sourceUrl": "https://ca.pinterest.com/pin/baptism-cake-with-a-touch-of-boho--871235490398155161/",
+        "imageUrl": "https://i.pinimg.com/originals/4b/96/5d/4b965dcc514690d22b6ab60266940140.jpg",
+        "description": "A handcrafted white baptism cake sits atop a wooden stand, its smooth buttercream surface accented by subtle textured strokes and small white floral details. A polished gold cross is centered on the cake’s side, reflecting light and symbolizing the religious occasion. \n\nBeside the cross, a small bundle of dried boho-style grasses and florals adds a rustic, natural element. Designed for christenings, baptisms, and first communions, this minimalist cake combines modern elegance with boho charm to create a memorable centerpiece for special celebrations.",
+        "localImage": "assets/products/matches/batch-004-pinterest/9080618418401-0897832bfe31.jpg",
+        "sha256": "0897832bfe31a4cabc7c28bba079bb355b38e212803fbcbf91c787849f7fd1ca"
+      },
+      "localImage": "assets/products/matches/batch-004-pinterest/9080618418401-0897832bfe31.jpg",
+      "sha256": "0897832bfe31a4cabc7c28bba079bb355b38e212803fbcbf91c787849f7fd1ca",
+      "visualReview": {
+        "verified": true,
+        "tierCount": 1,
+        "shape": "round",
+        "notes": "One white round baptism cake with gold cross, white leaves and gold rim."
+      },
+      "reviewNote": "One white round baptism cake with gold cross, white leaves and gold rim."
+    },
+    {
+      "n": 185,
+      "productId": "9079631282401",
+      "title": "Baptism Cake with Eucalyptus Leaves",
+      "originalImage": "assets/products/b33c2a4b7f86dda86c64.jpg",
+      "status": "applied",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/26740191529122483/",
+          "imageUrl": "https://i.pinimg.com/originals/72/cd/f0/72cdf095748d37c0d41cd3d5e1cd5fda.jpg",
+          "description": "A tall, two-tone white cake stands on a marble top with a gold pedestal base, its smooth buttercream finish accented by a gold cross inset on the front. Delicate white buttercream roses crown the top, while fresh eucalyptus sprigs cascade down the side, lending a natural, serene touch. A single pale macaron rests at the base, adding a refined detail to the minimalist design.\n\nStyled for a baptism celebration, the cake’s muted color palette and subtle religious motif create an atmosphere of quiet elegance. The combination of modern cake artistry and spiritual symbolism makes it a fitting centerpiece for a christening or baptism event.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9079631282401-099d7842ea0e.jpg",
+          "sha256": "099d7842ea0ecfdfe7082c5aa7bf61f066a41143e97cda1af6069d31654e2c06"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/310185493107221661/",
+          "imageUrl": "https://i.pinimg.com/736x/0d/71/0a/0d710a270ba218f534645ea8bd739332.jpg",
+          "description": "A custom three-tier baptism cake features alternating white and mint-green buttercream tiers, each decorated with scattered gold leaf accents. Fresh eucalyptus leaves and beige macarons encircle every layer, lending a botanical touch. The middle tier is adorned with a gold cross, and the top is finished with a gold script name topper reading “Ethan.”\n\nThis cake design, highlighted on a Pinterest page for baptism decoration ideas, is crafted by a specialist in wedding and themed cakes based in Seine-et-Marne (77). It exemplifies personalized celebration cakes for baptisms, weddings, and birthdays.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9079631282401-245d0bd3b004.jpg",
+          "sha256": "245d0bd3b0046b827c3827243d2421d85bc09b2eb22cf70652d10998dc2e824d"
+        },
+        {
+          "sourceUrl": "https://au.pinterest.com/pin/buttercream-christening-cake-with-ombre-design--140806233595403/",
+          "imageUrl": "https://i.pinimg.com/736x/c3/d6/78/c3d678433503d610d86067db2ed15c42.jpg",
+          "description": "A two-tier buttercream cake showcases a refined ombre design, fading from pristine white to a soft mint green base. Scattered gold leaf accents catch the light, lending a luxurious shimmer to the smooth frosting. \n\nEucalyptus sprigs, white macarons, and delicate floral elements crown the top tier, while a minimalist black cross on the front underscores the cake’s religious significance. Displayed on a white pedestal against a simple backdrop, this cake is perfectly styled for a christening celebration.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9079631282401-5f905d5cf45c.jpg",
+          "sha256": "5f905d5cf45c302a363a807a6ad61497380925023b90b7f8f8e167de07345e39"
+        },
+        {
+          "sourceUrl": "https://at.pinterest.com/tinafaist/tauftorte/",
+          "imageUrl": "https://i.pinimg.com/originals/02/1a/d7/021ad7a881c904cc0502926ecbf9b74d.jpg",
+          "description": "This elegant three-tiered cake combines white and green ombré frosting with gold leaf accents and natural greenery. The top is crowned by a custom “Lias” topper featuring a dove motif, while a gold cross adorns the middle tier, emphasizing the cake’s religious significance. Delicate white flowers, eucalyptus sprigs, and macarons complete the refined design, perfect for a 2025 christening celebration.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9079631282401-b2b99e32577d.jpg",
+          "sha256": "b2b99e32577dad967b9812542ca7cb603eb9ad7833f29291f4d24bbd89e45512"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/elegant-floral-cake-for-baby-shower--1407443629703790/",
+          "imageUrl": "https://i.pinimg.com/originals/73/cf/ba/73cfbab976a585dcaa1ed1b1aa5405c9.jpg",
+          "description": "A two-tier cake features a seamless gradient from deep green at the base to pale cream at the top. White roses, delicate baby’s breath, and eucalyptus sprigs crown the cake, while gold leaf flecks trail down one side for a subtle metallic accent. A small card reading “Taufe” nestled among the flowers indicates the cake is intended for a baptism celebration.\n\nThe cake rests on a clean white board against a soft gray backdrop, emphasizing its refined design. The combination of natural greenery, white blooms, and gold details creates a sophisticated centerpiece perfect for a christening or similar event.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9079631282401-45d76f0f3ed8.jpg",
+          "sha256": "45d76f0f3ed88ab2eadda4ab62c0dc46d5acda03129bd31a5a74d86f298b15a7"
+        }
+      ],
+      "query": "Baptism Cake with Eucalyptus Leaves Pinterest",
+      "selected": {
+        "sourceUrl": "https://www.pinterest.com/pin/26740191529122483/",
+        "imageUrl": "https://i.pinimg.com/originals/72/cd/f0/72cdf095748d37c0d41cd3d5e1cd5fda.jpg",
+        "description": "A tall, two-tone white cake stands on a marble top with a gold pedestal base, its smooth buttercream finish accented by a gold cross inset on the front. Delicate white buttercream roses crown the top, while fresh eucalyptus sprigs cascade down the side, lending a natural, serene touch. A single pale macaron rests at the base, adding a refined detail to the minimalist design.\n\nStyled for a baptism celebration, the cake’s muted color palette and subtle religious motif create an atmosphere of quiet elegance. The combination of modern cake artistry and spiritual symbolism makes it a fitting centerpiece for a christening or baptism event.",
+        "localImage": "assets/products/matches/batch-004-pinterest/9079631282401-099d7842ea0e.jpg",
+        "sha256": "099d7842ea0ecfdfe7082c5aa7bf61f066a41143e97cda1af6069d31654e2c06"
+      },
+      "localImage": "assets/products/matches/batch-004-pinterest/9079631282401-099d7842ea0e.jpg",
+      "sha256": "099d7842ea0ecfdfe7082c5aa7bf61f066a41143e97cda1af6069d31654e2c06",
+      "visualReview": {
+        "verified": true,
+        "tierCount": 1,
+        "shape": "round",
+        "notes": "One white round baptism cake with a cross and eucalyptus leaves."
+      },
+      "reviewNote": "One white round baptism cake with a cross and eucalyptus leaves."
+    },
+    {
+      "n": 186,
+      "productId": "9079630921953",
+      "title": "Olives Baptism Cake",
+      "originalImage": "assets/products/35dd8263a82abe0063fc.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://at.pinterest.com/annamuckenhumer/tauf-und-kommuniontorten/",
+          "imageUrl": "https://i.pinimg.com/originals/08/e4/f8/08e4f877c5426b31f2706b902e9ea770.jpg",
+          "description": "A pristine two-tiered white cake stands on a minimalist white cake stand, its smooth buttercream finish accented by delicate olive branch sprigs and subtle gold leaf details. The top tier is crowned with a sleek gold dove topper, symbolizing peace and spirituality, while the bottom tier bears the name \"Maximilian\" in refined gold script. \n\nThis design, featured on a German Pinterest board for baptism and communion cakes in 2025, blends classic elegance with natural elements. The neutral backdrop and understated greenery create a serene presentation ideal for religious celebrations such as baptisms or first communions.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9079630921953-b0a918b84c25.jpg",
+          "sha256": "b0a918b84c25aff6144913aa106041bd166c1e6be8070c068e1bea125ac00727"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/dulcedayperu/torta-2-pisos-bautizo-ni%C3%B1a/",
+          "imageUrl": "https://i.pinimg.com/originals/96/ed/92/96ed9201f88883234f99a85d5db8297d.jpg",
+          "description": "A beautifully crafted two-tiered cake designed for a girl's baptism features a pristine white top tier and a soft pink bottom tier. Gold speckles are scattered across the frosting, adding a subtle shimmer, while a small gold cross adorns the upper layer. The name \"Tabienne\" is elegantly scripted in gold on the lower tier, personalizing the cake for the celebrant.\n\nOlive branches and gold macarons are artfully placed around the base and atop the cake, enhancing its refined look. This design is part of a Pinterest collection by Dulce Day, showcasing inspirational ideas for two-tiered baptism cakes with pastel hues and delicate decorative elements.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9079630921953-ebfc5b14c685.jpg",
+          "sha256": "ebfc5b14c685b70b3eb69d5379bf92a3bb1ea6ac61a9350081250334be596e43"
+        },
+        {
+          "sourceUrl": "https://at.pinterest.com/tinafaist/tauftorte/",
+          "imageUrl": "https://i.pinimg.com/originals/02/1a/d7/021ad7a881c904cc0502926ecbf9b74d.jpg",
+          "description": "This elegant three-tiered cake combines white and green ombré frosting with gold leaf accents and natural greenery. The top is crowned by a custom “Lias” topper featuring a dove motif, while a gold cross adorns the middle tier, emphasizing the cake’s religious significance. Delicate white flowers, eucalyptus sprigs, and macarons complete the refined design, perfect for a 2025 christening celebration.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9079630921953-b2b99e32577d.jpg",
+          "sha256": "b2b99e32577dad967b9812542ca7cb603eb9ad7833f29291f4d24bbd89e45512"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/first-communion-boys--289848926034466197/",
+          "imageUrl": "https://i.pinimg.com/736x/de/d7/3a/ded73a3e279225cdc4df4bc48f13f15f.jpg",
+          "description": "A nude-colored single-tier cake rests on a white stand with gold legs, its smooth buttercream finish accented by hand-painted green leaves that frame a gold cross on the front. Atop the cake, a metallic gold name topper spells out “Ottilie Beatrix,” complemented by realistic green foliage sprigs. The minimalist design, muted tones, and botanical details create an elegant centerpiece ideal for a baptism or christening celebration.\n\nThis cake was featured on a Pinterest page titled “Foliage Baptism Cake | Celebration Cakes Gallery,” where it’s described as an elegant nude baptism christening cake adorned with hand-painted foliage for a special celebration.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9079630921953-3bf83bcb3e87.jpg",
+          "sha256": "3bf83bcb3e8738d2e9df98f30e82196b71a65d70b415d8de5b12ea56f4a9e9f4"
+        }
+      ],
+      "query": "Olives Baptism Cake Pinterest"
+    },
+    {
+      "n": 187,
+      "productId": "9079630233825",
+      "title": "White Baptism Cake",
+      "originalImage": "assets/products/c180e664c59c73654a26.jpg",
+      "status": "applied",
+      "candidates": [
+        {
+          "sourceUrl": "https://ru.pinterest.com/pin/147492956541359779/",
+          "imageUrl": "https://i.pinimg.com/736x/ac/34/2f/ac342ff96c40c057c7758eb4968691da.jpg",
+          "description": "This minimalist single-tier cake is covered in smooth white fondant and rests on a matching pedestal stand. A delicate string of edible beads wraps around the base, while a white rosary with a cross drapes over the top edge. A single white flower adds a soft, elegant accent. Perfectly suited for baptism or communion celebrations, the cake’s serene design emphasizes purity and simplicity.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9079630233825-925a419ffe69.jpg",
+          "sha256": "925a419ffe6991f4ee3d455f6678ee2a7d418bf56011a1a6f9f9e3873e6f9e21"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/elegant-christening-cake-with-white-flowers-and-cross--31806741113531451/",
+          "imageUrl": "https://i.pinimg.com/736x/2f/5e/4b/2f5e4b8a775c21d4e68e1d7fc47ba29d.jpg",
+          "description": "A two-tier ivory cake rests on a white pedestal stand, crowned by a cluster of handcrafted white sugar flowers and leaves. The top tier features a gold cross cutout, symbolizing the religious significance of the occasion, while the bottom tier is inscribed with “Christening Marcella” in flowing script. The cake’s smooth fondant surface and minimalist floral accents convey a sense of purity and grace, making it a fitting centerpiece for a baptism or first communion celebration.\n\nThis design, highlighted on Pinterest, emphasizes simplicity and elegance. The combination of white-on-white florals, subtle gold detailing, and personalized lettering creates a timeless look that complements the solemnity and joy of a christening event.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9079630233825-893d0795b602.jpg",
+          "sha256": "893d0795b602f580e685e2a3ba87c0ec774eed3bb78ac26309ed4f46d448d4c6"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/492649933891878/",
+          "imageUrl": "https://i.pinimg.com/1200x/84/45/e5/8445e55df4cabeec5fcd512da4ea8dc5.jpg",
+          "description": "A pristine white round cake rests on a coordinating board, its smooth fondant surface framed by a scalloped piped border. Atop the cake, a cross outlined in piped dots is filled with tiny floral motifs, while clusters of sugar flowers add dimension and grace. The board’s inscription, “Baptism Cake with Cross and Floral Decorations,” reinforces its purpose as a focal point for a baptism celebration.\n\nThis design combines traditional religious symbolism with delicate floral accents, creating an elegant and tasteful centerpiece. The white-on-white palette and refined piping work make it suitable for a formal event, ensuring it stands out as both a decorative and celebratory element.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9079630233825-43c2b5e5f35e.jpg",
+          "sha256": "43c2b5e5f35e1f417e94a7f5329e9f4754f37b16c7f195ac433fc73df10432f2"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/ideas/baptism-cakes/932069220230/",
+          "imageUrl": "https://i.pinimg.com/474x/08/35/8b/08358bd95076f3f19de7cf314c23baca.jpg?nii=t",
+          "description": "A Pinterest inspiration for a baptism celebration features a tall, cylindrical white cake adorned with intricate buttercream flowers and gold leaf accents. The front is centered by a minimalist gold cross, surrounded by tiny sugar pearls and floral piping that add texture and elegance.\n\nThe top of the cake is finished with cascading rosettes and swirls of white frosting, creating a soft, romantic look. This design balances religious symbolism and refined decoration, making it a fitting centerpiece for a baptism event.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9079630233825-b1499b3a9dee.jpg",
+          "sha256": "b1499b3a9deecc0382551e6bb1a4ef90ff351c9abbaf741740dc439639e96d96"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/marapasteles/pastel-de-bautizo-y-mas/",
+          "imageUrl": "https://i.pinimg.com/originals/e8/52/50/e852509590982a520ee86e0494b0c010.jpg",
+          "description": "This cake features a smooth white fondant covering and a delicate string of fondant pearls encircling its single tier. On the side, an ornate gold cross is framed by the pearls, adding a focal point of religious symbolism. Two large ruffled sugar flowers with gold centers crown the top, lending a refined and celebratory touch.\n\nIdeal for a baptism or christening, the design balances simplicity and elegance. The white and gold color palette underscores themes of purity and sacredness, making it a fitting centerpiece for a religious celebration.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9079630233825-17179c2bb266.jpg",
+          "sha256": "17179c2bb26691f5d78acbfd7c80c0aac237ce9bd2d785e032701019642b1ae2"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/pinterest--1548181126511109/",
+          "imageUrl": "https://i.pinimg.com/originals/45/ff/02/45ff02f05039bf93c011932698f67371.jpg",
+          "description": "A pristine white cake stands on a simple white pedestal, its smooth buttercream surface accented by textured swipes of frosting and delicate gold leaf. A gold cross adorns the front, while a metallic topper spells out “George’s Baptism,” clearly marking the occasion. The minimalist backdrop and refined color palette of white and gold create a serene, celebratory atmosphere suitable for a baptism ceremony.\n\nThis design merges contemporary cake artistry with traditional religious symbolism, making it an ideal centerpiece for commemorating a child’s baptism. The combination of textured frosting, metallic accents, and a personalized topper ensures the cake is both visually striking and meaningful.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9079630233825-1b35d4fdb616.jpg",
+          "sha256": "1b35d4fdb6160e1ecb81ed8f536875e35fc025bf25c71adab64f759ecedd0b4b"
+        }
+      ],
+      "query": "White Baptism Cake Pinterest",
+      "selected": {
+        "sourceUrl": "https://ru.pinterest.com/pin/147492956541359779/",
+        "imageUrl": "https://i.pinimg.com/736x/ac/34/2f/ac342ff96c40c057c7758eb4968691da.jpg",
+        "description": "This minimalist single-tier cake is covered in smooth white fondant and rests on a matching pedestal stand. A delicate string of edible beads wraps around the base, while a white rosary with a cross drapes over the top edge. A single white flower adds a soft, elegant accent. Perfectly suited for baptism or communion celebrations, the cake’s serene design emphasizes purity and simplicity.",
+        "localImage": "assets/products/matches/batch-004-pinterest/9079630233825-925a419ffe69.jpg",
+        "sha256": "925a419ffe6991f4ee3d455f6678ee2a7d418bf56011a1a6f9f9e3873e6f9e21"
+      },
+      "localImage": "assets/products/matches/batch-004-pinterest/9079630233825-925a419ffe69.jpg",
+      "sha256": "925a419ffe6991f4ee3d455f6678ee2a7d418bf56011a1a6f9f9e3873e6f9e21",
+      "visualReview": {
+        "verified": true,
+        "tierCount": 1,
+        "shape": "round",
+        "notes": "One white round baptism cake with white cross and white floral decoration."
+      },
+      "reviewNote": "One white round baptism cake with white cross and white floral decoration."
+    },
+    {
+      "n": 188,
+      "productId": "9079626399969",
+      "title": "Two Tiered Baptism Cake",
+      "originalImage": "assets/products/55f3c24ae5b1ee5e406b.jpg",
+      "status": "applied",
+      "candidates": [
+        {
+          "sourceUrl": "https://ca.pinterest.com/pin/pastel-baptism-cake-with-elegant-decorations--3448137208941638/",
+          "imageUrl": "https://i.pinimg.com/736x/16/e4/dc/16e4dc141051e99660d746339270d5ac.jpg",
+          "description": "A custom two-tier baptism cake by LanaBellaCakes features a pristine white buttercream finish dotted with sugar pearls. A gold cross adorns the top tier, symbolizing the religious significance of the occasion. Soft pastel roses and wispy dried foliage cascade gracefully down the sides, creating a delicate and romantic aesthetic.\n\nThe cake board is inscribed with “GOD BLESS ADELLA,” personalizing the design for the celebrant. This elegant creation, showcased on Pinterest, exemplifies a perfect blend of classic symbolism and modern floral styling for a special baptism celebration.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9079626399969-f9d96c197ab1.jpg",
+          "sha256": "f9d96c197ab1cef2fc0ef8485c10c4ba47ad78451dfc5445718d7589da990a06"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/467952217517086249/",
+          "imageUrl": "https://i.pinimg.com/736x/c8/30/d9/c830d900a1684b640360cfd9b5938fe2.jpg",
+          "description": "This elegant two-tier cake celebrates a baptism with soft blue and white fondant. The bottom tier showcases a quilted pattern and a plaque inscribed “God Bless Adrian,” while the top tier is smooth and draped with delicate fondant rosary beads.\n\nThe cake’s flavors include a chocolate chip and cookie dough filling on the 5\" top tier and a marble cake on the 7\" bottom tier, both iced in vanilla buttercream. An edible open Bible, made from rice crispy and covered in fondant, crowns the design, highlighting the handcrafted marshmallow fondant details.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9079626399969-9a28b02b5e1e.jpg",
+          "sha256": "9a28b02b5e1e69171aedaa57807f1e4c8a9d1c089a68999eba116b3d02965dd2"
+        },
+        {
+          "sourceUrl": "https://ca.pinterest.com/pin/baptism-cake-with-cross-and-flowers--140806231441695/",
+          "imageUrl": "https://i.pinimg.com/736x/2f/4f/69/2f4f692fe2687a9268704623dd12e479.jpg",
+          "description": "A two-tier white cake stands gracefully on a round marble-topped stand, its smooth buttercream surface dotted with tiny sugar pearls. Clusters of ivory roses and wispy pampas grass accent the base of each tier, lending a soft, boho-inspired touch to the design.\n\nA gold cross is centered on the upper tier, symbolizing the religious significance of the occasion. Atop the cake rests a small fondant book, open and detailed with gold accents, completing the christening theme with understated elegance.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9079626399969-94609a58e835.jpg",
+          "sha256": "94609a58e835f92f67e114f0b31779b06416c537e59deac0f1f7b6de67cdb233"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/bolo-de-batizado-de-dois-andares-oramentos-e-encomendas-email-co-whatsapp-11-968822623--117093659044714301/",
+          "imageUrl": "https://i.pinimg.com/originals/dd/7b/12/dd7b125b5c1622f47c516412fdb131d4.jpg",
+          "description": "A pristine two-tiered white fondant cake designed for a baptism celebration rests on a clear glass stand atop a weathered wooden table. Each tier is wrapped with a delicate white satin ribbon, and the top is crowned by a charming angel figurine with folded hands and outstretched wings.\n\nThe upper tier features a raised dove emblem, symbolizing the Holy Spirit, while the lower tier is inscribed in light blue icing with “BATIZADO do Gustavo.” This cake combines classic religious motifs and soft pastel accents, making it an ideal centerpiece for a child’s baptism event.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9079626399969-fed4fbfc014a.jpg",
+          "sha256": "fed4fbfc014aeea8a67aba2d060ecaacc6c8e2134825003256c576ea30c7ec08"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/235453886762533805/",
+          "imageUrl": "https://i.pinimg.com/1200x/20/52/c3/2052c3aabde16b2eb7554695893f7bfc.jpg",
+          "description": "A two-tier cake rests on a gleaming gold stand, combining a pristine white top tier with a soft pale blue bottom tier. The top layer showcases a fondant wreath framing a small gold cross, while the lower layer is personalized with the name “ayden” in gold script and finished with a white decorative border.\n\nThis minimalist design, featuring subtle pastel hues and religious symbolism, makes it ideal for events like baptisms or christenings. The cake’s refined details and elegant presentation reflect a modern approach to celebratory confections.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9079626399969-f06ab525e70b.jpg",
+          "sha256": "f06ab525e70be0851b5c8017d579678e7511109b610d9c07aa0f092a296a8b7d"
+        },
+        {
+          "sourceUrl": "https://mx.pinterest.com/anllyrojas/bautizo-de-maximiliano/",
+          "imageUrl": "https://i.pinimg.com/736x/b3/9a/d2/b39ad228651045009964a9c15a17a6b0.jpg",
+          "description": "A two-tier white fondant cake with delicate gold trim and a pale blue ribbon around each layer serves as a centerpiece for a boy’s baptism. The top tier is crowned by an ornate gold cross, and the front plaque reads “Sarkis Charbel Elias.” The lower tier features a quilted pattern, and the cake rests on a white stand accented with gold lettering.\n\nThis design is featured on a Pinterest board of baptism ideas curated by Anlly Rojas Valles, specifically for a celebration named Maximiliano’s baptism. The elegant combination of white, gold, and light blue reflects traditional baptism decor for a baby boy.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9079626399969-d2860531bb3e.jpg",
+          "sha256": "d2860531bb3e77a7b5adb91bacf6874edafb3e1f0dbd1743427cdcfed72ee7fa"
+        }
+      ],
+      "query": "Two Tiered Baptism Cake Pinterest",
+      "selected": {
+        "sourceUrl": "https://www.pinterest.com/pin/235453886762533805/",
+        "imageUrl": "https://i.pinimg.com/1200x/20/52/c3/2052c3aabde16b2eb7554695893f7bfc.jpg",
+        "description": "A two-tier cake rests on a gleaming gold stand, combining a pristine white top tier with a soft pale blue bottom tier. The top layer showcases a fondant wreath framing a small gold cross, while the lower layer is personalized with the name “ayden” in gold script and finished with a white decorative border.\n\nThis minimalist design, featuring subtle pastel hues and religious symbolism, makes it ideal for events like baptisms or christenings. The cake’s refined details and elegant presentation reflect a modern approach to celebratory confections.",
+        "localImage": "assets/products/matches/batch-004-pinterest/9079626399969-f06ab525e70b.jpg",
+        "sha256": "f06ab525e70be0851b5c8017d579678e7511109b610d9c07aa0f092a296a8b7d"
+      },
+      "localImage": "assets/products/matches/batch-004-pinterest/9079626399969-f06ab525e70b.jpg",
+      "sha256": "f06ab525e70be0851b5c8017d579678e7511109b610d9c07aa0f092a296a8b7d",
+      "visualReview": {
+        "verified": true,
+        "tierCount": 2,
+        "shape": "round",
+        "notes": "Exactly two stacked round tiers in white and pale blue, with gold cross detail."
+      },
+      "reviewNote": "Exactly two stacked round tiers in white and pale blue, with gold cross detail."
+    },
+    {
+      "n": 189,
+      "productId": "9079624958177",
+      "title": "Blue Baptism Cake",
+      "originalImage": "assets/products/0ac3f7386ca81ec68ce8.jpg",
+      "status": "applied",
+      "candidates": [
+        {
+          "sourceUrl": "https://at.pinterest.com/pin/472526185893201493/",
+          "imageUrl": "https://i.pinimg.com/1200x/57/a8/81/57a881c21022d02068ffb68fa5813ddb.jpg",
+          "description": "A pastel blue and white three-tiered cake stands elegantly on a table, adorned with ornate icing patterns and delicate sugar pearls. White sugar roses cascade down the tiers, and the top is crowned by a white cross featuring a monogrammed \"M.\" The middle tier displays a plaque inscribed \"God Bless Mario James,\" marking the cake’s purpose for a baby boy’s baptism celebration.\n\nThis cake’s refined design combines soft colors and intricate details to evoke a serene, festive mood. Perfectly suited for a christening event, it balances traditional religious symbolism with modern cake-decorating artistry.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9079624958177-a551dc89c5ce.jpg",
+          "sha256": "a551dc89c5ceadf5622ea5c01b87feafd53b936ed8f8d8bed160380e5a2c3413"
+        },
+        {
+          "sourceUrl": "https://mx.pinterest.com/esquedalvarez/pastel-bautizo-ni%C3%B1o-betun/",
+          "imageUrl": "https://i.pinimg.com/736x/de/8d/0f/de8d0f15fb76ff6a7179ecab2cb02df4.jpg",
+          "description": "A two-tier pastel blue cake decorated for a boy’s baptism features intricate white piping and religious motifs. The lower tier is covered in white swirl patterns, while the upper tier displays a beaded cross and dot garlands resembling a rosary. Atop the cake, a cluster of white frosting roses adds a delicate floral touch. The cake board is inscribed with “God Bless Eric,” personalizing the design for the christening celebration.\n\nThis cake idea appears on a Spanish-language Pinterest board curated by Rocío Esqueda Álvarez, showcasing creative baptism cake designs for boys. The pin, posted on June 11, 2019, highlights elegant and thematic decorations suitable for a religious milestone event.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9079624958177-49d0bf5e7411.jpg",
+          "sha256": "49d0bf5e74119f3a3e54f244d80e6e54e7a5d0cbf8a22d12c0265b1d721c2a0d"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/pinterest--432556739217477819/",
+          "imageUrl": "https://i.pinimg.com/originals/08/41/72/0841728047c7f7e43cd8a327b4abb98f.png",
+          "description": "A beautifully crafted two-tiered cake transitions from white at the top to a soft blue at the base, accented with delicate gold leaf flecks. A sleek gold cross is centered on the front, symbolizing the religious significance of the occasion. \n\nClusters of blue macarons and matching floral arrangements decorate the top and side, while a cursive gold topper spells out \"Antoni.\" Designed by Ines Špehar and featured on Pinterest, this cake is perfect for a christening celebration.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9079624958177-5415088b4d36.png",
+          "sha256": "5415088b4d36e327f22907c74171c4d7c1dd7c2bfce5972e4ca8f840d63a82e7"
+        }
+      ],
+      "query": "Blue Baptism Cake Pinterest",
+      "selected": {
+        "sourceUrl": "https://www.pinterest.com/pin/pinterest--432556739217477819/",
+        "imageUrl": "https://i.pinimg.com/originals/08/41/72/0841728047c7f7e43cd8a327b4abb98f.png",
+        "description": "A beautifully crafted two-tiered cake transitions from white at the top to a soft blue at the base, accented with delicate gold leaf flecks. A sleek gold cross is centered on the front, symbolizing the religious significance of the occasion. \n\nClusters of blue macarons and matching floral arrangements decorate the top and side, while a cursive gold topper spells out \"Antoni.\" Designed by Ines Špehar and featured on Pinterest, this cake is perfect for a christening celebration.",
+        "localImage": "assets/products/matches/batch-004-pinterest/9079624958177-5415088b4d36.png",
+        "sha256": "5415088b4d36e327f22907c74171c4d7c1dd7c2bfce5972e4ca8f840d63a82e7"
+      },
+      "localImage": "assets/products/matches/batch-004-pinterest/9079624958177-5415088b4d36.png",
+      "sha256": "5415088b4d36e327f22907c74171c4d7c1dd7c2bfce5972e4ca8f840d63a82e7",
+      "visualReview": {
+        "verified": true,
+        "tierCount": 1,
+        "shape": "round",
+        "notes": "One blue and white round baptism cake with a gold cross."
+      },
+      "reviewNote": "One blue and white round baptism cake with a gold cross."
+    },
+    {
+      "n": 190,
+      "productId": "9079619682529",
+      "title": "Pink Baptism Cake",
+      "originalImage": "assets/products/759735e4a7abb3425008.jpg",
+      "status": "applied",
+      "candidates": [
+        {
+          "sourceUrl": "https://au.pinterest.com/pin/pure-sweetness--914862401578708/",
+          "imageUrl": "https://i.pinimg.com/736x/5f/89/b8/5f89b84ea2b73912a2a8c993708e8779.jpg",
+          "description": "A pastel pink baptism cake sits gracefully on a white pedestal, featuring intricate white lace piping around its base. The side of the cake bears the gold script “Ruby’s Baptism,” announcing the special occasion. \n\nAtop the cake, a cluster of handcrafted sugar flowers—including white and blush roses, tiny blossoms, and gold-painted leaves—surrounds a small gold cross. The elegant combination of soft pink, white, and metallic gold creates a refined and celebratory centerpiece perfect for a baptism celebration.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9079619682529-64c064791d19.jpg",
+          "sha256": "64c064791d19758672f70a72656b88d2ed744decfb2c23fe55a31c5e29a46dde"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/287597126179524181/",
+          "imageUrl": "https://s-media-cache-ak0.pinimg.com/originals/a7/9f/04/a79f0497ce373142174a2e54c5c8534e.jpg",
+          "description": "A beautifully crafted two-tiered baptism cake showcases soft white fondant and pale pink buttercream roses. The top tier is crowned with a bouquet of delicate roses, while the side of the upper tier features a fondant cross framed by piped pearl dots. The lower tier presents a heart-shaped plaque inscribed with \"God Bless Amelia Ruth,\" surrounded by a border of tiny piped pearls.\n\nThis cake’s pastel color palette and intricate details—such as the buttercream roses, fondant plaques, and pearl accents—make it an elegant centerpiece for a baby girl’s baptism celebration. The design balances simplicity and sophistication, reflecting the joyous and sacred nature of the event.",
+          "error": "Expected Pinterest source and image"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/16958936092466267/",
+          "imageUrl": "https://i.pinimg.com/originals/e8/33/f5/e833f540a4853a8f92e1b55bd6cbd9e7.jpg",
+          "description": "A beautifully crafted three-tiered baptism cake combines white and pastel pink fondant layers, each adorned with clusters of sugar flowers in varying shades of pink and white. The middle tier features a cross made of edible pearls, while the base tier is personalized with the inscription \"GOD BLESS AMELIA.\" The cascading floral arrangement wraps around the cake, creating a graceful, celebratory design.\n\nPerfect for a girl's baptism celebration, this cake rests on an ornate silver platter that contrasts with the dark background, emphasizing the cake’s delicate details and soft color palette. The overall presentation conveys a sense of elegance and festivity tailored to a special religious milestone.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9079619682529-d61069cca3ba.jpg",
+          "sha256": "d61069cca3ba72063f18dd6c858cd41e191d9c4a44a93df888648692c1c7767b"
+        },
+        {
+          "sourceUrl": "https://au.pinterest.com/pin/torta-de-bautizo-nia--18788523439525261/",
+          "imageUrl": "https://i.pinimg.com/originals/8c/90/39/8c90394d01e686436755b7f9a4cb0242.jpg",
+          "description": "A single-tier cake covered in pale pink buttercream is embellished with textured petal-like swirls, sugar pearls, and delicate translucent sugar accents. The top is adorned with a gold cross and a topper reading “Hallie’s BAPTISM,” clearly marking the occasion as a baby girl’s christening celebration. The cake rests on a simple white stand against a neutral backdrop, allowing its soft pink hues and gold details to stand out.\n\nThis design, featured on Pinterest under “torta de bautizo niña,” was discovered by Andrea CockGeney. It exemplifies popular baptism cake trends such as ombre icing, floral motifs, and metallic embellishments, making it a stylish centerpiece for a religious celebration.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9079619682529-3fd2cf0f405e.jpg",
+          "sha256": "3fd2cf0f405ea5e33bc44f28249e53c78cf6f1e355050d7fdc85741a38046a22"
+        }
+      ],
+      "query": "Pink Baptism Cake Pinterest",
+      "selected": {
+        "sourceUrl": "https://au.pinterest.com/pin/torta-de-bautizo-nia--18788523439525261/",
+        "imageUrl": "https://i.pinimg.com/originals/8c/90/39/8c90394d01e686436755b7f9a4cb0242.jpg",
+        "description": "A single-tier cake covered in pale pink buttercream is embellished with textured petal-like swirls, sugar pearls, and delicate translucent sugar accents. The top is adorned with a gold cross and a topper reading “Hallie’s BAPTISM,” clearly marking the occasion as a baby girl’s christening celebration. The cake rests on a simple white stand against a neutral backdrop, allowing its soft pink hues and gold details to stand out.\n\nThis design, featured on Pinterest under “torta de bautizo niña,” was discovered by Andrea CockGeney. It exemplifies popular baptism cake trends such as ombre icing, floral motifs, and metallic embellishments, making it a stylish centerpiece for a religious celebration.",
+        "localImage": "assets/products/matches/batch-004-pinterest/9079619682529-3fd2cf0f405e.jpg",
+        "sha256": "3fd2cf0f405ea5e33bc44f28249e53c78cf6f1e355050d7fdc85741a38046a22"
+      },
+      "localImage": "assets/products/matches/batch-004-pinterest/9079619682529-3fd2cf0f405e.jpg",
+      "sha256": "3fd2cf0f405ea5e33bc44f28249e53c78cf6f1e355050d7fdc85741a38046a22",
+      "visualReview": {
+        "verified": true,
+        "tierCount": 1,
+        "shape": "round",
+        "notes": "One pink round baptism cake with a gold cross; full-size image checked."
+      },
+      "reviewNote": "One pink round baptism cake with a gold cross; full-size image checked."
+    },
+    {
+      "n": 191,
+      "productId": "9079611916513",
+      "title": "Blue & White Baptism Two Tiered Cake",
+      "originalImage": "assets/products/a4677926e6167d4eb8c6.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/467952217517086249/",
+          "imageUrl": "https://i.pinimg.com/736x/c8/30/d9/c830d900a1684b640360cfd9b5938fe2.jpg",
+          "description": "This elegant two-tier cake celebrates a baptism with soft blue and white fondant. The bottom tier showcases a quilted pattern and a plaque inscribed “God Bless Adrian,” while the top tier is smooth and draped with delicate fondant rosary beads.\n\nThe cake’s flavors include a chocolate chip and cookie dough filling on the 5\" top tier and a marble cake on the 7\" bottom tier, both iced in vanilla buttercream. An edible open Bible, made from rice crispy and covered in fondant, crowns the design, highlighting the handcrafted marshmallow fondant details.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9079611916513-9a28b02b5e1e.jpg",
+          "sha256": "9a28b02b5e1e69171aedaa57807f1e4c8a9d1c089a68999eba116b3d02965dd2",
+          "businessNameVisible": true
+        },
+        {
+          "sourceUrl": "https://mx.pinterest.com/esquedalvarez/pastel-bautizo-ni%C3%B1o-betun/",
+          "imageUrl": "https://i.pinimg.com/736x/de/8d/0f/de8d0f15fb76ff6a7179ecab2cb02df4.jpg",
+          "description": "A two-tier pastel blue cake decorated for a boy’s baptism features intricate white piping and religious motifs. The lower tier is covered in white swirl patterns, while the upper tier displays a beaded cross and dot garlands resembling a rosary. Atop the cake, a cluster of white frosting roses adds a delicate floral touch. The cake board is inscribed with “God Bless Eric,” personalizing the design for the christening celebration.\n\nThis cake idea appears on a Spanish-language Pinterest board curated by Rocío Esqueda Álvarez, showcasing creative baptism cake designs for boys. The pin, posted on June 11, 2019, highlights elegant and thematic decorations suitable for a religious milestone event.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9079611916513-49d0bf5e7411.jpg",
+          "sha256": "49d0bf5e74119f3a3e54f244d80e6e54e7a5d0cbf8a22d12c0265b1d721c2a0d",
+          "businessNameVisible": true
+        }
+      ],
+      "query": "Blue & White Baptism Two Tiered Cake Pinterest"
+    },
+    {
+      "n": 192,
+      "productId": "9076923400417",
+      "title": "Ronaldo Football Cupcakes",
+      "originalImage": "assets/products/6037d32831fa5d9a2c8d.jpg",
+      "status": "applied",
+      "candidates": [
+        {
+          "sourceUrl": "https://au.pinterest.com/pin/soccer-cupcakes-in-2025--32862272279210037/",
+          "imageUrl": "https://i.pinimg.com/originals/19/8e/77/198e774db116d882cd8eadb2177ee4c8.jpg",
+          "description": "A dozen custom-decorated cupcakes sit neatly in a white box, each showcasing a vibrant red and white color palette. Swirls of red and white buttercream are accented with gold sugar pearls, while fondant toppers include black-and-white soccer balls and hexagonal plaques inscribed with “BIRTHDAY Boy!” in elegant gold script. Printed edible images of Cristiano Ronaldo in his Portugal jersey add a personalized touch for a football enthusiast.\n\nThese cupcakes are designed for a boy’s birthday party, combining sporty soccer elements with celebratory flair. The mix of classic soccer ball designs and a nod to the famous footballer creates a festive and thematic dessert display perfect for young fans.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9076923400417-6902e4855114.jpg",
+          "sha256": "6902e485511494fc8674d1d6502e04790897fdc613b5c28d44d4f0327034c427"
+        }
+      ],
+      "query": "Ronaldo soccer Cupcakes Pinterest",
+      "selected": {
+        "sourceUrl": "https://au.pinterest.com/pin/soccer-cupcakes-in-2025--32862272279210037/",
+        "imageUrl": "https://i.pinimg.com/originals/19/8e/77/198e774db116d882cd8eadb2177ee4c8.jpg",
+        "description": "A dozen custom-decorated cupcakes sit neatly in a white box, each showcasing a vibrant red and white color palette. Swirls of red and white buttercream are accented with gold sugar pearls, while fondant toppers include black-and-white soccer balls and hexagonal plaques inscribed with “BIRTHDAY Boy!” in elegant gold script. Printed edible images of Cristiano Ronaldo in his Portugal jersey add a personalized touch for a football enthusiast.\n\nThese cupcakes are designed for a boy’s birthday party, combining sporty soccer elements with celebratory flair. The mix of classic soccer ball designs and a nod to the famous footballer creates a festive and thematic dessert display perfect for young fans.",
+        "localImage": "assets/products/matches/batch-004-pinterest/9076923400417-6902e4855114.jpg",
+        "sha256": "6902e485511494fc8674d1d6502e04790897fdc613b5c28d44d4f0327034c427"
+      },
+      "localImage": "assets/products/matches/batch-004-pinterest/9076923400417-6902e4855114.jpg",
+      "sha256": "6902e485511494fc8674d1d6502e04790897fdc613b5c28d44d4f0327034c427",
+      "visualReview": {
+        "verified": true,
+        "tierCount": null,
+        "shape": "cupcakes",
+        "notes": "Cupcakes with Cristiano Ronaldo portraits, Portugal colours and soccer balls; full-size image checked."
+      },
+      "reviewNote": "Cupcakes with Cristiano Ronaldo portraits, Portugal colours and soccer balls; full-size image checked."
+    },
+    {
+      "n": 193,
+      "productId": "9076915175649",
+      "title": "Ronaldo Football Cookies",
+      "originalImage": "assets/products/246a502b367be933ebf4.jpg",
+      "status": "applied",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/350366046015962900/",
+          "imageUrl": "https://i.pinimg.com/736x/6e/92/4c/6e924cdf2fc550603c63a52aae08ad3b.jpg",
+          "description": "A collection of hand-decorated cookies celebrates Cristiano Ronaldo and Real Madrid with detailed icing art. The centerpiece is a monochrome portrait of Ronaldo, capturing his likeness in fine icing lines. Surrounding it are soccer ball cookies in classic black-and-white patterns, a jersey-shaped cookie emblazoned with the 'Fly Emirates' sponsor logo and Real Madrid crest, and a round cookie featuring the club’s emblem.\n\nThe pin, titled 'Cookies icing de Cristiano Ronaldo,' originates from Pinterest and credits Juanita Dulce and SHORTBREAD NYC. The Spanish-language title and description emphasize the theme of Cristiano Ronaldo–inspired cookie designs, making this set a perfect treat for soccer fans and Real Madrid supporters.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9076915175649-86457b9caf3e.jpg",
+          "sha256": "86457b9caf3e8f525dc97ada5686bcb7c48547318e78e3a87d980d48b16d4203"
+        },
+        {
+          "sourceUrl": "https://in.pinterest.com/pin/ronaldo-soccer-jersey-cookies-for-adult-party-theme--36873290697241421/",
+          "imageUrl": "https://i.pinimg.com/736x/1a/e3/c3/1ae3c3c6c75ce7bbb0797bddb1324187.jpg",
+          "description": "A collection of seven sugar cookies shaped like soccer jerseys is displayed on a round platter. Each cookie is iced in white with black edging and features the name “Ronaldo” above the bold number 7, directly referencing Cristiano Ronaldo’s famous kit. The uniform arrangement and clean decoration highlight a sporty, adult party theme.\n\nThese themed treats are perfect for soccer fans looking to add a personalized touch to their event desserts. Inspired by Ronaldo’s iconic branding, the cookies combine simple color contrasts and precise piping to create a visually appealing platter that celebrates the football star.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9076915175649-81acb1b322c2.jpg",
+          "sha256": "81acb1b322c258da53f8633f02b0fb2a03471bb7de97a959da94cc56e39feb77"
+        }
+      ],
+      "query": "Ronaldo soccer Cookies Pinterest",
+      "selected": {
+        "sourceUrl": "https://in.pinterest.com/pin/ronaldo-soccer-jersey-cookies-for-adult-party-theme--36873290697241421/",
+        "imageUrl": "https://i.pinimg.com/736x/1a/e3/c3/1ae3c3c6c75ce7bbb0797bddb1324187.jpg",
+        "description": "A collection of seven sugar cookies shaped like soccer jerseys is displayed on a round platter. Each cookie is iced in white with black edging and features the name “Ronaldo” above the bold number 7, directly referencing Cristiano Ronaldo’s famous kit. The uniform arrangement and clean decoration highlight a sporty, adult party theme.\n\nThese themed treats are perfect for soccer fans looking to add a personalized touch to their event desserts. Inspired by Ronaldo’s iconic branding, the cookies combine simple color contrasts and precise piping to create a visually appealing platter that celebrates the football star.",
+        "localImage": "assets/products/matches/batch-004-pinterest/9076915175649-81acb1b322c2.jpg",
+        "sha256": "81acb1b322c258da53f8633f02b0fb2a03471bb7de97a959da94cc56e39feb77"
+      },
+      "localImage": "assets/products/matches/batch-004-pinterest/9076915175649-81acb1b322c2.jpg",
+      "sha256": "81acb1b322c258da53f8633f02b0fb2a03471bb7de97a959da94cc56e39feb77",
+      "visualReview": {
+        "verified": true,
+        "tierCount": null,
+        "shape": "shirt cookies",
+        "notes": "White soccer-shirt cookies with Ronaldo and number 7."
+      },
+      "reviewNote": "White soccer-shirt cookies with Ronaldo and number 7."
+    },
+    {
+      "n": 194,
+      "productId": "9076896825569",
+      "title": "Smash Bomb Cake with Gym Theme",
+      "originalImage": "assets/products/05a3b7930a7f2990bc29.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/andreaconsuelomths/cake-topper/",
+          "imageUrl": "https://i.pinimg.com/originals/0e/cb/a7/0ecba718f174c89c175ee66a045f90e6.jpg",
+          "description": "A two-tiered white cake is styled to resemble gym equipment, featuring black fondant dumbbells, weight plates, and kettlebells. The top tier is crowned with a large kettlebell topper, while the sides of each layer are decorated with smaller weights and a barbell motif. The monochrome palette of white frosting and black accents highlights the fitness theme, making it perfect for a gym lover’s birthday or a workout celebration.\n\nThis cake design was shared on a Pinterest board by Andrea Consuelo, which curates various cake topper ideas including 3D and birthday-themed toppers. The image exemplifies creative fondant work and thematic decoration for special occasions.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9076896825569-5258d8ec7ccb.jpg",
+          "sha256": "5258d8ec7ccba0b32b9084224afecc6d85e002ee73140c52830675332ad013c4"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/gym-cake--21955116911907915/",
+          "imageUrl": "https://i.pinimg.com/736x/bd/9f/6f/bd9f6fc0ef953168ed7a6913c2915bd0.jpg",
+          "description": "A creative cake designed for fitness enthusiasts mimics real gym weights with remarkable detail. Two black fondant dumbbells stamped “YORK 25 lbs” and a kettlebell sit atop a yellow base, draped in white frosting that resembles a gym towel. A silver barbell prop completes the ensemble, reinforcing the workout theme.\n\nThis fitness-themed cake, featured on Pinterest as a \"Gym Cake | Fitness Themed Cake | Dumbbell Cake,\" is perfect for gym-themed parties and celebrations. The realistic weight markings and contrasting colors of black, white, and yellow make it a standout centerpiece for any fitness-focused event.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9076896825569-c8a3189ff988.jpg",
+          "sha256": "c8a3189ff988890b59ab55049f0359ea63cdb0dfcfb94b649d96b33735af8d77"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/440860251015097747/",
+          "imageUrl": "https://i.pinimg.com/736x/aa/45/03/aa4503dd42e8ba7a4767e8eb3d0fc858.jpg",
+          "description": "A striking two-tiered cake is crafted to resemble a heavy black kettlebell, complete with a realistic handle and the words “KETTLEBELL GUY TY” piped in white icing. Blue fondant resistance bands cascade down the sides, adding a pop of color and reinforcing the workout motif.\n\nSurrounding the centerpiece are twelve chocolate cupcakes, each crowned with swirls of white frosting and topped with tiny fondant gym accessories—mini dumbbells, kettlebells, and weight plates. The arrangement on a simple table suggests a celebratory setting, perfect for a CrossFit or gym enthusiast’s birthday party.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9076896825569-ab8015032676.jpg",
+          "sha256": "ab8015032676b711337708afbca999e5a6b6187d3ed87d91f9422e97d6d76ed2"
+        }
+      ],
+      "query": "Smash Bomb Cake with Gym Theme Pinterest"
+    },
+    {
+      "n": 195,
+      "productId": "9076867694817",
+      "title": "Frozen Birthday Cake",
+      "originalImage": "assets/products/aadaf48585d8eed70372.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/165296248799785343/",
+          "imageUrl": "https://i.pinimg.com/564x/bf/24/c8/bf24c81787ea88f4ab4caa54f180bc78.jpg",
+          "description": "A vibrant two-tiered cake celebrates a child’s fifth birthday with a Frozen theme. The top tier is light blue, crowned by a glittering number 5 set against a large snowflake. Below, the name \"Madison\" is piped in white script, surrounded by delicate snowflake motifs.\n\nThe bottom tier deepens to a richer blue and features a modeling chocolate figure of Elsa in her signature ice-blue gown, arms outstretched as if conjuring snow. White piped borders and scattered snowflakes complete the wintry design, while the cake board reads \"Happy Birthday\" in matching blue icing.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9076867694817-76cb1f0e9c22.jpg",
+          "sha256": "76cb1f0e9c2267429a3a4cd634c79947b21504727164cc8b3fea31c7bef29f85"
+        },
+        {
+          "sourceUrl": "https://it.pinterest.com/pin/blue-shards-frozen-cake--50735933295452713/",
+          "imageUrl": "https://i.pinimg.com/originals/fb/e2/d3/fbe2d39c516a1871c84a31be9792a886.jpg",
+          "description": "A three-tiered birthday cake captures the magic of Disney’s Frozen with icy blue frosting and cascading white icing drips that mimic icicles. Each tier is decorated with translucent blue sugar shards and delicate snowflakes, creating a frosty, crystalline effect. Elsa stands regally atop a sugar castle on the top tier, while Anna poses on the middle layer and Olaf cheerfully greets guests at the base. The message \"HAPPY BIRTHDAY MELISSA\" is piped across the middle tier, making this cake an enchanting centerpiece for a Frozen-themed celebration.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9076867694817-37fc8cfa221c.jpg",
+          "sha256": "37fc8cfa221c7f45fcb8d4e756f2c92cb6529e45d1702e49fd4e02ca594a3ac3"
+        },
+        {
+          "sourceUrl": "https://au.pinterest.com/lizkuchel/5th-birthday-cakes/",
+          "imageUrl": "https://i.pinimg.com/474x/06/55/9c/06559c535b049eac665e3a2a17d5ec95.jpg",
+          "description": "A light blue, two-tiered cake adorned with white snowflakes and a printed image of Disney’s Frozen characters Elsa, Anna, Olaf, Sven, and Kristoff. The top tier features a standing Elsa figure and the name “KAYA” spelled out above the scene. The cake sits on a round board inscribed with “HAPPY 5th BIRTHDAY,” marking a fifth birthday celebration. The icy color palette and winter motifs reflect the Frozen theme, making it a festive centerpiece for a child’s party.\n\nThis cake is part of a Pinterest collection titled “260 Best 5th Birthday Cakes ideas,” curated by Liz Kuchel. It exemplifies popular themed cake designs for young children, combining character imagery with decorative elements like snowflakes and personalized lettering.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9076867694817-fa21e3bb7893.jpg",
+          "sha256": "fa21e3bb7893f6abf3e571438b75dd5fbaf57bb2421d9dbc7c199d3439deab3e"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/frozen-cake--1196337400003494/",
+          "imageUrl": "https://i.pinimg.com/originals/46/2e/fa/462efa9c84a047779a75906b9dcb3a20.jpg",
+          "description": "A light blue round cake features piped frosting flowers, edible pearls, and snowflake decorations. Atop the cake, a glittery ice castle backdrop frames a cardboard cutout of Elsa from Disney’s Frozen, accompanied by a “Happy Birthday” sign. The front of the cake displays the name “Scarlett Brianna” and the word “Frozen,” tying together a winter wonderland theme ideal for a child’s birthday celebration.\n\nThe cake design was discovered on Pinterest under the title “Frozen Cake | Frozen birthday cake, Frozen theme cake, Frozen cake designs.” It was shared by user Apple Delcano, inviting viewers to explore and save similar Frozen-themed cake ideas.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9076867694817-c78eed7eb406.jpg",
+          "sha256": "c78eed7eb4064f2f205b868249e5c2176698875e1ad90e42f852a9aee099f683"
+        }
+      ],
+      "query": "Frozen Birthday Cake Pinterest"
+    },
+    {
+      "n": 196,
+      "productId": "9075713835233",
+      "title": "Labubu Pastel Birthday Cake",
+      "originalImage": "assets/products/7b09e57adf587135f345.png",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/crememaison/labubu-inspired-cakes/",
+          "imageUrl": "https://i.pinimg.com/736x/c2/3e/4e/c23e4e12640bc9eb2aadd57bace17831.jpg",
+          "description": "A charming pastel pink-and-white birthday cake sits elegantly on a white stand, crowned by a small Labubu figurine wearing a frilly bonnet. The fondant decorations include roses, mushrooms, and tiny blossoms, while the side of the cake proudly displays the name \"HAYLEN\" and the number \"8\" in matching pastel hues. This whimsical design, featured on CREME MAISON’s Pinterest board of Labubu-inspired cakes, combines playful character art with delicate floral accents, perfect for an eighth birthday celebration.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9075713835233-bcd89001923d.jpg",
+          "sha256": "bcd89001923d94d928b1970850a4faf421400dd6604381f9b795d888cc9bbde7"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/ideas/labubu-cake/938458966400/",
+          "imageUrl": "https://i.pinimg.com/originals/f5/cf/a7/f5cfa746d89b63ea3bdafa020fb8766d.jpg?nii=t",
+          "description": "A pastel blue birthday cake is decorated with a white drip icing and topped by a charming purple Labubu bunny figurine holding a pink popsicle. Surrounding the bunny are colorful macarons in yellow, pink, and blue, spiral lollipops, and small chocolate bars, creating a playful candy-themed arrangement. A tiny sign proclaims “happy BIRTHDAY,” while the front of the cake bears the name “TATA” in pink letters.\n\nThis cake design, featured on Pinterest’s Labubu Cake ideas page, showcases creative confectionery art inspired by the Labubu character. The combination of soft pastel hues, whimsical figurine, and assorted sweets makes it an ideal centerpiece for a child’s birthday celebration.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9075713835233-9b8cda2fbdc6.jpg",
+          "sha256": "9b8cda2fbdc65071d571419a8295f91558fab6f59ed6ef5d8a94b206ac24c6d9",
+          "businessNameVisible": true
+        }
+      ],
+      "query": "Labubu Pastel Birthday Cake Pinterest"
+    },
+    {
+      "n": 197,
+      "productId": "9075712000225",
+      "title": "Labubu Figure Birthday Cake",
+      "originalImage": "assets/products/09f23d644a43b0781218.png",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/ideas/labubu-cake/938458966400/",
+          "imageUrl": "https://i.pinimg.com/originals/f5/cf/a7/f5cfa746d89b63ea3bdafa020fb8766d.jpg?nii=t",
+          "description": "A pastel blue birthday cake is decorated with a white drip icing and topped by a charming purple Labubu bunny figurine holding a pink popsicle. Surrounding the bunny are colorful macarons in yellow, pink, and blue, spiral lollipops, and small chocolate bars, creating a playful candy-themed arrangement. A tiny sign proclaims “happy BIRTHDAY,” while the front of the cake bears the name “TATA” in pink letters.\n\nThis cake design, featured on Pinterest’s Labubu Cake ideas page, showcases creative confectionery art inspired by the Labubu character. The combination of soft pastel hues, whimsical figurine, and assorted sweets makes it an ideal centerpiece for a child’s birthday celebration.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9075712000225-9b8cda2fbdc6.jpg",
+          "sha256": "9b8cda2fbdc65071d571419a8295f91558fab6f59ed6ef5d8a94b206ac24c6d9"
+        },
+        {
+          "sourceUrl": "https://www.pinterest.com/crememaison/labubu-inspired-cakes/",
+          "imageUrl": "https://i.pinimg.com/736x/c2/3e/4e/c23e4e12640bc9eb2aadd57bace17831.jpg",
+          "description": "A charming pastel pink-and-white birthday cake sits elegantly on a white stand, crowned by a small Labubu figurine wearing a frilly bonnet. The fondant decorations include roses, mushrooms, and tiny blossoms, while the side of the cake proudly displays the name \"HAYLEN\" and the number \"8\" in matching pastel hues. This whimsical design, featured on CREME MAISON’s Pinterest board of Labubu-inspired cakes, combines playful character art with delicate floral accents, perfect for an eighth birthday celebration.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9075712000225-bcd89001923d.jpg",
+          "sha256": "bcd89001923d94d928b1970850a4faf421400dd6604381f9b795d888cc9bbde7"
+        }
+      ],
+      "query": "Labubu Figure Birthday Cake Pinterest"
+    },
+    {
+      "n": 198,
+      "productId": "9075700072673",
+      "title": "Bluey Figure Birthday Cake with Mini Balloons",
+      "originalImage": "assets/products/d1d39060d8eb00a53b04.jpg",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/pin/bluey-theme-birthday-cake-and-cupcakes--374713631506497090/",
+          "imageUrl": "https://i.pinimg.com/736x/39/0f/3d/390f3d721126ef956a45b44b0d93fa04.jpg",
+          "description": "A pastel-colored birthday cake celebrates a fifth birthday with a custom Bluey theme. The cake’s sides are decorated to resemble a grassy meadow under a blue sky, complete with fondant clouds and a gold “5” topper. A cloud-shaped plaque on top reads “Chelsea,” personalizing the design.\n\nClusters of pink, white, and blue fondant balloons arch gracefully above the cake, while two detailed Bluey character figurines stand on the green base among tiny white flowers. The cake is styled on a wooden table, reflecting professional party planning and cake design services showcased on Pinterest.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9075700072673-65e358e034ff.jpg",
+          "sha256": "65e358e034ffe39391c3a003edf176e3343f0f83971bf1f6ba95926a50d6d50a"
+        }
+      ],
+      "query": "Bluey Figure Birthday Cake with Mini Balloons Pinterest"
+    },
+    {
+      "n": 199,
+      "productId": "9075684311265",
+      "title": "LOL Surprise Balloon and Cake in a Box",
+      "originalImage": "assets/products/e0256b816bf587b2941a.png",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.pinterest.com/amisph18/lol/",
+          "imageUrl": "https://i.pinimg.com/originals/c2/88/79/c288792b6c8d4afaa934e610e01563fa.jpg",
+          "description": "A vibrant pink birthday cake is adorned with pastel cream rosettes, star-shaped sprinkles, and small printed images of LOL Surprise dolls encircling its sides. The centerpiece is a large LOL Surprise ball labeled “Series 1” and “Will you unbox?” perched atop the cake, reinforcing the unboxing theme popular with these collectible dolls.\n\nFeatured on a Pinterest board by Artemis Maria Photiadou, this design is one of nine LOL doll cake ideas aimed at creating a fun and memorable birthday surprise. The combination of bright pink icing, whimsical doll graphics, and playful text makes it a standout choice for a children’s party.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9075684311265-4dbbb70cfc0c.jpg",
+          "sha256": "4dbbb70cfc0c4db904bef42e459f4ba09c85f4a8338eda9bf9c689af7de5eb57"
+        }
+      ],
+      "query": "LOL Surprise Balloon and Cake in a Box Pinterest"
+    },
+    {
+      "n": 200,
+      "productId": "9075681067233",
+      "title": "LOL Birthday Cake",
+      "originalImage": "assets/products/bb2d59b639004eae7ca7.png",
+      "status": "needs-better-match",
+      "candidates": [
+        {
+          "sourceUrl": "https://br.pinterest.com/jperpetuoferreira/bolo-infantil-menina/",
+          "imageUrl": "https://i.pinimg.com/originals/66/c7/85/66c785e56a55db777307291c322ddda1.jpg",
+          "description": "A vibrant birthday cake stands on a white table, decorated with alternating pink and blue ruffled frosting. The top is crowned with cutouts of LOL Surprise dolls and a banner that reads “LOL SURPRISE! Yasmim,” celebrating a girl named Yasmim’s eighth birthday. A large polka-dotted number 8 and candy-themed cutouts embellish the cake’s sides, while coordinating pink and blue cupcakes with LOL Surprise toppers are arranged nearby.\n\nThis image appears in a Pinterest collection titled “Bolo infantil menina,” featuring decorated birthday cakes for girls. The webpage highlights a curated selection of themed cake designs, and the alt text describes a birthday cake decorated with LOL dolls and cupcakes on a white table.",
+          "localImage": "assets/products/matches/batch-004-pinterest/9075681067233-cd07c5e566b7.jpg",
+          "sha256": "cd07c5e566b72bd337def1bc0548fc5caa8b345a18c811702080ab4310c75e98",
+          "businessNameVisible": true
+        }
+      ],
+      "query": "LOL Birthday Cake Pinterest"
+    }
+  ],
+  "reviewedAt": "2026-09-12T13:05:38.426Z",
+  "summary": {
+    "reviewed": 50,
+    "replaced": 16,
+    "pending": 34
+  }
+}

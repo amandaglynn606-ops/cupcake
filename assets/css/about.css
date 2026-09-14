@@ -1,0 +1,28 @@
+body[data-page="/atelier"]{--wine:#502633;--ink:#342922;--muted:#756960;--line:#dfd5ca;background:#fbf7ef}
+.about-page .eyebrow{font:500 10px/1.6 var(--body);letter-spacing:2px;color:var(--wine);margin:0 0 20px}
+.about-page em{color:var(--wine)}
+.about-heading{padding-block:64px 48px;text-align:center}
+.about-heading h1{font-size:clamp(43px,5vw,72px);line-height:1.2;margin:0 auto 22px;letter-spacing:-1px}
+.about-heading>p:last-child{font:400 17px/1.8 var(--body);color:var(--muted);margin:0}
+.about-story{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:clamp(36px,6vw,88px);align-items:center;padding-bottom:80px}
+.about-photo{margin:0;min-width:0}
+.about-photo img{display:block;width:100%;height:auto;aspect-ratio:1;object-fit:contain;border-radius:4px}
+.about-photo figcaption{font:400 11px/1.6 var(--body);color:var(--muted);margin-top:14px;text-align:center}
+.about-story-copy{max-width:520px;margin-inline:auto}
+.about-story-copy>.eyebrow{text-align:center}
+.about-page h2{font-size:clamp(35px,3.7vw,53px);line-height:1.2;letter-spacing:-.6px;margin:0 0 26px}
+.about-story-copy>p:not(.eyebrow){font:400 15px/1.9 var(--body);color:var(--muted);margin:0 0 18px}
+.about-page .text-link{display:inline-flex;align-items:center;gap:16px;font:500 12px/1.5 var(--body);letter-spacing:.3px;color:var(--wine)}
+.about-story-copy>.text-link{margin-top:12px}
+.about-details{padding-block:64px;background:#f3ecdf}
+.about-section-heading{text-align:center;margin-bottom:38px}
+.about-section-heading h2{margin:0}
+.about-detail-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:24px}
+.about-detail-grid article{padding:30px 26px;background:#fbf7ef;border:1px solid var(--line);border-radius:4px}
+.about-detail-grid h3{font:500 21px/1.4 'Bodoni Moda',Georgia,serif;color:var(--wine);margin:0 0 14px;letter-spacing:0}
+.about-detail-grid p{font:400 14px/1.85 var(--body);color:var(--muted);margin:0}
+.about-closing{padding-block:70px;text-align:center}
+.about-closing>p:not(.eyebrow){font:400 15px/1.8 var(--body);color:var(--muted);max-width:680px;margin:0 auto 28px}
+.about-actions{display:flex;justify-content:center;align-items:center;flex-wrap:wrap;gap:24px}
+.about-actions .button{background:var(--wine);color:#fbf7ef;border-color:var(--wine);border-radius:3px;font-size:11px}
+@media(max-width:760px){.about-heading{padding-block:42px 34px}.about-story{grid-template-columns:1fr;gap:32px;padding-bottom:44px}.about-photo{width:100%;max-width:480px;margin-inline:auto}.about-story-copy{max-width:560px}.about-detail-grid{grid-template-columns:1fr;gap:14px}.about-detail-grid article{padding:24px}.about-details{padding-block:42px}.about-closing{padding-block:46px}.about-heading>p:last-child{font-size:15px}.about-page h2{font-size:38px}}

@@ -1,0 +1,732 @@
+{
+  "products": [
+    {
+      "id": "9910000000001",
+      "handle": "amethyst-gold-sail-cake-l01",
+      "title": "Amethyst & Gold Sail Cake",
+      "categories": [
+        "luxury-cakes",
+        "tiered-cake"
+      ],
+      "kind": "cake",
+      "description": "Two-tier purple and ivory cake with gold leaf, a white sculptural sail and birthday badge. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/luxury/cake-amethyst-gold-sail-cake-l01.webp",
+      "images": [
+        "assets/products/cakes/luxury/cake-amethyst-gold-sail-cake-l01.webp"
+      ],
+      "imageAlt": "Two-tier purple and ivory cake with gold leaf, a white sculptural sail and birthday badge",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "991000000000101",
+          "title": "2 tiers - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/luxury/cake-amethyst-gold-sail-cake-l01.webp",
+          "tiers": 2
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 2,
+      "catalogueAddition": "luxury-2026-09",
+      "searchText": "Amethyst & Gold Sail Cake Two-tier purple and ivory cake with gold leaf, a white sculptural sail and birthday badge 2 tier bespoke"
+    },
+    {
+      "id": "9910000000002",
+      "handle": "azure-drip-sculpted-sail-cake-l02",
+      "title": "Azure Drip & Sculpted Sail Cake",
+      "categories": [
+        "luxury-cakes"
+      ],
+      "kind": "cake",
+      "description": "Single-tier ivory and blue textured cake with blue drip and a white sculptural sail. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/luxury/cake-azure-drip-sculpted-sail-cake-l02.webp",
+      "images": [
+        "assets/products/cakes/luxury/cake-azure-drip-sculpted-sail-cake-l02.webp"
+      ],
+      "imageAlt": "Single-tier ivory and blue textured cake with blue drip and a white sculptural sail",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "991000000000201",
+          "title": "1 tier - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/luxury/cake-azure-drip-sculpted-sail-cake-l02.webp",
+          "tiers": 1
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 1,
+      "catalogueAddition": "luxury-2026-09",
+      "searchText": "Azure Drip & Sculpted Sail Cake Single-tier ivory and blue textured cake with blue drip and a white sculptural sail 1 tier bespoke"
+    },
+    {
+      "id": "9910000000003",
+      "handle": "autumn-gold-branch-cake-l03",
+      "title": "Autumn Gold Branch Cake",
+      "categories": [
+        "luxury-cakes"
+      ],
+      "kind": "cake",
+      "description": "Single-tier ivory cake with copper and green abstract textures and gold branches. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/luxury/cake-autumn-gold-branch-cake-l03.webp",
+      "images": [
+        "assets/products/cakes/luxury/cake-autumn-gold-branch-cake-l03.webp"
+      ],
+      "imageAlt": "Single-tier ivory cake with copper and green abstract textures and gold branches",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "991000000000301",
+          "title": "1 tier - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/luxury/cake-autumn-gold-branch-cake-l03.webp",
+          "tiers": 1
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 1,
+      "catalogueAddition": "luxury-2026-09",
+      "searchText": "Autumn Gold Branch Cake Single-tier ivory cake with copper and green abstract textures and gold branches 1 tier bespoke"
+    },
+    {
+      "id": "9910000000004",
+      "handle": "citrus-abstract-cube-cake-l04",
+      "title": "Citrus Abstract Cube Cake",
+      "categories": [
+        "luxury-cakes"
+      ],
+      "kind": "cake",
+      "description": "Single-tier square cake with ivory and citrus brushstrokes and a white folded sail. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/luxury/cake-citrus-abstract-cube-cake-l04.webp",
+      "images": [
+        "assets/products/cakes/luxury/cake-citrus-abstract-cube-cake-l04.webp"
+      ],
+      "imageAlt": "Single-tier square cake with ivory and citrus brushstrokes and a white folded sail",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "991000000000401",
+          "title": "1 tier - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/luxury/cake-citrus-abstract-cube-cake-l04.webp",
+          "tiers": 1
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 1,
+      "catalogueAddition": "luxury-2026-09",
+      "searchText": "Citrus Abstract Cube Cake Single-tier square cake with ivory and citrus brushstrokes and a white folded sail 1 tier bespoke"
+    },
+    {
+      "id": "9910000000005",
+      "handle": "blush-palette-knife-cake-l05",
+      "title": "Blush Palette Knife Cake",
+      "categories": [
+        "luxury-cakes"
+      ],
+      "kind": "cake",
+      "description": "Single-tier rectangular pink cake with peach, ivory and fuchsia palette knife flowers. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/luxury/cake-blush-palette-knife-cake-l05.webp",
+      "images": [
+        "assets/products/cakes/luxury/cake-blush-palette-knife-cake-l05.webp"
+      ],
+      "imageAlt": "Single-tier rectangular pink cake with peach, ivory and fuchsia palette knife flowers",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "991000000000501",
+          "title": "1 tier - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/luxury/cake-blush-palette-knife-cake-l05.webp",
+          "tiers": 1
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 1,
+      "catalogueAddition": "luxury-2026-09",
+      "searchText": "Blush Palette Knife Cake Single-tier rectangular pink cake with peach, ivory and fuchsia palette knife flowers 1 tier bespoke"
+    },
+    {
+      "id": "9910000000006",
+      "handle": "midnight-kintsugi-chocolate-sail-cake-l06",
+      "title": "Midnight Kintsugi Chocolate Sail Cake",
+      "categories": [
+        "luxury-cakes"
+      ],
+      "kind": "cake",
+      "description": "Single-tier navy and ivory cake with gold lines and black and white chocolate sails. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/luxury/cake-midnight-kintsugi-chocolate-sail-cake-l06.webp",
+      "images": [
+        "assets/products/cakes/luxury/cake-midnight-kintsugi-chocolate-sail-cake-l06.webp"
+      ],
+      "imageAlt": "Single-tier navy and ivory cake with gold lines and black and white chocolate sails",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "991000000000601",
+          "title": "1 tier - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/luxury/cake-midnight-kintsugi-chocolate-sail-cake-l06.webp",
+          "tiers": 1
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 1,
+      "catalogueAddition": "luxury-2026-09",
+      "searchText": "Midnight Kintsugi Chocolate Sail Cake Single-tier navy and ivory cake with gold lines and black and white chocolate sails 1 tier bespoke"
+    },
+    {
+      "id": "9910000000007",
+      "handle": "chocolate-gold-ribbon-sculpture-cake-l07",
+      "title": "Chocolate & Gold Ribbon Sculpture Cake",
+      "categories": [
+        "luxury-cakes"
+      ],
+      "kind": "cake",
+      "description": "Single-tier chocolate cake with gold leaf and curled chocolate ribbons. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/luxury/cake-chocolate-gold-ribbon-sculpture-cake-l07.webp",
+      "images": [
+        "assets/products/cakes/luxury/cake-chocolate-gold-ribbon-sculpture-cake-l07.webp"
+      ],
+      "imageAlt": "Single-tier chocolate cake with gold leaf and curled chocolate ribbons",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "991000000000701",
+          "title": "1 tier - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/luxury/cake-chocolate-gold-ribbon-sculpture-cake-l07.webp",
+          "tiers": 1
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 1,
+      "catalogueAddition": "luxury-2026-09",
+      "searchText": "Chocolate & Gold Ribbon Sculpture Cake Single-tier chocolate cake with gold leaf and curled chocolate ribbons 1 tier bespoke"
+    },
+    {
+      "id": "9910000000008",
+      "handle": "ivory-abstract-ribbon-cake-l08",
+      "title": "Ivory Abstract Ribbon Cake",
+      "categories": [
+        "luxury-cakes"
+      ],
+      "kind": "cake",
+      "description": "Single-tier ivory cake with black and teal abstract lines, gold leaf and white sculptural ribbons. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/luxury/cake-ivory-abstract-ribbon-cake-l08.webp",
+      "images": [
+        "assets/products/cakes/luxury/cake-ivory-abstract-ribbon-cake-l08.webp"
+      ],
+      "imageAlt": "Single-tier ivory cake with black and teal abstract lines, gold leaf and white sculptural ribbons",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "991000000000801",
+          "title": "1 tier - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/luxury/cake-ivory-abstract-ribbon-cake-l08.webp",
+          "tiers": 1
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 1,
+      "catalogueAddition": "luxury-2026-09",
+      "searchText": "Ivory Abstract Ribbon Cake Single-tier ivory cake with black and teal abstract lines, gold leaf and white sculptural ribbons 1 tier bespoke"
+    },
+    {
+      "id": "9910000000009",
+      "handle": "pink-heart-ruffle-tower-cake-l09",
+      "title": "Pink Heart Ruffle Tower Cake",
+      "categories": [
+        "luxury-cakes",
+        "tiered-cake"
+      ],
+      "kind": "cake",
+      "description": "Two-tier pink heart cake with ornate piping, ribbon bows and Thirty lettering. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/luxury/cake-pink-heart-ruffle-tower-cake-l09.webp",
+      "images": [
+        "assets/products/cakes/luxury/cake-pink-heart-ruffle-tower-cake-l09.webp"
+      ],
+      "imageAlt": "Two-tier pink heart cake with ornate piping, ribbon bows and Thirty lettering",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "991000000000901",
+          "title": "2 tiers - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/luxury/cake-pink-heart-ruffle-tower-cake-l09.webp",
+          "tiers": 2
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 2,
+      "catalogueAddition": "luxury-2026-09",
+      "searchText": "Pink Heart Ruffle Tower Cake Two-tier pink heart cake with ornate piping, ribbon bows and Thirty lettering 2 tier bespoke"
+    },
+    {
+      "id": "9910000000010",
+      "handle": "lemon-pearl-bow-tower-cake-l10",
+      "title": "Lemon Pearl & Bow Tower Cake",
+      "categories": [
+        "luxury-cakes",
+        "tiered-cake"
+      ],
+      "kind": "cake",
+      "description": "Three-tier pale yellow cake with white pearls and a long translucent ivory bow. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/luxury/cake-lemon-pearl-bow-tower-cake-l10.webp",
+      "images": [
+        "assets/products/cakes/luxury/cake-lemon-pearl-bow-tower-cake-l10.webp"
+      ],
+      "imageAlt": "Three-tier pale yellow cake with white pearls and a long translucent ivory bow",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "991000000001001",
+          "title": "3 tiers - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/luxury/cake-lemon-pearl-bow-tower-cake-l10.webp",
+          "tiers": 3
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 3,
+      "catalogueAddition": "luxury-2026-09",
+      "searchText": "Lemon Pearl & Bow Tower Cake Three-tier pale yellow cake with white pearls and a long translucent ivory bow 3 tier bespoke"
+    },
+    {
+      "id": "9910000000011",
+      "handle": "scarlet-rose-dome-cake-l11",
+      "title": "Scarlet Rose Dome Cake",
+      "categories": [
+        "luxury-cakes",
+        "tiered-cake"
+      ],
+      "kind": "cake",
+      "description": "Two-tier red cake with floral relief and a glass dome rose topper. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/luxury/cake-scarlet-rose-dome-cake-l11.webp",
+      "images": [
+        "assets/products/cakes/luxury/cake-scarlet-rose-dome-cake-l11.webp"
+      ],
+      "imageAlt": "Two-tier red cake with floral relief and a glass dome rose topper",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "991000000001101",
+          "title": "2 tiers - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/luxury/cake-scarlet-rose-dome-cake-l11.webp",
+          "tiers": 2
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 2,
+      "catalogueAddition": "luxury-2026-09",
+      "searchText": "Scarlet Rose Dome Cake Two-tier red cake with floral relief and a glass dome rose topper 2 tier bespoke"
+    },
+    {
+      "id": "9910000000012",
+      "handle": "ivory-rococo-candle-cake-l12",
+      "title": "Ivory Rococo Candle Cake",
+      "categories": [
+        "luxury-cakes"
+      ],
+      "kind": "cake",
+      "description": "Single-tier ivory candle-style cake with ornate piping, roses and a lit wick. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/luxury/cake-ivory-rococo-candle-cake-l12.webp",
+      "images": [
+        "assets/products/cakes/luxury/cake-ivory-rococo-candle-cake-l12.webp"
+      ],
+      "imageAlt": "Single-tier ivory candle-style cake with ornate piping, roses and a lit wick",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "991000000001201",
+          "title": "1 tier - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/luxury/cake-ivory-rococo-candle-cake-l12.webp",
+          "tiers": 1
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 1,
+      "catalogueAddition": "luxury-2026-09",
+      "searchText": "Ivory Rococo Candle Cake Single-tier ivory candle-style cake with ornate piping, roses and a lit wick 1 tier bespoke"
+    },
+    {
+      "id": "9910000000013",
+      "handle": "celestial-moon-gold-sun-cake-l13",
+      "title": "Celestial Moon & Gold Sun Cake",
+      "categories": [
+        "luxury-cakes"
+      ],
+      "kind": "cake",
+      "description": "Sculpted pale blue crescent moon and gold sun cake with stars, pearls and decorative piping. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/luxury/cake-celestial-moon-gold-sun-cake-l13.webp",
+      "images": [
+        "assets/products/cakes/luxury/cake-celestial-moon-gold-sun-cake-l13.webp"
+      ],
+      "imageAlt": "Sculpted pale blue crescent moon and gold sun cake with stars, pearls and decorative piping",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "991000000001301",
+          "title": "1 tier - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/luxury/cake-celestial-moon-gold-sun-cake-l13.webp",
+          "tiers": 1
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 1,
+      "catalogueAddition": "luxury-2026-09",
+      "searchText": "Celestial Moon & Gold Sun Cake Sculpted pale blue crescent moon and gold sun cake with stars, pearls and decorative piping 1 tier bespoke"
+    },
+    {
+      "id": "9910000000014",
+      "handle": "turquoise-pearl-heart-cake-l14",
+      "title": "Turquoise Pearl Heart Cake",
+      "categories": [
+        "luxury-cakes"
+      ],
+      "kind": "cake",
+      "description": "Single-tier turquoise heart cake with ornate piping and silver pearl swags. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/luxury/cake-turquoise-pearl-heart-cake-l14.webp",
+      "images": [
+        "assets/products/cakes/luxury/cake-turquoise-pearl-heart-cake-l14.webp"
+      ],
+      "imageAlt": "Single-tier turquoise heart cake with ornate piping and silver pearl swags",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "991000000001401",
+          "title": "1 tier - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/luxury/cake-turquoise-pearl-heart-cake-l14.webp",
+          "tiers": 1
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 1,
+      "catalogueAddition": "luxury-2026-09",
+      "searchText": "Turquoise Pearl Heart Cake Single-tier turquoise heart cake with ornate piping and silver pearl swags 1 tier bespoke"
+    },
+    {
+      "id": "9910000000015",
+      "handle": "ruby-crown-celebration-cake-l15",
+      "title": "Ruby Crown Celebration Cake",
+      "categories": [
+        "luxury-cakes",
+        "tiered-cake"
+      ],
+      "kind": "cake",
+      "description": "Two-tier burgundy cake with ornate piping, tiny flowers and a gold crown with red jewels. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/luxury/cake-ruby-crown-celebration-cake-l15.webp",
+      "images": [
+        "assets/products/cakes/luxury/cake-ruby-crown-celebration-cake-l15.webp"
+      ],
+      "imageAlt": "Two-tier burgundy cake with ornate piping, tiny flowers and a gold crown with red jewels",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "991000000001501",
+          "title": "2 tiers - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/luxury/cake-ruby-crown-celebration-cake-l15.webp",
+          "tiers": 2
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 2,
+      "catalogueAddition": "luxury-2026-09",
+      "searchText": "Ruby Crown Celebration Cake Two-tier burgundy cake with ornate piping, tiny flowers and a gold crown with red jewels 2 tier bespoke"
+    },
+    {
+      "id": "9910000000016",
+      "handle": "ivory-couture-bow-cake-l16",
+      "title": "Ivory Couture Bow Cake",
+      "categories": [
+        "luxury-cakes"
+      ],
+      "kind": "cake",
+      "description": "Single-tier ivory cake with a large pearlescent bow, draped tails and pearls. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/luxury/cake-ivory-couture-bow-cake-l16.webp",
+      "images": [
+        "assets/products/cakes/luxury/cake-ivory-couture-bow-cake-l16.webp"
+      ],
+      "imageAlt": "Single-tier ivory cake with a large pearlescent bow, draped tails and pearls",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "991000000001601",
+          "title": "1 tier - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/luxury/cake-ivory-couture-bow-cake-l16.webp",
+          "tiers": 1
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 1,
+      "catalogueAddition": "luxury-2026-09",
+      "searchText": "Ivory Couture Bow Cake Single-tier ivory cake with a large pearlescent bow, draped tails and pearls 1 tier bespoke"
+    },
+    {
+      "id": "9910000000017",
+      "handle": "gilded-petal-rose-cake-l17",
+      "title": "Gilded Petal & Rose Cake",
+      "categories": [
+        "luxury-cakes",
+        "fresh-floral-cakes"
+      ],
+      "kind": "cake",
+      "description": "Single-tier ivory cake with textured petals, gold accents and cream and pink fresh roses. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/luxury/cake-gilded-petal-rose-cake-l17.webp",
+      "images": [
+        "assets/products/cakes/luxury/cake-gilded-petal-rose-cake-l17.webp"
+      ],
+      "imageAlt": "Single-tier ivory cake with textured petals, gold accents and cream and pink fresh roses",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "991000000001701",
+          "title": "1 tier - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/luxury/cake-gilded-petal-rose-cake-l17.webp",
+          "tiers": 1
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 1,
+      "catalogueAddition": "luxury-2026-09",
+      "searchText": "Gilded Petal & Rose Cake Single-tier ivory cake with textured petals, gold accents and cream and pink fresh roses 1 tier bespoke"
+    },
+    {
+      "id": "9910000000018",
+      "handle": "black-gold-geode-celebration-cake-l18",
+      "title": "Black & Gold Geode Celebration Cake",
+      "categories": [
+        "luxury-cakes"
+      ],
+      "kind": "cake",
+      "description": "Single-tier black cake with gold leaf, an ivory and gold geode stripe, gold macarons and a birthday topper. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/luxury/cake-black-gold-geode-celebration-cake-l18.webp",
+      "images": [
+        "assets/products/cakes/luxury/cake-black-gold-geode-celebration-cake-l18.webp"
+      ],
+      "imageAlt": "Single-tier black cake with gold leaf, an ivory and gold geode stripe, gold macarons and a birthday topper",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "991000000001801",
+          "title": "1 tier - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/luxury/cake-black-gold-geode-celebration-cake-l18.webp",
+          "tiers": 1
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 1,
+      "catalogueAddition": "luxury-2026-09",
+      "searchText": "Black & Gold Geode Celebration Cake Single-tier black cake with gold leaf, an ivory and gold geode stripe, gold macarons and a birthday topper 1 tier bespoke"
+    },
+    {
+      "id": "9910000000019",
+      "handle": "grey-marble-gold-sugar-blossom-cake-l19",
+      "title": "Grey Marble & Gold Sugar Blossom Cake",
+      "categories": [
+        "luxury-cakes",
+        "sugar-flower-cakes"
+      ],
+      "kind": "cake",
+      "description": "Single-tier grey and white marble cake with gold veins and a white gold-edged sugar flower. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/luxury/cake-grey-marble-gold-sugar-blossom-cake-l19.webp",
+      "images": [
+        "assets/products/cakes/luxury/cake-grey-marble-gold-sugar-blossom-cake-l19.webp"
+      ],
+      "imageAlt": "Single-tier grey and white marble cake with gold veins and a white gold-edged sugar flower",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "991000000001901",
+          "title": "1 tier - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/luxury/cake-grey-marble-gold-sugar-blossom-cake-l19.webp",
+          "tiers": 1
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 1,
+      "catalogueAddition": "luxury-2026-09",
+      "searchText": "Grey Marble & Gold Sugar Blossom Cake Single-tier grey and white marble cake with gold veins and a white gold-edged sugar flower 1 tier bespoke"
+    },
+    {
+      "id": "9910000000020",
+      "handle": "rose-gold-sugar-flower-garden-cake-l20",
+      "title": "Rose Gold Sugar Flower Garden Cake",
+      "categories": [
+        "luxury-cakes",
+        "sugar-flower-cakes"
+      ],
+      "kind": "cake",
+      "description": "Single-tier ivory and rose gold cake with pink and ivory sugar roses, blue blossoms and green leaves. Dimensions, flavours and finishing details are arranged with your personal quotation.",
+      "image": "assets/products/cakes/luxury/cake-rose-gold-sugar-flower-garden-cake-l20.webp",
+      "images": [
+        "assets/products/cakes/luxury/cake-rose-gold-sugar-flower-garden-cake-l20.webp"
+      ],
+      "imageAlt": "Single-tier ivory and rose gold cake with pink and ivory sugar roses, blue blossoms and green leaves",
+      "imageContain": true,
+      "imageNote": "Design reference. Size, colours, flavours and finishing details are confirmed with your personal quotation.",
+      "optionNames": [],
+      "variants": [
+        {
+          "id": "991000000002001",
+          "title": "1 tier - bespoke quotation",
+          "options": [],
+          "priceFils": null,
+          "compareAtFils": null,
+          "available": true,
+          "image": "assets/products/cakes/luxury/cake-rose-gold-sugar-flower-garden-cake-l20.webp",
+          "tiers": 1
+        }
+      ],
+      "minPriceFils": null,
+      "available": true,
+      "quoteOnly": true,
+      "tiers": 1,
+      "catalogueAddition": "luxury-2026-09",
+      "searchText": "Rose Gold Sugar Flower Garden Cake Single-tier ivory and rose gold cake with pink and ivory sugar roses, blue blossoms and green leaves 1 tier bespoke"
+    }
+  ]
+}

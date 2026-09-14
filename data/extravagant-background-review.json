@@ -1,0 +1,122 @@
+[
+  {
+    "n": 249,
+    "prompt": "Use case: precise-object-edit. First image is the cake photograph to edit. Second image is ONLY the warm grey studio background reference. Replace the first image's wall and surrounding table with the second image's warm grey seamless studio backdrop and floor, realistic soft contact shadow. Preserve the real cake identity, decoration, colours, camera angle and tier structure exactly: Exactly SIX cake tiers: THREE wide graduated cake tiers below the ornate white central baluster support, and THREE narrower tall tiers above it, with voluminous translucent white flower sculptures and small black centres on either side. The central baluster and small separator between upper tiers are supports, not extra cake tiers. Preserve the entire extraordinary architecture and the original white pedestal at base. Square catalogue photograph, centered complete cake and topper and board/pedestal with 8% clear space around all edges. Do not crop or stretch, do not simplify complex structure, do not add cake tiers. Do not copy the reference's navy cake or gold stand. Preserve the photographed cake, only replace surroundings.",
+    "generatedImage": "C:\\Users\\Dania Muneer\\.codex\\generated_images\\01a09545-89ef-7532-a6b7-aee9667c2233\\exec-57356064-c61a-4657-ae67-fdc4653e8d89.png",
+    "visualReview": {
+      "approved": true,
+      "tiers": 6,
+      "fullCakeVisible": true,
+      "consistentBackground": true,
+      "notes": "Original and edited photo visually reviewed. Complete cake and stand/board visible, tier count matched; no visible watermark. Background was edited with imagegen; fine details may vary."
+    }
+  },
+  {
+    "n": 251,
+    "prompt": "Use case: precise-object-edit. First image is the cake photograph to edit. Second image is ONLY the warm grey studio background reference. Replace the first image's wall and surrounding table with the second image's warm grey seamless studio backdrop and floor, realistic soft contact shadow. Preserve the real cake identity, decoration, colours, camera angle and tier structure exactly: Exactly SIX cake sections in the tall graduated tower, with textured ivory surfaces, bold black panel accents, small pearls and sculptural translucent lace-like white sails. Thin reflective separators are decorative supports, not extra cake tiers. Preserve the short black pedestal and decorated round board. Square catalogue photograph, centered complete cake and topper and board/pedestal with 8% clear space around all edges. Do not crop or stretch, do not simplify complex structure, do not add cake tiers. Do not copy the reference's navy cake or gold stand. Preserve the photographed cake, only replace surroundings.",
+    "generatedImage": "C:\\Users\\Dania Muneer\\.codex\\generated_images\\01a09545-89ef-7532-a6b7-aee9667c2233\\exec-e3e0083a-7cc7-4758-b8dd-aa81d911263c.png",
+    "visualReview": {
+      "approved": true,
+      "tiers": 6,
+      "fullCakeVisible": true,
+      "consistentBackground": true,
+      "notes": "Original and edited photo visually reviewed. Complete cake and stand/board visible, tier count matched; no visible watermark. Background was edited with imagegen; fine details may vary."
+    }
+  },
+  {
+    "n": 259,
+    "prompt": "Use case: precise-object-edit. First image is the cake photograph to edit. Second image is ONLY the warm grey studio background reference. Replace the first image's wall and surrounding table with the second image's warm grey seamless studio backdrop and floor, realistic soft contact shadow. Preserve the real cake identity, decoration, colours, camera angle and tier structure exactly: Exactly TWO extra-tall slender blue fluted tiers, ornate silver filigree borders, sculptural white and pale green sails with dotted delicate fans, blush roses and mauve blossoms. Preserve the cake proportions, the narrow silhouette and the round pale blue board. The cylindrical display table below the board is background and must be replaced by the grey surface. Square catalogue photograph, centered complete cake and topper and board/pedestal with 8% clear space around all edges. Do not crop or stretch, do not simplify complex structure, do not add cake tiers. Do not copy the reference's navy cake or gold stand. Preserve the photographed cake, only replace surroundings.",
+    "generatedImage": "C:\\Users\\Dania Muneer\\.codex\\generated_images\\01a09545-89ef-7532-a6b7-aee9667c2233\\exec-22536e1f-0c7f-4a8a-894c-f122773eab79.png",
+    "visualReview": {
+      "approved": true,
+      "tiers": 2,
+      "fullCakeVisible": true,
+      "consistentBackground": true,
+      "notes": "Original and edited photo visually reviewed. Complete cake and stand/board visible, tier count matched; no visible watermark. Background was edited with imagegen; fine details may vary."
+    }
+  },
+  {
+    "n": 243,
+    "prompt": "Use case: precise-object-edit. First image is the cake photograph to edit. Second image is ONLY the warm grey studio background reference. Replace the first image's surrounding wall/table with the second image's warm grey seamless studio backdrop and floor, soft realistic contact shadows. Keep the first cake design, tier count, proportions, flowers, decoration, colors, camera angle and board unchanged: Exactly five graduated ivory cake tiers with roses, translucent sweeping sails, fine trailing piped lines and pearl details. Preserve the tall narrow silhouette and every visible level; sails above the top cake are decorations, not extra tiers. Preserve the small pedestal under the board. Output square, full cake and decorations and board/pedestal visible, centered with at least 8% breathing room all around. No cropping, no stretching, no extra tiers or props. Do not copy the navy cake or stand from the reference. Photographic background edit, preserve fine detail.",
+    "generatedImage": "C:\\Users\\Dania Muneer\\.codex\\generated_images\\01a09545-89ef-7532-a6b7-aee9667c2233\\exec-8b5112fe-6db8-48bb-b77d-b39d93c5637e.png",
+    "visualReview": {
+      "approved": true,
+      "tiers": 5,
+      "fullCakeVisible": true,
+      "consistentBackground": true,
+      "notes": "Original and edited photo visually reviewed. Complete cake and stand/board visible, tier count matched; no visible watermark. Background was edited with imagegen; fine details may vary."
+    }
+  },
+  {
+    "n": 260,
+    "prompt": "Use case: precise-object-edit. First image is the cake to edit. Second image is ONLY the warm grey seamless studio background reference. Replace surrounding background and table with that grey studio backdrop and floor, realistic soft contact shadow. Preserve the actual cake design, tiers, proportions, decoration and colors. Exactly FOUR ivory cake tiers with irregular vertical pleats, white and blush roses, burgundy blossoms, pale blue leaves and dark stems. REMOVE THE LARGE ROUND GOLD DISPLAY TABLE completely. Keep only the cake and its SHORT WHITE pedestal resting directly on warm grey studio ground. No gold platform or display table. Output square, complete cake and decorations and pedestal visible, centred with at least 8% breathing room all around. Do not crop or stretch. Do not copy the navy cake from the reference. No extra props or text. Photographic edit preserving fine details.",
+    "generatedImage": "C:\\Users\\Dania Muneer\\.codex\\generated_images\\01a09545-89ef-7532-a6b7-aee9667c2233\\exec-f177e43c-1ae5-48b8-9771-b5046e046e1e.png",
+    "visualReview": {
+      "approved": true,
+      "tiers": 4,
+      "fullCakeVisible": true,
+      "consistentBackground": true,
+      "notes": "Original and edited photo visually reviewed. Complete cake and stand/board visible, tier count matched; no visible watermark. Background was edited with imagegen; fine details may vary."
+    }
+  },
+  {
+    "n": 218,
+    "prompt": "Use case: precise-object-edit. First image is the cake photograph to edit. Second image is ONLY the warm grey studio background reference. Replace the first image's surrounding wall/table with the second image's warm grey seamless studio backdrop and floor, soft realistic contact shadows. Keep the first cake design, tier count, proportions, flowers, decoration, colors, camera angle and board unchanged: Exactly two square cake tiers, pink ombre horizontal ruffles, abundant sculpted blush and ivory flowers with deep burgundy accents, peach anthuriums and dark leaves, white square board. Output square, full cake and decorations and board/pedestal visible, centered with at least 8% breathing room all around. No cropping, no stretching, no extra tiers or props. Do not copy the navy cake or stand from the reference. Photographic background edit, preserve fine detail.",
+    "generatedImage": "C:\\Users\\Dania Muneer\\.codex\\generated_images\\01a09545-89ef-7532-a6b7-aee9667c2233\\exec-07763068-5d99-4c58-a55b-fe0b430274c5.png",
+    "visualReview": {
+      "approved": true,
+      "tiers": 2,
+      "fullCakeVisible": true,
+      "consistentBackground": true,
+      "notes": "Original and edited photo visually reviewed. Complete cake and stand/board visible, tier count matched; no visible watermark. Background was edited with imagegen; fine details may vary."
+    }
+  },
+  {
+    "n": 226,
+    "prompt": "Use case: precise-object-edit. First image is the cake photograph to edit. Second image is ONLY the warm grey studio background reference. Replace the first image's wall and surrounding table with the second image's warm grey seamless studio backdrop and floor, realistic soft contact shadow. Preserve the real cake identity, decoration, colours, camera angle and tier structure exactly: Exactly THREE tiers: square blue-and-white patterned tile base, round blue-and-white patterned middle tier, smaller tall ivory round top tier, clusters of yellow lemons and dark green leaves. Preserve the white square board and short white pedestal; extend framing to show its full foot. Square catalogue photograph, centered complete cake and topper and board/pedestal with 8% clear space around all edges. Do not crop or stretch, do not simplify complex structure, do not add cake tiers. Do not copy the reference's navy cake or gold stand. Preserve the photographed cake, only replace surroundings.",
+    "generatedImage": "C:\\Users\\Dania Muneer\\.codex\\generated_images\\01a09545-89ef-7532-a6b7-aee9667c2233\\exec-9e3797bc-6b58-44b9-a555-41e1a45db930.png",
+    "visualReview": {
+      "approved": true,
+      "tiers": 3,
+      "fullCakeVisible": true,
+      "consistentBackground": true,
+      "notes": "Original and edited photo visually reviewed. Complete cake and stand/board visible, tier count matched; no visible watermark. Background was edited with imagegen; fine details may vary."
+    }
+  },
+  {
+    "n": 312,
+    "prompt": "Use case: precise-object-edit. First image is the cake to edit. Second image is ONLY the warm grey seamless studio background reference. Replace surrounding background and table with that grey studio backdrop and floor, realistic soft contact shadow. Preserve the actual cake design, tiers, proportions, decoration and colors. Exactly FIVE cake tiers: bottom black tier, shallow gold second tier, tall black third tier, tall gold fourth tier, smaller black top tier. Preserve every black and gold star decoration. Keep the black board and white pedestal. Remove the plinth underneath the pedestal. Output square, complete cake and decorations and pedestal visible, centred with at least 8% breathing room all around. Do not crop or stretch. Do not copy the navy cake from the reference. No extra props or text. Photographic edit preserving fine details. Revision: Precise localized product photography edit. Preserve this entire photograph exactly, including the five-tier black and gold star cake, every decoration, full framing, grey backdrop and white pedestal. ONLY replace the small brown manufacturer's oval logo/text on the front of the white pedestal foot with plain smooth white ceramic matching the surrounding pedestal. No lettering or logo on the pedestal. Do not change anything else.",
+    "generatedImage": "C:\\Users\\Dania Muneer\\.codex\\generated_images\\01a09545-89ef-7532-a6b7-aee9667c2233\\exec-14ae6671-b1ed-45c2-ab29-0a06ff052a00.png",
+    "visualReview": {
+      "approved": true,
+      "tiers": 5,
+      "fullCakeVisible": true,
+      "consistentBackground": true,
+      "notes": "Original and edited photo visually reviewed. Complete cake and stand/board visible, tier count matched; no visible watermark. Background was edited with imagegen; fine details may vary."
+    }
+  },
+  {
+    "n": 274,
+    "prompt": "Use case: precise-object-edit. First image is the cake to edit. Second image is ONLY the warm grey seamless studio background reference. Replace surrounding background and table with that grey studio backdrop and floor, realistic soft contact shadow. Preserve the actual cake design, tiers, proportions, decoration and colors. Exactly TWO tiers, lower tier gold leaf and upper tier burgundy, abundant mauve roses between tiers and deep burgundy chrysanthemum flowers on top. Preserve the white beaded pedestal completely. Output square, complete cake and decorations and pedestal visible, centred with at least 8% breathing room all around. Do not crop or stretch. Do not copy the navy cake from the reference. No extra props or text. Photographic edit preserving fine details.",
+    "generatedImage": "C:\\Users\\Dania Muneer\\.codex\\generated_images\\01a09545-89ef-7532-a6b7-aee9667c2233\\exec-867add25-655d-436a-beb6-a2d15313c793.png",
+    "visualReview": {
+      "approved": true,
+      "tiers": 2,
+      "fullCakeVisible": true,
+      "consistentBackground": true,
+      "notes": "Original and edited photo visually reviewed. Complete cake and stand/board visible, tier count matched; no visible watermark. Background was edited with imagegen; fine details may vary."
+    }
+  },
+  {
+    "n": 275,
+    "prompt": "Use case: precise-object-edit. First image is the cake to edit. Second image is ONLY the warm grey seamless studio background reference. Replace surrounding background and table with that grey studio backdrop and floor, realistic soft contact shadow. Preserve the actual cake design, tiers, proportions, decoration and colors. Exactly TWO tiers, gold leaf lower tier, ivory upper tier, oversize intricate pink sugar peonies and small pink blossoms and berry stems around their join. Remove draped fabric. Keep the white beaded pedestal, completing its plain base if needed. Output square, complete cake and decorations and pedestal visible, centred with at least 8% breathing room all around. Do not crop or stretch. Do not copy the navy cake from the reference. No extra props or text. Photographic edit preserving fine details.",
+    "generatedImage": "C:\\Users\\Dania Muneer\\.codex\\generated_images\\01a09545-89ef-7532-a6b7-aee9667c2233\\exec-511641e4-cb36-42bb-8bd5-6352e27f43a6.png",
+    "visualReview": {
+      "approved": true,
+      "tiers": 2,
+      "fullCakeVisible": true,
+      "consistentBackground": true,
+      "notes": "Original and edited photo visually reviewed. Complete cake and stand/board visible, tier count matched; no visible watermark. Background was edited with imagegen; fine details may vary."
+    }
+  }
+]

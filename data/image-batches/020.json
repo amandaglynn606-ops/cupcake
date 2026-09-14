@@ -1,0 +1,407 @@
+{
+  "batch": 20,
+  "size": 50,
+  "sourcePreference": "Pinterest",
+  "records": [
+    {
+      "n": 951,
+      "productId": "6541412499645",
+      "title": "Baby Teddy Cupcakes",
+      "originalImage": "assets/products/2a8583b3412c8215ccc8.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 952,
+      "productId": "6541408174269",
+      "title": "Birthday Flower Cupcake Bouquet",
+      "originalImage": "assets/products/26662e4278202f25398f.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 953,
+      "productId": "6541407649981",
+      "title": "Black & Gold Flora Cupcakes",
+      "originalImage": "assets/products/5afb4afe3276e40ff83d.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 954,
+      "productId": "6541404307645",
+      "title": "Barbie Chic Cupcakes",
+      "originalImage": "assets/products/c6c6fd334a3df13a5e75.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 955,
+      "productId": "6541402374333",
+      "title": "Batman Cupcakes",
+      "originalImage": "assets/products/8c5f59b18055e380f795.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 956,
+      "productId": "6541398835389",
+      "title": "Birthday Princess Cookies",
+      "originalImage": "assets/products/2c3336b823e3935e8b56.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 957,
+      "productId": "6541397459133",
+      "title": "Birthday Sesame Street Cookies",
+      "originalImage": "assets/products/793f072dd50b6e9c3288.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 958,
+      "productId": "6541396345021",
+      "title": "Birthday Cake Cookies",
+      "originalImage": "assets/products/775f446bea078e4cae5f.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 959,
+      "productId": "6541394280637",
+      "title": "Batman Cookies",
+      "originalImage": "assets/products/884f230428417c23ce95.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 960,
+      "productId": "6541310361789",
+      "title": "Beautiful Heart Cookies",
+      "originalImage": "assets/products/26291214ee4c282be21f.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 961,
+      "productId": "6541305446589",
+      "title": "Birthday Cupcakes",
+      "originalImage": "assets/products/f7789312d840be3b687e.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 962,
+      "productId": "6541501923517",
+      "title": "Shades of Pink' Rose Cupcakes",
+      "originalImage": "assets/products/d060879d998987d2be6c.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 963,
+      "productId": "6541402636477",
+      "title": "Colorful Monsters' Cupcakes",
+      "originalImage": "assets/products/df3cb316f81e55f44700.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 964,
+      "productId": "6541327204541",
+      "title": "Strawberry' Cupcakes",
+      "originalImage": "assets/products/b14f3a9ccad008729e01.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 965,
+      "productId": "6541326876861",
+      "title": "Baby Footprints' Cupcakes",
+      "originalImage": "assets/products/b4b6603c84d416610ff4.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 966,
+      "productId": "7641412174049",
+      "title": "Birthday Silver Acrylic Topper",
+      "originalImage": "assets/products/e94ea1fb29cdb0389895.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 967,
+      "productId": "6541635125437",
+      "title": "Personalized Birthday Pink Cake with Mini Balloons",
+      "originalImage": "assets/products/78b27efc67fa015103b6.png",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 968,
+      "productId": "7633649107169",
+      "title": "Small Gift Card - cupcake pink",
+      "originalImage": "assets/products/80b3d97928d722f83fbb.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 969,
+      "productId": "6541321502909",
+      "title": "Cute Ramadan Cupcakes",
+      "originalImage": "assets/products/221aa1b37dedf55204c2.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 970,
+      "productId": "6541321109693",
+      "title": "Ramadan and Eid Celebrations Cupcakes",
+      "originalImage": "assets/products/1f798eef61c6d19157e9.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 971,
+      "productId": "6541540851901",
+      "title": "Tuxedo Cake for Him",
+      "originalImage": "assets/products/5e1a45340f063d40e720.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 972,
+      "productId": "6541539410109",
+      "title": "‘For Royalty’ Pink And Gold Cake",
+      "originalImage": "assets/products/d7e8bb49597b5d66cee2.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 973,
+      "productId": "6541538689213",
+      "title": "Sunshine Zesty Berry Cake",
+      "originalImage": "assets/products/6f4080e2e5ea8392dfd4.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 974,
+      "productId": "6541538590909",
+      "title": "White Rose & Berry Cake",
+      "originalImage": "assets/products/33ce2e11afe4d70d96ec.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 975,
+      "productId": "6541648330941",
+      "title": "Personalized Rose Gold Cake with Chrome Balloon",
+      "originalImage": "assets/products/22450d32dfadb5aa4cee.png",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 976,
+      "productId": "6541635879101",
+      "title": "Rainbow with Pastel Color Cake",
+      "originalImage": "assets/products/2d875f0ff981913d384f.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 977,
+      "productId": "6541635748029",
+      "title": "Rainbow Cake with Chocolate",
+      "originalImage": "assets/products/ea785f13c61c8727fc74.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 978,
+      "productId": "6541635649725",
+      "title": "Personalized Blue Silver Cake with Chrome Balloons",
+      "originalImage": "assets/products/42e9d71d39081d0dd9fb.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 979,
+      "productId": "6541635584189",
+      "title": "Personalized Purple Cake with Confetti Balloons",
+      "originalImage": "assets/products/0ddca35cfd6f47e3e9e0.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 980,
+      "productId": "6541635518653",
+      "title": "Personalized Rose Gold Cake with Balloons",
+      "originalImage": "assets/products/2388bbeda45ba0bd5e67.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 981,
+      "productId": "6541635256509",
+      "title": "Personalized Pink & Gold Cake with Chrome Balloons",
+      "originalImage": "assets/products/4f069e8736ddbd13ac45.png",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 982,
+      "productId": "6541634994365",
+      "title": "Personalized Silver & Gold Cake with Chrome Balloons",
+      "originalImage": "assets/products/955ce2e21a0e7c69e66c.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 983,
+      "productId": "6541634896061",
+      "title": "Personalized Fuscia Cake with Chrome Balloons",
+      "originalImage": "assets/products/286ba58b5c6ef06f109d.png",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 984,
+      "productId": "6541634732221",
+      "title": "Pink and White Roses Cake",
+      "originalImage": "assets/products/d6e7ab04fdd046246dbe.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 985,
+      "productId": "6541548519613",
+      "title": "Pink Hearts Design Cake",
+      "originalImage": "assets/products/cf6b12aa55e8fc3da8b3.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 986,
+      "productId": "6541540622525",
+      "title": "Pretty in Pink Princess Design Cake",
+      "originalImage": "assets/products/6313e66dcd390b97a7ae.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 987,
+      "productId": "6541540556989",
+      "title": "Rainbow Sprinkle Cookie Sponge Cake",
+      "originalImage": "assets/products/d53aca68e346092c2dcc.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 988,
+      "productId": "6541540393149",
+      "title": "Pink Pastel Design Cake",
+      "originalImage": "assets/products/4fd99fdcfe75445520c6.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 989,
+      "productId": "6541539049661",
+      "title": "Pony Unicorn Design 3D  Cake",
+      "originalImage": "assets/products/5cd3dcfe01d68931010c.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 990,
+      "productId": "6541419217085",
+      "title": "Photo Cake",
+      "originalImage": "assets/products/1cc29213a72955858027.png",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 991,
+      "productId": "6541408829629",
+      "title": "Pink Roses Cupcake Bouquet",
+      "originalImage": "assets/products/becea5805fe5607324fd.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 992,
+      "productId": "6541337264317",
+      "title": "Red Roses Bouquet - Cupcake Bouquet",
+      "originalImage": "assets/products/b987db9ae4a04751c6c1.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 993,
+      "productId": "6541540458685",
+      "title": "Irresistible Chocolate Cake",
+      "originalImage": "assets/products/94b199b24bd11f16bbd8.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 994,
+      "productId": "6541538853053",
+      "title": "Her First Birthday 3D Cake",
+      "originalImage": "assets/products/9ca6aebecf2f031cbd9a.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 995,
+      "productId": "7516514844897",
+      "title": "Gold Red Cake",
+      "originalImage": "assets/products/95566693acc67079853a.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 996,
+      "productId": "7516514418913",
+      "title": "Gold & Black Rose Cake",
+      "originalImage": "assets/products/88fe1e8b264e110665fc.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 997,
+      "productId": "6541633323197",
+      "title": "Funny Smiley Emoji Cake",
+      "originalImage": "assets/products/91799cad6c98ffe932fc.png",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 998,
+      "productId": "6541633224893",
+      "title": "Fresh Strawberries and Red Velvet Cake",
+      "originalImage": "assets/products/c5d67d29c13d638bb5fc.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 999,
+      "productId": "6541633126589",
+      "title": "Fresh Strawberries Chocolate Cake",
+      "originalImage": "assets/products/6cc387945dc2ad237948.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 1000,
+      "productId": "6541633028285",
+      "title": "Fresh Berries, Strawberries and Chocolate Cake",
+      "originalImage": "assets/products/b085572ecf502c202854.jpg",
+      "status": "needs-search",
+      "candidates": []
+    }
+  ]
+}

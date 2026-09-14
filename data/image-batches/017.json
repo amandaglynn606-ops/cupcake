@@ -1,0 +1,407 @@
+{
+  "batch": 17,
+  "size": 50,
+  "sourcePreference": "Pinterest",
+  "records": [
+    {
+      "n": 801,
+      "productId": "7518731534561",
+      "title": "Pink Chocolate-Dipped Strawberries",
+      "originalImage": "assets/products/786f8b2b10ff83c622a6.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 802,
+      "productId": "6541543964861",
+      "title": "Pink Rose Cake Pops",
+      "originalImage": "assets/products/03ab9de0c746b950d0da.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 803,
+      "productId": "6541542916285",
+      "title": "Rainbow Cake Pops",
+      "originalImage": "assets/products/03ef3d3fb11a66d2a81f.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 804,
+      "productId": "6541541802173",
+      "title": "Pink and Gold Cake Pops",
+      "originalImage": "assets/products/dc3ad2d94e78ae567f7a.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 805,
+      "productId": "6541541605565",
+      "title": "Pearl White & Pink Cake Pops",
+      "originalImage": "assets/products/81a549c75e389aff5d4f.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 806,
+      "productId": "6541543571645",
+      "title": "Newborn Baby Rattle Cake Pops",
+      "originalImage": "assets/products/22ec72d0e119197ff81d.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 807,
+      "productId": "6541555663037",
+      "title": "Macaron Pyramid Tower",
+      "originalImage": "assets/products/87ec54acbadcd55538ed.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 808,
+      "productId": "6541545406653",
+      "title": "Marble Ice-Cream Shaped Cake Pops",
+      "originalImage": "assets/products/2dd2abdbc6eccbee5196.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 809,
+      "productId": "6541525713085",
+      "title": "International Women's Day Purple Cupcakes",
+      "originalImage": "assets/products/9aa464555fd4bd9b79fc.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 810,
+      "productId": "6541616283837",
+      "title": "Graduation Year Chocolate-Dipped Strawberries",
+      "originalImage": "assets/products/c4d2e8c03edcb378b0ef.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 811,
+      "productId": "6541567787197",
+      "title": "Birthday Cake & Flowers in Acrylic Gift Box",
+      "originalImage": "assets/products/163e7ebe7d470a4afdba.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 812,
+      "productId": "6541552222397",
+      "title": "Fun Colorful Donuts & Cake Pops",
+      "originalImage": "assets/products/75fbb359f6c919d89a2d.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 813,
+      "productId": "7518730813665",
+      "title": "Congrats Chocolate-Dipped Strawberries",
+      "originalImage": "assets/products/85a1b658a117088bfcf0.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 814,
+      "productId": "6541539115197",
+      "title": "Crazy Monsters Design Cake",
+      "originalImage": "assets/products/b007b7d34c9b2ba6831d.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 815,
+      "productId": "7518731829473",
+      "title": "Blue Chocolate-Dipped Strawberries",
+      "originalImage": "assets/products/e7ecc44d4a02cdb9a029.png",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 816,
+      "productId": "6541549207741",
+      "title": "Chocolate-Dipped Strawberries & Cake Pops",
+      "originalImage": "assets/products/85733a93d456305ce182.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 817,
+      "productId": "6541545275581",
+      "title": "Black & Gold Wings Cake Pops",
+      "originalImage": "assets/products/208c56c1b86de1144d7e.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 818,
+      "productId": "6541544358077",
+      "title": "Chic White Cake Pops",
+      "originalImage": "assets/products/6aed712477c759b98c0e.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 819,
+      "productId": "6541542785213",
+      "title": "Chocolate Frosting Cake Pops",
+      "originalImage": "assets/products/0dcc729d40aee6431bd6.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 820,
+      "productId": "6541538263229",
+      "title": "Blue Sprinkles And Stripes Design Cake",
+      "originalImage": "assets/products/b6d518ad2978a616910f.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 821,
+      "productId": "6541639975101",
+      "title": "Dad No 1' Chocolate Dipped Oreo Biscuits",
+      "originalImage": "assets/products/fdf832a8d5df78f1afb8.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 822,
+      "productId": "6541546979517",
+      "title": "Ferrero Rocher & Raspberry Heart Cake",
+      "originalImage": "assets/products/4ce9577b5338b0e50263.png",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 823,
+      "productId": "7452625371361",
+      "title": "UAE Spirit of the Union Cake",
+      "originalImage": "assets/products/18a5cc161945248f3e1d.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 824,
+      "productId": "7452624027873",
+      "title": "UAE National Day Flag Stars Cake",
+      "originalImage": "assets/products/396bd3ac513c6e04371a.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 825,
+      "productId": "7452590080225",
+      "title": "UAE National Day Flag Colors Cake",
+      "originalImage": "assets/products/c8e1b250ff5065d1d737.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 826,
+      "productId": "7434770219233",
+      "title": "UAE round Flag Cupcakes",
+      "originalImage": "assets/products/e6dbade0ef0477fbbddc.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 827,
+      "productId": "6541507887293",
+      "title": "UAE National Day Flag Heart Cake",
+      "originalImage": "assets/products/3f6bbb5b157b401f2c1c.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 828,
+      "productId": "6541507756221",
+      "title": "UAE National Day Celebrations Flag Cake",
+      "originalImage": "assets/products/01e991872daa190bfcc3.png",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 829,
+      "productId": "6541336576189",
+      "title": "UAE 'Happy National Day' Cupcake",
+      "originalImage": "assets/products/6fb6308bafd22ccf3012.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 830,
+      "productId": "6541336379581",
+      "title": "UAE Heart Cupcake",
+      "originalImage": "assets/products/2cf7400e505b97b3835d.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 831,
+      "productId": "6541575684285",
+      "title": "Breast Cancer Awareness Cupcakes",
+      "originalImage": "assets/products/76634f9ea44135f4e7aa.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 832,
+      "productId": "7751437779169",
+      "title": "Blue Graduation Cake",
+      "originalImage": "assets/products/a8cddb17fb874674881d.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 833,
+      "productId": "7691538989281",
+      "title": "Company Logo or Corporate Photo Cupcake",
+      "originalImage": "assets/products/d9ed0a7299e19c3e5296.png",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 834,
+      "productId": "7691526471905",
+      "title": "Company Logo or Corporate Photo Cake",
+      "originalImage": "assets/products/c2c010759fffc87aea04.png",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 835,
+      "productId": "7691500683489",
+      "title": "Company Logo or Corporate Cake",
+      "originalImage": "assets/products/e364200fa3e5befe2ffe.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 836,
+      "productId": "6541326647485",
+      "title": "Mother's Day Cupcakes",
+      "originalImage": "assets/products/898dd33a4559f4143a64.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 837,
+      "productId": "6541309870269",
+      "title": "Marshmallow Sheep Cupcakes",
+      "originalImage": "assets/products/50886a3e437856512408.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 838,
+      "productId": "6541507985597",
+      "title": "Diwali Cupcakes",
+      "originalImage": "assets/products/4035cc1e8aff974f1f70.png",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 839,
+      "productId": "6541485899965",
+      "title": "Cute Yellow & Black Graduation Hat Cookies",
+      "originalImage": "assets/products/651d191eadf51a9b31da.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 840,
+      "productId": "6541629653181",
+      "title": "Chocolate Creamy Cake with candles",
+      "originalImage": "assets/products/0c07ecb4e11bb3b9799f.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 841,
+      "productId": "6541635485885",
+      "title": "Baby Angel Vanilla Cake",
+      "originalImage": "assets/products/c8b344363eb9ac8f869c.png",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 842,
+      "productId": "6541552320701",
+      "title": "‘Boy or Girl’ Gender Reveal Cupcakes",
+      "originalImage": "assets/products/067a2a938ca2842dcc08.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 843,
+      "productId": "6541547897021",
+      "title": "Berry & Macaron Heart Cake",
+      "originalImage": "assets/products/66fc34900edd9477c3c5.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 844,
+      "productId": "6541546487997",
+      "title": "‘Boy or Girl’ Gender Reveal White Cupcakes",
+      "originalImage": "assets/products/c065ad0bac721b0b14f9.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 845,
+      "productId": "6541541343421",
+      "title": "Yellow & Blue Sculpted Flower Cupcakes",
+      "originalImage": "assets/products/9a36e23c80f938df9ff0.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 846,
+      "productId": "6541485768893",
+      "title": "‘Congrats’ Graduation Cookies with Name",
+      "originalImage": "assets/products/9ed330d447bcfdf4df99.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 847,
+      "productId": "6541421871293",
+      "title": "XBOX Video Game Cupcakes",
+      "originalImage": "assets/products/8cd6240149de1e93d006.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 848,
+      "productId": "6541420691645",
+      "title": "Yellow Happy Birthday Emoji Cupcake Set",
+      "originalImage": "assets/products/4de36cbbc1040a5bbe20.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 849,
+      "productId": "6541410042045",
+      "title": "Yellow Flower Cupcake Bouquet",
+      "originalImage": "assets/products/f4140f6a0d49d87319c0.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 850,
+      "productId": "6541485637821",
+      "title": "Graduation Hat Cupcakes",
+      "originalImage": "assets/products/77ad7f28f5d66572a316.jpg",
+      "status": "needs-search",
+      "candidates": []
+    }
+  ]
+}

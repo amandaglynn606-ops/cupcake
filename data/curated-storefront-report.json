@@ -1,0 +1,550 @@
+{
+  "addedDesigns": 40,
+  "totalPublicDesigns": 185,
+  "checkedViewports": [
+    1440,
+    820,
+    390
+  ],
+  "newPhotosReplacedExistingPhotos": false,
+  "existingPhotosRetainedUntilReplacement": true,
+  "publicSourceCredits": false,
+  "images": [
+    {
+      "id": "9900000000001",
+      "title": "Ivory & Gold Rose Engagement Cake",
+      "image": "assets/products/cakes/cake-ivory-gold-rose-engagement-cake-c01.webp",
+      "source": "https://www.anniescreativecakes.co.uk/engagement-wedding",
+      "source_country": "GB",
+      "tiers": 1,
+      "collections": [
+        "engagement-cakes",
+        "luxury-cakes"
+      ]
+    },
+    {
+      "id": "9900000000002",
+      "title": "Pink Geode Blossom Engagement Cake",
+      "image": "assets/products/cakes/cake-pink-geode-blossom-engagement-cake-c02.webp",
+      "source": "https://www.anniescreativecakes.co.uk/engagement-wedding",
+      "source_country": "GB",
+      "tiers": 1,
+      "collections": [
+        "engagement-cakes",
+        "luxury-cakes"
+      ]
+    },
+    {
+      "id": "9900000000003",
+      "title": "Navy & Ivory Rose Cascade Engagement Cake",
+      "image": "assets/products/cakes/cake-navy-ivory-rose-cascade-engagement-cake-c03.webp",
+      "source": "https://www.anniescreativecakes.co.uk/engagement-wedding",
+      "source_country": "GB",
+      "tiers": 2,
+      "collections": [
+        "engagement-cakes",
+        "luxury-cakes",
+        "tiered-cake"
+      ]
+    },
+    {
+      "id": "9900000000004",
+      "title": "Silver & Blush Pearl Engagement Cake",
+      "image": "assets/products/cakes/cake-silver-blush-pearl-engagement-cake-c04.webp",
+      "source": "https://www.anniescreativecakes.co.uk/engagement-wedding",
+      "source_country": "GB",
+      "tiers": 2,
+      "collections": [
+        "engagement-cakes",
+        "luxury-cakes",
+        "tiered-cake"
+      ]
+    },
+    {
+      "id": "9900000000005",
+      "title": "Gold Rose Proposal Cake",
+      "image": "assets/products/cakes/cake-gold-rose-proposal-cake-c05.webp",
+      "source": "https://www.anniescreativecakes.co.uk/engagement-wedding",
+      "source_country": "GB",
+      "tiers": 2,
+      "collections": [
+        "engagement-cakes",
+        "luxury-cakes",
+        "tiered-cake"
+      ]
+    },
+    {
+      "id": "9900000000006",
+      "title": "Quilted Ivory Engagement Cake",
+      "image": "assets/products/cakes/cake-quilted-ivory-engagement-cake-c06.webp",
+      "source": "https://www.anniescreativecakes.co.uk/engagement-wedding",
+      "source_country": "GB",
+      "tiers": 2,
+      "collections": [
+        "engagement-cakes",
+        "luxury-cakes",
+        "tiered-cake"
+      ]
+    },
+    {
+      "id": "9900000000007",
+      "title": "Ivory Rosette Engagement Cake",
+      "image": "assets/products/cakes/cake-ivory-rosette-engagement-cake-c07.webp",
+      "source": "https://www.anniescreativecakes.co.uk/engagement-wedding",
+      "source_country": "GB",
+      "tiers": 2,
+      "collections": [
+        "engagement-cakes",
+        "luxury-cakes",
+        "tiered-cake"
+      ]
+    },
+    {
+      "id": "9900000000008",
+      "title": "Blush Roses & Silver Lace Engagement Cake",
+      "image": "assets/products/cakes/cake-blush-roses-silver-lace-engagement-cake-c08.webp",
+      "source": "https://www.anniescreativecakes.co.uk/engagement-wedding",
+      "source_country": "GB",
+      "tiers": 3,
+      "collections": [
+        "engagement-cakes",
+        "luxury-cakes",
+        "tiered-cake"
+      ]
+    },
+    {
+      "id": "9900000000009",
+      "title": "White & Gold Confetti Engagement Cake",
+      "image": "assets/products/cakes/cake-white-gold-confetti-engagement-cake-c09.webp",
+      "source": "https://www.anniescreativecakes.co.uk/engagement-wedding",
+      "source_country": "GB",
+      "tiers": 3,
+      "collections": [
+        "engagement-cakes",
+        "luxury-cakes",
+        "tiered-cake"
+      ]
+    },
+    {
+      "id": "9900000000010",
+      "title": "Painted Blush Rose Wedding Cake",
+      "image": "assets/products/cakes/cake-painted-blush-rose-wedding-cake-c10.webp",
+      "source": "https://www.anniescreativecakes.co.uk/engagement-wedding",
+      "source_country": "GB",
+      "tiers": 2,
+      "collections": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "tiered-cake",
+        "sugar-flower-cakes"
+      ]
+    },
+    {
+      "id": "9900000000011",
+      "title": "Ivory Rose & Gypsophila Wedding Cake",
+      "image": "assets/products/cakes/cake-ivory-rose-gypsophila-wedding-cake-c11.webp",
+      "source": "https://www.anniescreativecakes.co.uk/engagement-wedding",
+      "source_country": "GB",
+      "tiers": 2,
+      "collections": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "tiered-cake"
+      ]
+    },
+    {
+      "id": "9900000000012",
+      "title": "Soft Blue Blossom Wedding Cake",
+      "image": "assets/products/cakes/cake-soft-blue-blossom-wedding-cake-c12.webp",
+      "source": "https://www.anniescreativecakes.co.uk/engagement-wedding",
+      "source_country": "GB",
+      "tiers": 2,
+      "collections": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "tiered-cake",
+        "sugar-flower-cakes"
+      ]
+    },
+    {
+      "id": "9900000000013",
+      "title": "Blush Fondant Blossom Wedding Cake",
+      "image": "assets/products/cakes/cake-blush-fondant-blossom-wedding-cake-c13.webp",
+      "source": "https://www.anniescreativecakes.co.uk/engagement-wedding",
+      "source_country": "GB",
+      "tiers": 2,
+      "collections": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "tiered-cake",
+        "sugar-flower-cakes"
+      ]
+    },
+    {
+      "id": "9900000000014",
+      "title": "Gold-Edged Rose Cascade Wedding Cake",
+      "image": "assets/products/cakes/cake-gold-edged-rose-cascade-wedding-cake-c14.webp",
+      "source": "https://www.anniescreativecakes.co.uk/engagement-wedding",
+      "source_country": "GB",
+      "tiers": 2,
+      "collections": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "tiered-cake"
+      ]
+    },
+    {
+      "id": "9900000000015",
+      "title": "Fresh Rose Semi-Naked Wedding Cake",
+      "image": "assets/products/cakes/cake-fresh-rose-semi-naked-wedding-cake-c15.webp",
+      "source": "https://www.anniescreativecakes.co.uk/engagement-wedding",
+      "source_country": "GB",
+      "tiers": 3,
+      "collections": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "tiered-cake",
+        "fresh-floral-cakes"
+      ]
+    },
+    {
+      "id": "9900000000016",
+      "title": "Ivory Roses & Gold Leaf Wedding Cake",
+      "image": "assets/products/cakes/cake-ivory-roses-gold-leaf-wedding-cake-c16.webp",
+      "source": "https://www.anniescreativecakes.co.uk/engagement-wedding",
+      "source_country": "GB",
+      "tiers": 3,
+      "collections": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "tiered-cake",
+        "fresh-floral-cakes"
+      ]
+    },
+    {
+      "id": "9900000000017",
+      "title": "Woodland Wildflower Wedding Cake",
+      "image": "assets/products/cakes/cake-woodland-wildflower-wedding-cake-c17.webp",
+      "source": "https://www.anniescreativecakes.co.uk/engagement-wedding",
+      "source_country": "GB",
+      "tiers": 3,
+      "collections": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "tiered-cake",
+        "fresh-floral-cakes"
+      ]
+    },
+    {
+      "id": "9900000000018",
+      "title": "Blush Monogram Semi-Naked Wedding Cake",
+      "image": "assets/products/cakes/cake-blush-monogram-semi-naked-wedding-cake-c18.webp",
+      "source": "https://www.rosewoodcakes.com/naked-wedding-cakes",
+      "source_country": "GB",
+      "tiers": 4,
+      "collections": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "tiered-cake",
+        "fresh-floral-cakes"
+      ]
+    },
+    {
+      "id": "9900000000019",
+      "title": "White Rose & Blue Meadow Wedding Cake",
+      "image": "assets/products/cakes/cake-white-rose-blue-meadow-wedding-cake-c19.webp",
+      "source": "https://www.rosewoodcakes.com/naked-wedding-cakes",
+      "source_country": "GB",
+      "tiers": 3,
+      "collections": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "tiered-cake",
+        "fresh-floral-cakes"
+      ]
+    },
+    {
+      "id": "9900000000020",
+      "title": "Autumn Fig Semi-Naked Wedding Cake",
+      "image": "assets/products/cakes/cake-autumn-fig-semi-naked-wedding-cake-c20.webp",
+      "source": "https://www.rosewoodcakes.com/naked-wedding-cakes",
+      "source_country": "GB",
+      "tiers": 4,
+      "collections": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "tiered-cake"
+      ]
+    },
+    {
+      "id": "9900000000021",
+      "title": "Tropical Orchid Garden Wedding Cake",
+      "image": "assets/products/cakes/cake-tropical-orchid-garden-wedding-cake-c21.webp",
+      "source": "https://www.rosewoodcakes.com/naked-wedding-cakes",
+      "source_country": "GB",
+      "tiers": 4,
+      "collections": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "tiered-cake",
+        "fresh-floral-cakes"
+      ]
+    },
+    {
+      "id": "9900000000022",
+      "title": "Autumn Rose Semi-Naked Wedding Cake",
+      "image": "assets/products/cakes/cake-autumn-rose-semi-naked-wedding-cake-c22.webp",
+      "source": "https://www.rosewoodcakes.com/naked-wedding-cakes",
+      "source_country": "GB",
+      "tiers": 3,
+      "collections": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "tiered-cake",
+        "fresh-floral-cakes"
+      ]
+    },
+    {
+      "id": "9900000000023",
+      "title": "Woodland Thistle Wedding Cake",
+      "image": "assets/products/cakes/cake-woodland-thistle-wedding-cake-c23.webp",
+      "source": "https://www.rosewoodcakes.com/naked-wedding-cakes",
+      "source_country": "GB",
+      "tiers": 3,
+      "collections": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "tiered-cake",
+        "fresh-floral-cakes"
+      ]
+    },
+    {
+      "id": "9900000000024",
+      "title": "Gypsophila Garland Wedding Cake",
+      "image": "assets/products/cakes/cake-gypsophila-garland-wedding-cake-c24.webp",
+      "source": "https://www.rosewoodcakes.com/naked-wedding-cakes",
+      "source_country": "GB",
+      "tiers": 3,
+      "collections": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "tiered-cake",
+        "fresh-floral-cakes"
+      ]
+    },
+    {
+      "id": "9900000000025",
+      "title": "Ivory & Gold Rose Tower Wedding Cake",
+      "image": "assets/products/cakes/cake-ivory-gold-rose-tower-wedding-cake-c25.webp",
+      "source": "https://www.anniescreativecakes.co.uk/engagement-wedding",
+      "source_country": "GB",
+      "tiers": 3,
+      "collections": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "tiered-cake"
+      ]
+    },
+    {
+      "id": "9900000000026",
+      "title": "Midnight Fern & Rose Wedding Cake",
+      "image": "assets/products/cakes/cake-midnight-fern-rose-wedding-cake-c26.webp",
+      "source": "https://www.rosewoodcakes.com/artistic-wedding-cakes",
+      "source_country": "GB",
+      "tiers": 4,
+      "collections": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "tiered-cake"
+      ]
+    },
+    {
+      "id": "9900000000027",
+      "title": "Painted Garden Rose Wedding Cake",
+      "image": "assets/products/cakes/cake-painted-garden-rose-wedding-cake-c27.webp",
+      "source": "https://www.rosewoodcakes.com/artistic-wedding-cakes",
+      "source_country": "GB",
+      "tiers": 3,
+      "collections": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "tiered-cake",
+        "sugar-flower-cakes"
+      ]
+    },
+    {
+      "id": "9900000000028",
+      "title": "Lilac Watercolour Anemone Wedding Cake",
+      "image": "assets/products/cakes/cake-lilac-watercolour-anemone-wedding-cake-c28.webp",
+      "source": "https://www.rosewoodcakes.com/artistic-wedding-cakes",
+      "source_country": "GB",
+      "tiers": 2,
+      "collections": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "tiered-cake",
+        "sugar-flower-cakes"
+      ]
+    },
+    {
+      "id": "9900000000029",
+      "title": "Sky Blue Watercolour Wedding Cake",
+      "image": "assets/products/cakes/cake-sky-blue-watercolour-wedding-cake-c29.webp",
+      "source": "https://www.rosewoodcakes.com/artistic-wedding-cakes",
+      "source_country": "GB",
+      "tiers": 3,
+      "collections": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "tiered-cake",
+        "sugar-flower-cakes"
+      ]
+    },
+    {
+      "id": "9900000000030",
+      "title": "Burgundy Ombré Sugar Flower Cake",
+      "image": "assets/products/cakes/cake-burgundy-ombr-sugar-flower-cake-c30.webp",
+      "source": "https://www.rosewoodcakes.com/artistic-wedding-cakes",
+      "source_country": "GB",
+      "tiers": 1,
+      "collections": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "sugar-flower-cakes"
+      ]
+    },
+    {
+      "id": "9900000000031",
+      "title": "Painted Birdcage Wedding Cake",
+      "image": "assets/products/cakes/cake-painted-birdcage-wedding-cake-c31.webp",
+      "source": "https://www.rosewoodcakes.com/artistic-wedding-cakes",
+      "source_country": "GB",
+      "tiers": 1,
+      "collections": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "sugar-flower-cakes"
+      ]
+    },
+    {
+      "id": "9900000000032",
+      "title": "Hand-Painted Spring Floral Wedding Cake",
+      "image": "assets/products/cakes/cake-hand-painted-spring-floral-wedding-cake-c32.webp",
+      "source": "https://www.rosewoodcakes.com/artistic-wedding-cakes",
+      "source_country": "GB",
+      "tiers": 4,
+      "collections": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "tiered-cake",
+        "sugar-flower-cakes"
+      ]
+    },
+    {
+      "id": "9900000000033",
+      "title": "Blue Ruffle & Ivory Rose Wedding Cake",
+      "image": "assets/products/cakes/cake-blue-ruffle-ivory-rose-wedding-cake-c33.webp",
+      "source": "https://www.rosewoodcakes.com/artistic-wedding-cakes",
+      "source_country": "GB",
+      "tiers": 3,
+      "collections": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "tiered-cake",
+        "sugar-flower-cakes"
+      ]
+    },
+    {
+      "id": "9900000000034",
+      "title": "Silver Rings Engagement Cake",
+      "image": "assets/products/cakes/cake-silver-rings-engagement-cake-c34.webp",
+      "source": "https://www.anniescreativecakes.co.uk/engagement-wedding",
+      "source_country": "GB",
+      "tiers": 1,
+      "collections": [
+        "engagement-cakes",
+        "luxury-cakes"
+      ]
+    },
+    {
+      "id": "9900000000035",
+      "title": "Blush Rosette & Gold Wedding Cake",
+      "image": "assets/products/cakes/cake-blush-rosette-gold-wedding-cake-c35.webp",
+      "source": "https://www.anniescreativecakes.co.uk/engagement-wedding",
+      "source_country": "GB",
+      "tiers": 3,
+      "collections": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "tiered-cake"
+      ]
+    },
+    {
+      "id": "9900000000036",
+      "title": "Ivory Silhouette Wedding Cake",
+      "image": "assets/products/cakes/cake-ivory-silhouette-wedding-cake-c36.webp",
+      "source": "https://www.anniescreativecakes.co.uk/engagement-wedding",
+      "source_country": "GB",
+      "tiers": 3,
+      "collections": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "tiered-cake"
+      ]
+    },
+    {
+      "id": "9900000000037",
+      "title": "Purple Marble & Silver Vine Wedding Cake",
+      "image": "assets/products/cakes/cake-purple-marble-silver-vine-wedding-cake-c37.webp",
+      "source": "https://www.anniescreativecakes.co.uk/engagement-wedding",
+      "source_country": "GB",
+      "tiers": 3,
+      "collections": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "tiered-cake"
+      ]
+    },
+    {
+      "id": "9900000000038",
+      "title": "Champagne Ruffle & Monogram Wedding Cake",
+      "image": "assets/products/cakes/cake-champagne-ruffle-monogram-wedding-cake-c38.webp",
+      "source": "https://www.anniescreativecakes.co.uk/engagement-wedding",
+      "source_country": "GB",
+      "tiers": 4,
+      "collections": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "tiered-cake"
+      ]
+    },
+    {
+      "id": "9900000000039",
+      "title": "Blush Watercolour Sugar Blossom Cake",
+      "image": "assets/products/cakes/cake-blush-watercolour-sugar-blossom-cake-c39.webp",
+      "source": "https://www.rosewoodcakes.com/artistic-wedding-cakes",
+      "source_country": "GB",
+      "tiers": 2,
+      "collections": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "tiered-cake",
+        "sugar-flower-cakes"
+      ]
+    },
+    {
+      "id": "9900000000040",
+      "title": "Peach Watercolour & Lace Wedding Cake",
+      "image": "assets/products/cakes/cake-peach-watercolour-lace-wedding-cake-c40.webp",
+      "source": "https://www.rosewoodcakes.com/artistic-wedding-cakes",
+      "source_country": "GB",
+      "tiers": 4,
+      "collections": [
+        "wedding-cake-dubai",
+        "luxury-cakes",
+        "tiered-cake",
+        "sugar-flower-cakes"
+      ]
+    }
+  ]
+}

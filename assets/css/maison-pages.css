@@ -1,0 +1,144 @@
+/* Shared palette and section rhythm for the homepage and enquiry pages. */
+body:is([data-page="/"],[data-page="/contact"],[data-page="/bespoke"]){--ivory:#faf7f1;--paper:#fffdf9;--wine:#502633;--wine-dark:#38202a;--ink:#342922;--muted:#756960;--gold:#9b7950;--line:#dfd5ca;--wash:#f0ebe4;background:var(--ivory)}
+
+.maison-home .eyebrow,.maison-home .section-number{color:var(--gold);font:500 10px/1.6 var(--body);letter-spacing:1.8px}
+.maison-home em{color:var(--wine)}
+.maison-home .button{border-radius:3px;font-size:11px;letter-spacing:1px;background:var(--wine);border-color:var(--wine)}
+.maison-home .text-link{font-size:11px;letter-spacing:.8px;gap:22px}
+.maison-hero .hero-copy{padding:20px 0;max-width:580px}
+.maison-hero h1{font-size:clamp(48px,5.6vw,82px);line-height:1.08;letter-spacing:-1px;margin:24px 0}
+.maison-hero .hero-copy>p:not(.eyebrow){font:400 17px/1.8 var(--body);color:var(--muted);max-width:380px;margin-bottom:28px}
+.maison-hero .hero-actions{display:flex;flex-wrap:wrap;align-items:center;gap:22px;margin:0}
+.maison-hero .hero-actions .text-link{color:var(--wine)}
+.maison-promises{border-block:1px solid var(--line);background:var(--paper)}
+.maison-promises>.wrap{display:flex;justify-content:space-between;align-items:center;gap:20px;padding-block:22px;font:400 12px/1.6 var(--body);color:var(--muted)}
+.maison-promises a{display:flex;align-items:center;gap:12px;color:var(--wine)}
+.maison-promises svg{width:17px}
+body[data-page="/"] .maison-home .section-space{padding-block:88px}
+.maison-home .wedding-editorial{display:grid;grid-template-columns:1fr 1fr;align-items:center;gap:8%}
+.maison-home .wedding-photo{padding:0;border:1px solid var(--line);border-radius:5px;overflow:hidden;background:var(--paper)}
+.maison-home .wedding-photo img{aspect-ratio:1.06;object-fit:contain}
+.maison-home .wedding-photo-caption{padding:17px 20px;font:500 10px/1.5 var(--body);color:var(--muted)}
+.maison-home .wedding-copy{padding:0}
+.maison-home .wedding-copy>p{font:400 16px/1.85 var(--body);color:var(--muted);max-width:430px;margin:25px 0}
+.maison-home .wedding-copy>.text-link{display:block;width:fit-content;margin-top:22px}
+.editorial-detail{display:grid;gap:10px;margin-top:24px;padding-top:22px;border-top:1px solid var(--line);max-width:430px}
+.editorial-detail>span{font:500 10px/1.5 var(--body);color:var(--gold);letter-spacing:1.5px}
+.editorial-detail p{font:400 13px/1.8 var(--body);color:var(--muted);margin:0}
+.maison-home .editorial-detail .text-link{display:inline-flex;align-items:center;justify-self:start;gap:12px;max-width:100%;margin-top:4px}
+.maison-home .cake-carousel{margin-top:48px}
+.maison-home .carousel-toolbar{gap:16px}
+.maison-home .carousel-controls{gap:8px}
+.maison-home .carousel-controls>span{margin-right:2px}
+.maison-home .carousel-track .product-card{border:1px solid var(--line);border-radius:5px;overflow:hidden;background:var(--paper);color:var(--ink)}
+.maison-home .carousel-track .product-caption{padding:18px}
+.maison-home .carousel-track .card-actions{margin-top:14px}
+.maison-home .carousel-track .product-image-link img{padding:0;transition:transform .4s ease}
+.maison-home .carousel-track .product-caption h3{font-size:27px}
+.collections-band{background:var(--paper);border-block:1px solid var(--line)}
+.maison-home .collection-showcase{border:0}
+.maison-home .collection-showcase-grid .collection-tile{background:var(--paper)}
+.maison-home .signature-section{background:var(--ivory);color:var(--ink);border:0}
+.maison-home .signature-section h2{color:var(--ink)}
+.maison-home .signature-section em{color:var(--wine)}
+.maison-home .signature-section .eyebrow{color:var(--muted)}
+.maison-home .signature-section .section-heading p:not(.eyebrow){color:var(--muted)}
+.maison-home .signature-section .section-heading>div>.text-link{color:var(--ink);border-color:var(--line)}
+.maison-home .signature-section .carousel-controls{color:var(--ink)}
+.maison-home .signature-section .carousel-controls>span{color:var(--muted)}
+.maison-home .signature-section .carousel-progress{background:var(--line)}
+.maison-home .signature-section .carousel-progress span{background:var(--ink)}
+.maison-home .signature-section .card-collection{color:var(--muted)}
+.maison-home .signature-section .cake-carousel{margin-top:32px}
+.maison-home .bespoke-feature{display:grid;grid-template-columns:1fr 1fr;gap:8%;align-items:center}
+.maison-home .bespoke-copy{padding:0;background:transparent;color:var(--ink)}
+.maison-home .bespoke-copy>p:not(.eyebrow){font:400 16px/1.85 var(--body);color:var(--muted);max-width:410px;margin-block:25px}
+.maison-home .bespoke-copy .bespoke-caption{display:block;color:var(--gold);margin-top:30px}
+.maison-home .bespoke-photo{min-height:0;aspect-ratio:1;overflow:hidden;border:1px solid var(--line);border-radius:5px;background:var(--wash)}
+.maison-home .bespoke-photo img{padding:0;height:100%;object-fit:contain}
+.maison-home .bespoke-image-note{position:static;display:none}
+.maison-home .process-grid{gap:0;padding:0;border-top:1px solid var(--line)}
+.maison-home .process-grid article{padding:32px 30px 0 0}
+.maison-home .process-grid article+article{border-left:1px solid var(--line);padding-left:30px}
+.maison-home .process-grid article>span{font:500 13px var(--body);color:var(--wine)}
+.maison-home .process-grid h3{font:500 19px/1.4 var(--body);margin:0 0 14px;letter-spacing:0}
+.maison-home .process-grid p{font:400 14px/1.8 var(--body)}
+.maison-home .maison-note{border:0;padding-block:85px;text-align:center}
+.maison-home .maison-note>p:not(.eyebrow){font:400 16px/1.85 var(--body);color:var(--muted)}
+.enquiry-page .enquiry-layout{display:grid;grid-template-columns:minmax(0,.85fr) minmax(0,1.15fr);gap:8%;align-items:start;padding:34px 0 90px}
+.enquiry-page .enquiry-intro{position:sticky;top:28px}
+.enquiry-page .enquiry-intro h1{font-size:clamp(45px,5vw,70px);line-height:1.1;letter-spacing:-1px;margin:20px 0}
+.enquiry-page .enquiry-intro>p:not(.eyebrow){font:400 16px/1.85 var(--body);color:var(--muted);max-width:430px}
+.enquiry-help-links{display:grid;gap:0;border-top:1px solid var(--line);margin-top:28px}
+.enquiry-help-links a{display:flex;justify-content:space-between;align-items:center;padding:15px 0;border-bottom:1px solid var(--line);font:500 13px/1.6 var(--body)}
+.enquiry-help-links svg{width:17px}
+.enquiry-visual{margin:28px 0 0;display:grid;grid-template-columns:125px 1fr;align-items:center;border:1px solid var(--line);border-radius:5px;overflow:hidden;background:var(--wash)}
+.enquiry-visual img{width:125px;height:150px;object-fit:contain}
+.enquiry-visual figcaption{padding:18px;font:400 13px/1.7 var(--body);color:var(--muted)}
+.enquiry-visual strong{display:block;color:var(--wine);font-weight:500;margin-bottom:5px}
+.enquiry-page .enquiry-form-wrap{border:1px solid var(--line);border-radius:7px;background:var(--paper);padding:34px}
+.enquiry-page .enquiry-form-wrap>h2{font-size:38px;line-height:1.2;margin:10px 0}
+.enquiry-form-intro{font:400 13px/1.7 var(--body);color:var(--muted);margin:0 0 30px}
+.enquiry-fieldset{border:0;padding:0;margin:0 0 28px;min-width:0}
+.enquiry-fieldset legend{float:left;width:100%;display:flex;align-items:center;gap:12px;font:500 15px/1.5 var(--body);padding:0 0 16px;margin-bottom:18px;border-bottom:1px solid var(--line)}
+.enquiry-fieldset legend+*{clear:both}
+.enquiry-fieldset legend span{display:grid;place-items:center;width:27px;height:27px;border-radius:50%;background:var(--wash);color:var(--wine);font-size:11px}
+.enquiry-page .form-grid{gap:18px}
+.enquiry-page .form-grid>label{font:500 13px/1.5 var(--body)}
+.enquiry-page .form-grid :is(input,textarea,select){font:400 16px/1.5 var(--body);padding:12px;border:1px solid #cabdaf;background:var(--paper);border-radius:4px;min-height:46px;margin-top:7px}
+.enquiry-page textarea{resize:vertical;min-height:125px}
+.enquiry-page .form-grid :is(input,textarea,select):focus{border-color:var(--wine);outline:2px solid #50263320;outline-offset:2px}
+.enquiry-page .reference-upload{border:1px dashed #b5a08b;padding:18px;border-radius:5px;background:var(--ivory)}
+.enquiry-page .reference-upload p{font-size:12px;line-height:1.7;margin-bottom:12px}
+.enquiry-page .reference-upload input{width:100%;min-width:0;font-size:12px}
+.enquiry-page .reference-upload input::file-selector-button{border:1px solid var(--line);border-radius:3px;background:var(--paper);font:500 12px var(--body);color:var(--wine);padding:9px 12px;margin-right:10px}
+.enquiry-page .consent{font:400 12px/1.75 var(--body);align-items:flex-start;margin:6px 0 20px}
+.enquiry-page .consent input{width:17px;height:17px;margin-top:3px;accent-color:var(--wine);flex-shrink:0}
+.enquiry-page .button{border-radius:4px;font-size:11px}
+.enquiry-page .form-footnote{font:400 12px/1.7 var(--body);color:var(--muted);margin:16px 0 0}
+.enquiry-page .form-error:empty{display:none}
+.enquiry-page .request-success{padding:20px 0}
+@media(hover:hover) and (pointer:fine){.maison-home .wedding-photo:hover img,.maison-home .carousel-track .product-image-link:hover img{transform:scale(1.045)}}
+.maison-home .wedding-photo img{transition:transform .6s ease}
+@media(max-width:1000px){.maison-home .maison-hero{gap:5%}.maison-hero h1{font-size:clamp(45px,6vw,60px)}.maison-hero .hero-actions{gap:16px}.maison-hero .button{font-size:10px;padding:14px 18px}.enquiry-page .enquiry-layout{gap:5%;grid-template-columns:minmax(0,.8fr) minmax(0,1.2fr)}.enquiry-page .enquiry-form-wrap{padding:25px}.enquiry-visual{grid-template-columns:95px 1fr}.enquiry-visual img{width:95px}}
+@media(max-width:760px){.maison-home .maison-hero{grid-template-columns:1fr;gap:26px;padding-block:30px}.maison-hero .hero-copy{text-align:center;max-width:none;padding:0}.maison-hero h1{font-size:clamp(43px,10vw,64px);margin:20px 0}.maison-hero .hero-copy>p:not(.eyebrow){font-size:16px;margin:0 auto 24px;max-width:340px}.maison-hero .hero-actions{justify-content:center}.maison-promises>.wrap{flex-wrap:wrap;justify-content:center;text-align:center;gap:8px 18px;padding-block:17px;font-size:11px}.maison-promises span:nth-child(2){display:none}body[data-page="/"] .maison-home .section-space{padding-block:55px}.maison-home .wedding-editorial{grid-template-columns:1fr;gap:28px}.maison-home .wedding-copy>p{font-size:15px;margin-block:20px}.maison-home .editorial-detail{margin-top:25px;padding-top:20px}.maison-home .cake-carousel{margin-top:34px}.maison-home .carousel-toolbar{flex-wrap:wrap;gap:14px}.maison-home .carousel-controls{margin-left:auto}.maison-home .carousel-toolbar .eyebrow{max-width:none;font-size:9px}.maison-home .carousel-controls button{width:36px;height:36px}.maison-home .carousel-track .product-caption{padding:15px}.maison-home .signature-section .section-heading{display:block}.maison-home .signature-section .section-heading>div+div{margin-top:24px}.maison-home .bespoke-feature{grid-template-columns:1fr;gap:28px}.maison-home .bespoke-copy{padding:0}.maison-home .bespoke-photo{grid-row:1}.maison-home .process-grid{grid-template-columns:1fr}.maison-home .process-grid article,.maison-home .process-grid article+article{position:relative;padding:25px 0;border:0;border-bottom:1px solid var(--line)}.maison-home .process-grid article>span{position:absolute;top:28px;left:0;font-size:12px}.maison-home .process-grid h3{margin:0 0 12px;font-size:18px}.maison-home .maison-note{padding-block:55px}.maison-home .maison-note>p:not(.eyebrow){font-size:15px}.enquiry-page .enquiry-layout{grid-template-columns:1fr;gap:28px;padding:20px 0 55px}.enquiry-page .enquiry-intro{position:static}.enquiry-page .enquiry-intro h1{font-size:47px}.enquiry-page .enquiry-intro>p:not(.eyebrow){font-size:15px}.enquiry-visual{display:none}.enquiry-help-links{margin-top:22px}.enquiry-help-links a{padding:12px 0}.enquiry-page .enquiry-form-wrap{padding:24px 18px}.enquiry-page .enquiry-form-wrap>h2{font-size:34px}.enquiry-page .form-grid{grid-template-columns:1fr}.enquiry-page .reference-upload{padding:14px}.enquiry-page .reference-upload input{font-size:11px}.enquiry-page .enquiry-fieldset{margin-bottom:25px}}
+@media(prefers-reduced-motion:reduce){.maison-home img{transition:none}}
+
+/* Two alternating light section surfaces; photography keeps its natural colours. */
+body[data-page="/"]{--ivory:#f3ecdf;--paper:#fbf7ef;--gold:var(--wine)}
+
+
+
+
+
+.maison-home em,.maison-home .hero-actions .text-link{color:var(--wine)}
+.maison-home .button{background:var(--wine);border-color:var(--wine)}
+.maison-home .wedding-showcase,.maison-home .process-band{background:var(--ivory)}
+.maison-home .bespoke-band,.maison-home .maison-note{background:var(--paper)}
+.maison-home .process-band{border-block:1px solid var(--line)}
+.maison-home .maison-note{padding-inline:24px}
+.tile-arrow .icon{width:20px;height:20px;display:block;flex-shrink:0}
+.maison-home .video-hero{position:relative;isolation:isolate;display:block;min-height:0;padding:0;background:var(--ivory)}
+.video-hero .hero-media{position:relative;width:100%;height:650px;overflow:hidden;background:var(--ivory)}
+.video-hero .hero-media :is(img,video){position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:center;animation:none;mix-blend-mode:normal;transform:none}
+.video-hero .hero-media video{opacity:0}
+.video-hero[data-video-state="playing"] .hero-media video,.video-hero[data-video-state="paused"] .hero-media video{opacity:1}
+.video-hero::after{content:"";position:absolute;inset:0;pointer-events:none;background:linear-gradient(90deg,#f3ecdff2 0%,#f3ecdfd9 20%,#f3ecdf66 35%,transparent 51%)}
+.video-hero .hero-inner{position:absolute;z-index:1;top:50%;left:0;transform:translateY(-50%);width:100%;margin:0;padding:40px clamp(24px,4.2vw,70px);pointer-events:none}
+.video-hero .hero-copy{max-width:440px;padding:0;pointer-events:auto}
+.maison-home .video-hero .hero-actions{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px;align-items:stretch;max-width:440px}
+.maison-home .video-hero .hero-actions>a{display:flex;align-items:center;justify-content:center;min-width:0;min-height:48px;margin:0;padding:12px 8px;white-space:normal;text-align:center;font-size:11px;letter-spacing:.04em;line-height:1.5}
+.maison-home .video-hero .hero-actions .icon{flex-shrink:0;width:15px}
+.video-hero .hero-copy h1{font-size:clamp(42px,4vw,62px)}
+.video-hero .hero-copy>p:not(.eyebrow){font-size:16px;max-width:330px}
+.maison-home .video-hero .hero-copy>p.hero-footnote{font:500 9px/1.7 var(--body);letter-spacing:1.5px;color:var(--muted);margin:32px 0 0;max-width:none}
+@media(max-width:900px){
+ .video-hero .hero-media{height:auto;aspect-ratio:16/9}
+ .video-hero::after{display:none}
+ .video-hero .hero-inner{position:relative;top:auto;left:auto;transform:none;padding:30px 24px 38px}
+ .video-hero .hero-copy{max-width:600px;text-align:left}
+ .video-hero .hero-copy h1{font-size:clamp(42px,7vw,60px);margin:16px 0}
+ .video-hero .hero-copy>p:not(.eyebrow){margin-left:0;max-width:450px}
+ .video-hero .hero-actions{justify-content:flex-start;gap:20px}
+ .maison-home .video-hero .hero-copy>p.hero-footnote{margin-top:26px;font-size:8px}
+}

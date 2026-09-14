@@ -1,0 +1,9 @@
+/* Upright editorial serif for cake names; branding and major headings keep Runethia. */
+body .product-information h1,
+body .product-card .product-caption h3,
+body .cart-item h3,
+body .summary-item h3{font-family:'Bodoni Moda',Georgia,serif;font-style:normal;font-weight:500;font-synthesis:none;letter-spacing:0}
+body .product-information h1{font-size:clamp(28px,2.6vw,39px);line-height:1.25;text-wrap:pretty}
+body .product-card .product-caption h3{font-size:clamp(19px,1.6vw,24px);line-height:1.35}
+body .cart-item h3,body .summary-item h3{line-height:1.35}
+@media(max-width:600px){body .product-card .product-caption h3{font-size:19px}}

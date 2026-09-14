@@ -1,0 +1,757 @@
+{
+  "updatedAt": "2026-09-13T19:03:36.561Z",
+  "instruction": "Keep products whose Perfect Gift photos were replaced; remove products whose photos were not replaced.",
+  "previousPublicCount": 217,
+  "removedCount": 70,
+  "retainedImportedWithReplacedPhotos": 17,
+  "currentPublicCount": 147,
+  "collections": [
+    {
+      "slug": "wedding-cakes",
+      "count": 130
+    },
+    {
+      "slug": "luxury-cakes",
+      "count": 147
+    },
+    {
+      "slug": "engagement-cakes",
+      "count": 12
+    },
+    {
+      "slug": "tiered-cakes",
+      "count": 131
+    },
+    {
+      "slug": "fresh-floral-cakes",
+      "count": 25
+    },
+    {
+      "slug": "sugar-flower-cakes",
+      "count": 40
+    }
+  ],
+  "removed": [
+    {
+      "id": "8957439181025",
+      "title": "Pink & White Birthday Cake with Ribbon Bows",
+      "page": "/cakes/pink-white-birthday-cake-with-ribbon-bows-dubai",
+      "originalImages": [
+        "assets/products/8957439181025.jpg"
+      ]
+    },
+    {
+      "id": "8961075151073",
+      "title": "Pink Crown Lambeth Birthday Cake",
+      "page": "/cakes/pink-crown-birthday-cake-lambeth-dubai",
+      "originalImages": [
+        "assets/products/8961075151073.jpg"
+      ]
+    },
+    {
+      "id": "9400110317793",
+      "title": "White Feathers Tiered Cake",
+      "page": "/cakes/white-feathers-tiered-cake-dubai",
+      "originalImages": [
+        "assets/products/0639978b7c1bd43308f3.jpg"
+      ]
+    },
+    {
+      "id": "9380722573537",
+      "title": "Key to my Heart' Cake",
+      "page": "/cakes/key-to-my-heart-cake-dubai",
+      "originalImages": [
+        "assets/products/5b0b17c4f584b7aa0780.jpg"
+      ]
+    },
+    {
+      "id": "9380708155617",
+      "title": "Love Heart Cake with White Orchid",
+      "page": "/cakes/love-heart-cake-with-white-orchid-dubai",
+      "originalImages": [
+        "assets/products/5276cfbd7084c7f01439.jpg",
+        "assets/products/f60c7bd34e58518ccfe3.jpg",
+        "assets/products/ba0ae4c9461793939651.jpg",
+        "assets/products/58b0f07825f75e54ad50.jpg",
+        "assets/products/78c5bffc244daef98f29.jpg",
+        "assets/products/7abc195e3c5260383169.jpg"
+      ]
+    },
+    {
+      "id": "9162988716257",
+      "title": "Elegant Ribbon Birthday Blow Out cake",
+      "page": "/cakes/elegant-ribbon-birthday-blow-out-cake-dubai",
+      "originalImages": [
+        "assets/products/c3c599897a550be3e216.jpg"
+      ]
+    },
+    {
+      "id": "9108908966113",
+      "title": "Green & Gold Orchids Cake",
+      "page": "/cakes/green-gold-orchids-cake-dubai",
+      "originalImages": [
+        "assets/products/5f8a38488c9cc43f0a82.jpg",
+        "assets/products/5cef2b4af026543e7c3c.jpg"
+      ]
+    },
+    {
+      "id": "9088842957025",
+      "title": "Green & Rose Gold Butterflies Cake",
+      "page": "/cakes/green-rose-gold-butterflies-cake-dubai",
+      "originalImages": [
+        "assets/products/5cc949f45036a9fca6fe.jpg",
+        "assets/products/95ca14876c1ca2e7a571.jpg",
+        "assets/products/3741673b824ca360f14e.jpg",
+        "assets/products/e620ca25ad332b1bc7bf.jpg",
+        "assets/products/8a08537a134ea01629aa.jpg",
+        "assets/products/7d30c75d0fd0b6074001.jpg"
+      ]
+    },
+    {
+      "id": "8961203470561",
+      "title": "Purple Pink Heart Cake with Bows",
+      "page": "/cakes/purple-pink-heart-cake-with-bows-dubai",
+      "originalImages": [
+        "assets/products/e4e2966825bec6e5bf03.png"
+      ]
+    },
+    {
+      "id": "8961200062689",
+      "title": "Two Tier Crown Lambeth Cake",
+      "page": "/cakes/two-tier-crown-cake-dubai",
+      "originalImages": [
+        "assets/products/283586d499869588ea54.png"
+      ]
+    },
+    {
+      "id": "8961199866081",
+      "title": "Purple Crown Cake with Wafer Flowers",
+      "page": "/cakes/purple-crown-birthday-cake-with-wafer-flowers-dubai",
+      "originalImages": [
+        "assets/products/141c0d28f764dbb2b433.png"
+      ]
+    },
+    {
+      "id": "8961060012257",
+      "title": "Pink Heart Birthday Cake with Pearls",
+      "page": "/cakes/pink-heart-birthday-cake-with-pearls-dubai",
+      "originalImages": [
+        "assets/products/45e9137da55c2838623e.jpg"
+      ]
+    },
+    {
+      "id": "8961055654113",
+      "title": "Black Glitter Heart cake with Pearls",
+      "page": "/cakes/black-glitter-heart-birthday-cake-with-pearls-dubai",
+      "originalImages": [
+        "assets/products/3687055cc05b1efdd578.png"
+      ]
+    },
+    {
+      "id": "8960050364641",
+      "title": "Gold Floral Butter Cream Cake",
+      "page": "/cakes/gold-peonies-butter-cream-cake-dubai",
+      "originalImages": [
+        "assets/products/27d361a215fb2655bef6.png",
+        "assets/products/4581717d5bdcc84869c5.png"
+      ]
+    },
+    {
+      "id": "8894857150689",
+      "title": "Pink Rose Shaped Cake",
+      "page": "/cakes/pink-rose-shaped-cake",
+      "originalImages": [
+        "assets/products/e82352cf9315077115af.jpg",
+        "assets/products/00c2886c662079bf45cd.jpg",
+        "assets/products/cec5a7554b695e9077d4.jpg",
+        "assets/products/d95f8ecf81bf9e6a5f6d.jpg",
+        "assets/products/d330521555b30c183372.jpg"
+      ]
+    },
+    {
+      "id": "8303601909985",
+      "title": "White Floral Birthday Cake",
+      "page": "/cakes/white-floral-birthday-cake",
+      "originalImages": [
+        "assets/products/29b69090b247435a6765.jpg"
+      ]
+    },
+    {
+      "id": "8242768838881",
+      "title": "Heart cake with Pink Roses",
+      "page": "/cakes/heart-cake-with-pink-roses-dubai",
+      "originalImages": [
+        "assets/products/aa8c1ad6e35971d6ee54.jpg",
+        "assets/products/b07e47c002c00051e160.jpg",
+        "assets/products/a83ebdef08a11baa8c84.jpg",
+        "assets/products/49246bfc5b2942bb9e16.jpg"
+      ]
+    },
+    {
+      "id": "8242755698913",
+      "title": "Heart cake with Butterflies",
+      "page": "/cakes/heart-cake-with-butterflies",
+      "originalImages": [
+        "assets/products/8f9fbb3547e7e1cf40e5.jpg"
+      ]
+    },
+    {
+      "id": "8241046225121",
+      "title": "Elegantly Piped Heart Shaped Cake",
+      "page": "/cakes/elegantly-piped-heart-shaped-cake",
+      "originalImages": [
+        "assets/products/9b368e8bc8bca69c7c17.jpg"
+      ]
+    },
+    {
+      "id": "8241039409377",
+      "title": "Red Heart Shaped Cake",
+      "page": "/cakes/red-heart-shaped-cake",
+      "originalImages": [
+        "assets/products/2cce25e65a443ca933c8.jpg"
+      ]
+    },
+    {
+      "id": "8061926965473",
+      "title": "Purple Orchid Cake",
+      "page": "/cakes/purple-orchid-cake-dubai",
+      "originalImages": [
+        "assets/products/f93861b5506f60c1276f.jpg",
+        "assets/products/7b11a3819d1af13ba205.jpg",
+        "assets/products/9638fea8d2f1a195d059.jpg",
+        "assets/products/a6b31320789ecae60c1b.jpg",
+        "assets/products/98df02610eef794c6f9e.jpg",
+        "assets/products/35c90a7ac587bbde681f.jpg"
+      ]
+    },
+    {
+      "id": "8061926834401",
+      "title": "Luxury Pastel Velvet Cake",
+      "page": "/cakes/luxury-pastel-velvet-cake",
+      "originalImages": [
+        "assets/products/146cf93aaba07d967088.jpg"
+      ]
+    },
+    {
+      "id": "8061926768865",
+      "title": "Luxury Floral Vase Cake",
+      "page": "/cakes/round-floral-vase-cake",
+      "originalImages": [
+        "assets/products/3f8097e5489abc491341.jpg"
+      ]
+    },
+    {
+      "id": "8061925884129",
+      "title": "Luxury Butterfly Cake",
+      "page": "/cakes/luxury-butterfly-cake",
+      "originalImages": [
+        "assets/products/af25aeef793218f76208.jpg",
+        "assets/products/0e678a62e08caf238038.jpg",
+        "assets/products/7c061734d6e9ae5ff160.jpg",
+        "assets/products/621e63bbf269c0d6e381.jpg",
+        "assets/products/19e6cf02c79627f6b47e.jpg",
+        "assets/products/588a6e98151f3dff3f92.jpg"
+      ]
+    },
+    {
+      "id": "8060065153249",
+      "title": "Black & Red Rose Cake",
+      "page": "/cakes/black-red-velvet-rose-cake",
+      "originalImages": [
+        "assets/products/c72720f961477871ac80.jpg"
+      ]
+    },
+    {
+      "id": "8028661612769",
+      "title": "Luxury Wedding Drape Floral Cake",
+      "page": "/cakes/luxury-wedding-drape-floral-cake-dubai",
+      "originalImages": [
+        "assets/products/930fd2b735b7c3c4d570.jpg"
+      ]
+    },
+    {
+      "id": "8028661547233",
+      "title": "Wedding Cake with Pink Roses",
+      "page": "/cakes/pink-roses-wedding-cake-dubai",
+      "originalImages": [
+        "assets/products/0bf4c28dcdc31f9f1d5c.jpg"
+      ]
+    },
+    {
+      "id": "8028661514465",
+      "title": "Casa Lily & Peonies Wedding Cake",
+      "page": "/cakes/casa-lily-peonies-wedding-cake",
+      "originalImages": [
+        "assets/products/b576db8f89b4d3f5b710.jpg"
+      ]
+    },
+    {
+      "id": "8028661448929",
+      "title": "Square Wedding Cake",
+      "page": "/cakes/square-wedding-cake-dubai",
+      "originalImages": [
+        "assets/products/8cfe1b49b499fc9440ec.jpg"
+      ]
+    },
+    {
+      "id": "8028661416161",
+      "title": "Two Tiered Cake with Gypso",
+      "page": "/cakes/two-tiered-wedding-cake-with-gypso-dubai",
+      "originalImages": [
+        "assets/products/6254ded345fc37a9cc68.jpg"
+      ]
+    },
+    {
+      "id": "8028661317857",
+      "title": "Imperial Wedding Cake",
+      "page": "/cakes/imperial-wedding-cake-dubai",
+      "originalImages": [
+        "assets/products/5858dd2b802ee56665a7.jpg"
+      ]
+    },
+    {
+      "id": "8028661285089",
+      "title": "Modern Wedding Cake",
+      "page": "/cakes/modern-wedding-cake-dubai",
+      "originalImages": [
+        "assets/products/a1d33206bd6fc19d4e92.jpg"
+      ]
+    },
+    {
+      "id": "8028661252321",
+      "title": "Marble Black & White Two Tiered Cake",
+      "page": "/cakes/marble-black-white-two-tiered-cake-dubai",
+      "originalImages": [
+        "assets/products/132c18ae55850314d755.jpg"
+      ]
+    },
+    {
+      "id": "8028661055713",
+      "title": "Imperial White Wedding Cake",
+      "page": "/cakes/imperial-white-wedding-cake-dubai",
+      "originalImages": [
+        "assets/products/221339b9d1f1e512098a.jpg"
+      ]
+    },
+    {
+      "id": "8028660990177",
+      "title": "Blue & White Wedding Cake",
+      "page": "/cakes/blue-white-wedding-cake-dubai",
+      "originalImages": [
+        "assets/products/ca414e13dafbe5338032.jpg"
+      ]
+    },
+    {
+      "id": "8028660924641",
+      "title": "Two Tiered Cake with Roses",
+      "page": "/cakes/two-tiered-cake-dubai",
+      "originalImages": [
+        "assets/products/7a032cb1e559cc6ba833.jpg"
+      ]
+    },
+    {
+      "id": "8028660826337",
+      "title": "Royal Wedding Cake",
+      "page": "/cakes/royal-wedding-cake-dubai",
+      "originalImages": [
+        "assets/products/fc309258a0051d8ddf66.jpg"
+      ]
+    },
+    {
+      "id": "8028660760801",
+      "title": "Luxury Wedding Cake",
+      "page": "/cakes/luxury-wedding-cake-dubai",
+      "originalImages": [
+        "assets/products/70a1086f80d2abbef410.png"
+      ]
+    },
+    {
+      "id": "8028660695265",
+      "title": "Elegant Two Tier Wedding Dress Cake",
+      "page": "/cakes/elegant-two-tier-wedding-cake-dubai",
+      "originalImages": [
+        "assets/products/99ad277b104807cf248a.jpg"
+      ]
+    },
+    {
+      "id": "8028660596961",
+      "title": "White & Peach Floral Wedding Cake",
+      "page": "/cakes/white-peach-wedding-cake-dubai",
+      "originalImages": [
+        "assets/products/31bfc262720268668133.jpg"
+      ]
+    },
+    {
+      "id": "8028660564193",
+      "title": "Floral White 3 Tiered Cake",
+      "page": "/cakes/floral-white-tier-cake-dubai",
+      "originalImages": [
+        "assets/products/514067ef1f34e8ac7da0.jpg"
+      ]
+    },
+    {
+      "id": "8028660531425",
+      "title": "Elegant Two Tier White Wedding Cake",
+      "page": "/cakes/elegant-three-tiered-white-wedding-cake-dubai",
+      "originalImages": [
+        "assets/products/ff07f0741c71a7fba105.jpg"
+      ]
+    },
+    {
+      "id": "8028660498657",
+      "title": "Classy Wedding Cake",
+      "page": "/cakes/wedding-cake-dubai",
+      "originalImages": [
+        "assets/products/8ec7a330d43d0cc842ce.jpg"
+      ]
+    },
+    {
+      "id": "8028660302049",
+      "title": "Pearl beads & Lace Wedding Cake",
+      "page": "/cakes/pearl-beads-lace-wedding-cake-dubai",
+      "originalImages": [
+        "assets/products/733aece8b22b2430105a.jpg",
+        "assets/products/8ea6237a791871bf3bdf.jpg",
+        "assets/products/8176c76691f45abeb4dc.jpg",
+        "assets/products/e0bf548ef82fd0e5cee4.jpg",
+        "assets/products/9771ca5a6c201f0a55d9.jpg",
+        "assets/products/ec1bbf73c0e13dca59fa.jpg",
+        "assets/products/59b54d38ddb2456ba725.jpg",
+        "assets/products/9f5d2666fe1bdd969d4a.jpg"
+      ]
+    },
+    {
+      "id": "8028660236513",
+      "title": "Two Tiered Mixed Berries Cake",
+      "page": "/cakes/two-tiered-mixed-berries-cake-dubai",
+      "originalImages": [
+        "assets/products/6831d4abfb1d26d78269.jpg"
+      ]
+    },
+    {
+      "id": "8028660170977",
+      "title": "Three Tiered White & Gold Wedding Cake with Gypsophila",
+      "page": "/cakes/two-tiered-wedding-cake-dubai",
+      "originalImages": [
+        "assets/products/5873c634b28d6c221caf.jpg"
+      ]
+    },
+    {
+      "id": "8028660105441",
+      "title": "White & Silver Cake with Roses",
+      "page": "/cakes/wedding-silver-cake-with-roses-dubai",
+      "originalImages": [
+        "assets/products/03addc5e3d760deeadf1.jpg"
+      ]
+    },
+    {
+      "id": "8028656337121",
+      "title": "Rose Gold Two Tiered Cake",
+      "page": "/cakes/rose-gold-two-tiered-cake-dubai",
+      "originalImages": [
+        "assets/products/1e816c7fb6164978af00.jpg"
+      ]
+    },
+    {
+      "id": "8028656304353",
+      "title": "Two Tiered Purple & White Cake",
+      "page": "/cakes/two-tiered-purple-white-cake",
+      "originalImages": [
+        "assets/products/0bee76d756156ed7ac52.jpg"
+      ]
+    },
+    {
+      "id": "8028656206049",
+      "title": "Grey & White Two Tiered Cake",
+      "page": "/cakes/grey-white-two-tiered-cake-dubai",
+      "originalImages": [
+        "assets/products/877139f2f244236e99a6.jpg"
+      ]
+    },
+    {
+      "id": "8028656107745",
+      "title": "Peachy Pink Four Tiered Cake",
+      "page": "/cakes/four-tiered-cake-dubai",
+      "originalImages": [
+        "assets/products/976914354be988681e57.jpg"
+      ]
+    },
+    {
+      "id": "8028656042209",
+      "title": "Royal Orchids & Gold 5 Tier Wedding Cake",
+      "page": "/cakes/royal-orchids-wedding-cake-dubai",
+      "originalImages": [
+        "assets/products/82095fd5f88abd4e439c.jpg"
+      ]
+    },
+    {
+      "id": "8028656009441",
+      "title": "Brown & Beige Two Tiered Cake",
+      "page": "/cakes/wafer-two-tiered-cake-dubai",
+      "originalImages": [
+        "assets/products/b06f4cb57fe61d127ea6.jpg"
+      ]
+    },
+    {
+      "id": "8028655911137",
+      "title": "Rose Gold & Black 3 Tier Cake",
+      "page": "/cakes/rose-gold-black-3-tier-cake",
+      "originalImages": [
+        "assets/products/3f4c92b6b25f2ce0bf52.jpg"
+      ]
+    },
+    {
+      "id": "8028655812833",
+      "title": "White & Gold Orchids Cake",
+      "page": "/cakes/orchid-wedding-cake-dubai",
+      "originalImages": [
+        "assets/products/281a38a5b64d802cdc2d.jpg"
+      ]
+    },
+    {
+      "id": "8028655780065",
+      "title": "Elegant Hexagonal 3 Tier Wedding Cake",
+      "page": "/cakes/eleganty-3-tier-wedding-cake-dubai",
+      "originalImages": [
+        "assets/products/75bbaf2c35f571b213cf.jpg"
+      ]
+    },
+    {
+      "id": "8028655681761",
+      "title": "Royalty Wedding Cake",
+      "page": "/cakes/royalty-wedding-cake-dubai",
+      "originalImages": [
+        "assets/products/d736e5f306ace6178c48.jpg"
+      ]
+    },
+    {
+      "id": "8028655616225",
+      "title": "Gold & White Two Tier Wedding Cake",
+      "page": "/cakes/gold-white-two-tier-wedding-cake-dubai",
+      "originalImages": [
+        "assets/products/35fe08937936e712ae95.jpg"
+      ]
+    },
+    {
+      "id": "7995901313249",
+      "title": "Diamond Ring Shape Engagement Cake - 1.5kg",
+      "page": "/cakes/ring-engagement-cake-dubai",
+      "originalImages": [
+        "assets/products/412247df51d7f9ccd4f6.jpg"
+      ]
+    },
+    {
+      "id": "7995899871457",
+      "title": "Floral Heart Pink Cake",
+      "page": "/cakes/floral-heart-pink-cake",
+      "originalImages": [
+        "assets/products/25b7a313a754763f71c8.jpg"
+      ]
+    },
+    {
+      "id": "7995898298593",
+      "title": "Roses Floral Cake",
+      "page": "/cakes/roses-floral-cake",
+      "originalImages": [
+        "assets/products/b2943676eabd810c5e39.jpg"
+      ]
+    },
+    {
+      "id": "7995898167521",
+      "title": "Elegantly Piped Heart Shaped Cake",
+      "page": "/cakes/elegant-heart-shaped-cake-dubai",
+      "originalImages": [
+        "assets/products/c80c109e7565b2d6bcaa.png"
+      ]
+    },
+    {
+      "id": "7995898134753",
+      "title": "Creamy Floral Cake",
+      "page": "/cakes/creamy-floral-cake",
+      "originalImages": [
+        "assets/products/f1e5031546510b7635f3.jpg"
+      ]
+    },
+    {
+      "id": "6541538525373",
+      "title": "Pastel Rose Pink Sponge Cake",
+      "page": "/cakes/pastel-rose-pink-sponge-cake",
+      "originalImages": [
+        "assets/products/92093e340b5eb6d71798.jpg"
+      ]
+    },
+    {
+      "id": "6541539541181",
+      "title": "Maroon Rose Floral Sponge Cake",
+      "page": "/cakes/maroon-rose-floral-sponge-cake-dubai",
+      "originalImages": [
+        "assets/products/f505ef1739a7272ebeb4.jpg",
+        "assets/products/d8e9574260f466e0b883.jpg",
+        "assets/products/fb1b7e8f80bc5f262b95.jpg",
+        "assets/products/8e2652785d3d13bedb14.jpg",
+        "assets/products/6f123398833592b1571c.jpg"
+      ]
+    },
+    {
+      "id": "6541538394301",
+      "title": "Blushing Roses Decorated Pink Sponge Cake",
+      "page": "/cakes/blushing-roses-decorated-pink-sponge-cake",
+      "originalImages": [
+        "assets/products/485677f825d1ea31358c.jpg"
+      ]
+    },
+    {
+      "id": "6541538590909",
+      "title": "White Rose & Berry Cake",
+      "page": "/cakes/white-rose-berry-cake",
+      "originalImages": [
+        "assets/products/33ce2e11afe4d70d96ec.jpg"
+      ]
+    },
+    {
+      "id": "6541634732221",
+      "title": "Pink and White Roses Cake",
+      "page": "/cakes/birthday-roses-cake-dubai",
+      "originalImages": [
+        "assets/products/d6e7ab04fdd046246dbe.jpg"
+      ]
+    },
+    {
+      "id": "7516514418913",
+      "title": "Gold & Black Rose Cake",
+      "page": "/cakes/gold-rose-cake",
+      "originalImages": [
+        "assets/products/88fe1e8b264e110665fc.jpg"
+      ]
+    },
+    {
+      "id": "6541541015741",
+      "title": "Gold Drip Cake with Peonies",
+      "page": "/cakes/gold-drip-cake-with-peonies-dubai",
+      "originalImages": [
+        "assets/products/4dbfed67780ea2b30967.jpg"
+      ]
+    }
+  ],
+  "retained": [
+    {
+      "id": "8957441278177",
+      "title": "Blue & White Birthday Cake with Ribbon Bows",
+      "page": "/cakes/blue-white-birthday-cake-with-ribbon-bows-dubao",
+      "replacementImage": "assets/products/matches/batch-001-pinterest/8957441278177-6f31c759c2.jpg"
+    },
+    {
+      "id": "9442929180897",
+      "title": "Long Red Raspberries Cake",
+      "page": "/cakes/long-red-raspberries-cake",
+      "replacementImage": "assets/products/matches/batch-001-pinterest/9442929180897-a170e99dec.jpg"
+    },
+    {
+      "id": "8957444653281",
+      "title": "Red & White Birthday Cake with Ribbon Bows",
+      "page": "/cakes/red-white-birthday-cake-with-ribbon-bows-dubai",
+      "replacementImage": "assets/products/matches/batch-001-pinterest/8957444653281-d3ce342201.jpg"
+    },
+    {
+      "id": "8962586804449",
+      "title": "Two Tier Heart Lambeth Cake",
+      "page": "/cakes/two-tier-heart-birthday-cake-dubai",
+      "replacementImage": "assets/products/matches/batch-001-pinterest/8962586804449-112ea78abe.jpg"
+    },
+    {
+      "id": "8957434069217",
+      "title": "White & Pink Birthday Cake with Ribbon Bows",
+      "page": "/cakes/white-pink-birthday-cake-with-ribbon-bows",
+      "replacementImage": "assets/products/cakes/cake-white-pink-birthday-cake-with-ribbon-bows-replacement-8957434069217.webp"
+    },
+    {
+      "id": "9442928197857",
+      "title": "Red Raspberries Cake",
+      "page": "/cakes/red-raspberries-cake-dubai",
+      "replacementImage": "assets/products/matches/batch-001-pinterest/9442928197857-d92aa2c1ca.jpg"
+    },
+    {
+      "id": "8961211990241",
+      "title": "Black & White Heart Cake",
+      "page": "/cakes/black-white-heart-cake-dubai",
+      "replacementImage": "assets/products/matches/batch-006-pinterest/8961211990241-cd0b524381f1.jpg"
+    },
+    {
+      "id": "8961203994849",
+      "title": "Pink Cherries Heart Cake",
+      "page": "/cakes/pink-cherries-heart-cake-dubai",
+      "replacementImage": "assets/products/matches/batch-006-pinterest/8961203994849-a35960e06db4.jpg"
+    },
+    {
+      "id": "8491017404641",
+      "title": "Luxury Pink Roses Cake",
+      "page": "/cakes/luxury-pink-roses-cake-dubai",
+      "replacementImage": "assets/products/matches/batch-008-pinterest/8491017404641-18aaac0a7a30.jpg"
+    },
+    {
+      "id": "8232863629537",
+      "title": "Elegantly Piped Heart Shaped butterfly Cake",
+      "page": "/cakes/elegantly-piped-heart-shaped-butterfly-cake",
+      "replacementImage": "assets/products/matches/batch-009-pinterest/8232863629537-2c5f02b657fe.jpg"
+    },
+    {
+      "id": "8028661645537",
+      "title": "Pink & White Abstract 3 Tier Cake",
+      "page": "/cakes/pink-white-abstract-3-tier-cake-dubai",
+      "replacementImage": "assets/products/cakes/cake-pink-white-abstract-3-tier-cake-replacement-8028661645537.webp"
+    },
+    {
+      "id": "8028660433121",
+      "title": "Three Tiered White Wedding Cake with Roses",
+      "page": "/cakes/three-tiered-white-wedding-cake-dubai",
+      "replacementImage": "assets/products/cakes/cake-three-tiered-white-wedding-cake-with-roses-replacement-8028660433121.webp"
+    },
+    {
+      "id": "8028660367585",
+      "title": "Three Tiered White Wedding Floral Cake",
+      "page": "/cakes/two-tiered-white-wedding-floral-cake-dubai",
+      "replacementImage": "assets/products/cakes/cake-three-tiered-white-wedding-floral-cake-replacement-8028660367585.webp"
+    },
+    {
+      "id": "8028660203745",
+      "title": "Four Tiered White & Blush Wedding Floral Cake",
+      "page": "/cakes/copy-of-three-tiered-white-gold-wedding-cake-with-gypsophila",
+      "replacementImage": "assets/products/cakes/cake-four-tiered-white-blush-wedding-floral-cake-replacement-8028660203745.webp"
+    },
+    {
+      "id": "8028660039905",
+      "title": "Two Tiered White Wedding Cake with White Roses",
+      "page": "/cakes/tiered-white-wedding-cake-with-roses-dubai",
+      "replacementImage": "assets/products/cakes/cake-two-tiered-white-wedding-cake-with-white-roses-replacement-8028660039905.webp"
+    },
+    {
+      "id": "8028659941601",
+      "title": "Two Tiered White Wedding Cake with Blush Roses",
+      "page": "/cakes/white-wedding-cake-dubai",
+      "replacementImage": "assets/products/cakes/cake-two-tiered-white-wedding-cake-with-blush-roses-replacement-8028659941601.webp"
+    },
+    {
+      "id": "8028655845601",
+      "title": "Two Tiered Naked Berries Cake",
+      "page": "/cakes/two-tiered-naked-berries-cake-dubai",
+      "replacementImage": "assets/products/cakes/cake-two-tiered-naked-berries-cake-replacement-8028655845601.webp"
+    }
+  ],
+  "archive": "Raw inventory retained internally; retired product routes return 404 and original photo URLs return 410.",
+  "verification": {
+    "unitTests": 34,
+    "unitTestsPassed": true,
+    "browserChecks": 13,
+    "browserChecksPassed": true,
+    "viewports": [
+      320,
+      390,
+      768,
+      820,
+      1440
+    ],
+    "publicOriginalImageReferences": 0,
+    "removedProductRoutes": "404",
+    "removedPhotoRoutes": "410"
+  }
+}

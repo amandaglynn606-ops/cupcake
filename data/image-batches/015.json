@@ -1,0 +1,407 @@
+{
+  "batch": 15,
+  "size": 50,
+  "sourcePreference": "Pinterest",
+  "records": [
+    {
+      "n": 701,
+      "productId": "7995906130145",
+      "title": "Swiss White Chocolate Cake with Berries",
+      "originalImage": "assets/products/6d2e3dbf6a06e307ba0f.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 702,
+      "productId": "7995906097377",
+      "title": "Elegant Cake with Strawberries",
+      "originalImage": "assets/products/9a088a1ce518b5ea201a.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 703,
+      "productId": "7995906064609",
+      "title": "Orange & Swiss Chocolate Cake",
+      "originalImage": "assets/products/2001eac48e2ee388ca59.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 704,
+      "productId": "7995905999073",
+      "title": "Dipped Strawberry-Kitkat Cake",
+      "originalImage": "assets/products/a24441db431ff8fdb8a9.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 705,
+      "productId": "7995905900769",
+      "title": "Swiss Berri-Chocolate Cake",
+      "originalImage": "assets/products/961a60a75c98fab4b9b8.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 706,
+      "productId": "7995905868001",
+      "title": "Passion Fruit Cake",
+      "originalImage": "assets/products/09868c78643e1128bd19.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 707,
+      "productId": "7995905835233",
+      "title": "Mango Cake",
+      "originalImage": "assets/products/cadc4980da8e12f51d62.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 708,
+      "productId": "7995905769697",
+      "title": "Cream Cheese Red Velvet Cake",
+      "originalImage": "assets/products/0abcd9142e72666cb35c.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 709,
+      "productId": "7995905704161",
+      "title": "Swiss Chocolate Coffee Cake",
+      "originalImage": "assets/products/deb392af106f6413b279.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 710,
+      "productId": "7995905671393",
+      "title": "Pistachio Cake with Nuts & Berries",
+      "originalImage": "assets/products/da49e2d06e01cfa4ebfd.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 711,
+      "productId": "7995905638625",
+      "title": "Swiss Chocolate Dripped Cake with Berries",
+      "originalImage": "assets/products/3c7fdb13fdc0fc675ea1.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 712,
+      "productId": "7995905605857",
+      "title": "Swiss Chocolate Black Forest Cake",
+      "originalImage": "assets/products/15606edd6ed1dff0276e.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 713,
+      "productId": "7995905573089",
+      "title": "Swiss Chocolate Vanilla Cake",
+      "originalImage": "assets/products/d1bdfbe3f6c1c37f4eb6.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 714,
+      "productId": "7995905507553",
+      "title": "Swiss Chocolate Vanilla Cake with Ferrero",
+      "originalImage": "assets/products/3da6f917abc961d4e0df.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 715,
+      "productId": "7995902296289",
+      "title": "Pink Swiss Chocolate-Dipped Strawberries",
+      "originalImage": "assets/products/5b5d17ccc7ac4e93cb0a.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 716,
+      "productId": "7995902263521",
+      "title": "Mother's Day Swirls Cake",
+      "originalImage": "assets/products/20f50c4d3649729ce6eb.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 717,
+      "productId": "7995902230753",
+      "title": "Dark Pink Swirls Birthday Cake",
+      "originalImage": "assets/products/789956091ac8e92edd43.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 718,
+      "productId": "7995902197985",
+      "title": "Pink & Purple Butterflies Swirls Birthday Cake",
+      "originalImage": "assets/products/2fb051ab42ec4b546305.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 719,
+      "productId": "7995902099681",
+      "title": "Pastel Floral Cupcake Bouquet",
+      "originalImage": "assets/products/a3af31803e2fc2fc0b59.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 720,
+      "productId": "7995901968609",
+      "title": "Purple & Pink Balloon Cake",
+      "originalImage": "assets/products/553974e69e5c25a957d3.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 721,
+      "productId": "7995901935841",
+      "title": "Purlpe & Gold Balloon Cake",
+      "originalImage": "assets/products/a37eff046502446ea6c6.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 722,
+      "productId": "7995901903073",
+      "title": "Purple & Silver Balloon Cake",
+      "originalImage": "assets/products/715ae4fb6c651c0a6456.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 723,
+      "productId": "7995901870305",
+      "title": "Pink & Rose Gold Birthday Cake with Balloons",
+      "originalImage": "assets/products/66b9b2f9ff9c1bb58337.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 724,
+      "productId": "7995901837537",
+      "title": "Grey & Pastel Orange Birthday Cake with Balloons",
+      "originalImage": "assets/products/22f6e0286faa877d9cb1.png",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 725,
+      "productId": "7995901804769",
+      "title": "Purple Birthday Cake with Balloons",
+      "originalImage": "assets/products/6a95cf18f7c6b7515c54.png",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 726,
+      "productId": "7995901739233",
+      "title": "Green & Gold Birthday Cake with Balloons",
+      "originalImage": "assets/products/6e0c9ffe2d00b8100e94.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 727,
+      "productId": "7995901706465",
+      "title": "Blue & Gold Birthday Cake with Balloons",
+      "originalImage": "assets/products/ebb939160201b5910c05.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 728,
+      "productId": "7995901673697",
+      "title": "Black & Gold Birthday Cake with Balloons",
+      "originalImage": "assets/products/e7ae8871f8eef9211761.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 729,
+      "productId": "7995901640929",
+      "title": "Black Birthday Cake with Balloons",
+      "originalImage": "assets/products/070f41bdf336584671ee.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 730,
+      "productId": "7995901608161",
+      "title": "Blue Birthday Cake with Balloons",
+      "originalImage": "assets/products/dbc15706f6e206e8e897.png",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 731,
+      "productId": "7995901575393",
+      "title": "Elegant Pistachio Cake",
+      "originalImage": "assets/products/262d725c116837e38d4b.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 732,
+      "productId": "7995901378785",
+      "title": "Blue Birthday Number / Age Cake - 3kg",
+      "originalImage": "assets/products/bfa76fc9b79425201328.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 733,
+      "productId": "7995901346017",
+      "title": "Silver & Pink Birthday Number / Age Cake - 3kg",
+      "originalImage": "assets/products/e4e4422fcd7a7e126819.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 734,
+      "productId": "7995901313249",
+      "title": "Diamond Ring Shape Engagement Cake - 1.5kg",
+      "originalImage": "assets/products/412247df51d7f9ccd4f6.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 735,
+      "productId": "7995901280481",
+      "title": "Crown Biscuit Cake - 1.5kg",
+      "originalImage": "assets/products/dce9da1a8ee66d6feb3e.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 736,
+      "productId": "7995901214945",
+      "title": "Pink Crown Number / Age Cake - 1.5kg",
+      "originalImage": "assets/products/6dc06b83242b8ec08893.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 737,
+      "productId": "7995901182177",
+      "title": "Fruits Birthday Number / Age Cake - 3kg",
+      "originalImage": "assets/products/6dfcec87c01f4898ee62.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 738,
+      "productId": "7995901149409",
+      "title": "Berries Birthday Number / Age Tart Cake - 3kg",
+      "originalImage": "assets/products/866d2cd8e3db6457fd26.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 739,
+      "productId": "7995901116641",
+      "title": "Buttons & Bars Floral Birthday Number / Age Cake - 3kg",
+      "originalImage": "assets/products/66d5cf981fb6e2c0102a.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 740,
+      "productId": "7995901083873",
+      "title": "Floral Birthday Number / Age Cake - 3kg",
+      "originalImage": "assets/products/dbc121dd7cfcdc521fb9.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 741,
+      "productId": "7995901051105",
+      "title": "Chocolate Birthday Number / Age Cake - 3kg",
+      "originalImage": "assets/products/7401cf07beb849d1d638.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 742,
+      "productId": "7995900920033",
+      "title": "Chocolate Dipped Fruits, Berries, Macarons & Cakesicles",
+      "originalImage": "assets/products/0a6d24a67f4e8ec83c07.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 743,
+      "productId": "7995900887265",
+      "title": "Chocolate Dipped Strawberry, Berries, Macarons & Cakesicles",
+      "originalImage": "assets/products/5773a1544c9addbfe9ab.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 744,
+      "productId": "7995900854497",
+      "title": "Swiss Chocolate Dipped Strawberry, Pretzels, Macarons & Cakesicles",
+      "originalImage": "assets/products/5816dc1382fe17fbb11a.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 745,
+      "productId": "7995900788961",
+      "title": "Chocolate Dipped Strawberry, Berries, Macarons & Cakesicles",
+      "originalImage": "assets/products/539704bacf404188802e.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 746,
+      "productId": "7995900625121",
+      "title": "Swiss Chocolate Dipped Strawberries & Orange Cakesicles",
+      "originalImage": "assets/products/fafc64bdbb4147b8b25f.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 747,
+      "productId": "7995900461281",
+      "title": "Pink & Gold Chocolate Dipped Strawberries & Cakesicles",
+      "originalImage": "assets/products/f5bc037233ed18384165.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 748,
+      "productId": "7995900428513",
+      "title": "Pink Dipped Strawberries & Cakesicles",
+      "originalImage": "assets/products/0c5ac10044808284ccca.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 749,
+      "productId": "7995900395745",
+      "title": "Swiss Chocolate-Dipped Strawberries , Cakesicles & Cake Pops",
+      "originalImage": "assets/products/4156273fbd79595250be.jpg",
+      "status": "needs-search",
+      "candidates": []
+    },
+    {
+      "n": 750,
+      "productId": "7995900199137",
+      "title": "Shiny Pink Swiss Chocolate-Dipped Strawberries",
+      "originalImage": "assets/products/476cbee4c2dc4cb0d59a.jpg",
+      "status": "needs-search",
+      "candidates": []
+    }
+  ]
+}
