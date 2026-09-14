@@ -143,6 +143,7 @@ test('mobile navigation, filters, product, and bag fit without horizontal overfl
  await screenshot(page,'boutique-home-mobile.png');
  await page.getByRole('button',{name:'Open menu'}).click();
  await expect(page.locator('#mobile-navigation')).toBeVisible();
+ await page.locator('#mobile-navigation .mobile-cake-menu>summary').click();
  await page.locator('#mobile-navigation').getByRole('link',{name:'Shop all cakes',exact:true}).click();
  await expect(page).toHaveURL(/collections\/all$/);
  await page.locator('#toggle-filters').click();
@@ -160,7 +161,7 @@ test('mobile navigation, filters, product, and bag fit without horizontal overfl
  await page.locator('#add-to-cart').click();
  await expect(page.locator('#bag-drawer')).toBeVisible();
  await page.locator('#bag-drawer .cart-remove').click();
- await expect(page.locator('#bag-drawer')).toContainText('Your selection awaits');
+ await expect(page.locator('#bag-drawer')).toContainText('Your cart is empty');
  await page.keyboard.press('Escape');
  await expect(page.locator('#bag-drawer')).not.toBeVisible();
 });

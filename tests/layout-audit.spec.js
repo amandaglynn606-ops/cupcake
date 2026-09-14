@@ -34,7 +34,7 @@ test('internal headers, branding, alignment and photos pass the responsive audit
    if(url.startsWith('/cakes/')){
     await expect(page.locator('.photo-note')).toHaveCount(0);
     const gap=await page.evaluate(()=>document.querySelector('.product-gallery').getBoundingClientRect().top-document.querySelector('.site-header').getBoundingClientRect().bottom);
-    expect(gap).toBeGreaterThanOrEqual(40);expect(gap).toBeLessThanOrEqual(64);
+    expect(gap).toBeGreaterThanOrEqual(width<=760?24:40);expect(gap).toBeLessThanOrEqual(64);
    }
    const house=await page.locator('.masthead .wordmark-house').boundingBox(),wordmark=await page.locator('.masthead .wordmark-name').boundingBox();
    expect(wordmark.y-(house.y+house.height)).toBeGreaterThanOrEqual(13);

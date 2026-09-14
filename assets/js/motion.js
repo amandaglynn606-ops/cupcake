@@ -1,8 +1,9 @@
 // Progressive motion: content remains visible without JavaScript.
 const reduced=matchMedia('(prefers-reduced-motion: reduce)');
+const touch=matchMedia('(pointer: coarse)');
 const active=new Set();
 function play(element,frames,options){
- if(reduced.matches||!element?.animate)return;
+ if(reduced.matches||touch.matches||!element?.animate)return;
  const animation=element.animate(frames,options);active.add(animation);
  animation.finished.catch(()=>{}).finally(()=>active.delete(animation));
 }
@@ -26,5 +27,5 @@ document.addEventListener('click',event=>{
 });
 export function animateDialog(dialog){
  const drawer=dialog.classList.contains('drawer');
- play(dialog,[{opacity:0,transform:drawer?'translateX(35px)':'scale(.97)'},{opacity:1,transform:'none'}],{...timing,duration:350});
+ play(dialog,[{opacity:0,transform:drawer?(dialog.id==='mobile-navigation'?'translateX(-35px)':'translateX(35px)'):'scale(.97)'},{opacity:1,transform:'none'}],{...timing,duration:250});
 }

@@ -1,10 +1,39 @@
 const menu=document.querySelector('.zavi-header .nav-dropdown');
 const trigger=document.querySelector('[data-open="mobile-navigation"]');
 const drawer=document.querySelector('#mobile-navigation');
+const phone=matchMedia('(max-width:760px)');
+const footerToggles=[...document.querySelectorAll('.footer-toggle')];
+function resetFooter(){
+ for(const button of footerToggles){
+  const panel=document.getElementById(button.getAttribute('aria-controls'));
+  button.disabled=!phone.matches;
+  button.setAttribute('aria-expanded',String(!phone.matches));
+  panel.hidden=phone.matches;
+ }
+}
+for(const button of footerToggles)button.addEventListener('click',()=>{
+ const panel=document.getElementById(button.getAttribute('aria-controls'));
+ panel.hidden=!panel.hidden;button.setAttribute('aria-expanded',String(!panel.hidden));
+});
+phone.addEventListener('change',resetFooter);resetFooter();
 if(trigger&&drawer){
  trigger.setAttribute('aria-controls',drawer.id);
  trigger.setAttribute('aria-expanded','false');
- new MutationObserver(()=>trigger.setAttribute('aria-expanded',String(drawer.open))).observe(drawer,{attributes:true,attributeFilter:['open']});
+ let scrollPosition=null;
+ function syncDrawer(){
+  trigger.setAttribute('aria-expanded',String(drawer.open));
+  if(drawer.open&&scrollPosition===null){
+   scrollPosition=window.scrollY;
+   document.body.style.top=-scrollPosition+'px';
+   document.documentElement.classList.add('mobile-menu-open');
+  }else if(!drawer.open&&scrollPosition!==null){
+   const restore=scrollPosition;scrollPosition=null;
+   document.documentElement.classList.remove('mobile-menu-open');
+   document.body.style.top='';window.scrollTo({top:restore,behavior:'instant'});
+  }
+ }
+ new MutationObserver(syncDrawer).observe(drawer,{attributes:true,attributeFilter:['open']});
+ drawer.addEventListener('close',syncDrawer);
  matchMedia('(min-width:1101px)').addEventListener('change',event=>{if(event.matches&&drawer.open)drawer.close();});
 }
 if(menu){

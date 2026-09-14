@@ -3,7 +3,7 @@ let controller;
 async function render(){
  controller?.abort();controller=new AbortController();
  const ids=savedIds();
- if(!ids.length){$('#wishlist-content').innerHTML='<div class="empty-state"><p class="eyebrow">YOUR PERSONAL EDIT</p><h2>Keep what<br><em>catches your eye.</em></h2><p>Use the heart on any design to save it here for another look.</p><a class="button" href="/collections/all">Explore the collection →</a></div>';return;}
+ if(!ids.length){$('#wishlist-content').innerHTML='<div class="empty-state"><p class="eyebrow">YOUR WISHLIST</p><h2>Your wishlist<br><em>is empty.</em></h2><p>Tap the heart on a cake to save it to your wishlist.</p><a class="button" href="/collections/all">Browse cakes →</a></div>';return;}
  try{
   const response=await fetch('/api/wishlist?ids='+encodeURIComponent(ids.join(',')),{signal:controller.signal});
   if(!response.ok)throw new Error('Your wishlist could not be loaded.');

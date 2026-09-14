@@ -16,7 +16,7 @@ function information(ctx,type){
  return shell(ctx,{title:page.title,body,path:'/'+type});
 }
 function faq(ctx){
- const body='<main id="main" class="wrap">'+crumb([['Frequently asked questions']])+'<header class="page-intro"><p class="eyebrow">CLIENT CARE</p><h1>Cake ordering<br><em>questions.</em></h1></header><div class="faq-layout">'+FAQ.map(([group,items])=>'<section><h2>'+group+'</h2><div>'+items.map(([q,a])=>'<details><summary>'+q+'</summary><p>'+a+'</p></details>').join('')+'</div></section>').join('')+'</div><section class="editorial-cta"><h2>Something else<br><em>on your mind?</em></h2>'+link('/contact','Get in touch','button')+'</section></main>';
+ const body='<main id="main" class="wrap">'+crumb([['Frequently asked questions']])+'<header class="page-intro"><p class="eyebrow">CLIENT CARE</p><h1>Cake ordering<br><em>questions.</em></h1></header><div class="faq-layout">'+FAQ.map(([group,items])=>'<section><h2>'+group+'</h2><div>'+items.map(([q,a])=>'<details><summary>'+q+'</summary><p>'+a+'</p></details>').join('')+'</div></section>').join('')+'</div><section class="editorial-cta"><h2>Have another<br><em>question?</em></h2>'+link('/contact','Get in touch','button')+'</section></main>';
  return shell(ctx,{title:'Frequently asked questions',body,path:'/faq'});
 }
 function notFound(ctx){

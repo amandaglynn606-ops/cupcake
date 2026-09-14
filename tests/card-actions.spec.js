@@ -46,7 +46,9 @@ test('image, title, card body and View cake navigate to the product; wishlist st
 test('mobile cards and inline search fit and add directly to the cart',async({page})=>{
  await page.setViewportSize({width:390,height:844});await page.goto('/collections/wedding-cakes');
  await expect(page.locator('.header-actions #site-search')).toBeVisible();
- await expect(page.locator('.header-actions .wishlist-link')).toBeVisible();
+ await page.getByRole('button',{name:'Open menu',exact:true}).click();
+ await expect(page.locator('#mobile-navigation').getByRole('link',{name:'Your wishlist',exact:true})).toBeVisible();
+ await page.getByRole('button',{name:'Close menu',exact:true}).click();
  await expect(page.locator('.wedding-subcategories')).toHaveCount(0);
  await page.locator('#toggle-filters').click();await page.locator('#filters [name=tier][value="3"]').check();
  await expect(page).toHaveURL(/tier=3/);await page.locator('#toggle-filters').click();

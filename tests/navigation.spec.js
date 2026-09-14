@@ -13,6 +13,7 @@ test('collections menu supports keyboard dismissal, links and mobile resizing',a
  await open.click();await expect(open).toHaveAttribute('aria-expanded','true');
  await expect(page.locator('#mobile-navigation').getByRole('link',{name:'Design your own cake',exact:true})).toHaveAttribute('href','/bespoke');
  await expect(page.locator('#mobile-navigation .nav-dropdown')).toHaveCount(0);
+ await page.locator('#mobile-navigation .mobile-cake-menu>summary').click();
  await page.locator('#mobile-navigation').getByRole('link',{name:'Tiered cakes',exact:true}).click();await expect(page).toHaveURL(/collections\/tiered-cakes$/);
  await open.click();await page.keyboard.press('Escape');await expect(open).toBeFocused();await expect(open).toHaveAttribute('aria-expanded','false');
  await open.click();await page.setViewportSize({width:1440,height:1000});await expect(page.locator('#mobile-navigation')).toBeHidden();
