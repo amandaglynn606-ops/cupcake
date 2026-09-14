@@ -11,3 +11,4 @@ artifacts/
 .vercel/
 assets/responsive/
 data/responsive-images.json
+data/responsive-image-styles.json

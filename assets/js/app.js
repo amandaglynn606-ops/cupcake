@@ -1,4 +1,5 @@
 import {getCartDetails} from './cart-details.js';
+import {arrangeMobileCards} from './mobile-card-groups.js';
 import {animateDialog,closeDialog} from './motion.js';
 export const $=(selector,root=document)=>root.querySelector(selector);
 export const data=JSON.parse($('#page-data')?.textContent||'{}');
@@ -17,7 +18,7 @@ export function getCart(){return cart;}
 export function setCart(next){cart=normaliseCart(next);write('cake-cart-v1',cart);updateCount();window.dispatchEvent(new Event('cart-change'));}
 function updateCount(){document.querySelectorAll('[data-bag-count]').forEach(el=>el.textContent=cart.reduce((n,i)=>n+i.quantity,0));}
 export function savedIds(){return [...saved];}
-export function syncSaved(){document.querySelectorAll('[data-save]').forEach(button=>button.setAttribute('aria-pressed',String(saved.has(button.dataset.save))));}
+export function syncSaved(){arrangeMobileCards();document.querySelectorAll('[data-save]').forEach(button=>button.setAttribute('aria-pressed',String(saved.has(button.dataset.save))));}
 export function openDialog(id){const dialog=$('#'+id);document.querySelectorAll('dialog[open]').forEach(d=>d.close());dialog.showModal();animateDialog(dialog);}
 export async function quoteCart(fulfilment=getCartDetails()?.fulfilment||'delivery',emirate=getCartDetails()?.emirate||'Dubai'){
  const response=await fetch('/api/quote',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({items:cart,fulfilment,emirate}),signal:AbortSignal.timeout(15000)});

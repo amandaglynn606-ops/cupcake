@@ -6,6 +6,8 @@ const ROOT=path.resolve(__dirname,'..');
 async function buildVercel(output=path.join(ROOT,'.vercel','output')){
  const responsive=await require('./build-responsive-images.cjs').buildResponsiveImages();
  const responsiveFiles=new Set(Object.values(responsive).flatMap(entry=>entry.variants.map(v=>v.url)));
+ const backgroundStyles=JSON.parse(await fs.readFile(path.join(ROOT,'data','responsive-image-styles.json'),'utf8'));
+ responsiveFiles.add(backgroundStyles.stylesheet);
  const {loadCatalog}=require('../lib/load-catalog');
  const {buildCatalog}=require('../lib/catalog');
  const config=require('../store.config.json');

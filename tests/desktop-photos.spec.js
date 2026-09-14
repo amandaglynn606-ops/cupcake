@@ -9,6 +9,8 @@ test('desktop photos stay complete during hover and keyboard focus',async({page}
     const image=page.locator(selector).first();if(!await image.count())continue;
     await image.scrollIntoViewIfNeeded();await image.evaluate(i=>i.decode());
     await image.hover();await expect(image).toHaveCSS('object-fit','contain');await expect(image).toHaveCSS('transform','none');
+    expect(await image.evaluate(i=>getComputedStyle(i).backgroundImage)).toContain('linear-gradient');
+    await expect(image).toHaveCSS('background-size','50.1% 100%, 50.1% 100%');
     await image.evaluate(i=>i.closest('a')?.focus());await expect(image).toHaveCSS('transform','none');
     const fit=await image.evaluate(i=>{const r=i.getBoundingClientRect(),p=i.parentElement.getBoundingClientRect();return{width:r.width,height:r.height,parentWidth:p.width,parentHeight:p.height};});
     expect(fit.width).toBeLessThanOrEqual(fit.parentWidth+1);expect(fit.height).toBeLessThanOrEqual(fit.parentHeight+1);
