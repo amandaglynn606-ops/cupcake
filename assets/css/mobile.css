@@ -42,6 +42,8 @@
  html.mobile-menu-open body{position:fixed;width:100%;overflow:hidden}
 }
 @media(max-width:760px){
+ #bag-drawer{overscroll-behavior:contain;-webkit-overflow-scrolling:touch}
+ #bag-drawer::backdrop{backdrop-filter:none;background:#27151b80}
  .wrap{width:calc(100% - 32px);margin-inline:auto}
  /* Intrinsic image height removes letterboxing without cropping cake tiers. */
  body .product-image-link,body .collection-image,body .main-photo,body .bespoke-photo{aspect-ratio:auto!important;height:auto;min-height:0}

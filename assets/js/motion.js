@@ -25,8 +25,11 @@ document.addEventListener('click',event=>{
  const field=event.target.closest('input[type="date"]');
  if(field?.showPicker){try{field.showPicker();}catch{/* Native calendar remains available. */}}
 });
+function slides(dialog){
+ return ['mobile-navigation','mobile-filters'].includes(dialog.id)||(dialog.id==='bag-drawer'&&matchMedia('(max-width:760px)').matches);
+}
 export function animateDialog(dialog){
- if(['mobile-navigation','mobile-filters'].includes(dialog.id)){
+ if(slides(dialog)){
   menuTransition(dialog,false);return;
  }
  const drawer=dialog.classList.contains('drawer');
@@ -34,13 +37,14 @@ export function animateDialog(dialog){
 }
 const menuAnimations=new WeakMap();
 function menuTransition(dialog,closing){
+ const cart=dialog.id==='bag-drawer',offscreen=cart?'translateX(100%)':'translateX(-100%)';
  const previous=menuAnimations.get(dialog);
  if(closing&&previous?.closing)return;
- const from=previous?getComputedStyle(dialog).transform:closing?'none':'translateX(-100%)';
+ const from=previous?getComputedStyle(dialog).transform:closing?'none':offscreen;
  previous?.animation.cancel();menuAnimations.delete(dialog);
  if(reduced.matches||!dialog.animate){if(closing)dialog.close();return;}
- const animation=dialog.animate([{transform:from},{transform:closing?'translateX(-100%)':'none'}],{
-  duration:closing?180:220,easing:'cubic-bezier(.2,.7,.2,1)',fill:'both'
+ const animation=dialog.animate([{transform:from},{transform:closing?offscreen:'none'}],{
+  duration:cart?(closing?260:320):(closing?180:220),easing:'cubic-bezier(.2,.7,.2,1)',fill:'both'
  });
  const entry={animation,closing};menuAnimations.set(dialog,entry);active.add(animation);
  animation.finished.then(()=>{if(closing&&menuAnimations.get(dialog)===entry)dialog.close();}).catch(()=>{
@@ -51,6 +55,6 @@ function menuTransition(dialog,closing){
  });
 }
 export function closeDialog(dialog){
- if(['mobile-navigation','mobile-filters'].includes(dialog.id)&&dialog.open)menuTransition(dialog,true);
+ if(slides(dialog)&&dialog.open)menuTransition(dialog,true);
  else dialog.close();
 }

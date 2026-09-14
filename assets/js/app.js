@@ -63,6 +63,7 @@ document.addEventListener('click',event=>{
 document.addEventListener('keydown',event=>{if(event.key==='Escape')document.querySelectorAll('.nav-dropdown[open]').forEach(el=>el.open=false);});
 document.querySelectorAll('dialog').forEach(dialog=>dialog.addEventListener('click',event=>{const r=dialog.getBoundingClientRect();if(event.target===dialog&&(event.clientX<r.left||event.clientX>r.right||event.clientY<r.top||event.clientY>r.bottom))closeDialog(dialog);}));
 $('#mobile-navigation')?.addEventListener('cancel',event=>{event.preventDefault();closeDialog(event.currentTarget);});
+$('#bag-drawer')?.addEventListener('cancel',event=>{event.preventDefault();closeDialog(event.currentTarget);});
 window.addEventListener('storage',event=>{if(event.key==='cake-cart-v1'){cart=normaliseCart(read('cake-cart-v1',[]));updateCount();if($('#bag-drawer')?.open||['/bag','/cart'].includes(document.body.dataset.page))renderCart();window.dispatchEvent(new Event('cart-change'));}if(event.key==='cake-saved-v1'){const values=read('cake-saved-v1',[]);saved=new Set(Array.isArray(values)?values:[]);syncSaved();window.dispatchEvent(new Event('wishlist-change'));}});
 updateCount();syncSaved();
 if(['/bag','/cart'].includes(document.body.dataset.page))renderCart();
