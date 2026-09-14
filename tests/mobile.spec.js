@@ -19,6 +19,10 @@ test('homepage collection cards have equal dimensions and complete square photog
    expect(Math.abs(size.photoWidth-size.photoHeight)).toBeLessThan(1);
    expect(size.naturalWidth).toBe(size.naturalHeight);
   }
+  for(const photo of await page.locator('.carousel-track .product-image-link>img').all())await expect(photo).toHaveCSS('object-fit','contain');
+  for(const title of await page.locator('.carousel-track .product-caption h3').all()){
+   await expect(title).toHaveCSS('font-size','18.9px');await expect(title).toHaveCSS('-webkit-line-clamp','2');
+  }
   expect(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth)).toBe(true);
  }
 });
@@ -97,10 +101,10 @@ test('every catalogue card has matching mobile frames and aligned titles, prices
    for(const id of await page.locator('.product-card').evaluateAll(cards=>cards.map(c=>c.dataset.productId)))ids.add(id);
    const cards=await page.locator('.product-card').evaluateAll(cards=>cards.map(c=>{
     const box=c.getBoundingClientRect(),title=c.querySelector('h3');
-    return{x:box.x,y:box.y,height:box.height,font:getComputedStyle(title).fontSize,rows:['.product-photo','.card-collection','h3','.card-price','.card-actions'].map(s=>c.querySelector(s).getBoundingClientRect().y)};
+    return{x:box.x,y:box.y,height:box.height,font:getComputedStyle(title).fontSize,lines:getComputedStyle(title).webkitLineClamp,rows:['.product-photo','.card-collection','h3','.card-price','.card-actions'].map(s=>c.querySelector(s).getBoundingClientRect().y)};
    }));
    for(let i=0;i<cards.length;i++){
-    expect(cards[i].font).toBe('15px');
+    expect(cards[i].font).toBe('10.5px');expect(cards[i].lines).toBe('2');
     if(i%2){expect(cards[i].height).toBeCloseTo(cards[i-1].height,0);cards[i].rows.forEach((y,j)=>expect(y).toBeCloseTo(cards[i-1].rows[j],0));}
    }
    expect(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1)).toBe(true);
@@ -116,6 +120,8 @@ test('mobile gallery, forms and empty states remain readable and functional',asy
   await page.setViewportSize({width,height:844});
   for(const product of products){
    await page.goto('/cakes/'+product.handle);const img=page.locator('#product-image');await img.evaluate(i=>i.decode());
+   await expect(page.locator('.product-information h1')).toHaveCSS('font-size','19.6px');
+   await expect(page.locator('.product-information h1')).toHaveCSS('-webkit-line-clamp','2');
    const frame=await img.evaluate(i=>({ratio:i.naturalWidth/i.naturalHeight,width:i.clientWidth,height:i.clientHeight,parent:i.parentElement.clientWidth}));
    expect(Math.abs(frame.width/frame.height-frame.ratio)).toBeLessThan(.015);expect(frame.width).toBe(frame.parent);
    await page.getByRole('button',{name:'Enlarge product photo'}).click();await expect(page.locator('#product-lightbox')).toBeVisible();await page.keyboard.press('Escape');
