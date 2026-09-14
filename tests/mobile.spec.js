@@ -1,6 +1,63 @@
 const {test,expect}=require('@playwright/test');
 const active=require('../lib/catalog').buildCatalog(require('../lib/load-catalog').loadCatalog(),{curated:true});
 
+test('homepage collection cards have equal dimensions and complete square photographs on phones',async({page})=>{
+ await page.emulateMedia({reducedMotion:'reduce'});
+ for(const width of [320,360,390,430]){
+  await page.setViewportSize({width,height:844});await page.goto('/');
+  const cards=page.locator('.collection-showcase-grid .collection-tile');
+  await cards.locator('img').evaluateAll(imgs=>Promise.all(imgs.map(i=>{i.loading='eager';return i.decode();})));
+  await page.evaluate(()=>document.fonts.ready);
+  const sizes=await cards.evaluateAll(cards=>cards.map(c=>{
+   const image=c.querySelector('img'),box=c.getBoundingClientRect(),photo=image.getBoundingClientRect();
+   return{width:box.width,height:box.height,photoWidth:photo.width,photoHeight:photo.height,naturalWidth:image.naturalWidth,naturalHeight:image.naturalHeight};
+  }));
+  expect(sizes).toHaveLength(6);
+  for(const size of sizes){
+   expect(Math.abs(size.height-sizes[0].height)).toBeLessThan(1);
+   expect(Math.abs(size.width-sizes[0].width)).toBeLessThan(1);
+   expect(Math.abs(size.photoWidth-size.photoHeight)).toBeLessThan(1);
+   expect(size.naturalWidth).toBe(size.naturalHeight);
+  }
+  expect(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth)).toBe(true);
+ }
+});
+
+test('touch menu slides in and out without fading or scaling and honours reduced motion',async({browser,baseURL})=>{
+ const context=await browser.newContext({baseURL,viewport:{width:390,height:844},hasTouch:true,isMobile:true,reducedMotion:'no-preference'});
+ const page=await context.newPage();
+ try{
+  await page.goto('/');
+  const opening=await page.evaluate(()=>{
+   const button=document.querySelector('[data-open="mobile-navigation"]');button.focus();button.click();
+   const dialog=document.querySelector('#mobile-navigation'),animation=dialog.getAnimations()[0];
+   return{coarse:matchMedia('(pointer:coarse)').matches,duration:animation?.effect.getTiming().duration,frames:animation?.effect.getKeyframes()};
+  });
+  expect(opening.coarse).toBe(true);expect(opening.duration).toBe(220);
+  expect(opening.frames[0].transform).toBe('translateX(-100%)');expect(opening.frames.at(-1).transform).toBe('none');
+  expect(opening.frames.every(f=>f.opacity===undefined)).toBe(true);
+  await page.locator('#mobile-navigation').evaluate(el=>Promise.all(el.getAnimations().map(a=>a.finished)));
+  await page.locator('.mobile-cake-menu>summary').click();
+  await page.locator('.mobile-cake-menu').evaluate(el=>Promise.all(el.getAnimations().map(a=>a.finished)));
+  await page.locator('.mobile-cake-menu').evaluate(async el=>{
+   el.querySelector('summary').click();el.querySelector('summary').click();
+   await Promise.all(el.getAnimations().map(a=>a.finished));
+  });
+  await expect(page.locator('.mobile-cake-menu')).toHaveAttribute('open','');
+  const closing=await page.evaluate(()=>{
+   const dialog=document.querySelector('#mobile-navigation');dialog.querySelector('[data-close]').click();
+   const animation=dialog.getAnimations()[0];return{open:dialog.open,duration:animation?.effect.getTiming().duration};
+  });
+  expect(closing).toEqual({open:true,duration:180});
+  await expect(page.locator('#mobile-navigation')).toBeHidden();
+  await expect(page.getByRole('button',{name:'Open menu',exact:true})).toBeFocused();
+  await page.emulateMedia({reducedMotion:'reduce'});
+  await page.getByRole('button',{name:'Open menu',exact:true}).click();
+  expect(await page.locator('#mobile-navigation').evaluate(el=>el.getAnimations().length)).toBe(0);
+  await page.keyboard.press('Escape');await expect(page.locator('#mobile-navigation')).toBeHidden();
+ }finally{await context.close();}
+});
+
 test('phone menu expands All cakes, fits small screens and restores focus and scrolling',async({page})=>{
  for(const viewport of [{width:320,height:568},{width:360,height:740},{width:390,height:844},{width:430,height:932}]){
   await page.setViewportSize(viewport);await page.goto('/');

@@ -17,6 +17,21 @@ for(const button of footerToggles)button.addEventListener('click',()=>{
 });
 phone.addEventListener('change',resetFooter);resetFooter();
 if(trigger&&drawer){
+ const group=drawer.querySelector('.mobile-cake-menu'),summary=group?.querySelector('summary');
+ let expansion=null;
+ summary?.addEventListener('click',event=>{
+  if(matchMedia('(prefers-reduced-motion: reduce)').matches||!group.animate)return;
+  event.preventDefault();
+  const expanded=!(expansion?expansion.expanded:group.open),from=group.getBoundingClientRect().height;
+  expansion?.animation.cancel();group.open=true;
+  const to=expanded?group.scrollHeight:summary.getBoundingClientRect().height;
+  group.style.overflow='hidden';
+  const animation=group.animate([{height:from+'px'},{height:to+'px'}],{duration:180,easing:'cubic-bezier(.2,.7,.2,1)'});
+  const current={animation,expanded};expansion=current;
+  animation.finished.then(()=>{if(expansion===current)group.open=expanded;}).catch(()=>{}).finally(()=>{
+   if(expansion===current){expansion=null;group.style.overflow='';}
+  });
+ });
  trigger.setAttribute('aria-controls',drawer.id);
  trigger.setAttribute('aria-expanded','false');
  let scrollPosition=null;

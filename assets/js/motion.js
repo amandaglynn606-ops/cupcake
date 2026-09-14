@@ -26,6 +26,31 @@ document.addEventListener('click',event=>{
  if(field?.showPicker){try{field.showPicker();}catch{/* Native calendar remains available. */}}
 });
 export function animateDialog(dialog){
+ if(dialog.id==='mobile-navigation'){
+  menuTransition(dialog,false);return;
+ }
  const drawer=dialog.classList.contains('drawer');
- play(dialog,[{opacity:0,transform:drawer?(dialog.id==='mobile-navigation'?'translateX(-35px)':'translateX(35px)'):'scale(.97)'},{opacity:1,transform:'none'}],{...timing,duration:250});
+ play(dialog,[{opacity:0,transform:drawer?'translateX(35px)':'scale(.97)'},{opacity:1,transform:'none'}],{...timing,duration:250});
+}
+const menuAnimations=new WeakMap();
+function menuTransition(dialog,closing){
+ const previous=menuAnimations.get(dialog);
+ if(closing&&previous?.closing)return;
+ const from=previous?getComputedStyle(dialog).transform:closing?'none':'translateX(-100%)';
+ previous?.animation.cancel();menuAnimations.delete(dialog);
+ if(reduced.matches||!dialog.animate){if(closing)dialog.close();return;}
+ const animation=dialog.animate([{transform:from},{transform:closing?'translateX(-100%)':'none'}],{
+  duration:closing?180:220,easing:'cubic-bezier(.2,.7,.2,1)',fill:'both'
+ });
+ const entry={animation,closing};menuAnimations.set(dialog,entry);active.add(animation);
+ animation.finished.then(()=>{if(closing&&menuAnimations.get(dialog)===entry)dialog.close();}).catch(()=>{
+  if(closing&&reduced.matches&&menuAnimations.get(dialog)===entry)dialog.close();
+ }).finally(()=>{
+  if(menuAnimations.get(dialog)===entry)menuAnimations.delete(dialog);
+  active.delete(animation);animation.cancel();
+ });
+}
+export function closeDialog(dialog){
+ if(dialog.id==='mobile-navigation'&&dialog.open)menuTransition(dialog,true);
+ else dialog.close();
 }

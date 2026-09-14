@@ -1,5 +1,5 @@
 import {getCartDetails} from './cart-details.js';
-import {animateDialog} from './motion.js';
+import {animateDialog,closeDialog} from './motion.js';
 export const $=(selector,root=document)=>root.querySelector(selector);
 export const data=JSON.parse($('#page-data')?.textContent||'{}');
 export const esc=value=>String(value??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
@@ -53,7 +53,7 @@ for(const image of document.images){if(image.complete&&image.naturalWidth===0&&!
 document.addEventListener('click',event=>{
  const button=event.target.closest('button');
  if(button?.dataset.open){if(button.dataset.open==='bag-drawer')renderCart();openDialog(button.dataset.open);return;}
- if(button?.hasAttribute('data-close')){button.closest('dialog').close();return;}
+ if(button?.hasAttribute('data-close')){closeDialog(button.closest('dialog'));return;}
  if(button?.dataset.save){const id=button.dataset.save;if(saved.has(id))saved.delete(id);else{if(saved.size>=100)return toast('Your wishlist can hold up to 100 designs.');saved.add(id);}write('cake-saved-v1',[...saved]);syncSaved();window.dispatchEvent(new Event('wishlist-change'));return;}
  if(button?.dataset.remove!==undefined){const next=cart.slice();next.splice(Number(button.dataset.remove),1);setCart(next);renderCart();return;}
  if(button?.hasAttribute('data-retry-cart'))return renderCart();
@@ -61,7 +61,8 @@ document.addEventListener('click',event=>{
  if(!event.target.closest('.nav-dropdown'))document.querySelectorAll('.desktop-nav .nav-dropdown[open]').forEach(el=>el.open=false);
 });
 document.addEventListener('keydown',event=>{if(event.key==='Escape')document.querySelectorAll('.nav-dropdown[open]').forEach(el=>el.open=false);});
-document.querySelectorAll('dialog').forEach(dialog=>dialog.addEventListener('click',event=>{const r=dialog.getBoundingClientRect();if(event.target===dialog&&(event.clientX<r.left||event.clientX>r.right||event.clientY<r.top||event.clientY>r.bottom))dialog.close();}));
+document.querySelectorAll('dialog').forEach(dialog=>dialog.addEventListener('click',event=>{const r=dialog.getBoundingClientRect();if(event.target===dialog&&(event.clientX<r.left||event.clientX>r.right||event.clientY<r.top||event.clientY>r.bottom))closeDialog(dialog);}));
+$('#mobile-navigation')?.addEventListener('cancel',event=>{event.preventDefault();closeDialog(event.currentTarget);});
 window.addEventListener('storage',event=>{if(event.key==='cake-cart-v1'){cart=normaliseCart(read('cake-cart-v1',[]));updateCount();if($('#bag-drawer')?.open||['/bag','/cart'].includes(document.body.dataset.page))renderCart();window.dispatchEvent(new Event('cart-change'));}if(event.key==='cake-saved-v1'){const values=read('cake-saved-v1',[]);saved=new Set(Array.isArray(values)?values:[]);syncSaved();window.dispatchEvent(new Event('wishlist-change'));}});
 updateCount();syncSaved();
 if(['/bag','/cart'].includes(document.body.dataset.page))renderCart();
