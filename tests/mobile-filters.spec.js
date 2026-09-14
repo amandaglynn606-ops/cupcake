@@ -12,6 +12,7 @@ test('compact phone controls open filters without shifting the cake grid',async(
   const before=await page.locator('.product-grid').boundingBox(),scroll=await page.evaluate(()=>scrollY);
   await toggle.click();const panel=page.getByRole('dialog',{name:'Filters',exact:true});
   await expect(panel).toBeVisible();expect((await panel.boundingBox()).x).toBe(0);
+  await expect(panel.locator('.collection-search')).toBeHidden();
   expect((await page.locator('.product-grid').boundingBox()).y).toBeCloseTo(before.y,0);
   await expect(page.locator('html')).toHaveClass(/mobile-filters-open/);
   await panel.getByRole('button',{name:'View cakes'}).click();
@@ -37,6 +38,7 @@ test('phone filters preserve selections and panel state through updates and desk
  await expect(page).toHaveURL(/sort=price-asc/);await expect(page.getByLabel('Sort cakes')).toHaveValue('price-asc');
  await page.locator('#toggle-filters').click();await page.setViewportSize({width:1440,height:1000});
  await expect(page.locator('#mobile-filters')).toHaveCount(0);await expect(page.locator('#filters')).toBeVisible();
+ await expect(page.locator('#filters .collection-search')).toBeVisible();
  await expect(page.locator('html')).not.toHaveClass(/mobile-filters-open/);
  await page.setViewportSize({width:390,height:844});await page.locator('#toggle-filters').click();
  await expect(page.locator('#mobile-filters')).toBeVisible();

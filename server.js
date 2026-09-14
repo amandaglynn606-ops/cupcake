@@ -142,6 +142,7 @@ function makeServer({catalog,orderDir=path.join(ROOT,'private','orders'),enquiry
    const body=await fs.readFile(file);
 
    const headers={'Content-Type':TYPES[path.extname(file)]||'application/octet-stream','Content-Length':body.length,'Cache-Control':/\.(css|js)$/.test(file)?'no-cache':'public, max-age=86400'};
+   if(relative.startsWith('assets/responsive/'))headers['Cache-Control']='public, max-age=31536000, immutable';
    if(path.extname(file)==='.mp4'){
     headers['Accept-Ranges']='bytes';
     if(req.headers.range&&req.method==='GET'){

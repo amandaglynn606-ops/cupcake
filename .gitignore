@@ -9,3 +9,5 @@ artifacts/
 .tools/
 *.log
 .vercel/
+assets/responsive/
+data/responsive-images.json

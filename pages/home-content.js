@@ -1,9 +1,9 @@
 'use strict';
-const {esc,img,link,card,shell,icon}=require('../lib/ui');
+const {esc,img,responsive,link,card,shell,icon}=require('../lib/ui');
 function carousel(products,ctx,id,label){
  return `<div class="cake-carousel" role="region" aria-roledescription="carousel" aria-label="${label}" data-carousel data-autoplay>
   <div class="carousel-toolbar"><p class="eyebrow">${label}</p><div class="carousel-controls"><span data-carousel-status aria-live="off"></span><button type="button" data-carousel-prev aria-label="Previous cakes" aria-controls="${id}">${icon('arrow')}</button><button type="button" data-carousel-next aria-label="Next cakes" aria-controls="${id}">${icon('arrow')}</button></div></div>
-  <div id="${id}" class="product-grid carousel-track" data-carousel-track tabindex="0" aria-label="${label}; use arrow keys to browse">${products.map(p=>card(p,ctx)).join('')}</div>
+  <div id="${id}" class="product-grid carousel-track" data-carousel-track tabindex="0" aria-label="${label}; use arrow keys to browse">${products.map(p=>card(p,ctx,{carousel:true})).join('')}</div>
   <div class="carousel-progress" aria-hidden="true"><span data-carousel-progress></span></div>
  </div>`;
 }
@@ -13,7 +13,7 @@ function home(ctx,collectionCard){
  const luxury=(ctx.bySlug.get('luxury-cakes')?.products||ctx.catalog.products.filter(p=>p.kind==='cake'&&p.available)).filter(showOnHomepage);
  const weddingFeature=wedding.find(p=>p.id==='9900000000032')||wedding[2];
  const bespoke=luxury.find(p=>p.id==='9920000000005')||luxury[0];
- const photo=(p,width=1200)=>`<img class="cake-image" src="${img(p.image,width)}" alt="${esc(p.imageAlt||p.title)}" width="1200" height="1200" loading="lazy">`;
+ const photo=(p,width=1200)=>`<img class="cake-image" src="${img(p.image,width)}"${responsive(p.image,"(max-width:760px) calc(100vw - 32px), 50vw")} alt="${esc(p.imageAlt||p.title)}" width="1200" height="1200" loading="lazy">`;
  const body=`<main id="main" class="maison-home">
  <section class="maison-hero video-hero" aria-labelledby="hero-heading">
   <div class="hero-media"><img id="hero-image" src="/assets/videos/wedding-second-full-frame-poster.webp" alt="White wedding cake decorated with blush flowers and green foliage" width="1280" height="720" fetchpriority="high"><video id="hero-video" muted loop playsinline preload="none" aria-hidden="true" tabindex="-1" data-desktop-src="/assets/videos/wedding-second-full-frame.mp4" data-mobile-src="/assets/videos/wedding-second-full-frame-mobile.mp4"></video></div>

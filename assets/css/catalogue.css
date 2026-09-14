@@ -1,4 +1,3 @@
-@import url('./cake-backdrops.css');
 .currency-selector{display:flex;align-items:center;flex-shrink:0}
 .currency-selector select{width:66px;padding:8px 15px 8px 3px;border:0;border-bottom:1px solid #b7a58e;background-color:transparent;color:var(--wine);font:12px var(--body);letter-spacing:.04em;cursor:pointer}
 .currency-notice{font-size:12px;line-height:1.6;opacity:.85;padding-block:18px;border-top:1px solid #ffffff24}
@@ -24,7 +23,7 @@
 .full-cake-photo .product-photo img,.full-cake-photo .main-photo>img{object-fit:contain;background:#f6f2ed}
 .full-cake-photo .product-photo:hover img{transform:none}
 /* Cake-only presentation; existing containers keep their dimensions and corners. */
-body img.cake-image,.floral-hero #hero-image.cake-image{object-fit:contain!important;object-position:center center!important;mix-blend-mode:normal!important;padding:0!important;background:var(--cake-backdrop,linear-gradient(#aaa8a4,#d0ceca))!important}
+body img.cake-image,.floral-hero #hero-image.cake-image{object-fit:contain!important;object-position:center center!important;mix-blend-mode:normal!important;padding:0!important;background:linear-gradient(#aaa8a4,#d0ceca)!important;transform:none!important}
 .home-collection-grid .collection-image:has(img.cake-image),.wedding-photo:has(img.cake-image){padding:0}
 .product-photo:hover img.cake-image,.collection-tile:hover img.cake-image{transform:none}
 /* Compact product choices; decorative type is reserved for page headings. */

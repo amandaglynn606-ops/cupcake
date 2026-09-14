@@ -8,6 +8,8 @@ Typography uses the user-provided Runethia for headings and the ZAVI wordmark, a
 
 Double-click `Start Cake Website.cmd`, or run `npm.cmd start`, then visit http://localhost:3000.
 
+Run `npm.cmd install` before starting a fresh checkout. Startup, tests and the Vercel build generate smaller WebP photo variants with Sharp; the original photographs remain available for enlarged views. Generated files in `assets/responsive` and `data/responsive-images.json` are not committed. Their content-based filenames allow long-lived caching without serving old photographs after an update.
+
 ## Catalogue and pricing
 
 The public storefront contains 177 selected designs across six collections: Wedding, Luxury, Engagement, Tiered, Fresh Floral and Sugar Flower Cakes. Wedding (130) and Luxury (22) have no shared products or photos; design collections can overlap. `store.config.json` enables the curated view, and `lib/storefront-selection.js` applies the selection to listings, search, product pages, APIs, orders and the sitemap. Unrelated products and the 70 designs with unreplaced Perfect Gift photos are archived; their public product routes return 404. The 17 imported designs with replaced photos remain public. The selection checks primary, gallery and variant photos. See `data/storefront-photo-removal-report.json`.

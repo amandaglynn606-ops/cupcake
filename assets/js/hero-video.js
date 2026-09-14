@@ -2,11 +2,16 @@ const hero=document.querySelector('.video-hero');
 if(hero){
  const video=hero.querySelector('video');
  const motion=matchMedia('(prefers-reduced-motion: reduce)'),mobile=matchMedia('(max-width:760px)');
- let visible=false,stopped=false,failed=false;
+ let visible=false,stopped=false,failed=false,ready=false;
+ function afterLoad(){
+  const start=()=>{ready=true;update();};
+  if(window.requestIdleCallback)requestIdleCallback(start,{timeout:1200});else setTimeout(start,0);
+ }
+ if(document.readyState==='complete')afterLoad();else window.addEventListener('load',afterLoad,{once:true});
  function update(){
   const allowed=!motion.matches&&!navigator.connection?.saveData&&!stopped&&!failed;
   if(!allowed){video.pause();hero.dataset.videoState='still';return;}
-  if(!visible||document.hidden){
+  if(!ready||!visible||document.hidden){
    video.pause();if(video.currentTime>0)hero.dataset.videoState='paused';return;
   }
   if(!video.getAttribute('src'))video.src=mobile.matches?video.dataset.mobileSrc:video.dataset.desktopSrc;

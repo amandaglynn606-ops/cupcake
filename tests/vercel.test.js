@@ -36,6 +36,10 @@ test('Vercel bundle boots independently, routes pages and JSON, and separates pu
  for(const product of ctx.catalog.products){
   for(const file of [product.image,...product.images,...product.variants.map(v=>v.image)].filter(Boolean))await fs.access(path.join(staticDir,file));
  }
+ const responsive=require(path.join(functionDir,'data/responsive-images.json'));
+ for(const entry of Object.values(responsive))for(const variant of entry.variants)await fs.access(path.join(staticDir,variant.url));
+ const outputConfig=JSON.parse(await fs.readFile(path.join(staticDir,'..','config.json'),'utf8'));
+ assert.equal(outputConfig.routes[0].headers['Cache-Control'],'public, max-age=31536000, immutable');
  const active=new Set(ctx.catalog.products.flatMap(p=>[p.image,...p.images,...p.variants.map(v=>v.image)]));
  const retired=catalog.products.flatMap(p=>[p.image,...p.images,...p.variants.map(v=>v.image)]).find(file=>file&&!active.has(file));
  assert.ok(retired);

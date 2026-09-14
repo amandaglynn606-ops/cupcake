@@ -132,7 +132,9 @@ test('mobile gallery, forms and empty states remain readable and functional',asy
    await expect(page.locator('.product-information h1')).toHaveCSS('-webkit-line-clamp','2');
    const frame=await img.evaluate(i=>({ratio:i.naturalWidth/i.naturalHeight,width:i.clientWidth,height:i.clientHeight,parent:i.parentElement.clientWidth}));
    expect(Math.abs(frame.width/frame.height-frame.ratio)).toBeLessThan(.015);expect(frame.width).toBe(frame.parent);
-   await page.getByRole('button',{name:'Enlarge product photo'}).click();await expect(page.locator('#product-lightbox')).toBeVisible();await page.keyboard.press('Escape');
+   await page.getByRole('button',{name:'Enlarge product photo'}).click();await expect(page.locator('#product-lightbox')).toBeVisible();
+   const close=page.locator('#product-lightbox .lightbox-close');await expect(close).toHaveCSS('border-radius','0px');await expect(close).toHaveCSS('box-shadow','none');
+   await close.click();await expect(page.locator('#product-lightbox')).toBeHidden();
   }
   for(const route of ['/','/collections','/contact','/bespoke','/cart','/checkout','/wishlist','/atelier']){
    await page.goto(route);await page.evaluate(()=>document.fonts.ready);

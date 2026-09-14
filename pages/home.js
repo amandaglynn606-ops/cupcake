@@ -1,6 +1,6 @@
 'use strict';
 const {cakeImageClass}=require('../lib/cake-images');
-const {esc,img,link,card,shell,crumb,icon}=require('../lib/ui');
+const {esc,img,responsive,link,card,shell,crumb,icon}=require('../lib/ui');
 function collectionCard(c,ctx,large=false,eligible=()=>true){
  const theme=c.slug==='childrens-cakes'?/teddy|bunny|rainbow/i:c.slug==='cupcakes-and-treats'?/cupcakes|cakepops/i:null;
  const photographed=c.products.filter(p=>eligible(p)&&p.available&&p.image!=='assets/maison-photo-pending.svg');
@@ -8,7 +8,7 @@ function collectionCard(c,ctx,large=false,eligible=()=>true){
  const covers={'wedding-cakes':'9800000000005','luxury-cakes':'9920000000003','engagement-cakes':'8962586804449','tiered-cakes':'9920000000001','fresh-floral-cakes':'9930000000008','sugar-flower-cakes':'9930000000007'};
  const p=photographed.find(p=>p.id===covers[c.slug])||(theme&&photographed.find(p=>theme.test(p.title)))||photographed[0]||c.products.find(eligible);
  if(!p)return '';
- return '<article class="collection-tile'+(large?' collection-feature':'')+'"><div class="collection-image"><a href="/collections/'+c.slug+'" aria-label="Explore '+esc(c.title)+'"><img class="'+cakeImageClass(p)+'" src="'+esc(img(p.image,900))+'" alt="'+esc(p.imageAlt||p.title)+'" width="800" height="950" loading="lazy"></a><button type="button" class="image-zoom collection-zoom" data-collection-zoom aria-label="Enlarge '+esc(c.title)+' photo">'+icon('zoom')+'</button></div><a href="/collections/'+c.slug+'" class="collection-caption"><div><span class="eyebrow">'+c.products.length+' DESIGNS</span><h3>'+esc(c.title)+'</h3>'+(large?'<p class="collection-description">'+esc(descriptions[c.slug]||c.description)+'</p>':'')+'</div></a></article>';
+ return '<article class="collection-tile'+(large?' collection-feature':'')+'"><div class="collection-image"><a href="/collections/'+c.slug+'" aria-label="Explore '+esc(c.title)+'"><img class="'+cakeImageClass(p)+'" src="'+esc(img(p.image,900))+'"'+responsive(p.image,'(max-width:760px) calc((100vw - 44px)/2), (max-width:1100px) 40vw, 430px')+' alt="'+esc(p.imageAlt||p.title)+'" width="800" height="950" loading="lazy"></a><button type="button" class="image-zoom collection-zoom" data-collection-zoom aria-label="Enlarge '+esc(c.title)+' photo">'+icon('zoom')+'</button></div><a href="/collections/'+c.slug+'" class="collection-caption"><div><span class="eyebrow">'+c.products.length+' DESIGNS</span><h3>'+esc(c.title)+'</h3>'+(large?'<p class="collection-description">'+esc(descriptions[c.slug]||c.description)+'</p>':'')+'</div></a></article>';
 }
 function home(ctx){return require('./home-content').home(ctx,collectionCard);}
 function directory(ctx){

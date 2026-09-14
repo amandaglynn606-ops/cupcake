@@ -4,6 +4,8 @@ const path=require('node:path');
 const ROOT=path.resolve(__dirname,'..');
 
 async function buildVercel(output=path.join(ROOT,'.vercel','output')){
+ const responsive=await require('./build-responsive-images.cjs').buildResponsiveImages();
+ const responsiveFiles=new Set(Object.values(responsive).flatMap(entry=>entry.variants.map(v=>v.url)));
  const {loadCatalog}=require('../lib/load-catalog');
  const {buildCatalog}=require('../lib/catalog');
  const config=require('../store.config.json');
@@ -29,7 +31,7 @@ async function buildVercel(output=path.join(ROOT,'.vercel','output')){
   recursive:true,
   filter:source=>{
    const relative=path.relative(ROOT,source).split(path.sep).join('/');
-   return !retired.has(relative)&&!/^assets\/(?:licensed|studio)(?:\/|$)/.test(relative);
+   return !retired.has(relative)&&!/^assets\/(?:licensed|studio)(?:\/|$)/.test(relative)&&(!relative.startsWith('assets/responsive/')||responsiveFiles.has(relative));
   }
  });
  await fs.copyFile(path.join(ROOT,'favicon.svg'),path.join(staticDir,'favicon.svg'));
@@ -37,6 +39,7 @@ async function buildVercel(output=path.join(ROOT,'.vercel','output')){
   runtime:'nodejs22.x',handler:'vercel-handler.js',launcherType:'Nodejs',shouldAddHelpers:false,maxDuration:30
  },null,2));
  await fs.writeFile(path.join(output,'config.json'),JSON.stringify({version:3,routes:[
+  {src:'/assets/responsive/(.*)',headers:{'Cache-Control':'public, max-age=31536000, immutable'},continue:true},
   {handle:'filesystem'},
   {src:'/(.*)',dest:'/storefront'}
  ]},null,2));

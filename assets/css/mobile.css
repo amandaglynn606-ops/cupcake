@@ -44,6 +44,7 @@
 @media(max-width:760px){
  #bag-drawer{overscroll-behavior:contain;-webkit-overflow-scrolling:touch}
  #bag-drawer::backdrop{backdrop-filter:none;background:#27151b80}
+ .product-lightbox .lightbox-close{border:0;border-radius:0;background:transparent;box-shadow:none}
  .wrap{width:calc(100% - 32px);margin-inline:auto}
  /* Intrinsic image height removes letterboxing without cropping cake tiers. */
  body .product-image-link,body .collection-image,body .main-photo,body .bespoke-photo{aspect-ratio:auto!important;height:auto;min-height:0}
@@ -121,6 +122,7 @@
  #mobile-filters .filter-sidebar{display:block;flex:1;min-height:0;width:100%;padding:16px;margin:0;background:transparent;overflow-y:auto;overscroll-behavior:contain;-webkit-overflow-scrolling:touch}
  #mobile-filters .filter-heading{justify-content:flex-end;margin-bottom:16px}
  #mobile-filters .filter-heading h2{display:none}
+ #mobile-filters .collection-search{display:none}
  #mobile-filters .filter-heading a{display:flex;align-items:center;min-height:44px;font-size:13px}
  #mobile-filters .filter-options{display:block;max-height:none}
  #mobile-filters .filter-option{min-height:44px;font-size:13px;padding-block:8px}
