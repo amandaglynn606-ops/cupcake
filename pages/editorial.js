@@ -17,10 +17,9 @@ function information(ctx,type){
 }
 function faq(ctx){
  const body='<main id="main" class="wrap">'+crumb([['Frequently asked questions']])+'<header class="page-intro"><p class="eyebrow">CLIENT CARE</p><h1>Cake ordering<br><em>questions.</em></h1></header><div class="faq-layout">'+FAQ.map(([group,items])=>'<section><h2>'+group+'</h2><div>'+items.map(([q,a])=>'<details><summary>'+q+'</summary><p>'+a+'</p></details>').join('')+'</div></section>').join('')+'</div><section class="editorial-cta"><h2>Have another<br><em>question?</em></h2>'+link('/contact','Get in touch','button')+'</section></main>';
- return shell(ctx,{title:'Frequently asked questions',body,path:'/faq'});
+ return shell(ctx,{title:'Frequently asked questions',body,path:'/faq',schema:{faq:FAQ.flatMap(([,items])=>items)}});
 }
 function notFound(ctx){
  return shell(ctx,{title:'Page not found',path:'/404',body:'<main id="main" class="not-found wrap"><p class="eyebrow">404 · PAGE NOT FOUND</p><h1>Page<br><em>not found.</em></h1><p>This page could not be found. Browse the cakes or return to the homepage.</p>'+link('/collections/all','Explore the cakes','button')+link('/','Return home')+'</main>'});
 }
 module.exports={atelier,information,faq,notFound};
-
