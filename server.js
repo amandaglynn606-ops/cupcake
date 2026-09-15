@@ -30,6 +30,8 @@ function makeServer({catalog,orderDir=path.join(ROOT,'private','orders'),enquiry
   const page=(html,status=200)=>{res.writeHead(status,{'Content-Type':'text/html; charset=utf-8','Cache-Control':'no-cache'});res.end(req.method==='HEAD'?undefined:html);};
   for(const [name,value]of Object.entries(securityHeaders))res.setHeader(name,value);
   try{
+   const redirect=require('./lib/site-identity').canonicalRedirect(config,req.headers.host,req.url);
+   if(redirect){res.writeHead(308,{Location:redirect});return res.end();}
    const url=new URL(req.url,'http://localhost');
    if(req.method==='GET'&&url.pathname==='/api/config')return send(200,{name:config.name||'Maison Zavi',whatsapp:config.whatsapp||'',email:config.email||''});
    if(req.method==='GET'&&/^\/api\/products\/\d+$/.test(url.pathname)){

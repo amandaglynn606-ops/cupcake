@@ -37,6 +37,14 @@
  .streamlined-checkout .checkout-layout{display:flex;flex-direction:column;gap:20px}
  .streamlined-checkout .checkout-summary{order:-1;width:100%;padding:18px}
  .streamlined-checkout #checkout-form{width:100%;padding:20px 16px}
+ /* Keep mobile field values one size below their labels and section headings. */
+ .streamlined-checkout .checkout-section>summary{font-size:13px;min-height:48px;padding-bottom:12px}
+ .streamlined-checkout .checkout-section-body label{font-size:13px;margin-bottom:12px}
+ .streamlined-checkout .checkout-section-body :is(input:not([type=radio]):not([type=checkbox]),select,textarea){font-size:12px;line-height:1.5;min-height:44px;padding:8px 10px;margin-top:5px}
+ .streamlined-checkout .fulfilment-options{gap:8px;margin:12px 0}
+ .streamlined-checkout .fulfilment-options label{font-size:12px;min-height:44px;padding:8px 10px;margin:0}
+ .streamlined-checkout .fulfilment-options input[type=radio]{width:16px;height:16px;min-height:0;flex:0 0 16px;padding:0;margin:0}
+ .streamlined-checkout .delivery-method{font-size:12px;padding:10px 12px;margin:16px 0 12px}
  .streamlined-checkout .form-grid{grid-template-columns:1fr}
  .streamlined-checkout .summary-item{grid-template-columns:56px minmax(0,1fr);gap:12px}
  .streamlined-checkout .summary-photo img{width:56px;height:72px}

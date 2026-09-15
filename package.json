@@ -12,6 +12,7 @@
     "orders": "node scripts/list-orders.js",
     "enquiries": "node scripts/list-enquiries.js",
     "build:images": "node scripts/build-responsive-images.cjs",
+    "build:identity": "node scripts/build-site-icons.cjs",
     "prestart": "npm run build:images",
     "pretest": "npm run build:images",
     "pretest:browser": "npm run build:images"

@@ -87,6 +87,8 @@ The configured WhatsApp flow works without durable filesystem storage on Vercel.
 
 ## Public source and verification
 
+Site identity assets, domain redirects and the remaining Google account setup are documented in [SEARCH-CONSOLE.md](SEARCH-CONSOLE.md). Run `npm.cmd run build:identity` to regenerate browser icons and the logo PNG from the existing SVG artwork.
+
 The shared page head includes the owner's Google site verification tag. Google must be able to read this public tag; confirm ownership in Search Console after deployment.
 
 The canonical public origin is `https://www.weddingcakes.ae`, with an optional `PUBLIC_SITE_URL` deployment override. `/robots.txt` permits all crawlers to browse public pages while excluding API and private paths. `/sitemap.xml` lists unique public pages. `/llms.txt` is a plain-text, catalogue-generated guide to public collections, cake pages and policies; it is not an executable script or a guarantee of AI inclusion. Search, cart, checkout and wishlist pages retain `noindex`. Search and AI services decide independently whether to crawl, index or cite the site. Hosting-level authentication or bot restrictions must also permit public crawler access.

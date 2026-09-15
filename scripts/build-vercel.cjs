@@ -5,6 +5,7 @@ const ROOT=path.resolve(__dirname,'..');
 const {securityHeaders,isPublicAsset}=require('../lib/public-security');
 
 async function buildVercel(output=path.join(ROOT,'.vercel','output')){
+ await require('./build-site-icons.cjs').buildSiteIcons();
  const responsive=await require('./build-responsive-images.cjs').buildResponsiveImages();
  const responsiveFiles=new Set(Object.values(responsive).flatMap(entry=>entry.variants.map(v=>v.url)));
  const backgroundStyles=JSON.parse(await fs.readFile(path.join(ROOT,'data','responsive-image-styles.json'),'utf8'));
@@ -39,13 +40,16 @@ async function buildVercel(output=path.join(ROOT,'.vercel','output')){
    return !retired.has(relative)&&!/^assets\/(?:licensed|studio)(?:\/|$)/.test(relative)&&(!relative.startsWith('assets/responsive/')||responsiveFiles.has(relative));
   }
  });
- await fs.copyFile(path.join(ROOT,'favicon.svg'),path.join(staticDir,'favicon.svg'));
+ for(const file of require('../lib/site-identity').publicIdentityFiles){
+  await fs.copyFile(path.join(ROOT,file),path.join(staticDir,file));
+ }
  await fs.writeFile(path.join(functionDir,'.vc-config.json'),JSON.stringify({
   runtime:'nodejs22.x',handler:'vercel-handler.js',launcherType:'Nodejs',shouldAddHelpers:false,maxDuration:30
  },null,2));
  await fs.writeFile(path.join(output,'config.json'),JSON.stringify({version:3,routes:[
   {src:'/assets/responsive/(.*)',headers:{'Cache-Control':'public, max-age=31536000, immutable'},continue:true},
   {src:'/(.*)',headers:securityHeaders,continue:true},
+  ...require('../lib/site-identity').canonicalRoutes({...config,siteUrl:process.env.PUBLIC_SITE_URL||config.siteUrl}),
   {handle:'filesystem'},
   {src:'/(.*)',dest:'/storefront'}
  ]},null,2));

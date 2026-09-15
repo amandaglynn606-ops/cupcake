@@ -45,6 +45,9 @@ test('Vercel bundle boots independently, routes pages and JSON, and separates pu
  assert.equal(outputConfig.routes[0].headers['Cache-Control'],'public, max-age=31536000, immutable');
  assert.equal(outputConfig.routes[1].headers['X-Frame-Options'],'DENY');
  assert.match(outputConfig.routes[1].headers['Content-Security-Policy'],/script-src 'self'/);
+ assert.deepEqual(outputConfig.routes[2],require('../lib/site-identity').canonicalRoutes(require('../store.config.json'))[0]);
+ for(const file of require('../lib/site-identity').publicIdentityFiles)await fs.access(path.join(staticDir,file));
+ await fs.access(path.join(staticDir,'assets/brand/site-logo.png'));
  const publicFiles=await fs.readdir(staticDir,{recursive:true,withFileTypes:true});
  for(const file of publicFiles)if(file.isFile()){
   const relative=path.relative(staticDir,path.join(file.parentPath||file.path,file.name)).split(path.sep).join('/');
