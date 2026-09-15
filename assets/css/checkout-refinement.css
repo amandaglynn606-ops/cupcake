@@ -32,10 +32,11 @@
 .streamlined-checkout .cart-remove,.streamlined-checkout .summary-edit{font:500 12px/1.5 var(--body);text-decoration:underline;text-underline-offset:3px;min-height:40px;display:inline-flex;align-items:center;margin-right:16px;padding:0}
 .streamlined-checkout .summary-total{font:500 18px/1.5 var(--body)}
 @media(min-width:761px){
- .streamlined-checkout .checkout-layout{grid-template-columns:minmax(0,1.2fr) minmax(0,1fr);gap:32px;padding-bottom:24px}
+ .streamlined-checkout .checkout-layout{grid-template-columns:repeat(2,minmax(0,1fr));max-width:1040px;margin-inline:auto;gap:32px;padding-bottom:24px}
  .streamlined-checkout #checkout-form{padding:24px}
  .streamlined-checkout .form-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:0 16px;align-items:end}
  .streamlined-checkout .checkout-section-body label{margin-bottom:14px}
+ .streamlined-checkout #shipping-fields>label:has(input[name=area]){width:calc((100% - 16px)/2)}
  .streamlined-checkout .checkout-section-body :is(input:not([type=radio]):not([type=checkbox]),select,textarea){min-height:40px;padding:9px 11px;margin-top:6px;font-size:13px;line-height:20px}
  .streamlined-checkout .checkout-section-body :is(input:not([type=radio]):not([type=checkbox]),select){height:40px}
  .streamlined-checkout .checkout-section-body textarea{height:64px;min-height:64px}
