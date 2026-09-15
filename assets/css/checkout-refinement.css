@@ -31,9 +31,16 @@
 .streamlined-checkout .summary-personalisation{margin-bottom:4px}
 .streamlined-checkout .cart-remove,.streamlined-checkout .summary-edit{font:500 12px/1.5 var(--body);text-decoration:underline;text-underline-offset:3px;min-height:40px;display:inline-flex;align-items:center;margin-right:16px;padding:0}
 .streamlined-checkout .summary-total{font:500 18px/1.5 var(--body)}
+.streamlined-checkout #checkout-summary,.streamlined-checkout #checkout-summary :is(h2,h3,p,span,a,button,strong,small){color:#000}
+.streamlined-checkout #checkout-summary .summary-photo>span{background:#fff;border:1px solid var(--line)}
 @media(min-width:761px){
- .streamlined-checkout .checkout-layout{grid-template-columns:minmax(0,min(504px,calc((100% - 40px)/2))) minmax(0,1fr);gap:40px;padding-bottom:24px}
+ .streamlined-checkout .checkout-layout{grid-template-columns:repeat(2,minmax(0,1fr));gap:40px;padding-bottom:24px}
  .streamlined-checkout #checkout-form{padding:24px}
+ .streamlined-checkout .checkout-section-body{max-width:456px}
+ .streamlined-checkout #checkout-summary{padding:24px}
+ .streamlined-checkout #checkout-summary .summary-item h3{font:500 18px/1.5 var(--body)}
+ .streamlined-checkout #checkout-summary :is(.summary-item p,.summary-item>span,.fee-row,.summary-note,.summary-whatsapp p,.summary-edit,.cart-remove,.summary-heading>a){font-size:14px;line-height:1.65}
+ .streamlined-checkout #checkout-summary .eyebrow{font-size:11px;font-weight:600}
  .streamlined-checkout .form-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:0 16px;align-items:end}
  .streamlined-checkout .checkout-section-body label{margin-bottom:14px}
  .streamlined-checkout #shipping-fields>label:has(input[name=area]){width:calc((100% - 16px)/2)}
