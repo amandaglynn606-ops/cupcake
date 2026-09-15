@@ -32,7 +32,7 @@
 .streamlined-checkout .cart-remove,.streamlined-checkout .summary-edit{font:500 12px/1.5 var(--body);text-decoration:underline;text-underline-offset:3px;min-height:40px;display:inline-flex;align-items:center;margin-right:16px;padding:0}
 .streamlined-checkout .summary-total{font:500 18px/1.5 var(--body)}
 @media(min-width:761px){
- .streamlined-checkout .checkout-layout{grid-template-columns:repeat(2,minmax(0,1fr));max-width:1040px;margin-inline:auto;gap:32px;padding-bottom:24px}
+ .streamlined-checkout .checkout-layout{grid-template-columns:minmax(0,min(504px,calc((100% - 40px)/2))) minmax(0,1fr);gap:40px;padding-bottom:24px}
  .streamlined-checkout #checkout-form{padding:24px}
  .streamlined-checkout .form-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:0 16px;align-items:end}
  .streamlined-checkout .checkout-section-body label{margin-bottom:14px}
