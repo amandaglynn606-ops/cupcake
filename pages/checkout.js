@@ -9,7 +9,7 @@ function checkout(ctx,path='/checkout'){
  <section id="checkout-layout" class="checkout-layout"><form id="checkout-form" novalidate>
  <details class="checkout-section" open data-checkout-contact><summary><span><span class="step-number">01</span> Contact details</span><span class="section-chevron" aria-hidden="true">+</span></summary><div class="checkout-section-body">
  <div class="form-grid"><label>First name<input name="name" autocomplete="given-name" maxlength="60"></label><label>Last name<input name="lastName" autocomplete="family-name" maxlength="60"></label></div>
- <label>Email address<input name="email" type="email" autocomplete="email" maxlength="160" placeholder="you@example.com"></label><label>Phone / WhatsApp number<input name="phone" type="tel" autocomplete="tel" maxlength="30" placeholder="+971"></label>
+ <div class="form-grid"><label>Email address<input name="email" type="email" autocomplete="email" maxlength="160" placeholder="you@example.com"></label><label>Phone / WhatsApp number<input name="phone" type="tel" autocomplete="tel" maxlength="30" placeholder="+971"></label></div>
  <button type="button" class="text-link checkout-next" data-next-delivery>Continue to delivery ${icon('arrow')}</button></div></details>
  <details class="checkout-section" data-checkout-delivery><summary><span><span class="step-number">02</span> Delivery or pickup</span><span class="section-chevron" aria-hidden="true">+</span></summary><div class="checkout-section-body">
  <p class="field-help">Dubai delivery: AED 100. Other emirates: AED 200. Pickup is free.</p>
