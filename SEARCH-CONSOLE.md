@@ -47,3 +47,15 @@ After deployment, check all four origins, including a nested cake URL and a quer
 Local automated checks cover asset dimensions, icon links, structured-data escaping, redirect destination restrictions, private-file exclusions, canonical/sitemap consistency and the deployment bundle. They do not audit Google account access, DNS, hosting controls or the live site. No new dependencies or credentials are added.
 
 The existing README records that Runethia is personal-use-only unless commercial permission has been obtained. This also applies to the exported logo. Confirm the existing commercial licence before publishing these assets, or supply commercially licensed replacement artwork.
+
+## Product URL consistency - November 8, 2026
+
+The live audit checked all 204 sitemap URLs, including 185 cake pages. Every sitemap URL returned HTTP 200, declared its own HTTPS www canonical in the original HTML, and allowed indexing. Robots.txt advertises the same sitemap. A representative product and the sitemap also responded successfully to a Googlebot user-agent request; that does not verify access from Google's actual crawler infrastructure.
+
+Collection cards unnecessarily linked to `?variant=...` even for the default selection. Those parameter URLs correctly canonicalize to the clean cake URL, but are intentionally absent from the sitemap. Cards now link directly to the clean URL when the selection is the product page's default. A non-default option selected by a filter retains its variant parameter, and Add to quote retains the selected variant ID. Existing URLs, sitemap entries, canonical tags, prices and visuals are unchanged.
+
+The full test suite passes (58 tests), including coverage of links to all 185 canonical cake URLs, non-default variant navigation, metadata, the deployment bundle, private-file exclusions and request validation. No dependency was added. These checks do not establish Google's indexing decisions or amount to a complete security audit.
+
+If URL Inspection still reports no referring sitemap or no canonical, inspect the exact clean `https://www.weddingcakes.ae/cakes/...` URL and check the Page indexing reason, Last crawl, User-declared canonical, Google-selected canonical and Sitemaps fields. Compare the indexed report with Test live URL. An absent canonical in an uncrawled/indexed report is not evidence that the current HTML lacks one. Check that `https://www.weddingcakes.ae/sitemap.xml` has a successful last read in the Domain property or HTTPS www URL-prefix property. Account access is still needed to verify or correct submission and request indexing; this code change does not submit URLs to Google or guarantee indexing.
+
+The read-only crawl report is stored locally at `../Projects/weddingcakes-seo-audit/audit.json`. Its variant-traversal list excludes parameter pages and must not be interpreted as an orphan-page count. HTTP-origin probes failed in the local curl/Schannel connection; HTTPS canonical and non-www redirect probes succeeded.
